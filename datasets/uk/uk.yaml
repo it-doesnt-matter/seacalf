@@ -1,0 +1,219 @@
+ENG:
+  name:
+    short: England
+    official: England
+    alt: ""
+  iso_code: GB-ENG
+  largest_city: London
+  capital: London
+  currencies:
+    - iso_a3: GBP
+      name: Pound Sterling
+  population: 5.64898e+07
+  area:
+    total: 130279
+    land: 130279
+    water: 0
+    water_percentage: 0
+  calling_code:
+    - "44"
+  gva:
+    total: 1.760438e+06
+    per_capita: 31138
+  driving_side: left
+  hdi: 0.923
+  time_zone:
+    - UTC±00:00
+  tld: .uk
+  continent:
+    - Europe
+  languages:
+    official:
+      - iso_a3: ENG
+        name: English
+  independence:
+    is_independent: false
+    sovereign_state:
+      iso_a3: GBR
+      name: United Kingdom
+    status: constituent country
+  centroid:
+    latitude: 52.561928
+    longitude: -1.464854
+  land_borders:
+    total: 414
+    countries:
+      - iso_a3: WLS
+        name: Wales
+        length: 260
+      - iso_a3: SCT
+        name: Scotland
+        length: 154
+  gov_type: part of a constitutional monarchy
+  coastline: 4422
+  is_landlocked: false
+  emoji_flag: "\U0001F3F4\U000E0067\U000E0062\U000E0065\U000E006E\U000E0067\U000E007F"
+NIR:
+  name:
+    short: Northern Ireland
+    official: Northern Ireland
+    alt: ""
+  iso_code: GB-NIR
+  largest_city: Belfast
+  capital: Belfast
+  currencies:
+    - iso_a3: GBP
+      name: Pound Sterling
+  population: 1.9031e+06
+  area:
+    total: 14130
+    land: 14130
+    water: 0
+    water_percentage: 0
+  calling_code:
+    - 44-28
+  gva:
+    total: 45724
+    per_capita: 24007
+  driving_side: left
+  hdi: 0.896
+  time_zone:
+    - UTC±00:00
+  tld: .uk
+  continent:
+    - Europe
+  languages:
+    official:
+      - iso_a3: ENG
+        name: English
+      - iso_a3: GLE
+        name: Irish
+  independence:
+    is_independent: false
+    sovereign_state:
+      iso_a3: GBR
+      name: United Kingdom
+    status: constituent country
+  centroid:
+    latitude: 54.607577
+    longitude: -6.693145
+  land_borders:
+    total: 449
+    countries:
+      - iso_a3: IRL
+        name: Ireland
+        length: 449
+  gov_type: consociational devolved legislature within a constitutional monarchy
+  coastline: 644
+  is_landlocked: false
+  emoji_flag: null
+SCT:
+  name:
+    short: Scotland
+    official: Scotland
+    alt: ""
+  iso_code: GB-SCT
+  largest_city: Glasgow
+  capital: Edinburgh
+  currencies:
+    - iso_a3: GBP
+      name: Pound Sterling
+  population: 5.4633e+06
+  area:
+    total: 77933
+    land: 75595
+    water: 2338
+    water_percentage: 0.3
+  calling_code:
+    - "44"
+  gva:
+    total: 149938
+    per_capita: 27361
+  driving_side: left
+  hdi: 0.921
+  time_zone:
+    - UTC±00:00
+  tld: .scot
+  continent:
+    - Europe
+  languages:
+    official:
+      - iso_a3: ENG
+        name: English
+      - iso_a3: SCO
+        name: Scots
+      - iso_a3: GLA
+        name: Scottish Gaelic
+  independence:
+    is_independent: false
+    sovereign_state:
+      iso_a3: GBR
+      name: United Kingdom
+    status: constituent country
+  centroid:
+    latitude: 56.816738
+    longitude: -4.183963
+  land_borders:
+    total: 154
+    countries:
+      - iso_a3: ENG
+        name: England
+        length: 154
+  gov_type: devolved parliamentary legislature within a constitutional monarchy
+  coastline: 18672
+  is_landlocked: false
+  emoji_flag: "\U0001F3F4\U000E0067\U000E0062\U000E0073\U000E0063\U000E0074\U000E007F"
+WLS:
+  name:
+    short: Wales
+    official: Wales
+    alt: ""
+  iso_code: GB-WLS
+  largest_city: Cardiff
+  capital: Cardiff
+  currencies:
+    - iso_a3: GBP
+      name: Pound Sterling
+  population: 3.267501e+06
+  area:
+    total: 20779
+    land: null
+    water: null
+    water_percentage: null
+  calling_code:
+    - "44"
+  gva:
+    total: 69500
+    per_capita: 22380
+  driving_side: left
+  hdi: 0.898
+  time_zone:
+    - UTC±00:00
+  tld: .wales
+  continent:
+    - Europe
+  languages:
+    official:
+      - iso_a3: ENG
+        name: English
+      - iso_a3: CYM
+        name: Welsh
+  independence:
+    is_independent: false
+    sovereign_state:
+      iso_a3: GBR
+      name: United Kingdom
+    status: constituent country
+  centroid:
+    latitude: 52.33022
+    longitude: -3.766409
+  land_borders:
+    total: 260
+    countries:
+      - iso_a3: ENG
+        name: England
+        length: 260
+  gov_type: devolved parliamentary legislature within a constitutional monarchy
+  coastline: 2704
+  is_landlocked: false
+  emoji_flag: "\U0001F3F4\U000E0067\U000E0062\U000E0077\U000E006C\U000E0073\U000E007F"

@@ -1,0 +1,6314 @@
+<AFN>
+  <name>Afghani</name>
+  <symbol>Af</symbol>
+  <subunit>
+    <name>Pul</name>
+    <symbol></symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+  </coins>
+  <bank>Da Afghanistan Bank</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>AFG</iso_a3>
+    <name>Afghanistan</name>
+  </used_by>
+  <iso>
+    <a3>AFN</a3>
+    <n3>971</n3>
+  </iso>
+</AFN>
+<EUR>
+  <name>Euro</name>
+  <symbol>€</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>c</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>1</sub>
+    <sub>2</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>European Central Bank</bank>
+  <exchange>
+    <arrangement>free floating</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>ALA</iso_a3>
+    <name>Åland</name>
+  </used_by>
+  <used_by>
+    <iso_a3>AND</iso_a3>
+    <name>Andorra</name>
+  </used_by>
+  <used_by>
+    <iso_a3>AUT</iso_a3>
+    <name>Austria</name>
+  </used_by>
+  <used_by>
+    <iso_a3>BEL</iso_a3>
+    <name>Belgium</name>
+  </used_by>
+  <used_by>
+    <iso_a3>HRV</iso_a3>
+    <name>Croatia</name>
+  </used_by>
+  <used_by>
+    <iso_a3>CYP</iso_a3>
+    <name>Cyprus</name>
+  </used_by>
+  <used_by>
+    <iso_a3>EST</iso_a3>
+    <name>Estonia</name>
+  </used_by>
+  <used_by>
+    <iso_a3>FIN</iso_a3>
+    <name>Finland</name>
+  </used_by>
+  <used_by>
+    <iso_a3>FRA</iso_a3>
+    <name>France</name>
+  </used_by>
+  <used_by>
+    <iso_a3>GUF</iso_a3>
+    <name>French Guiana</name>
+  </used_by>
+  <used_by>
+    <iso_a3>ATF</iso_a3>
+    <name>French Southern Territories</name>
+  </used_by>
+  <used_by>
+    <iso_a3>DEU</iso_a3>
+    <name>Germany</name>
+  </used_by>
+  <used_by>
+    <iso_a3>GRC</iso_a3>
+    <name>Greece</name>
+  </used_by>
+  <used_by>
+    <iso_a3>GLP</iso_a3>
+    <name>Guadeloupe</name>
+  </used_by>
+  <used_by>
+    <iso_a3>VAT</iso_a3>
+    <name>Vatican City</name>
+  </used_by>
+  <used_by>
+    <iso_a3>IRL</iso_a3>
+    <name>Ireland</name>
+  </used_by>
+  <used_by>
+    <iso_a3>ITA</iso_a3>
+    <name>Italy</name>
+  </used_by>
+  <used_by>
+    <iso_a3>LVA</iso_a3>
+    <name>Latvia</name>
+  </used_by>
+  <used_by>
+    <iso_a3>LTU</iso_a3>
+    <name>Lithuania</name>
+  </used_by>
+  <used_by>
+    <iso_a3>LUX</iso_a3>
+    <name>Luxembourg</name>
+  </used_by>
+  <used_by>
+    <iso_a3>MLT</iso_a3>
+    <name>Malta</name>
+  </used_by>
+  <used_by>
+    <iso_a3>MTQ</iso_a3>
+    <name>Martinique</name>
+  </used_by>
+  <used_by>
+    <iso_a3>MYT</iso_a3>
+    <name>Mayotte</name>
+  </used_by>
+  <used_by>
+    <iso_a3>MCO</iso_a3>
+    <name>Monaco</name>
+  </used_by>
+  <used_by>
+    <iso_a3>MNE</iso_a3>
+    <name>Montenegro</name>
+  </used_by>
+  <used_by>
+    <iso_a3>NLD</iso_a3>
+    <name>Netherlands</name>
+  </used_by>
+  <used_by>
+    <iso_a3>PRT</iso_a3>
+    <name>Portugal</name>
+  </used_by>
+  <used_by>
+    <iso_a3>REU</iso_a3>
+    <name>Réunion</name>
+  </used_by>
+  <used_by>
+    <iso_a3>BLM</iso_a3>
+    <name>Saint Barthélemy</name>
+  </used_by>
+  <used_by>
+    <iso_a3>MAF</iso_a3>
+    <name>Saint Martin</name>
+  </used_by>
+  <used_by>
+    <iso_a3>SPM</iso_a3>
+    <name>Saint Pierre and Miquelon</name>
+  </used_by>
+  <used_by>
+    <iso_a3>SMR</iso_a3>
+    <name>San Marino</name>
+  </used_by>
+  <used_by>
+    <iso_a3>SVK</iso_a3>
+    <name>Slovakia</name>
+  </used_by>
+  <used_by>
+    <iso_a3>SVN</iso_a3>
+    <name>Slovenia</name>
+  </used_by>
+  <used_by>
+    <iso_a3>ESP</iso_a3>
+    <name>Spain</name>
+  </used_by>
+  <iso>
+    <a3>EUR</a3>
+    <n3>978</n3>
+  </iso>
+</EUR>
+<ALL>
+  <name>Lek</name>
+  <symbol>L</symbol>
+  <subunit>
+    <name>Qindarkë</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </coins>
+  <bank>Bank of Albania</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>ALB</iso_a3>
+    <name>Albania</name>
+  </used_by>
+  <iso>
+    <a3>ALL</a3>
+    <n3>008</n3>
+  </iso>
+</ALL>
+<DZD>
+  <name>Algerian Dinar</name>
+  <symbol>DA</symbol>
+  <subunit>
+    <name>Centime</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </coins>
+  <bank>Bank of Algeria</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>DZA</iso_a3>
+    <name>Algeria</name>
+  </used_by>
+  <iso>
+    <a3>DZD</a3>
+    <n3>012</n3>
+  </iso>
+</DZD>
+<USD>
+  <name>US Dollar</name>
+  <symbol>US$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>¢</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+  </coins>
+  <bank>Federal Reserve</bank>
+  <exchange>
+    <arrangement>free floating</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>ASM</iso_a3>
+    <name>American Samoa</name>
+  </used_by>
+  <used_by>
+    <iso_a3>BES</iso_a3>
+    <name>Bonaire, Sint Eustatius and Saba</name>
+  </used_by>
+  <used_by>
+    <iso_a3>IOT</iso_a3>
+    <name>British Indian Ocean Territory</name>
+  </used_by>
+  <used_by>
+    <iso_a3>ECU</iso_a3>
+    <name>Ecuador</name>
+  </used_by>
+  <used_by>
+    <iso_a3>SLV</iso_a3>
+    <name>El Salvador</name>
+  </used_by>
+  <used_by>
+    <iso_a3>GUM</iso_a3>
+    <name>Guam</name>
+  </used_by>
+  <used_by>
+    <iso_a3>MHL</iso_a3>
+    <name>Marshall Islands</name>
+  </used_by>
+  <used_by>
+    <iso_a3>FSM</iso_a3>
+    <name>Micronesia</name>
+  </used_by>
+  <used_by>
+    <iso_a3>MNP</iso_a3>
+    <name>Northern Mariana Islands</name>
+  </used_by>
+  <used_by>
+    <iso_a3>PLW</iso_a3>
+    <name>Palau</name>
+  </used_by>
+  <used_by>
+    <iso_a3>PAN</iso_a3>
+    <name>Panama</name>
+  </used_by>
+  <used_by>
+    <iso_a3>PRI</iso_a3>
+    <name>Puerto Rico</name>
+  </used_by>
+  <used_by>
+    <iso_a3>TLS</iso_a3>
+    <name>Timor-Leste</name>
+  </used_by>
+  <used_by>
+    <iso_a3>TCA</iso_a3>
+    <name>Turks and Caicos Islands</name>
+  </used_by>
+  <used_by>
+    <iso_a3>USA</iso_a3>
+    <name>United States of America</name>
+  </used_by>
+  <used_by>
+    <iso_a3>UMI</iso_a3>
+    <name>United States Minor Outlying Islands</name>
+  </used_by>
+  <used_by>
+    <iso_a3>VGB</iso_a3>
+    <name>British Virgin Islands</name>
+  </used_by>
+  <used_by>
+    <iso_a3>VIR</iso_a3>
+    <name>United States Virgin Islands</name>
+  </used_by>
+  <iso>
+    <a3>USD</a3>
+    <n3>840</n3>
+  </iso>
+</USD>
+<AOA>
+  <name>Kwanza</name>
+  <symbol>Kz</symbol>
+  <subunit>
+    <name>Cêntimo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+  </banknotes>
+  <coins>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </coins>
+  <bank>National Bank of Angola</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>AGO</iso_a3>
+    <name>Angola</name>
+  </used_by>
+  <iso>
+    <a3>AOA</a3>
+    <n3>973</n3>
+  </iso>
+</AOA>
+<XCD>
+  <name>East Caribbean Dollar</name>
+  <symbol>EC$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+  </coins>
+  <bank>Eastern Caribbean Central Bank</bank>
+  <exchange>
+    <arrangement>currency board</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>AIA</iso_a3>
+    <name>Anguilla</name>
+  </used_by>
+  <used_by>
+    <iso_a3>ATG</iso_a3>
+    <name>Antigua and Barbuda</name>
+  </used_by>
+  <used_by>
+    <iso_a3>DMA</iso_a3>
+    <name>Dominica</name>
+  </used_by>
+  <used_by>
+    <iso_a3>GRD</iso_a3>
+    <name>Grenada</name>
+  </used_by>
+  <used_by>
+    <iso_a3>MSR</iso_a3>
+    <name>Montserrat</name>
+  </used_by>
+  <used_by>
+    <iso_a3>KNA</iso_a3>
+    <name>Saint Kitts and Nevis</name>
+  </used_by>
+  <used_by>
+    <iso_a3>LCA</iso_a3>
+    <name>Saint Lucia</name>
+  </used_by>
+  <used_by>
+    <iso_a3>VCT</iso_a3>
+    <name>Saint Vincent and the Grenadines</name>
+  </used_by>
+  <iso>
+    <a3>XCD</a3>
+    <n3>951</n3>
+  </iso>
+</XCD>
+<ARS>
+  <name>Argentine Peso</name>
+  <symbol>Arg$</symbol>
+  <subunit>
+    <name>Centavo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+  </coins>
+  <bank>Central Bank of the Argentine Republic</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>ARG</iso_a3>
+    <name>Argentina</name>
+  </used_by>
+  <iso>
+    <a3>ARS</a3>
+    <n3>032</n3>
+  </iso>
+</ARS>
+<AMD>
+  <name>Armenian Dram</name>
+  <symbol>֏</symbol>
+  <subunit>
+    <name>Luma</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+    <main>50000</main>
+    <main>100000</main>
+  </banknotes>
+  <coins>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+  </coins>
+  <bank>Central Bank of Armenia</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>ARM</iso_a3>
+    <name>Armenia</name>
+  </used_by>
+  <iso>
+    <a3>AMD</a3>
+    <n3>051</n3>
+  </iso>
+</AMD>
+<AWG>
+  <name>Aruban Florin</name>
+  <symbol>Afl</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>¢</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>25</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2.5</main>
+    <main>5</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Aruba</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>ABW</iso_a3>
+    <name>Aruba</name>
+  </used_by>
+  <iso>
+    <a3>AWG</a3>
+    <n3>533</n3>
+  </iso>
+</AWG>
+<AUD>
+  <name>Australian Dollar</name>
+  <symbol>AU$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>c</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Reserve Bank of Australia</bank>
+  <exchange>
+    <arrangement>free floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>AUS</iso_a3>
+    <name>Australia</name>
+  </used_by>
+  <used_by>
+    <iso_a3>CXR</iso_a3>
+    <name>Christmas Island</name>
+  </used_by>
+  <used_by>
+    <iso_a3>CCK</iso_a3>
+    <name>Cocos (Keeling) Islands</name>
+  </used_by>
+  <used_by>
+    <iso_a3>HMD</iso_a3>
+    <name>Heard Island and McDonald Islands</name>
+  </used_by>
+  <used_by>
+    <iso_a3>KIR</iso_a3>
+    <name>Kiribati</name>
+  </used_by>
+  <used_by>
+    <iso_a3>NRU</iso_a3>
+    <name>Nauru</name>
+  </used_by>
+  <used_by>
+    <iso_a3>NFK</iso_a3>
+    <name>Norfolk Island</name>
+  </used_by>
+  <used_by>
+    <iso_a3>TUV</iso_a3>
+    <name>Tuvalu</name>
+  </used_by>
+  <iso>
+    <a3>AUD</a3>
+    <n3>036</n3>
+  </iso>
+</AUD>
+<AZN>
+  <name>Azerbaijan Manat</name>
+  <symbol>₼</symbol>
+  <subunit>
+    <name>Gapik</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <sub>1</sub>
+    <sub>3</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Azerbaijan</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>AZE</iso_a3>
+    <name>Azerbaijan</name>
+  </used_by>
+  <iso>
+    <a3>AZN</a3>
+    <n3>944</n3>
+  </iso>
+</AZN>
+<BSD>
+  <name>Bahamian Dollar</name>
+  <symbol>B$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>0.5</main>
+    <main>1</main>
+    <main>3</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>15</sub>
+    <sub>25</sub>
+  </coins>
+  <bank>Central Bank of The Bahamas</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BHS</iso_a3>
+    <name>Bahamas</name>
+  </used_by>
+  <iso>
+    <a3>BSD</a3>
+    <n3>044</n3>
+  </iso>
+</BSD>
+<BHD>
+  <name>Bahraini Dinar</name>
+  <symbol>BD</symbol>
+  <subunit>
+    <name>Fils</name>
+    <symbol>null</symbol>
+    <value>0.001</value>
+  </subunit>
+  <banknotes>
+    <main>0.5</main>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+  </banknotes>
+  <coins>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+    <sub>100</sub>
+  </coins>
+  <bank>Central Bank of Bahrain</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BHR</iso_a3>
+    <name>Bahrain</name>
+  </used_by>
+  <iso>
+    <a3>BHD</a3>
+    <n3>048</n3>
+  </iso>
+</BHD>
+<BDT>
+  <name>Taka</name>
+  <symbol>৳</symbol>
+  <subunit>
+    <name>Poisha</name>
+    <symbol>p</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+  </coins>
+  <bank>Bangladesh Bank</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BGD</iso_a3>
+    <name>Bangladesh</name>
+  </used_by>
+  <iso>
+    <a3>BDT</a3>
+    <n3>050</n3>
+  </iso>
+</BDT>
+<BBD>
+  <name>Barbados Dollar</name>
+  <symbol>BB$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>¢</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+  </coins>
+  <bank>Central Bank of Barbados</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BRB</iso_a3>
+    <name>Barbados</name>
+  </used_by>
+  <iso>
+    <a3>BBD</a3>
+    <n3>052</n3>
+  </iso>
+</BBD>
+<BYN>
+  <name>Belarusian Ruble</name>
+  <symbol>Rbl</symbol>
+  <subunit>
+    <name>Copeck</name>
+    <symbol>cop</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>1</sub>
+    <sub>2</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>National Bank of the Republic of Belarus</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BLR</iso_a3>
+    <name>Belarus</name>
+  </used_by>
+  <iso>
+    <a3>BYN</a3>
+    <n3>933</n3>
+  </iso>
+</BYN>
+<BZD>
+  <name>Belize Dollar</name>
+  <symbol>BZ$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Belize</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BLZ</iso_a3>
+    <name>Belize</name>
+  </used_by>
+  <iso>
+    <a3>BZD</a3>
+    <n3>084</n3>
+  </iso>
+</BZD>
+<XOF>
+  <name>CFA Franc BCEAO</name>
+  <symbol>F.CFA</symbol>
+  <subunit>
+    <name>Centime</name>
+    <symbol>c</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>25</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>250</main>
+    <main>500</main>
+  </coins>
+  <bank>Central Bank of West African States</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: EUR</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BEN</iso_a3>
+    <name>Benin</name>
+  </used_by>
+  <used_by>
+    <iso_a3>BFA</iso_a3>
+    <name>Burkina Faso</name>
+  </used_by>
+  <used_by>
+    <iso_a3>CIV</iso_a3>
+    <name>Ivory Coast</name>
+  </used_by>
+  <used_by>
+    <iso_a3>GNB</iso_a3>
+    <name>Guinea-Bissau</name>
+  </used_by>
+  <used_by>
+    <iso_a3>MLI</iso_a3>
+    <name>Mali</name>
+  </used_by>
+  <used_by>
+    <iso_a3>NER</iso_a3>
+    <name>Niger</name>
+  </used_by>
+  <used_by>
+    <iso_a3>SEN</iso_a3>
+    <name>Senegal</name>
+  </used_by>
+  <used_by>
+    <iso_a3>TGO</iso_a3>
+    <name>Togo</name>
+  </used_by>
+  <iso>
+    <a3>XOF</a3>
+    <n3>952</n3>
+  </iso>
+</XOF>
+<BMD>
+  <name>Bermudian Dollar</name>
+  <symbol>BD$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Bermuda Monetary Authority</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BMU</iso_a3>
+    <name>Bermuda</name>
+  </used_by>
+  <iso>
+    <a3>BMD</a3>
+    <n3>060</n3>
+  </iso>
+</BMD>
+<BTN>
+  <name>Ngultrum</name>
+  <symbol> Nu.</symbol>
+  <subunit>
+    <name>Chhertum</name>
+    <symbol>Ch.</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>3</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Royal Monetary Authority of Bhutan</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: INR</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BTN</iso_a3>
+    <name>Bhutan</name>
+  </used_by>
+  <iso>
+    <a3>BTN</a3>
+    <n3>064</n3>
+  </iso>
+</BTN>
+<INR>
+  <name>Indian Rupee</name>
+  <symbol>₹</symbol>
+  <subunit>
+    <name>Paisa</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>2000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <sub>50</sub>
+  </coins>
+  <bank>Reserve Bank of India</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BTN</iso_a3>
+    <name>Bhutan</name>
+  </used_by>
+  <used_by>
+    <iso_a3>IND</iso_a3>
+    <name>India</name>
+  </used_by>
+  <iso>
+    <a3>INR</a3>
+    <n3>356</n3>
+  </iso>
+</INR>
+<BOB>
+  <name>Boliviano</name>
+  <symbol>Bs</symbol>
+  <subunit>
+    <name>Centavo</name>
+    <symbol>c.</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Bolivia</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BOL</iso_a3>
+    <name>Bolivia</name>
+  </used_by>
+  <iso>
+    <a3>BOB</a3>
+    <n3>068</n3>
+  </iso>
+</BOB>
+<BAM>
+  <name>Convertible Mark</name>
+  <symbol>KM</symbol>
+  <subunit>
+    <name>Fening</name>
+    <symbol>pf</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Bosnia and Herzegovina</bank>
+  <exchange>
+    <arrangement>currency board</arrangement>
+    <policy>exchange rate anchor: EUR</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BIH</iso_a3>
+    <name>Bosnia and Herzegovina</name>
+  </used_by>
+  <iso>
+    <a3>BAM</a3>
+    <n3>977</n3>
+  </iso>
+</BAM>
+<BWP>
+  <name>Pula</name>
+  <symbol>P</symbol>
+  <subunit>
+    <name>Thebe</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Bank of Botswana</bank>
+  <exchange>
+    <arrangement>crawling peg</arrangement>
+    <policy>composite</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BWA</iso_a3>
+    <name>Botswana</name>
+  </used_by>
+  <iso>
+    <a3>BWP</a3>
+    <n3>072</n3>
+  </iso>
+</BWP>
+<NOK>
+  <name>Norwegian Krone</name>
+  <symbol>kr</symbol>
+  <subunit>
+    <name>Øre</name>
+    <symbol></symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+  </coins>
+  <bank>Norges Bank</bank>
+  <exchange>
+    <arrangement>free floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BVT</iso_a3>
+    <name>Bouvet Island</name>
+  </used_by>
+  <used_by>
+    <iso_a3>NOR</iso_a3>
+    <name>Norway</name>
+  </used_by>
+  <used_by>
+    <iso_a3>SJM</iso_a3>
+    <name>Svalbard and Jan Mayen</name>
+  </used_by>
+  <iso>
+    <a3>NOK</a3>
+    <n3>578</n3>
+  </iso>
+</NOK>
+<BRL>
+  <name>Brazilian Real</name>
+  <symbol>R$</symbol>
+  <subunit>
+    <name>Centavo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Brazil</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BRA</iso_a3>
+    <name>Brazil</name>
+  </used_by>
+  <iso>
+    <a3>BRL</a3>
+    <n3>986</n3>
+  </iso>
+</BRL>
+<BND>
+  <name>Brunei Dollar</name>
+  <symbol>B$</symbol>
+  <subunit>
+    <name>Sen</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>10000</main>
+  </banknotes>
+  <coins>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Brunei Darussalam Central Bank</bank>
+  <exchange>
+    <arrangement>currency board</arrangement>
+    <policy>exchange rate anchor: SGD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BRN</iso_a3>
+    <name>Brunei</name>
+  </used_by>
+  <iso>
+    <a3>BND</a3>
+    <n3>096</n3>
+  </iso>
+</BND>
+<BGN>
+  <name>Bulgarian Lev</name>
+  <symbol>lv.</symbol>
+  <subunit>
+    <name>Stotinka</name>
+    <symbol>st.</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>1</sub>
+    <sub>2</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Bulgarian National Bank</bank>
+  <exchange>
+    <arrangement>currency board</arrangement>
+    <policy>exchange rate anchor: EUR</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BGR</iso_a3>
+    <name>Bulgaria</name>
+  </used_by>
+  <iso>
+    <a3>BGN</a3>
+    <n3>975</n3>
+  </iso>
+</BGN>
+<BIF>
+  <name>Burundi Franc</name>
+  <symbol>FBu</symbol>
+  <subunit>
+    <name>Centime</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>50</main>
+  </coins>
+  <bank>Bank of the Republic of Burundi</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>BDI</iso_a3>
+    <name>Burundi</name>
+  </used_by>
+  <iso>
+    <a3>BIF</a3>
+    <n3>108</n3>
+  </iso>
+</BIF>
+<CVE>
+  <name>Cabo Verde Escudo</name>
+  <symbol>Esc</symbol>
+  <subunit>
+    <name>Centavo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </coins>
+  <bank>Bank of Cape Verde</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: EUR</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>CPV</iso_a3>
+    <name>Cape Verde</name>
+  </used_by>
+  <iso>
+    <a3>CVE</a3>
+    <n3>132</n3>
+  </iso>
+</CVE>
+<KHR>
+  <name>Riel</name>
+  <symbol>៛</symbol>
+  <subunit>
+    <name>Sen</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+    <main>50000</main>
+  </banknotes>
+  <coins>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+  </coins>
+  <bank>National Bank of Cambodia</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>KHM</iso_a3>
+    <name>Cambodia</name>
+  </used_by>
+  <iso>
+    <a3>KHR</a3>
+    <n3>116</n3>
+  </iso>
+</KHR>
+<XAF>
+  <name>CFA Franc BEAC</name>
+  <symbol>F.CFA</symbol>
+  <subunit>
+    <name>Centime</name>
+    <symbol>c</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>25</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+  </coins>
+  <bank>Bank of Central African States</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: EUR</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>CMR</iso_a3>
+    <name>Cameroon</name>
+  </used_by>
+  <used_by>
+    <iso_a3>CAF</iso_a3>
+    <name>Central African Republic</name>
+  </used_by>
+  <used_by>
+    <iso_a3>TCD</iso_a3>
+    <name>Chad</name>
+  </used_by>
+  <used_by>
+    <iso_a3>COG</iso_a3>
+    <name>Congo</name>
+  </used_by>
+  <used_by>
+    <iso_a3>GNQ</iso_a3>
+    <name>Equatorial Guinea</name>
+  </used_by>
+  <used_by>
+    <iso_a3>GAB</iso_a3>
+    <name>Gabon</name>
+  </used_by>
+  <iso>
+    <a3>XAF</a3>
+    <n3>950</n3>
+  </iso>
+</XAF>
+<CAD>
+  <name>Canadian Dollar</name>
+  <symbol>CA$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>¢</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Bank of Canada</bank>
+  <exchange>
+    <arrangement>free floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>CAN</iso_a3>
+    <name>Canada</name>
+  </used_by>
+  <iso>
+    <a3>CAD</a3>
+    <n3>124</n3>
+  </iso>
+</CAD>
+<KYD>
+  <name>Cayman Islands Dollar</name>
+  <symbol>CI$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>25</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+  </coins>
+  <bank>Cayman Islands Monetary Authority</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>CYM</iso_a3>
+    <name>Cayman Islands</name>
+  </used_by>
+  <iso>
+    <a3>KYD</a3>
+    <n3>136</n3>
+  </iso>
+</KYD>
+<CLP>
+  <name>Chilean Peso</name>
+  <symbol>Ch$</symbol>
+  <subunit>
+    <name>Centavo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+  </banknotes>
+  <coins>
+    <main>10</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+  </coins>
+  <bank>Central Bank of Chile</bank>
+  <exchange>
+    <arrangement>free floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>CHL</iso_a3>
+    <name>Chile</name>
+  </used_by>
+  <iso>
+    <a3>CLP</a3>
+    <n3>152</n3>
+  </iso>
+</CLP>
+<CNY>
+  <name>Yuan Renminbi</name>
+  <symbol>¥</symbol>
+  <subunit>
+    <name>Fen</name>
+    <symbol>分</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>0.1</main>
+    <main>0.5</main>
+    <main>1</main>
+  </coins>
+  <bank>People&#39;s Bank of China</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>CHN</iso_a3>
+    <name>China</name>
+  </used_by>
+  <iso>
+    <a3>CNY</a3>
+    <n3>156</n3>
+  </iso>
+</CNY>
+<COP>
+  <name>Colombian Peso</name>
+  <symbol>Col$</symbol>
+  <subunit>
+    <name>Centavo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+    <main>50000</main>
+    <main>100000</main>
+  </banknotes>
+  <coins>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </coins>
+  <bank>Bank of the Republic</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>COL</iso_a3>
+    <name>Colombia</name>
+  </used_by>
+  <iso>
+    <a3>COP</a3>
+    <n3>170</n3>
+  </iso>
+</COP>
+<KMF>
+  <name>Comorian Franc </name>
+  <symbol>FC</symbol>
+  <subunit>
+    <name>Centime</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+  </banknotes>
+  <coins>
+    <main>25</main>
+    <main>50</main>
+    <main>100</main>
+    <main>250</main>
+  </coins>
+  <bank>Central Bank of the Comoros</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: EUR</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>COM</iso_a3>
+    <name>Comoros</name>
+  </used_by>
+  <iso>
+    <a3>KMF</a3>
+    <n3>174</n3>
+  </iso>
+</KMF>
+<CDF>
+  <name>Congolese Franc</name>
+  <symbol>FC</symbol>
+  <subunit>
+    <name>Centime</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+  </banknotes>
+  <coins></coins>
+  <bank>Central Bank of the Congo</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>COD</iso_a3>
+    <name>DR Congo</name>
+  </used_by>
+  <iso>
+    <a3>CDF</a3>
+    <n3>976</n3>
+  </iso>
+</CDF>
+<NZD>
+  <name>New Zealand Dollar</name>
+  <symbol>NZ$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>c</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Reserve Bank of New Zealand</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>COK</iso_a3>
+    <name>Cook Islands</name>
+  </used_by>
+  <used_by>
+    <iso_a3>NZL</iso_a3>
+    <name>New Zealand</name>
+  </used_by>
+  <used_by>
+    <iso_a3>NIU</iso_a3>
+    <name>Niue</name>
+  </used_by>
+  <used_by>
+    <iso_a3>PCN</iso_a3>
+    <name>Pitcairn Islands</name>
+  </used_by>
+  <used_by>
+    <iso_a3>TKL</iso_a3>
+    <name>Tokelau</name>
+  </used_by>
+  <iso>
+    <a3>NZD</a3>
+    <n3>554</n3>
+  </iso>
+</NZD>
+<CRC>
+  <name>Costa Rican Colon</name>
+  <symbol>₡</symbol>
+  <subunit>
+    <name>Céntimo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+    <main>50000</main>
+  </banknotes>
+  <coins>
+    <main>5</main>
+    <main>10</main>
+    <main>25</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+  </coins>
+  <bank>Central Bank of Costa Rica</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>CRI</iso_a3>
+    <name>Costa Rica</name>
+  </used_by>
+  <iso>
+    <a3>CRC</a3>
+    <n3>188</n3>
+  </iso>
+</CRC>
+<CUP>
+  <name>Cuban Peso</name>
+  <symbol>$MN</symbol>
+  <subunit>
+    <name>Centavo</name>
+    <symbol>¢</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>3</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>3</main>
+    <main>5</main>
+    <sub>1</sub>
+    <sub>2</sub>
+    <sub>5</sub>
+    <sub>20</sub>
+  </coins>
+  <bank>Central Bank of Cuba</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>CUB</iso_a3>
+    <name>Cuba</name>
+  </used_by>
+  <iso>
+    <a3>CUP</a3>
+    <n3>192</n3>
+  </iso>
+</CUP>
+<ANG>
+  <name>Netherlands Antillean Guilder</name>
+  <symbol>NAf</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>25</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2.5</main>
+    <main>5</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Curaçao and Sint Maarten</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>CUW</iso_a3>
+    <name>Curaçao</name>
+  </used_by>
+  <used_by>
+    <iso_a3>SXM</iso_a3>
+    <name>Sint Maarten</name>
+  </used_by>
+  <iso>
+    <a3>ANG</a3>
+    <n3>532</n3>
+  </iso>
+</ANG>
+<CZK>
+  <name>Czech Koruna</name>
+  <symbol>Kč</symbol>
+  <subunit>
+    <name>Haléřa</name>
+    <symbol>h</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+  </coins>
+  <bank>Czech National Bank</bank>
+  <exchange>
+    <arrangement>free floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>CZE</iso_a3>
+    <name>Czechia</name>
+  </used_by>
+  <iso>
+    <a3>CZK</a3>
+    <n3>203</n3>
+  </iso>
+</CZK>
+<DKK>
+  <name>Danish Krone</name>
+  <symbol>kr.</symbol>
+  <subunit>
+    <name>Øre</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <sub>50</sub>
+  </coins>
+  <bank>Danmarks Nationalbank</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: EUR</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>DNK</iso_a3>
+    <name>Denmark</name>
+  </used_by>
+  <used_by>
+    <iso_a3>FRO</iso_a3>
+    <name>Faroe Islands</name>
+  </used_by>
+  <used_by>
+    <iso_a3>GRL</iso_a3>
+    <name>Greenland</name>
+  </used_by>
+  <iso>
+    <a3>DKK</a3>
+    <n3>208</n3>
+  </iso>
+</DKK>
+<DJF>
+  <name>Djibouti Franc</name>
+  <symbol>Fdj</symbol>
+  <subunit>
+    <name>Centime</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>250</main>
+    <main>500</main>
+  </coins>
+  <bank>Central Bank of Djibouti</bank>
+  <exchange>
+    <arrangement>currency board</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>DJI</iso_a3>
+    <name>Djibouti</name>
+  </used_by>
+  <iso>
+    <a3>DJF</a3>
+    <n3>262</n3>
+  </iso>
+</DJF>
+<DOP>
+  <name>Dominican Peso</name>
+  <symbol>RD$</symbol>
+  <subunit>
+    <name>Centavo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>25</main>
+  </coins>
+  <bank>Central Bank of the Dominican Republic</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>DOM</iso_a3>
+    <name>Dominican Republic</name>
+  </used_by>
+  <iso>
+    <a3>DOP</a3>
+    <n3>214</n3>
+  </iso>
+</DOP>
+<EGP>
+  <name>Egyptian Pound</name>
+  <symbol>E£</symbol>
+  <subunit>
+    <name>Piastre</name>
+    <symbol>PT</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <sub>25</sub>
+    <sub>50</sub>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Egypt</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>EGY</iso_a3>
+    <name>Egypt</name>
+  </used_by>
+  <iso>
+    <a3>EGP</a3>
+    <n3>818</n3>
+  </iso>
+</EGP>
+<ERN>
+  <name>Nakfa</name>
+  <symbol>Nkf</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Bank of Eritrea</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>ERI</iso_a3>
+    <name>Eritrea</name>
+  </used_by>
+  <iso>
+    <a3>ERN</a3>
+    <n3>232</n3>
+  </iso>
+</ERN>
+<SZL>
+  <name>Lilangeni</name>
+  <symbol>L</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Swaziland</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: ZAR</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SWZ</iso_a3>
+    <name>Eswatini</name>
+  </used_by>
+  <iso>
+    <a3>SZL</a3>
+    <n3>748</n3>
+  </iso>
+</SZL>
+<ZAR>
+  <name>Rand</name>
+  <symbol>R</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>c</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>South African Reserve Bank</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SWZ</iso_a3>
+    <name>Eswatini</name>
+  </used_by>
+  <used_by>
+    <iso_a3>LSO</iso_a3>
+    <name>Lesotho</name>
+  </used_by>
+  <used_by>
+    <iso_a3>NAM</iso_a3>
+    <name>Namibia</name>
+  </used_by>
+  <used_by>
+    <iso_a3>ZAF</iso_a3>
+    <name>South Africa</name>
+  </used_by>
+  <iso>
+    <a3>ZAR</a3>
+    <n3>710</n3>
+  </iso>
+</ZAR>
+<ETB>
+  <name>Ethiopian Birr</name>
+  <symbol>Br</symbol>
+  <subunit>
+    <name>Santim</name>
+    <symbol></symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>National Bank of Ethiopia</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>ETH</iso_a3>
+    <name>Ethiopia</name>
+  </used_by>
+  <iso>
+    <a3>ETB</a3>
+    <n3>230</n3>
+  </iso>
+</ETB>
+<FKP>
+  <name>Falkland Islands Pound</name>
+  <symbol>£</symbol>
+  <subunit>
+    <name>Penny</name>
+    <symbol>p</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>1</sub>
+    <sub>2</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Government of the Falkland Islands</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: GBP</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>FLK</iso_a3>
+    <name>Falkland Islands</name>
+  </used_by>
+  <iso>
+    <a3>FKP</a3>
+    <n3>238</n3>
+  </iso>
+</FKP>
+<FJD>
+  <name>Fiji Dollar</name>
+  <symbol>FJ$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>c</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Reserve Bank of Fiji</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>composite</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>FJI</iso_a3>
+    <name>Fiji</name>
+  </used_by>
+  <iso>
+    <a3>FJD</a3>
+    <n3>242</n3>
+  </iso>
+</FJD>
+<XPF>
+  <name>CFP Franc</name>
+  <symbol>F</symbol>
+  <subunit>
+    <name>Centime</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>500</main>
+    <main>1000</main>
+    <main>5000</main>
+    <main>10000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </coins>
+  <bank>Institut d&#39;émission d&#39;outre-mer</bank>
+  <exchange>
+    <arrangement>currency board</arrangement>
+    <policy>exchange rate anchor: EUR</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>PYF</iso_a3>
+    <name>French Polynesia</name>
+  </used_by>
+  <used_by>
+    <iso_a3>NCL</iso_a3>
+    <name>New Caledonia</name>
+  </used_by>
+  <used_by>
+    <iso_a3>WLF</iso_a3>
+    <name>Wallis and Futuna</name>
+  </used_by>
+  <iso>
+    <a3>XPF</a3>
+    <n3>953</n3>
+  </iso>
+</XPF>
+<GMD>
+  <name>Dalasi</name>
+  <symbol>D</symbol>
+  <subunit>
+    <name>Butut</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>25</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of The Gambia</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>GMB</iso_a3>
+    <name>Gambia</name>
+  </used_by>
+  <iso>
+    <a3>GMD</a3>
+    <n3>270</n3>
+  </iso>
+</GMD>
+<GEL>
+  <name>Lari</name>
+  <symbol>₾</symbol>
+  <subunit>
+    <name>Tetri</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>1</sub>
+    <sub>2</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>National Bank of Georgia</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>GEO</iso_a3>
+    <name>Georgia</name>
+  </used_by>
+  <iso>
+    <a3>GEL</a3>
+    <n3>981</n3>
+  </iso>
+</GEL>
+<GHS>
+  <name>Ghana Cedi</name>
+  <symbol>GH₵</symbol>
+  <subunit>
+    <name>Pesewa</name>
+    <symbol>Gp</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Bank of Ghana</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>GHA</iso_a3>
+    <name>Ghana</name>
+  </used_by>
+  <iso>
+    <a3>GHS</a3>
+    <n3>936</n3>
+  </iso>
+</GHS>
+<GIP>
+  <name>Gibraltar Pound</name>
+  <symbol>£</symbol>
+  <subunit>
+    <name>Penny</name>
+    <symbol>p</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <sub>1</sub>
+    <sub>2</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Government of Gibraltar</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: GBP</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>GIB</iso_a3>
+    <name>Gibraltar</name>
+  </used_by>
+  <iso>
+    <a3>GIP</a3>
+    <n3>292</n3>
+  </iso>
+</GIP>
+<GTQ>
+  <name>Quetzal</name>
+  <symbol>Q</symbol>
+  <subunit>
+    <name>Centavo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Bank of Guatemala</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>GTM</iso_a3>
+    <name>Guatemala</name>
+  </used_by>
+  <iso>
+    <a3>GTQ</a3>
+    <n3>320</n3>
+  </iso>
+</GTQ>
+<GBP>
+  <name>Pound Sterling</name>
+  <symbol>£</symbol>
+  <subunit>
+    <name>Penny</name>
+    <symbol>p</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>1</sub>
+    <sub>2</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Bank of England</bank>
+  <exchange>
+    <arrangement>free floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>GGY</iso_a3>
+    <name>Guernsey</name>
+  </used_by>
+  <used_by>
+    <iso_a3>IMN</iso_a3>
+    <name>Isle of Man</name>
+  </used_by>
+  <used_by>
+    <iso_a3>JEY</iso_a3>
+    <name>Jersey</name>
+  </used_by>
+  <used_by>
+    <iso_a3>GBR</iso_a3>
+    <name>United Kingdom</name>
+  </used_by>
+  <iso>
+    <a3>GBP</a3>
+    <n3>826</n3>
+  </iso>
+</GBP>
+<GNF>
+  <name>Guinean Franc</name>
+  <symbol>FG</symbol>
+  <subunit>
+    <name>Centime</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>25</main>
+    <main>50</main>
+  </coins>
+  <bank>Central Bank of the Republic of Guinea</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>GIN</iso_a3>
+    <name>Guinea</name>
+  </used_by>
+  <iso>
+    <a3>GNF</a3>
+    <n3>324</n3>
+  </iso>
+</GNF>
+<GYD>
+  <name>Guyana Dollar</name>
+  <symbol>G$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+  </coins>
+  <bank>Bank of Guyana</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>GUY</iso_a3>
+    <name>Guyana</name>
+  </used_by>
+  <iso>
+    <a3>GYD</a3>
+    <n3>328</n3>
+  </iso>
+</GYD>
+<HTG>
+  <name>Gourde</name>
+  <symbol>G</symbol>
+  <subunit>
+    <name>Centime</name>
+    <symbol>c</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>25</main>
+    <main>50</main>
+    <main>100</main>
+    <main>250</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <sub>50</sub>
+  </coins>
+  <bank>Bank of the Republic of Haiti</bank>
+  <exchange>
+    <arrangement>other managed arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>HTI</iso_a3>
+    <name>Haiti</name>
+  </used_by>
+  <iso>
+    <a3>HTG</a3>
+    <n3>332</n3>
+  </iso>
+</HTG>
+<HNL>
+  <name>Lempira</name>
+  <symbol>L</symbol>
+  <subunit>
+    <name>Centavo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+  </banknotes>
+  <coins>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Honduras</bank>
+  <exchange>
+    <arrangement>crawling peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>HND</iso_a3>
+    <name>Honduras</name>
+  </used_by>
+  <iso>
+    <a3>HNL</a3>
+    <n3>340</n3>
+  </iso>
+</HNL>
+<HKD>
+  <name>Hong Kong Dollar</name>
+  <symbol>HK$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>¢</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Hong Kong Monetary Authority</bank>
+  <exchange>
+    <arrangement>currency board</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>HKG</iso_a3>
+    <name>Hong Kong</name>
+  </used_by>
+  <iso>
+    <a3>HKD</a3>
+    <n3>344</n3>
+  </iso>
+</HKD>
+<HUF>
+  <name>Forint</name>
+  <symbol>Ft</symbol>
+  <subunit>
+    <name>Fillér</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+  </banknotes>
+  <coins>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </coins>
+  <bank>Hungarian National Bank</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>HUN</iso_a3>
+    <name>Hungary</name>
+  </used_by>
+  <iso>
+    <a3>HUF</a3>
+    <n3>348</n3>
+  </iso>
+</HUF>
+<ISK>
+  <name>Iceland Krona</name>
+  <symbol>kr</symbol>
+  <subunit>
+    <name>Eyrir</name>
+    <symbol>a</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>50</main>
+    <main>100</main>
+  </coins>
+  <bank>Central Bank of Iceland</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>ISL</iso_a3>
+    <name>Iceland</name>
+  </used_by>
+  <iso>
+    <a3>ISK</a3>
+    <n3>352</n3>
+  </iso>
+</ISK>
+<IDR>
+  <name>Rupiah</name>
+  <symbol>Rp</symbol>
+  <subunit>
+    <name>Sen</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+    <main>50000</main>
+    <main>100000</main>
+  </banknotes>
+  <coins>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </coins>
+  <bank>Bank Indonesia</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>IDN</iso_a3>
+    <name>Indonesia</name>
+  </used_by>
+  <iso>
+    <a3>IDR</a3>
+    <n3>360</n3>
+  </iso>
+</IDR>
+<IRR>
+  <name>Iranian Rial</name>
+  <symbol>Rl</symbol>
+  <subunit>
+    <name>Dinar</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+    <main>50000</main>
+    <main>100000</main>
+    <main>500000</main>
+    <main>1e+06</main>
+    <main>2e+06</main>
+  </banknotes>
+  <coins>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+  </coins>
+  <bank>Central Bank of Iran</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>IRN</iso_a3>
+    <name>Iran</name>
+  </used_by>
+  <iso>
+    <a3>IRR</a3>
+    <n3>364</n3>
+  </iso>
+</IRR>
+<IQD>
+  <name>Iraqi Dinar</name>
+  <symbol>ID</symbol>
+  <subunit>
+    <name>Fils</name>
+    <symbol>null</symbol>
+    <value>0.001</value>
+  </subunit>
+  <banknotes>
+    <main>250</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>25000</main>
+    <main>50000</main>
+  </banknotes>
+  <coins>
+    <main>25</main>
+    <main>50</main>
+    <main>100</main>
+  </coins>
+  <bank>Central Bank of Iraq</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>IRQ</iso_a3>
+    <name>Iraq</name>
+  </used_by>
+  <iso>
+    <a3>IQD</a3>
+    <n3>368</n3>
+  </iso>
+</IQD>
+<ILS>
+  <name>New Israeli Sheqel</name>
+  <symbol>₪</symbol>
+  <subunit>
+    <name>Agora</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>0.5</main>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <sub>10</sub>
+  </coins>
+  <bank>Bank of Israel</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>ISR</iso_a3>
+    <name>Israel</name>
+  </used_by>
+  <iso>
+    <a3>ILS</a3>
+    <n3>376</n3>
+  </iso>
+</ILS>
+<JMD>
+  <name>Jamaican Dollar</name>
+  <symbol>J$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>5000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+  </coins>
+  <bank>Bank of Jamaica</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>JAM</iso_a3>
+    <name>Jamaica</name>
+  </used_by>
+  <iso>
+    <a3>JMD</a3>
+    <n3>388</n3>
+  </iso>
+</JMD>
+<JPY>
+  <name>Yen</name>
+  <symbol>¥</symbol>
+  <subunit>
+    <name>Sen</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+  </coins>
+  <bank>Bank of Japan</bank>
+  <exchange>
+    <arrangement>free floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>JPN</iso_a3>
+    <name>Japan</name>
+  </used_by>
+  <iso>
+    <a3>JPY</a3>
+    <n3>392</n3>
+  </iso>
+</JPY>
+<JOD>
+  <name>Jordanian Dinar</name>
+  <symbol>JD</symbol>
+  <subunit>
+    <name>Piastre</name>
+    <symbol></symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+  </banknotes>
+  <coins>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Jordan</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>JOR</iso_a3>
+    <name>Jordan</name>
+  </used_by>
+  <iso>
+    <a3>JOD</a3>
+    <n3>400</n3>
+  </iso>
+</JOD>
+<KZT>
+  <name>Tenge</name>
+  <symbol>₸</symbol>
+  <subunit>
+    <name>Tiyn</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </coins>
+  <bank>National Bank of Kazakhstan</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>KAZ</iso_a3>
+    <name>Kazakhstan</name>
+  </used_by>
+  <iso>
+    <a3>KZT</a3>
+    <n3>398</n3>
+  </iso>
+</KZT>
+<KES>
+  <name>Kenyan Shilling</name>
+  <symbol>KSh</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+  </coins>
+  <bank>Central Bank of Kenya</bank>
+  <exchange>
+    <arrangement>other managed arrangement</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>KEN</iso_a3>
+    <name>Kenya</name>
+  </used_by>
+  <iso>
+    <a3>KES</a3>
+    <n3>404</n3>
+  </iso>
+</KES>
+<KPW>
+  <name>North Korean Won</name>
+  <symbol>₩</symbol>
+  <subunit>
+    <name>Chon</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of the Democratic People&#39;s Republic of Korea</bank>
+  <exchange>
+    <arrangement>null</arrangement>
+    <policy>null</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>PRK</iso_a3>
+    <name>North Korea</name>
+  </used_by>
+  <iso>
+    <a3>KPW</a3>
+    <n3>408</n3>
+  </iso>
+</KPW>
+<KRW>
+  <name>Won</name>
+  <symbol>₩</symbol>
+  <subunit>
+    <name>Jeon</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>50000</main>
+  </banknotes>
+  <coins>
+    <main>10</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+  </coins>
+  <bank>Bank of Korea</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>KOR</iso_a3>
+    <name>South Korea</name>
+  </used_by>
+  <iso>
+    <a3>KRW</a3>
+    <n3>410</n3>
+  </iso>
+</KRW>
+<KWD>
+  <name>Kuwaiti Dinar</name>
+  <symbol>KD</symbol>
+  <subunit>
+    <name>Fils</name>
+    <symbol></symbol>
+    <value>0.001</value>
+  </subunit>
+  <banknotes>
+    <main>0.25</main>
+    <main>0.5</main>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+  </banknotes>
+  <coins>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+    <sub>100</sub>
+  </coins>
+  <bank>Central Bank of Kuwait</bank>
+  <exchange>
+    <arrangement>other managed arrangement</arrangement>
+    <policy>composite</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>KWT</iso_a3>
+    <name>Kuwait</name>
+  </used_by>
+  <iso>
+    <a3>KWD</a3>
+    <n3>414</n3>
+  </iso>
+</KWD>
+<KGS>
+  <name>Som</name>
+  <symbol>⃀</symbol>
+  <subunit>
+    <name>Tyiyn</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>5000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>3</main>
+    <main>5</main>
+    <main>10</main>
+    <sub>10</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>National Bank of the Kyrgyz Republic</bank>
+  <exchange>
+    <arrangement>other managed arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>KGZ</iso_a3>
+    <name>Kyrgyzstan</name>
+  </used_by>
+  <iso>
+    <a3>KGS</a3>
+    <n3>417</n3>
+  </iso>
+</KGS>
+<LAK>
+  <name>Lao Kip</name>
+  <symbol>₭</symbol>
+  <subunit>
+    <name>Att</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+    <main>50000</main>
+    <main>100000</main>
+  </banknotes>
+  <coins></coins>
+  <bank>Bank of the Lao P.D.R.</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>LAO</iso_a3>
+    <name>Laos</name>
+  </used_by>
+  <iso>
+    <a3>LAK</a3>
+    <n3>418</n3>
+  </iso>
+</LAK>
+<LBP>
+  <name>Lebanese Pound</name>
+  <symbol>LL</symbol>
+  <subunit>
+    <name>Piastre</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+    <main>50000</main>
+    <main>100000</main>
+  </banknotes>
+  <coins>
+    <main>250</main>
+    <main>500</main>
+  </coins>
+  <bank>Banque du Liban</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>LBN</iso_a3>
+    <name>Lebanon</name>
+  </used_by>
+  <iso>
+    <a3>LBP</a3>
+    <n3>422</n3>
+  </iso>
+</LBP>
+<LSL>
+  <name>Loti</name>
+  <symbol>L</symbol>
+  <subunit>
+    <name>Sente</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <sub>1</sub>
+    <sub>2</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Lesotho</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: ZAR</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>LSO</iso_a3>
+    <name>Lesotho</name>
+  </used_by>
+  <iso>
+    <a3>LSL</a3>
+    <n3>426</n3>
+  </iso>
+</LSL>
+<LRD>
+  <name>Liberian Dollar</name>
+  <symbol>L$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Liberia</bank>
+  <exchange>
+    <arrangement>other managed arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>LBR</iso_a3>
+    <name>Liberia</name>
+  </used_by>
+  <iso>
+    <a3>LRD</a3>
+    <n3>430</n3>
+  </iso>
+</LRD>
+<LYD>
+  <name>Libyan Dinar</name>
+  <symbol>LD</symbol>
+  <subunit>
+    <name>Dirham</name>
+    <symbol>dh.</symbol>
+    <value>0.001</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+  </banknotes>
+  <coins>
+    <main>0.25</main>
+    <main>0.5</main>
+    <sub>50</sub>
+    <sub>100</sub>
+  </coins>
+  <bank>Central Bank of Libya</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>composite</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>LBY</iso_a3>
+    <name>Libya</name>
+  </used_by>
+  <iso>
+    <a3>LYD</a3>
+    <n3>434</n3>
+  </iso>
+</LYD>
+<CHF>
+  <name>Swiss Franc</name>
+  <symbol>CHF</symbol>
+  <subunit>
+    <name>Centime</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>0.5</main>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+  </coins>
+  <bank>Swiss National Bank</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>LIE</iso_a3>
+    <name>Liechtenstein</name>
+  </used_by>
+  <used_by>
+    <iso_a3>CHE</iso_a3>
+    <name>Switzerland</name>
+  </used_by>
+  <iso>
+    <a3>CHF</a3>
+    <n3>756</n3>
+  </iso>
+</CHF>
+<MOP>
+  <name>Pataca</name>
+  <symbol>MOP$</symbol>
+  <subunit>
+    <name>Avos</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Monetary Authority of Macao</bank>
+  <exchange>
+    <arrangement>currency board</arrangement>
+    <policy>exchange rate anchor: HKD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>MAC</iso_a3>
+    <name>Macao</name>
+  </used_by>
+  <iso>
+    <a3>MOP</a3>
+    <n3>446</n3>
+  </iso>
+</MOP>
+<MGA>
+  <name>Malagasy Ariary</name>
+  <symbol>Ar</symbol>
+  <subunit>
+    <name>Iraimbilanja</name>
+    <symbol>null</symbol>
+    <value>0.2</value>
+  </subunit>
+  <banknotes>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>4</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <sub>1</sub>
+    <sub>2</sub>
+  </coins>
+  <bank>Central Bank of Madagascar</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>MDG</iso_a3>
+    <name>Madagascar</name>
+  </used_by>
+  <iso>
+    <a3>MGA</a3>
+    <n3>969</n3>
+  </iso>
+</MGA>
+<MWK>
+  <name>Malawi Kwacha</name>
+  <symbol>MK</symbol>
+  <subunit>
+    <name>Tambala</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+  </coins>
+  <bank>Reserve Bank of Malawi</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>MWI</iso_a3>
+    <name>Malawi</name>
+  </used_by>
+  <iso>
+    <a3>MWK</a3>
+    <n3>454</n3>
+  </iso>
+</MWK>
+<MYR>
+  <name>Malaysian Ringgit</name>
+  <symbol>RM</symbol>
+  <subunit>
+    <name>Sen</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Malaysia</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>MYS</iso_a3>
+    <name>Malaysia</name>
+  </used_by>
+  <iso>
+    <a3>MYR</a3>
+    <n3>458</n3>
+  </iso>
+</MYR>
+<MVR>
+  <name>Rufiyaa</name>
+  <symbol>Rf</symbol>
+  <subunit>
+    <name>Laari</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>1</sub>
+    <sub>2</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Maldives Monetary Authority</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>MDV</iso_a3>
+    <name>Maldives</name>
+  </used_by>
+  <iso>
+    <a3>MVR</a3>
+    <n3>462</n3>
+  </iso>
+</MVR>
+<MRU>
+  <name>Ouguiya</name>
+  <symbol>UM</symbol>
+  <subunit>
+    <name>Khoums</name>
+    <symbol>null</symbol>
+    <value>0.2</value>
+  </subunit>
+  <banknotes>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <sub>1</sub>
+  </coins>
+  <bank>Central Bank of Mauritania</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>MRT</iso_a3>
+    <name>Mauritania</name>
+  </used_by>
+  <iso>
+    <a3>MRU</a3>
+    <n3>929</n3>
+  </iso>
+</MRU>
+<MUR>
+  <name>Mauritius Rupee</name>
+  <symbol>Re</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>c</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>25</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <sub>5</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Bank of Mauritius</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>MUS</iso_a3>
+    <name>Mauritius</name>
+  </used_by>
+  <iso>
+    <a3>MUR</a3>
+    <n3>480</n3>
+  </iso>
+</MUR>
+<MXN>
+  <name>Mexican Peso</name>
+  <symbol>Mex$</symbol>
+  <subunit>
+    <name>Centavo</name>
+    <symbol>¢</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Bank of Mexico</bank>
+  <exchange>
+    <arrangement>free floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>MEX</iso_a3>
+    <name>Mexico</name>
+  </used_by>
+  <iso>
+    <a3>MXN</a3>
+    <n3>484</n3>
+  </iso>
+</MXN>
+<MDL>
+  <name>Moldovan Leu</name>
+  <symbol>L</symbol>
+  <subunit>
+    <name>Ban</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>National Bank of Moldova</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>MDA</iso_a3>
+    <name>Moldova</name>
+  </used_by>
+  <iso>
+    <a3>MDL</a3>
+    <n3>498</n3>
+  </iso>
+</MDL>
+<MNT>
+  <name>Tugrik</name>
+  <symbol>₮</symbol>
+  <subunit>
+    <name>Möngö</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+  </banknotes>
+  <coins>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+  </coins>
+  <bank>Bank of Mongolia</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>MNG</iso_a3>
+    <name>Mongolia</name>
+  </used_by>
+  <iso>
+    <a3>MNT</a3>
+    <n3>496</n3>
+  </iso>
+</MNT>
+<MAD>
+  <name>Moroccan Dirham</name>
+  <symbol>DH</symbol>
+  <subunit>
+    <name>Santim</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>0.5</main>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <sub>10</sub>
+    <sub>20</sub>
+  </coins>
+  <bank>Bank Al-Maghrib</bank>
+  <exchange>
+    <arrangement>pegged exchange rate within horizontal bands</arrangement>
+    <policy>composite</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>MAR</iso_a3>
+    <name>Morocco</name>
+  </used_by>
+  <used_by>
+    <iso_a3>ESH</iso_a3>
+    <name>Western Sahara</name>
+  </used_by>
+  <iso>
+    <a3>MAD</a3>
+    <n3>504</n3>
+  </iso>
+</MAD>
+<MZN>
+  <name>Mozambique Metical</name>
+  <symbol>MT</symbol>
+  <subunit>
+    <name>Centavo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <sub>50</sub>
+  </coins>
+  <bank>Bank of Mozambique</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>MOZ</iso_a3>
+    <name>Mozambique</name>
+  </used_by>
+  <iso>
+    <a3>MZN</a3>
+    <n3>943</n3>
+  </iso>
+</MZN>
+<MMK>
+  <name>Kyat</name>
+  <symbol>K</symbol>
+  <subunit>
+    <name>Pya</name>
+    <symbol></symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>0.5</main>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>5000</main>
+    <main>10000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>50</main>
+    <main>100</main>
+  </coins>
+  <bank>Central Bank of Myanmar</bank>
+  <exchange>
+    <arrangement>other managed arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>MMR</iso_a3>
+    <name>Myanmar</name>
+  </used_by>
+  <iso>
+    <a3>MMK</a3>
+    <n3>104</n3>
+  </iso>
+</MMK>
+<NAD>
+  <name>Namibia Dollar</name>
+  <symbol>N$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Bank of Namibia</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: ZAR</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>NAM</iso_a3>
+    <name>Namibia</name>
+  </used_by>
+  <iso>
+    <a3>NAD</a3>
+    <n3>516</n3>
+  </iso>
+</NAD>
+<NPR>
+  <name>Nepalese Rupee</name>
+  <symbol>रु</symbol>
+  <subunit>
+    <name>Paisa</name>
+    <symbol></symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+  </coins>
+  <bank>Nepal Rastra Bank</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: INR</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>NPL</iso_a3>
+    <name>Nepal</name>
+  </used_by>
+  <iso>
+    <a3>NPR</a3>
+    <n3>524</n3>
+  </iso>
+</NPR>
+<NIO>
+  <name>Cordoba Oro</name>
+  <symbol>C$</symbol>
+  <subunit>
+    <name>Centavo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Nicaragua</bank>
+  <exchange>
+    <arrangement>crawling peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>NIC</iso_a3>
+    <name>Nicaragua</name>
+  </used_by>
+  <iso>
+    <a3>NIO</a3>
+    <n3>558</n3>
+  </iso>
+</NIO>
+<NGN>
+  <name>Naira</name>
+  <symbol>₦</symbol>
+  <subunit>
+    <name>Kobo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Nigeria</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>NGA</iso_a3>
+    <name>Nigeria</name>
+  </used_by>
+  <iso>
+    <a3>NGN</a3>
+    <n3>566</n3>
+  </iso>
+</NGN>
+<MKD>
+  <name>Denar</name>
+  <symbol>den</symbol>
+  <subunit>
+    <name>Deni</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>50</main>
+  </coins>
+  <bank>National Bank of the Republic of Macedonia</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>exchange rate anchor: EUR</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>MKD</iso_a3>
+    <name>North Macedonia</name>
+  </used_by>
+  <iso>
+    <a3>MKD</a3>
+    <n3>807</n3>
+  </iso>
+</MKD>
+<OMR>
+  <name>Rial Omani</name>
+  <symbol>RO</symbol>
+  <subunit>
+    <name>Baisa</name>
+    <symbol>null</symbol>
+    <value>0.001</value>
+  </subunit>
+  <banknotes>
+    <main>0.5</main>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <sub>100</sub>
+  </banknotes>
+  <coins>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Oman</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>OMN</iso_a3>
+    <name>Oman</name>
+  </used_by>
+  <iso>
+    <a3>OMR</a3>
+    <n3>512</n3>
+  </iso>
+</OMR>
+<PKR>
+  <name>Pakistan Rupee</name>
+  <symbol>Re.</symbol>
+  <subunit>
+    <name>Paisa</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>75</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>5000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+  </coins>
+  <bank>State Bank of Pakistan</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>PAK</iso_a3>
+    <name>Pakistan</name>
+  </used_by>
+  <iso>
+    <a3>PKR</a3>
+    <n3>586</n3>
+  </iso>
+</PKR>
+<PAB>
+  <name>Balboa</name>
+  <symbol>B/.</symbol>
+  <subunit>
+    <name>Centésimo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes></banknotes>
+  <coins>
+    <main>1</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>National Bank of Panama</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>PAN</iso_a3>
+    <name>Panama</name>
+  </used_by>
+  <iso>
+    <a3>PAB</a3>
+    <n3>590</n3>
+  </iso>
+</PAB>
+<PGK>
+  <name>Kina</name>
+  <symbol>K</symbol>
+  <subunit>
+    <name>Toea</name>
+    <symbol>t</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Bank of Papua New Guinea</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>PNG</iso_a3>
+    <name>Papua New Guinea</name>
+  </used_by>
+  <iso>
+    <a3>PGK</a3>
+    <n3>598</n3>
+  </iso>
+</PGK>
+<PYG>
+  <name>Guarani</name>
+  <symbol>₲</symbol>
+  <subunit>
+    <name>Céntimo</name>
+    <symbol>¢</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+    <main>50000</main>
+    <main>100000</main>
+  </banknotes>
+  <coins>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+  </coins>
+  <bank>Central Bank of Paraguay</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>PRY</iso_a3>
+    <name>Paraguay</name>
+  </used_by>
+  <iso>
+    <a3>PYG</a3>
+    <n3>600</n3>
+  </iso>
+</PYG>
+<PEN>
+  <name>Sol</name>
+  <symbol>S/</symbol>
+  <subunit>
+    <name>Céntimo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Reserve Bank of Peru</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>PER</iso_a3>
+    <name>Peru</name>
+  </used_by>
+  <iso>
+    <a3>PEN</a3>
+    <n3>604</n3>
+  </iso>
+</PEN>
+<PHP>
+  <name>Philippine Peso</name>
+  <symbol>₱</symbol>
+  <subunit>
+    <name>Centavo</name>
+    <symbol>¢</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>25</sub>
+  </coins>
+  <bank>Bangko Sentral ng Pilipinas</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>PHL</iso_a3>
+    <name>Philippines</name>
+  </used_by>
+  <iso>
+    <a3>PHP</a3>
+    <n3>608</n3>
+  </iso>
+</PHP>
+<PLN>
+  <name>Zloty</name>
+  <symbol>zł</symbol>
+  <subunit>
+    <name>Grosz</name>
+    <symbol>gr</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <sub>1</sub>
+    <sub>2</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>National Bank of Poland</bank>
+  <exchange>
+    <arrangement>free floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>POL</iso_a3>
+    <name>Poland</name>
+  </used_by>
+  <iso>
+    <a3>PLN</a3>
+    <n3>985</n3>
+  </iso>
+</PLN>
+<QAR>
+  <name>Qatari Rial</name>
+  <symbol>QR</symbol>
+  <subunit>
+    <name>Dirham</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+  </banknotes>
+  <coins>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Qatar Central Bank</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>QAT</iso_a3>
+    <name>Qatar</name>
+  </used_by>
+  <iso>
+    <a3>QAR</a3>
+    <n3>634</n3>
+  </iso>
+</QAR>
+<RON>
+  <name>Romanian Leu</name>
+  <symbol>leu</symbol>
+  <subunit>
+    <name>Ban</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+  </banknotes>
+  <coins>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>National Bank of Romania</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>ROU</iso_a3>
+    <name>Romania</name>
+  </used_by>
+  <iso>
+    <a3>RON</a3>
+    <n3>946</n3>
+  </iso>
+</RON>
+<RUB>
+  <name>Russian Ruble</name>
+  <symbol>₽</symbol>
+  <subunit>
+    <name>Kopeyka</name>
+    <symbol>kop</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of the Russian Federation</bank>
+  <exchange>
+    <arrangement>free floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>RUS</iso_a3>
+    <name>Russia</name>
+  </used_by>
+  <iso>
+    <a3>RUB</a3>
+    <n3>643</n3>
+  </iso>
+</RUB>
+<RWF>
+  <name>Rwanda Franc</name>
+  <symbol>FRw</symbol>
+  <subunit>
+    <name>Centime</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </coins>
+  <bank>National Bank of Rwanda</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>RWA</iso_a3>
+    <name>Rwanda</name>
+  </used_by>
+  <iso>
+    <a3>RWF</a3>
+    <n3>646</n3>
+  </iso>
+</RWF>
+<SHP>
+  <name>Saint Helena Pound</name>
+  <symbol>£</symbol>
+  <subunit>
+    <name>Penny</name>
+    <symbol>p</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>1</sub>
+    <sub>2</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Government of Saint Helena</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: GBP</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SHN</iso_a3>
+    <name>Saint Helena, Ascension and Tristan da Cunha</name>
+  </used_by>
+  <iso>
+    <a3>SHP</a3>
+    <n3>654</n3>
+  </iso>
+</SHP>
+<WST>
+  <name>Tala</name>
+  <symbol>WS$</symbol>
+  <subunit>
+    <name>Sene</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Samoa</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>WSM</iso_a3>
+    <name>Samoa</name>
+  </used_by>
+  <iso>
+    <a3>WST</a3>
+    <n3>882</n3>
+  </iso>
+</WST>
+<STN>
+  <name>Dobra</name>
+  <symbol>Db</symbol>
+  <subunit>
+    <name>Cêntimo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of São Tomé and Príncipe</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: EUR</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>STP</iso_a3>
+    <name>Sao Tome and Principe</name>
+  </used_by>
+  <iso>
+    <a3>STN</a3>
+    <n3>930</n3>
+  </iso>
+</STN>
+<SAR>
+  <name>Saudi Riyal</name>
+  <symbol>SAR</symbol>
+  <subunit>
+    <name>Halalah</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Saudi Central Bank</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SAU</iso_a3>
+    <name>Saudi Arabia</name>
+  </used_by>
+  <iso>
+    <a3>SAR</a3>
+    <n3>682</n3>
+  </iso>
+</SAR>
+<RSD>
+  <name>Serbian Dinar</name>
+  <symbol>DIN</symbol>
+  <subunit>
+    <name>Pаra</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+  </coins>
+  <bank>National Bank of Serbia</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SRB</iso_a3>
+    <name>Serbia</name>
+  </used_by>
+  <iso>
+    <a3>RSD</a3>
+    <n3>941</n3>
+  </iso>
+</RSD>
+<SCR>
+  <name>Seychelles Rupee</name>
+  <symbol>Re</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>c</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10</main>
+    <main>25</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+  </coins>
+  <bank>Central Bank of Seychelles</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SYC</iso_a3>
+    <name>Seychelles</name>
+  </used_by>
+  <iso>
+    <a3>SCR</a3>
+    <n3>690</n3>
+  </iso>
+</SCR>
+<SLE>
+  <name>Leone</name>
+  <symbol>Le</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>¢</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+  </banknotes>
+  <coins>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Bank of Sierra Leone</bank>
+  <exchange>
+    <arrangement>other managed arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SLE</iso_a3>
+    <name>Sierra Leone</name>
+  </used_by>
+  <iso>
+    <a3>SLE</a3>
+    <n3>925</n3>
+  </iso>
+</SLE>
+<SLL>
+  <name>Leone</name>
+  <symbol>Le</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>¢</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+    <sub>50</sub>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>10</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <sub>0.5</sub>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+  </coins>
+  <bank>Bank of Sierra Leone</bank>
+  <exchange>
+    <arrangement>other managed arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SLE</iso_a3>
+    <name>Sierra Leone</name>
+  </used_by>
+  <iso>
+    <a3>SLL</a3>
+    <n3>694</n3>
+  </iso>
+</SLL>
+<SGD>
+  <name>Singapore Dollar</name>
+  <symbol>S$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>c</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Monetary Authority of Singapore</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>composite</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SGP</iso_a3>
+    <name>Singapore</name>
+  </used_by>
+  <iso>
+    <a3>SGD</a3>
+    <n3>702</n3>
+  </iso>
+</SGD>
+<SBD>
+  <name>Solomon Islands Dollar</name>
+  <symbol>SI$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Solomon Islands</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SLB</iso_a3>
+    <name>Solomon Islands</name>
+  </used_by>
+  <iso>
+    <a3>SBD</a3>
+    <n3>090</n3>
+  </iso>
+</SBD>
+<SOS>
+  <name>Somali Shilling</name>
+  <symbol>Sh.</symbol>
+  <subunit>
+    <name>Senti</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>5000</main>
+    <main>10000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Somalia</bank>
+  <exchange>
+    <arrangement>free floating</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SOM</iso_a3>
+    <name>Somalia</name>
+  </used_by>
+  <iso>
+    <a3>SOS</a3>
+    <n3>706</n3>
+  </iso>
+</SOS>
+<SSP>
+  <name>South Sudanese Pound</name>
+  <symbol>SSP</symbol>
+  <subunit>
+    <name>Piaster</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>0.1</main>
+    <main>0.2</main>
+    <main>0.5</main>
+    <main>1</main>
+    <main>2</main>
+  </coins>
+  <bank>Bank of South Sudan</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SSD</iso_a3>
+    <name>South Sudan</name>
+  </used_by>
+  <iso>
+    <a3>SSP</a3>
+    <n3>728</n3>
+  </iso>
+</SSP>
+<LKR>
+  <name>Sri Lanka Rupee</name>
+  <symbol>Re</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>5000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+  </coins>
+  <bank>Central Bank of Sri Lanka</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>LKA</iso_a3>
+    <name>Sri Lanka</name>
+  </used_by>
+  <iso>
+    <a3>LKR</a3>
+    <n3>144</n3>
+  </iso>
+</LKR>
+<SDG>
+  <name>Sudanese Pound</name>
+  <symbol>LS</symbol>
+  <subunit>
+    <name>Piastre</name>
+    <symbol>PT</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Sudan</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SDN</iso_a3>
+    <name>Sudan</name>
+  </used_by>
+  <iso>
+    <a3>SDG</a3>
+    <n3>938</n3>
+  </iso>
+</SDG>
+<SRD>
+  <name>Surinam Dollar</name>
+  <symbol>Sur$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>100</sub>
+    <sub>250</sub>
+  </coins>
+  <bank>Central Bank of Suriname</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SUR</iso_a3>
+    <name>Suriname</name>
+  </used_by>
+  <iso>
+    <a3>SRD</a3>
+    <n3>968</n3>
+  </iso>
+</SRD>
+<SEK>
+  <name>Swedish Krona</name>
+  <symbol>kr</symbol>
+  <subunit>
+    <name>Öre</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+  </coins>
+  <bank>Sveriges Riksbank</bank>
+  <exchange>
+    <arrangement>free floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SWE</iso_a3>
+    <name>Sweden</name>
+  </used_by>
+  <iso>
+    <a3>SEK</a3>
+    <n3>752</n3>
+  </iso>
+</SEK>
+<SYP>
+  <name>Syrian Pound</name>
+  <symbol>LS, £S</symbol>
+  <subunit>
+    <name>Piastre</name>
+    <symbol>p</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>25</main>
+    <main>50</main>
+  </coins>
+  <bank>Central Bank of Syria</bank>
+  <exchange>
+    <arrangement>other managed arrangement</arrangement>
+    <policy>composite</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SYR</iso_a3>
+    <name>Syria</name>
+  </used_by>
+  <iso>
+    <a3>SYP</a3>
+    <n3>760</n3>
+  </iso>
+</SYP>
+<TWD>
+  <name>New Taiwan Dollar</name>
+  <symbol>NT$</symbol>
+  <subunit>
+    <name>Fen</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>10000</main>
+    <main>20000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of the Republic of China (Taiwan)</bank>
+  <exchange>
+    <arrangement>null</arrangement>
+    <policy>null</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>TWN</iso_a3>
+    <name>Taiwan</name>
+  </used_by>
+  <iso>
+    <a3>TWD</a3>
+    <n3>901</n3>
+  </iso>
+</TWD>
+<TJS>
+  <name>Somoni</name>
+  <symbol>ЅM</symbol>
+  <subunit>
+    <name>Diram</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>3</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>3</main>
+    <main>5</main>
+    <sub>1</sub>
+    <sub>2</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>National Bank of Tajikistan</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>TJK</iso_a3>
+    <name>Tajikistan</name>
+  </used_by>
+  <iso>
+    <a3>TJS</a3>
+    <n3>972</n3>
+  </iso>
+</TJS>
+<TZS>
+  <name>Tanzanian Shilling</name>
+  <symbol>TSh</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+  </banknotes>
+  <coins>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+  </coins>
+  <bank>Bank of Tanzania</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>TZA</iso_a3>
+    <name>Tanzania</name>
+  </used_by>
+  <iso>
+    <a3>TZS</a3>
+    <n3>834</n3>
+  </iso>
+</TZS>
+<THB>
+  <name>Baht</name>
+  <symbol>฿</symbol>
+  <subunit>
+    <name>Satang</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Bank of Thailand</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>THA</iso_a3>
+    <name>Thailand</name>
+  </used_by>
+  <iso>
+    <a3>THB</a3>
+    <n3>764</n3>
+  </iso>
+</THB>
+<TOP>
+  <name>Pa’anga</name>
+  <symbol>T$</symbol>
+  <subunit>
+    <name>Seniti</name>
+    <symbol>¢</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>1</sub>
+    <sub>2</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>National Reserve Bank of Tonga</bank>
+  <exchange>
+    <arrangement>other managed arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>TON</iso_a3>
+    <name>Tonga</name>
+  </used_by>
+  <iso>
+    <a3>TOP</a3>
+    <n3>776</n3>
+  </iso>
+</TOP>
+<TTD>
+  <name>Trinidad and Tobago Dollar</name>
+  <symbol>TT$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>¢</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Trinidad and Tobago</bank>
+  <exchange>
+    <arrangement>stabilized arrangement</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>TTO</iso_a3>
+    <name>Trinidad and Tobago</name>
+  </used_by>
+  <iso>
+    <a3>TTD</a3>
+    <n3>780</n3>
+  </iso>
+</TTD>
+<TND>
+  <name>Tunisian Dinar</name>
+  <symbol>DT</symbol>
+  <subunit>
+    <name>Milim</name>
+    <symbol>null</symbol>
+    <value>0.001</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+  </banknotes>
+  <coins>
+    <main>0.5</main>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+    <sub>100</sub>
+    <sub>200</sub>
+  </coins>
+  <bank>Central Bank of Tunisia</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>TUN</iso_a3>
+    <name>Tunisia</name>
+  </used_by>
+  <iso>
+    <a3>TND</a3>
+    <n3>788</n3>
+  </iso>
+</TND>
+<TRY>
+  <name>Turkish Lira</name>
+  <symbol>₺</symbol>
+  <subunit>
+    <name>Kuruş</name>
+    <symbol>kr</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of the Republic of Turkey</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>TUR</iso_a3>
+    <name>Turkey</name>
+  </used_by>
+  <iso>
+    <a3>TRY</a3>
+    <n3>949</n3>
+  </iso>
+</TRY>
+<TMT>
+  <name>Turkmenistan New Manat</name>
+  <symbol>m</symbol>
+  <subunit>
+    <name>Tenge</name>
+    <symbol>t</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>1</sub>
+    <sub>2</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>20</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of Turkmenistan</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>TKM</iso_a3>
+    <name>Turkmenistan</name>
+  </used_by>
+  <iso>
+    <a3>TMT</a3>
+    <n3>934</n3>
+  </iso>
+</TMT>
+<UGX>
+  <name>Uganda Shilling</name>
+  <symbol>USh</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+    <main>50000</main>
+  </banknotes>
+  <coins>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </coins>
+  <bank>Bank of Uganda</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>UGA</iso_a3>
+    <name>Uganda</name>
+  </used_by>
+  <iso>
+    <a3>UGX</a3>
+    <n3>800</n3>
+  </iso>
+</UGX>
+<UAH>
+  <name>Hryvnia</name>
+  <symbol>₴</symbol>
+  <subunit>
+    <name>Kopiyka</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <sub>10</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>National Bank of Ukraine</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>UKR</iso_a3>
+    <name>Ukraine</name>
+  </used_by>
+  <iso>
+    <a3>UAH</a3>
+    <n3>980</n3>
+  </iso>
+</UAH>
+<AED>
+  <name>UAE Dirham</name>
+  <symbol>DH</symbol>
+  <subunit>
+    <name>Fils</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Central Bank of the United Arab Emirates</bank>
+  <exchange>
+    <arrangement>conventional peg</arrangement>
+    <policy>exchange rate anchor: USD</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>ARE</iso_a3>
+    <name>United Arab Emirates</name>
+  </used_by>
+  <iso>
+    <a3>AED</a3>
+    <n3>784</n3>
+  </iso>
+</AED>
+<UYU>
+  <name>Peso Uruguayo</name>
+  <symbol>$U</symbol>
+  <subunit>
+    <name>Centésimo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>50</main>
+  </coins>
+  <bank>Central Bank of Uruguay</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>URY</iso_a3>
+    <name>Uruguay</name>
+  </used_by>
+  <iso>
+    <a3>UYU</a3>
+    <n3>858</n3>
+  </iso>
+</UYU>
+<UZS>
+  <name>Uzbekistan Sum</name>
+  <symbol>Sum</symbol>
+  <subunit>
+    <name>Tiyin</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+    <main>50000</main>
+    <main>100000</main>
+    <main>2e+06</main>
+  </banknotes>
+  <coins>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>1000</main>
+  </coins>
+  <bank>Central Bank of the Republic of Uzbekistan</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>inflation targeting framework</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>UZB</iso_a3>
+    <name>Uzbekistan</name>
+  </used_by>
+  <iso>
+    <a3>UZS</a3>
+    <n3>860</n3>
+  </iso>
+</UZS>
+<VUV>
+  <name>Vatu</name>
+  <symbol>VT</symbol>
+  <subunit>
+    <name>null</name>
+    <symbol>null</symbol>
+    <value>null</value>
+  </subunit>
+  <banknotes>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+  </banknotes>
+  <coins>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </coins>
+  <bank>Reserve Bank of Vanuatu</bank>
+  <exchange>
+    <arrangement>other managed arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>VUT</iso_a3>
+    <name>Vanuatu</name>
+  </used_by>
+  <iso>
+    <a3>VUV</a3>
+    <n3>548</n3>
+  </iso>
+</VUV>
+<VED>
+  <name>Bolívar Digital</name>
+  <symbol>Bs.D</symbol>
+  <subunit>
+    <name>Céntimo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes></banknotes>
+  <coins></coins>
+  <bank>Central Bank of Venezuela</bank>
+  <exchange>
+    <arrangement>other managed arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>VEN</iso_a3>
+    <name>Venezuela</name>
+  </used_by>
+  <iso>
+    <a3>VED</a3>
+    <n3>926</n3>
+  </iso>
+</VED>
+<VES>
+  <name>Bolívar Soberano</name>
+  <symbol>Bs.S</symbol>
+  <subunit>
+    <name>Céntimo</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>10000</main>
+    <main>20000</main>
+    <main>50000</main>
+    <main>200000</main>
+    <main>500000</main>
+    <main>1e+06</main>
+  </banknotes>
+  <coins></coins>
+  <bank>Central Bank of Venezuela</bank>
+  <exchange>
+    <arrangement>other managed arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>VEN</iso_a3>
+    <name>Venezuela</name>
+  </used_by>
+  <iso>
+    <a3>VES</a3>
+    <n3>928</n3>
+  </iso>
+</VES>
+<VND>
+  <name>Dong</name>
+  <symbol>₫</symbol>
+  <subunit>
+    <name>Xu</name>
+    <symbol>null</symbol>
+    <value>0</value>
+  </subunit>
+  <banknotes>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+    <main>10000</main>
+    <main>20000</main>
+    <main>50000</main>
+    <main>100000</main>
+    <main>200000</main>
+    <main>500000</main>
+  </banknotes>
+  <coins>
+    <main>200</main>
+    <main>500</main>
+    <main>1000</main>
+    <main>2000</main>
+    <main>5000</main>
+  </coins>
+  <bank>State Bank of Vietnam</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>composite</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>VNM</iso_a3>
+    <name>Vietnam</name>
+  </used_by>
+  <iso>
+    <a3>VND</a3>
+    <n3>704</n3>
+  </iso>
+</VND>
+<YER>
+  <name>Yemeni Rial</name>
+  <symbol>YRI</symbol>
+  <subunit>
+    <name>Fils</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>50</main>
+    <main>100</main>
+    <main>200</main>
+    <main>250</main>
+    <main>500</main>
+    <main>1000</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+  </coins>
+  <bank>Central Bank of Yemen</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>YEM</iso_a3>
+    <name>Yemen</name>
+  </used_by>
+  <iso>
+    <a3>YER</a3>
+    <n3>886</n3>
+  </iso>
+</YER>
+<ZMW>
+  <name>Zambian Kwacha</name>
+  <symbol>ZK</symbol>
+  <subunit>
+    <name>Ngwee</name>
+    <symbol>null</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Bank of Zambia</bank>
+  <exchange>
+    <arrangement>crawl-like arrangement</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>ZMB</iso_a3>
+    <name>Zambia</name>
+  </used_by>
+  <iso>
+    <a3>ZMW</a3>
+    <n3>967</n3>
+  </iso>
+</ZMW>
+<ZWL>
+  <name>Zimbabwe Dollar</name>
+  <symbol>Z$</symbol>
+  <subunit>
+    <name>Cent</name>
+    <symbol>¢</symbol>
+    <value>0.01</value>
+  </subunit>
+  <banknotes>
+    <main>2</main>
+    <main>5</main>
+    <main>10</main>
+    <main>20</main>
+    <main>50</main>
+    <main>100</main>
+  </banknotes>
+  <coins>
+    <main>1</main>
+    <main>2</main>
+    <sub>1</sub>
+    <sub>5</sub>
+    <sub>10</sub>
+    <sub>25</sub>
+    <sub>50</sub>
+  </coins>
+  <bank>Reserve Bank of Zimbabwe</bank>
+  <exchange>
+    <arrangement>other managed arrangement</arrangement>
+    <policy>monetary aggregate target</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>ZWE</iso_a3>
+    <name>Zimbabwe</name>
+  </used_by>
+  <iso>
+    <a3>ZWL</a3>
+    <n3>932</n3>
+  </iso>
+</ZWL>
+<BTC>
+  <name>Bitcoin</name>
+  <symbol>₿</symbol>
+  <subunit>
+    <name>Satoshi</name>
+    <symbol>null</symbol>
+    <value>1e-08</value>
+  </subunit>
+  <banknotes></banknotes>
+  <coins></coins>
+  <bank>null</bank>
+  <exchange>
+    <arrangement>floating</arrangement>
+    <policy>others</policy>
+  </exchange>
+  <used_by>
+    <iso_a3>SLV</iso_a3>
+    <name>El Salvador</name>
+  </used_by>
+  <used_by>
+    <iso_a3>CAF</iso_a3>
+    <name>Central African Republic</name>
+  </used_by>
+  <iso>
+    <a3>null</a3>
+    <n3>null</n3>
+  </iso>
+</BTC>

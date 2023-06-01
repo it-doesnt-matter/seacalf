@@ -1,0 +1,392 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "patternProperties": {
+    "^[A-Z]{3}$": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "object",
+          "properties": {
+            "short": { "type": "string" },
+            "official": { "type": "string" },
+            "alt": { "type": ["string", "null"] }
+          },
+          "required": ["short", "official", "alt"],
+          "additionalProperties": false
+        },
+        "iso": {
+          "type": "object",
+          "properties": {
+            "a2": {
+              "type": "string",
+              "minLength": 2,
+              "maxLength": 2
+            },
+            "a3": {
+              "type": "string",
+              "minLength": 3,
+              "maxLength": 3
+            },
+            "n3": {
+              "type": "string",
+              "minLength": 3,
+              "maxLength": 3
+            }
+          },
+          "required": ["a2", "a3", "n3"],
+          "additionalProperties": false
+        },
+        "largest_city": { "type": ["string", "null"] },
+        "capital": { "type": ["string", "null"] },
+        "currencies": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "iso_a3": {
+              "type": "string",
+              "minLength": 3,
+              "maxLength": 3
+            },
+              "name": { "type": "string" }
+            },
+            "required": ["iso_a3", "name"],
+            "additionalProperties": false
+          }
+        },
+        "population": {
+          "type": "number",
+          "minimun": 0,
+          "maximum": 4000000000
+        },
+        "area": {
+          "type": "object",
+          "properties": {
+            "total": {
+              "oneOf": [
+                {
+                  "type": "number",
+                  "minimum": 0
+                },
+                { "type": "null" }
+              ]
+            },
+            "land": {
+              "oneOf": [
+                {
+                  "type": "number",
+                  "minimum": 0
+                },
+                { "type": "null" }
+              ]
+            },
+            "water": {
+              "oneOf": [
+                {
+                  "type": "number",
+                  "minimum": 0
+                },
+                { "type": "null" }
+              ]
+            },
+            "water_percentage": {
+              "oneOf": [
+                {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 100
+                },
+                { "type": "null" }
+              ]
+            }
+          },
+          "required": ["total", "land", "water", "water_percentage"],
+          "additionalProperties": false
+        },
+        "calling_code": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 7
+          }
+        },
+        "gdp": {
+          "type": "object",
+          "properties": {
+            "nominal": {
+              "type": "object",
+              "properties": {
+                "total": { "type": ["number", "null"] },
+                "per_capita": { "type": ["number", "null"] }
+              },
+              "required": ["total", "per_capita"],
+              "additionalProperties": false
+            },
+            "ppp": {
+              "type": "object",
+              "properties": {
+                "total": { "type": ["number", "null"] },
+                "per_capita": { "type": ["number", "null"] }
+              },
+              "required": ["total", "per_capita"],
+              "additionalProperties": false
+            }
+          },
+          "required": ["nominal", "ppp"],
+          "additionalProperties": false
+        },
+        "driving_side": { "type": ["string", "null"] },
+        "gini": {
+          "type": "object",
+          "properties": {
+            "estimate": { "type": ["number", "null"] },
+            "year": { "type": ["number", "null"] }
+          },
+          "required": ["estimate", "year"],
+          "additionalProperties": false
+        },
+        "hdi": { "type": ["number", "null"] },
+        "time_zone": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "tld": { "type": "string" },
+        "un": {
+          "type": "object",
+          "properties": {
+            "status": { "type": "string" },
+            "year": { "type": ["number", "null"] }
+          },
+          "required": ["status", "year"],
+          "additionalProperties": false
+        },
+        "unm49": {
+          "type": "object",
+          "properties": {
+            "main": { "type": ["string", "null"] },
+            "sub": { "type": ["string", "null"] },
+            "intermediate": { "type": ["string", "null"] },
+            "cc": { "type": ["string", "null"] }
+          },
+          "required": ["main", "sub", "intermediate", "cc"],
+          "additionalProperties": false
+        },
+        "continent": {
+          "type": "array",
+          "items": { "type": "string" },
+          "maxItems": 2
+        },
+        "languages": {
+          "type": "object",
+          "properties": {
+            "official": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "iso_a3": {
+                    "type": "string",
+                    "minLength": 3,
+                    "maxLength": 3
+                  },
+                  "name": { "type": "string"}
+                },
+                "required": ["iso_a3", "name"],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": ["official"],
+          "additionalProperties": false
+        },
+        "nato": {
+          "type": "object",
+          "properties": {
+            "is_member": { "type": "boolean"},
+            "relations": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          },
+          "required": ["is_member", "relations"],
+          "additionalProperties": false
+        },
+        "inflation": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "rate": { "type": "number" },
+              "year": { "type": "number" }
+            },
+            "required": ["rate", "year"],
+            "additionalProperties": false
+          }
+        },
+        "independence": {
+          "type": "object",
+          "properties": {
+            "is_independent": { "type": "boolean" },
+            "sovereign_state": {
+              "type": "object",
+              "properties": {
+                "iso_a3": { "type": ["string", "null"] },
+                "name": { "type": ["string", "null"] }
+              },
+              "required": ["iso_a3", "name"],
+              "additionalProperties": false
+            },
+            "status": { "type": ["string", "null"] }
+          },
+          "required": ["is_independent", "sovereign_state", "status"],
+          "additionalProperties": false
+        },
+        "centroid": {
+          "type": "object",
+          "properties": {
+            "latitude": { "type": ["number", "null"] },
+            "longitude": { "type": ["number", "null"] }
+          },
+          "required": ["latitude", "longitude"],
+          "additionalProperties": false
+        },
+        "land_borders": {
+          "type": "object",
+          "properties": {
+            "total": { "type": "number" },
+            "countries": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "iso_a3": { "type": "string"},
+                  "name": { "type": "string"},
+                  "length": { "type": "number"}
+                },
+                "required": ["iso_a3", "name", "length"],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": ["total", "countries"],
+          "additionalProperties": false
+        },
+        "gov_type": { "type": ["string", "null"] },
+        "coastline": { "type": ["number", "null"] },
+        "is_landlocked": { "type": "boolean" },
+        "arton": {
+          "type": "object",
+          "properties": {
+            "ms": { "type": ["number", "null"] },
+            "vf": { "type": ["number", "null"] },
+            "voa": { "type": ["number", "null"] },
+            "eta": { "type": ["number", "null"] },
+            "vr": { "type": ["number", "null"] },
+            "ppr": { "type": ["number", "null"] },
+            "ipr": { "type": ["number", "null"] },
+            "wr": { "type": ["number", "null"] }
+          },
+          "required": ["ms", "vf", "voa", "eta", "vr", "ppr", "ipr", "wr"],
+          "additionalProperties": false
+        },
+        "emoji_flag": { "type": "string" },
+        "translations": {
+          "type": "object",
+          "properties": {
+            "AFR": { "type": "string" },
+            "AMH": { "type": "string" },
+            "ARA": { "type": "string" },
+            "AZE": { "type": "string" },
+            "BEL": { "type": "string" },
+            "BUL": { "type": "string" },
+            "BEN": { "type": "string" },
+            "CAT": { "type": "string" },
+            "CES": { "type": "string" },
+            "CYM": { "type": "string" },
+            "DAN": { "type": "string" },
+            "DEU": { "type": "string" },
+            "ELL": { "type": "string" },
+            "ENG": { "type": "string" },
+            "SPA": { "type": "string" },
+            "EST": { "type": "string" },
+            "FAS": { "type": "string" },
+            "FIN": { "type": "string" },
+            "FAO": { "type": "string" },
+            "FRA": { "type": "string" },
+            "GLE": { "type": "string" },
+            "HEB": { "type": "string" },
+            "HIN": { "type": "string" },
+            "HRV": { "type": "string" },
+            "HUN": { "type": "string" },
+            "HYE": { "type": "string" },
+            "IND": { "type": "string" },
+            "ISL": { "type": "string" },
+            "ITA": { "type": "string" },
+            "JPN": { "type": "string" },
+            "KAT": { "type": "string" },
+            "KHM": { "type": "string" },
+            "KOR": { "type": "string" },
+            "LAO": { "type": "string" },
+            "LIT": { "type": "string" },
+            "LAV": { "type": "string" },
+            "MKD": { "type": "string" },
+            "MSA": { "type": "string" },
+            "MLT": { "type": "string" },
+            "MYA": { "type": "string" },
+            "NEP": { "type": "string" },
+            "NLD": { "type": "string" },
+            "NOR": { "type": "string" },
+            "POL": { "type": "string" },
+            "POR": { "type": "string" },
+            "ROH": { "type": "string" },
+            "RON": { "type": "string" },
+            "RUS": { "type": "string" },
+            "SLK": { "type": "string" },
+            "SLV": { "type": "string" },
+            "SNA": { "type": "string" },
+            "SQI": { "type": "string" },
+            "SRP": { "type": "string" },
+            "SWE": { "type": "string" },
+            "TAM": { "type": "string" },
+            "THA": { "type": "string" },
+            "TIR": { "type": "string" },
+            "TUR": { "type": "string" },
+            "UKR": { "type": "string" },
+            "URD": { "type": "string" },
+            "VIE": { "type": "string" },
+            "CMN": {
+              "type": "object",
+              "properties": {
+                "simplified": { "type": "string" },
+                "traditional": { "type": "string" }
+              },
+              "required": ["simplified", "traditional"],
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "AFR", "AMH", "ARA", "AZE", "BEL", "BUL", "BEN", "CAT", "CES", "CYM", "DAN",
+            "DEU", "ELL", "ENG", "SPA", "EST", "FAS", "FIN", "FAO", "FRA", "GLE", "HEB",
+            "HIN", "HRV", "HUN", "HYE", "IND", "ISL", "ITA", "JPN", "KAT", "KHM", "KOR",
+            "LAO", "LIT", "LAV", "MKD", "MSA", "MLT", "MYA", "NEP", "NLD", "NOR", "POL",
+            "POR", "ROH", "RON", "RUS", "SLK", "SLV", "SNA", "SQI", "SRP", "SWE", "TAM",
+            "THA", "TIR", "TUR", "UKR", "URD", "VIE", "CMN"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "name", "iso", "largest_city", "capital", "currencies", "population", "area",
+        "calling_code", "gdp", "driving_side", "gini", "hdi", "time_zone", "tld", "un",
+        "unm49", "continent", "languages", "nato", "inflation", "independence", "centroid",
+        "land_borders", "gov_type", "coastline", "is_landlocked", "arton", "emoji_flag",
+        "translations"
+      ],
+      "additionalProperties": false
+    },
+    "additionalProperties": false
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,5655 @@
+AFN:
+  name: Afghani
+  symbol: Af
+  subunit:
+    name: Pul
+    symbol: ""
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+    sub: []
+  bank: Da Afghanistan Bank
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: AFG
+      name: Afghanistan
+  iso:
+    a3: AFN
+    n3: "971"
+EUR:
+  name: Euro
+  symbol: €
+  subunit:
+    name: Cent
+    symbol: c
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: European Central Bank
+  exchange:
+    arrangement: free floating
+    policy: others
+  used_by:
+    - iso_a3: ALA
+      name: Åland
+    - iso_a3: AND
+      name: Andorra
+    - iso_a3: AUT
+      name: Austria
+    - iso_a3: BEL
+      name: Belgium
+    - iso_a3: HRV
+      name: Croatia
+    - iso_a3: CYP
+      name: Cyprus
+    - iso_a3: EST
+      name: Estonia
+    - iso_a3: FIN
+      name: Finland
+    - iso_a3: FRA
+      name: France
+    - iso_a3: GUF
+      name: French Guiana
+    - iso_a3: ATF
+      name: French Southern Territories
+    - iso_a3: DEU
+      name: Germany
+    - iso_a3: GRC
+      name: Greece
+    - iso_a3: GLP
+      name: Guadeloupe
+    - iso_a3: VAT
+      name: Vatican City
+    - iso_a3: IRL
+      name: Ireland
+    - iso_a3: ITA
+      name: Italy
+    - iso_a3: LVA
+      name: Latvia
+    - iso_a3: LTU
+      name: Lithuania
+    - iso_a3: LUX
+      name: Luxembourg
+    - iso_a3: MLT
+      name: Malta
+    - iso_a3: MTQ
+      name: Martinique
+    - iso_a3: MYT
+      name: Mayotte
+    - iso_a3: MCO
+      name: Monaco
+    - iso_a3: MNE
+      name: Montenegro
+    - iso_a3: NLD
+      name: Netherlands
+    - iso_a3: PRT
+      name: Portugal
+    - iso_a3: REU
+      name: Réunion
+    - iso_a3: BLM
+      name: Saint Barthélemy
+    - iso_a3: MAF
+      name: Saint Martin
+    - iso_a3: SPM
+      name: Saint Pierre and Miquelon
+    - iso_a3: SMR
+      name: San Marino
+    - iso_a3: SVK
+      name: Slovakia
+    - iso_a3: SVN
+      name: Slovenia
+    - iso_a3: ESP
+      name: Spain
+  iso:
+    a3: EUR
+    n3: "978"
+ALL:
+  name: Lek
+  symbol: L
+  subunit:
+    name: Qindarkë
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 200
+      - 500
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  bank: Bank of Albania
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: ALB
+      name: Albania
+  iso:
+    a3: ALL
+    n3: "008"
+DZD:
+  name: Algerian Dinar
+  symbol: DA
+  subunit:
+    name: Centime
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  bank: Bank of Algeria
+  exchange:
+    arrangement: stabilized arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: DZA
+      name: Algeria
+  iso:
+    a3: DZD
+    n3: "012"
+USD:
+  name: US Dollar
+  symbol: US$
+  subunit:
+    name: Cent
+    symbol: ¢
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main: []
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+  bank: Federal Reserve
+  exchange:
+    arrangement: free floating
+    policy: others
+  used_by:
+    - iso_a3: ASM
+      name: American Samoa
+    - iso_a3: BES
+      name: Bonaire, Sint Eustatius and Saba
+    - iso_a3: IOT
+      name: British Indian Ocean Territory
+    - iso_a3: ECU
+      name: Ecuador
+    - iso_a3: SLV
+      name: El Salvador
+    - iso_a3: GUM
+      name: Guam
+    - iso_a3: MHL
+      name: Marshall Islands
+    - iso_a3: FSM
+      name: Micronesia
+    - iso_a3: MNP
+      name: Northern Mariana Islands
+    - iso_a3: PLW
+      name: Palau
+    - iso_a3: PAN
+      name: Panama
+    - iso_a3: PRI
+      name: Puerto Rico
+    - iso_a3: TLS
+      name: Timor-Leste
+    - iso_a3: TCA
+      name: Turks and Caicos Islands
+    - iso_a3: USA
+      name: United States of America
+    - iso_a3: UMI
+      name: United States Minor Outlying Islands
+    - iso_a3: VGB
+      name: British Virgin Islands
+    - iso_a3: VIR
+      name: United States Virgin Islands
+  iso:
+    a3: USD
+    n3: "840"
+AOA:
+  name: Kwanza
+  symbol: Kz
+  subunit:
+    name: Cêntimo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 200
+      - 500
+      - 1000
+      - 2000
+      - 5000
+    sub: []
+  coins:
+    main:
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  bank: National Bank of Angola
+  exchange:
+    arrangement: floating
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: AGO
+      name: Angola
+  iso:
+    a3: AOA
+    n3: "973"
+XCD:
+  name: East Caribbean Dollar
+  symbol: EC$
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 5
+      - 10
+      - 25
+  bank: Eastern Caribbean Central Bank
+  exchange:
+    arrangement: currency board
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: AIA
+      name: Anguilla
+    - iso_a3: ATG
+      name: Antigua and Barbuda
+    - iso_a3: DMA
+      name: Dominica
+    - iso_a3: GRD
+      name: Grenada
+    - iso_a3: MSR
+      name: Montserrat
+    - iso_a3: KNA
+      name: Saint Kitts and Nevis
+    - iso_a3: LCA
+      name: Saint Lucia
+    - iso_a3: VCT
+      name: Saint Vincent and the Grenadines
+  iso:
+    a3: XCD
+    n3: "951"
+ARS:
+  name: Argentine Peso
+  symbol: Arg$
+  subunit:
+    name: Centavo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+    sub: []
+  bank: Central Bank of the Argentine Republic
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: others
+  used_by:
+    - iso_a3: ARG
+      name: Argentina
+  iso:
+    a3: ARS
+    n3: "032"
+AMD:
+  name: Armenian Dram
+  symbol: ֏
+  subunit:
+    name: Luma
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+      - 50000
+      - 100000
+    sub: []
+  coins:
+    main:
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+    sub: []
+  bank: Central Bank of Armenia
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: ARM
+      name: Armenia
+  iso:
+    a3: AMD
+    n3: "051"
+AWG:
+  name: Aruban Florin
+  symbol: Afl
+  subunit:
+    name: Cent
+    symbol: ¢
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 25
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2.5
+      - 5
+    sub:
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Central Bank of Aruba
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: ABW
+      name: Aruba
+  iso:
+    a3: AWG
+    n3: "533"
+AUD:
+  name: Australian Dollar
+  symbol: AU$
+  subunit:
+    name: Cent
+    symbol: c
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Reserve Bank of Australia
+  exchange:
+    arrangement: free floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: AUS
+      name: Australia
+    - iso_a3: CXR
+      name: Christmas Island
+    - iso_a3: CCK
+      name: Cocos (Keeling) Islands
+    - iso_a3: HMD
+      name: Heard Island and McDonald Islands
+    - iso_a3: KIR
+      name: Kiribati
+    - iso_a3: NRU
+      name: Nauru
+    - iso_a3: NFK
+      name: Norfolk Island
+    - iso_a3: TUV
+      name: Tuvalu
+  iso:
+    a3: AUD
+    n3: "036"
+AZN:
+  name: Azerbaijan Manat
+  symbol: ₼
+  subunit:
+    name: Gapik
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main: []
+    sub:
+      - 1
+      - 3
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Central Bank of Azerbaijan
+  exchange:
+    arrangement: stabilized arrangement
+    policy: others
+  used_by:
+    - iso_a3: AZE
+      name: Azerbaijan
+  iso:
+    a3: AZN
+    n3: "944"
+BSD:
+  name: Bahamian Dollar
+  symbol: B$
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 0.5
+      - 1
+      - 3
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main: []
+    sub:
+      - 5
+      - 10
+      - 15
+      - 25
+  bank: Central Bank of The Bahamas
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: BHS
+      name: Bahamas
+  iso:
+    a3: BSD
+    n3: "044"
+BHD:
+  name: Bahraini Dinar
+  symbol: BD
+  subunit:
+    name: Fils
+    symbol: null
+    value: 0.001
+  banknotes:
+    main:
+      - 0.5
+      - 1
+      - 5
+      - 10
+      - 20
+    sub: []
+  coins:
+    main: []
+    sub:
+      - 5
+      - 10
+      - 25
+      - 50
+      - 100
+  bank: Central Bank of Bahrain
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: BHR
+      name: Bahrain
+  iso:
+    a3: BHD
+    n3: "048"
+BDT:
+  name: Taka
+  symbol: ৳
+  subunit:
+    name: Poisha
+    symbol: p
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+    sub: []
+  bank: Bangladesh Bank
+  exchange:
+    arrangement: stabilized arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: BGD
+      name: Bangladesh
+  iso:
+    a3: BDT
+    n3: "050"
+BBD:
+  name: Barbados Dollar
+  symbol: BB$
+  subunit:
+    name: Cent
+    symbol: ¢
+    value: 0.01
+  banknotes:
+    main:
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+  bank: Central Bank of Barbados
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: BRB
+      name: Barbados
+  iso:
+    a3: BBD
+    n3: "052"
+BYN:
+  name: Belarusian Ruble
+  symbol: Rbl
+  subunit:
+    name: Copeck
+    symbol: cop
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: National Bank of the Republic of Belarus
+  exchange:
+    arrangement: floating
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: BLR
+      name: Belarus
+  iso:
+    a3: BYN
+    n3: "933"
+BZD:
+  name: Belize Dollar
+  symbol: BZ$
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Central Bank of Belize
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: BLZ
+      name: Belize
+  iso:
+    a3: BZD
+    n3: "084"
+XOF:
+  name: CFA Franc BCEAO
+  symbol: F.CFA
+  subunit:
+    name: Centime
+    symbol: c
+    value: 0.01
+  banknotes:
+    main:
+      - 500
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+      - 100
+      - 200
+      - 250
+      - 500
+    sub: []
+  bank: Central Bank of West African States
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: EUR'
+  used_by:
+    - iso_a3: BEN
+      name: Benin
+    - iso_a3: BFA
+      name: Burkina Faso
+    - iso_a3: CIV
+      name: Ivory Coast
+    - iso_a3: GNB
+      name: Guinea-Bissau
+    - iso_a3: MLI
+      name: Mali
+    - iso_a3: NER
+      name: Niger
+    - iso_a3: SEN
+      name: Senegal
+    - iso_a3: TGO
+      name: Togo
+  iso:
+    a3: XOF
+    n3: "952"
+BMD:
+  name: Bermudian Dollar
+  symbol: BD$
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Bermuda Monetary Authority
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: BMU
+      name: Bermuda
+  iso:
+    a3: BMD
+    n3: "060"
+BTN:
+  name: Ngultrum
+  symbol: ' Nu.'
+  subunit:
+    name: Chhertum
+    symbol: Ch.
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 3
+    sub:
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Royal Monetary Authority of Bhutan
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: INR'
+  used_by:
+    - iso_a3: BTN
+      name: Bhutan
+  iso:
+    a3: BTN
+    n3: "064"
+INR:
+  name: Indian Rupee
+  symbol: ₹
+  subunit:
+    name: Paisa
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 2000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+    sub:
+      - 50
+  bank: Reserve Bank of India
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: BTN
+      name: Bhutan
+    - iso_a3: IND
+      name: India
+  iso:
+    a3: INR
+    n3: "356"
+BOB:
+  name: Boliviano
+  symbol: Bs
+  subunit:
+    name: Centavo
+    symbol: c.
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+    sub:
+      - 10
+      - 20
+      - 50
+  bank: Central Bank of Bolivia
+  exchange:
+    arrangement: stabilized arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: BOL
+      name: Bolivia
+  iso:
+    a3: BOB
+    n3: "068"
+BAM:
+  name: Convertible Mark
+  symbol: KM
+  subunit:
+    name: Fening
+    symbol: pf
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+    sub:
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Central Bank of Bosnia and Herzegovina
+  exchange:
+    arrangement: currency board
+    policy: 'exchange rate anchor: EUR'
+  used_by:
+    - iso_a3: BIH
+      name: Bosnia and Herzegovina
+  iso:
+    a3: BAM
+    n3: "977"
+BWP:
+  name: Pula
+  symbol: P
+  subunit:
+    name: Thebe
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+    sub:
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Bank of Botswana
+  exchange:
+    arrangement: crawling peg
+    policy: composite
+  used_by:
+    - iso_a3: BWA
+      name: Botswana
+  iso:
+    a3: BWP
+    n3: "072"
+NOK:
+  name: Norwegian Krone
+  symbol: kr
+  subunit:
+    name: Øre
+    symbol: ""
+    value: 0.01
+  banknotes:
+    main:
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+    sub: []
+  bank: Norges Bank
+  exchange:
+    arrangement: free floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: BVT
+      name: Bouvet Island
+    - iso_a3: NOR
+      name: Norway
+    - iso_a3: SJM
+      name: Svalbard and Jan Mayen
+  iso:
+    a3: NOK
+    n3: "578"
+BRL:
+  name: Brazilian Real
+  symbol: R$
+  subunit:
+    name: Centavo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Central Bank of Brazil
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: BRA
+      name: Brazil
+  iso:
+    a3: BRL
+    n3: "986"
+BND:
+  name: Brunei Dollar
+  symbol: B$
+  subunit:
+    name: Sen
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 50
+      - 100
+      - 500
+      - 1000
+      - 10000
+    sub: []
+  coins:
+    main: []
+    sub:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Brunei Darussalam Central Bank
+  exchange:
+    arrangement: currency board
+    policy: 'exchange rate anchor: SGD'
+  used_by:
+    - iso_a3: BRN
+      name: Brunei
+  iso:
+    a3: BND
+    n3: "096"
+BGN:
+  name: Bulgarian Lev
+  symbol: lv.
+  subunit:
+    name: Stotinka
+    symbol: st.
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Bulgarian National Bank
+  exchange:
+    arrangement: currency board
+    policy: 'exchange rate anchor: EUR'
+  used_by:
+    - iso_a3: BGR
+      name: Bulgaria
+  iso:
+    a3: BGN
+    n3: "975"
+BIF:
+  name: Burundi Franc
+  symbol: FBu
+  subunit:
+    name: Centime
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 100
+      - 500
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 50
+    sub: []
+  bank: Bank of the Republic of Burundi
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: BDI
+      name: Burundi
+  iso:
+    a3: BIF
+    n3: "108"
+CVE:
+  name: Cabo Verde Escudo
+  symbol: Esc
+  subunit:
+    name: Centavo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 200
+      - 500
+      - 1000
+      - 2000
+      - 5000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  bank: Bank of Cape Verde
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: EUR'
+  used_by:
+    - iso_a3: CPV
+      name: Cape Verde
+  iso:
+    a3: CVE
+    n3: "132"
+KHR:
+  name: Riel
+  symbol: ៛
+  subunit:
+    name: Sen
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+      - 50000
+    sub: []
+  coins:
+    main:
+      - 50
+      - 100
+      - 200
+      - 500
+    sub: []
+  bank: National Bank of Cambodia
+  exchange:
+    arrangement: stabilized arrangement
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: KHM
+      name: Cambodia
+  iso:
+    a3: KHR
+    n3: "116"
+XAF:
+  name: CFA Franc BEAC
+  symbol: F.CFA
+  subunit:
+    name: Centime
+    symbol: c
+    value: 0.01
+  banknotes:
+    main:
+      - 500
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 25
+      - 50
+      - 100
+      - 500
+    sub: []
+  bank: Bank of Central African States
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: EUR'
+  used_by:
+    - iso_a3: CMR
+      name: Cameroon
+    - iso_a3: CAF
+      name: Central African Republic
+    - iso_a3: TCD
+      name: Chad
+    - iso_a3: COG
+      name: Congo
+    - iso_a3: GNQ
+      name: Equatorial Guinea
+    - iso_a3: GAB
+      name: Gabon
+  iso:
+    a3: XAF
+    n3: "950"
+CAD:
+  name: Canadian Dollar
+  symbol: CA$
+  subunit:
+    name: Cent
+    symbol: ¢
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Bank of Canada
+  exchange:
+    arrangement: free floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: CAN
+      name: Canada
+  iso:
+    a3: CAD
+    n3: "124"
+KYD:
+  name: Cayman Islands Dollar
+  symbol: CI$
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+      - 100
+    sub: []
+  coins:
+    main: []
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+  bank: Cayman Islands Monetary Authority
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: CYM
+      name: Cayman Islands
+  iso:
+    a3: KYD
+    n3: "136"
+CLP:
+  name: Chilean Peso
+  symbol: Ch$
+  subunit:
+    name: Centavo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+    sub: []
+  coins:
+    main:
+      - 10
+      - 50
+      - 100
+      - 500
+    sub: []
+  bank: Central Bank of Chile
+  exchange:
+    arrangement: free floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: CHL
+      name: Chile
+  iso:
+    a3: CLP
+    n3: "152"
+CNY:
+  name: Yuan Renminbi
+  symbol: ¥
+  subunit:
+    name: Fen
+    symbol: 分
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 0.1
+      - 0.5
+      - 1
+    sub: []
+  bank: People's Bank of China
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: CHN
+      name: China
+  iso:
+    a3: CNY
+    n3: "156"
+COP:
+  name: Colombian Peso
+  symbol: Col$
+  subunit:
+    name: Centavo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+      - 50000
+      - 100000
+    sub: []
+  coins:
+    main:
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  bank: Bank of the Republic
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: COL
+      name: Colombia
+  iso:
+    a3: COP
+    n3: "170"
+KMF:
+  name: 'Comorian Franc '
+  symbol: FC
+  subunit:
+    name: Centime
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 500
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+    sub: []
+  coins:
+    main:
+      - 25
+      - 50
+      - 100
+      - 250
+    sub: []
+  bank: Central Bank of the Comoros
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: EUR'
+  used_by:
+    - iso_a3: COM
+      name: Comoros
+  iso:
+    a3: KMF
+    n3: "174"
+CDF:
+  name: Congolese Franc
+  symbol: FC
+  subunit:
+    name: Centime
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+      - 5000
+      - 10000
+      - 20000
+    sub: []
+  coins:
+    main: []
+    sub: []
+  bank: Central Bank of the Congo
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: COD
+      name: DR Congo
+  iso:
+    a3: CDF
+    n3: "976"
+NZD:
+  name: New Zealand Dollar
+  symbol: NZ$
+  subunit:
+    name: Cent
+    symbol: c
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 10
+      - 20
+      - 50
+  bank: Reserve Bank of New Zealand
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: COK
+      name: Cook Islands
+    - iso_a3: NZL
+      name: New Zealand
+    - iso_a3: NIU
+      name: Niue
+    - iso_a3: PCN
+      name: Pitcairn Islands
+    - iso_a3: TKL
+      name: Tokelau
+  iso:
+    a3: NZD
+    n3: "554"
+CRC:
+  name: Costa Rican Colon
+  symbol: ₡
+  subunit:
+    name: Céntimo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+      - 50000
+    sub: []
+  coins:
+    main:
+      - 5
+      - 10
+      - 25
+      - 50
+      - 100
+      - 500
+    sub: []
+  bank: Central Bank of Costa Rica
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: CRI
+      name: Costa Rica
+  iso:
+    a3: CRC
+    n3: "188"
+CUP:
+  name: Cuban Peso
+  symbol: $MN
+  subunit:
+    name: Centavo
+    symbol: ¢
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 3
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 3
+      - 5
+    sub:
+      - 1
+      - 2
+      - 5
+      - 20
+  bank: Central Bank of Cuba
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: CUB
+      name: Cuba
+  iso:
+    a3: CUP
+    n3: "192"
+ANG:
+  name: Netherlands Antillean Guilder
+  symbol: NAf
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 25
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2.5
+      - 5
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Central Bank of Curaçao and Sint Maarten
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: CUW
+      name: Curaçao
+    - iso_a3: SXM
+      name: Sint Maarten
+  iso:
+    a3: ANG
+    n3: "532"
+CZK:
+  name: Czech Koruna
+  symbol: Kč
+  subunit:
+    name: Haléřa
+    symbol: h
+    value: 0.01
+  banknotes:
+    main:
+      - 100
+      - 200
+      - 500
+      - 1000
+      - 2000
+      - 5000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+    sub: []
+  bank: Czech National Bank
+  exchange:
+    arrangement: free floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: CZE
+      name: Czechia
+  iso:
+    a3: CZK
+    n3: "203"
+DKK:
+  name: Danish Krone
+  symbol: kr.
+  subunit:
+    name: Øre
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+    sub:
+      - 50
+  bank: Danmarks Nationalbank
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: EUR'
+  used_by:
+    - iso_a3: DNK
+      name: Denmark
+    - iso_a3: FRO
+      name: Faroe Islands
+    - iso_a3: GRL
+      name: Greenland
+  iso:
+    a3: DKK
+    n3: "208"
+DJF:
+  name: Djibouti Franc
+  symbol: Fdj
+  subunit:
+    name: Centime
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 250
+      - 500
+    sub: []
+  bank: Central Bank of Djibouti
+  exchange:
+    arrangement: currency board
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: DJI
+      name: Djibouti
+  iso:
+    a3: DJF
+    n3: "262"
+DOP:
+  name: Dominican Peso
+  symbol: RD$
+  subunit:
+    name: Centavo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+      - 2000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 25
+    sub: []
+  bank: Central Bank of the Dominican Republic
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: DOM
+      name: Dominican Republic
+  iso:
+    a3: DOP
+    n3: "214"
+EGP:
+  name: Egyptian Pound
+  symbol: E£
+  subunit:
+    name: Piastre
+    symbol: PT
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub:
+      - 25
+      - 50
+  coins:
+    main:
+      - 1
+    sub:
+      - 25
+      - 50
+  bank: Central Bank of Egypt
+  exchange:
+    arrangement: stabilized arrangement
+    policy: others
+  used_by:
+    - iso_a3: EGY
+      name: Egypt
+  iso:
+    a3: EGP
+    n3: "818"
+ERN:
+  name: Nakfa
+  symbol: Nkf
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Bank of Eritrea
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: ERI
+      name: Eritrea
+  iso:
+    a3: ERN
+    n3: "232"
+SZL:
+  name: Lilangeni
+  symbol: L
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+    sub:
+      - 10
+      - 20
+      - 50
+  bank: Central Bank of Swaziland
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: ZAR'
+  used_by:
+    - iso_a3: SWZ
+      name: Eswatini
+  iso:
+    a3: SZL
+    n3: "748"
+ZAR:
+  name: Rand
+  symbol: R
+  subunit:
+    name: Cent
+    symbol: c
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+    sub:
+      - 10
+      - 20
+      - 50
+  bank: South African Reserve Bank
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: SWZ
+      name: Eswatini
+    - iso_a3: LSO
+      name: Lesotho
+    - iso_a3: NAM
+      name: Namibia
+    - iso_a3: ZAF
+      name: South Africa
+  iso:
+    a3: ZAR
+    n3: "710"
+ETB:
+  name: Ethiopian Birr
+  symbol: Br
+  subunit:
+    name: Santim
+    symbol: ""
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: National Bank of Ethiopia
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: ETH
+      name: Ethiopia
+  iso:
+    a3: ETB
+    n3: "230"
+FKP:
+  name: Falkland Islands Pound
+  symbol: £
+  subunit:
+    name: Penny
+    symbol: p
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Government of the Falkland Islands
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: GBP'
+  used_by:
+    - iso_a3: FLK
+      name: Falkland Islands
+  iso:
+    a3: FKP
+    n3: "238"
+FJD:
+  name: Fiji Dollar
+  symbol: FJ$
+  subunit:
+    name: Cent
+    symbol: c
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Reserve Bank of Fiji
+  exchange:
+    arrangement: conventional peg
+    policy: composite
+  used_by:
+    - iso_a3: FJI
+      name: Fiji
+  iso:
+    a3: FJD
+    n3: "242"
+XPF:
+  name: CFP Franc
+  symbol: F
+  subunit:
+    name: Centime
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 500
+      - 1000
+      - 5000
+      - 10000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  bank: Institut d'émission d'outre-mer
+  exchange:
+    arrangement: currency board
+    policy: 'exchange rate anchor: EUR'
+  used_by:
+    - iso_a3: PYF
+      name: French Polynesia
+    - iso_a3: NCL
+      name: New Caledonia
+    - iso_a3: WLF
+      name: Wallis and Futuna
+  iso:
+    a3: XPF
+    n3: "953"
+GMD:
+  name: Dalasi
+  symbol: D
+  subunit:
+    name: Butut
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 25
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Central Bank of The Gambia
+  exchange:
+    arrangement: stabilized arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: GMB
+      name: Gambia
+  iso:
+    a3: GMD
+    n3: "270"
+GEL:
+  name: Lari
+  symbol: ₾
+  subunit:
+    name: Tetri
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: National Bank of Georgia
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: GEO
+      name: Georgia
+  iso:
+    a3: GEL
+    n3: "981"
+GHS:
+  name: Ghana Cedi
+  symbol: GH₵
+  subunit:
+    name: Pesewa
+    symbol: Gp
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Bank of Ghana
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: GHA
+      name: Ghana
+  iso:
+    a3: GHS
+    n3: "936"
+GIP:
+  name: Gibraltar Pound
+  symbol: £
+  subunit:
+    name: Penny
+    symbol: p
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+    sub:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Government of Gibraltar
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: GBP'
+  used_by:
+    - iso_a3: GIB
+      name: Gibraltar
+  iso:
+    a3: GIP
+    n3: "292"
+GTQ:
+  name: Quetzal
+  symbol: Q
+  subunit:
+    name: Centavo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Bank of Guatemala
+  exchange:
+    arrangement: stabilized arrangement
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: GTM
+      name: Guatemala
+  iso:
+    a3: GTQ
+    n3: "320"
+GBP:
+  name: Pound Sterling
+  symbol: £
+  subunit:
+    name: Penny
+    symbol: p
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Bank of England
+  exchange:
+    arrangement: free floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: GGY
+      name: Guernsey
+    - iso_a3: IMN
+      name: Isle of Man
+    - iso_a3: JEY
+      name: Jersey
+    - iso_a3: GBR
+      name: United Kingdom
+  iso:
+    a3: GBP
+    n3: "826"
+GNF:
+  name: Guinean Franc
+  symbol: FG
+  subunit:
+    name: Centime
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 100
+      - 500
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+    sub: []
+  bank: Central Bank of the Republic of Guinea
+  exchange:
+    arrangement: stabilized arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: GIN
+      name: Guinea
+  iso:
+    a3: GNF
+    n3: "324"
+GYD:
+  name: Guyana Dollar
+  symbol: G$
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 20
+      - 50
+      - 100
+      - 500
+      - 1000
+      - 2000
+      - 5000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+    sub: []
+  bank: Bank of Guyana
+  exchange:
+    arrangement: stabilized arrangement
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: GUY
+      name: Guyana
+  iso:
+    a3: GYD
+    n3: "328"
+HTG:
+  name: Gourde
+  symbol: G
+  subunit:
+    name: Centime
+    symbol: c
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 25
+      - 50
+      - 100
+      - 250
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+    sub:
+      - 50
+  bank: Bank of the Republic of Haiti
+  exchange:
+    arrangement: other managed arrangement
+    policy: others
+  used_by:
+    - iso_a3: HTI
+      name: Haiti
+  iso:
+    a3: HTG
+    n3: "332"
+HNL:
+  name: Lempira
+  symbol: L
+  subunit:
+    name: Centavo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+    sub: []
+  coins:
+    main: []
+    sub:
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Central Bank of Honduras
+  exchange:
+    arrangement: crawling peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: HND
+      name: Honduras
+  iso:
+    a3: HNL
+    n3: "340"
+HKD:
+  name: Hong Kong Dollar
+  symbol: HK$
+  subunit:
+    name: Cent
+    symbol: ¢
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 20
+      - 50
+      - 100
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+    sub:
+      - 10
+      - 20
+      - 50
+  bank: Hong Kong Monetary Authority
+  exchange:
+    arrangement: currency board
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: HKG
+      name: Hong Kong
+  iso:
+    a3: HKD
+    n3: "344"
+HUF:
+  name: Forint
+  symbol: Ft
+  subunit:
+    name: Fillér
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 500
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+    sub: []
+  coins:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  bank: Hungarian National Bank
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: HUN
+      name: Hungary
+  iso:
+    a3: HUF
+    n3: "348"
+ISK:
+  name: Iceland Krona
+  symbol: kr
+  subunit:
+    name: Eyrir
+    symbol: a
+    value: 0.01
+  banknotes:
+    main:
+      - 500
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 50
+      - 100
+    sub: []
+  bank: Central Bank of Iceland
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: ISL
+      name: Iceland
+  iso:
+    a3: ISK
+    n3: "352"
+IDR:
+  name: Rupiah
+  symbol: Rp
+  subunit:
+    name: Sen
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+      - 50000
+      - 100000
+    sub: []
+  coins:
+    main:
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  bank: Bank Indonesia
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: IDN
+      name: Indonesia
+  iso:
+    a3: IDR
+    n3: "360"
+IRR:
+  name: Iranian Rial
+  symbol: Rl
+  subunit:
+    name: Dinar
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+      - 50000
+      - 100000
+      - 500000
+      - 1e+06
+      - 2e+06
+    sub: []
+  coins:
+    main:
+      - 1000
+      - 2000
+      - 5000
+    sub: []
+  bank: Central Bank of Iran
+  exchange:
+    arrangement: stabilized arrangement
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: IRN
+      name: Iran
+  iso:
+    a3: IRR
+    n3: "364"
+IQD:
+  name: Iraqi Dinar
+  symbol: ID
+  subunit:
+    name: Fils
+    symbol: null
+    value: 0.001
+  banknotes:
+    main:
+      - 250
+      - 500
+      - 1000
+      - 5000
+      - 10000
+      - 25000
+      - 50000
+    sub: []
+  coins:
+    main:
+      - 25
+      - 50
+      - 100
+    sub: []
+  bank: Central Bank of Iraq
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: IRQ
+      name: Iraq
+  iso:
+    a3: IQD
+    n3: "368"
+ILS:
+  name: New Israeli Sheqel
+  symbol: ₪
+  subunit:
+    name: Agora
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 0.5
+      - 1
+      - 2
+      - 5
+      - 10
+    sub:
+      - 10
+  bank: Bank of Israel
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: ISR
+      name: Israel
+  iso:
+    a3: ILS
+    n3: "376"
+JMD:
+  name: Jamaican Dollar
+  symbol: J$
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 50
+      - 100
+      - 500
+      - 1000
+      - 5000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+    sub: []
+  bank: Bank of Jamaica
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: JAM
+      name: Jamaica
+  iso:
+    a3: JMD
+    n3: "388"
+JPY:
+  name: Yen
+  symbol: ¥
+  subunit:
+    name: Sen
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 50
+      - 100
+      - 500
+    sub: []
+  bank: Bank of Japan
+  exchange:
+    arrangement: free floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: JPN
+      name: Japan
+  iso:
+    a3: JPY
+    n3: "392"
+JOD:
+  name: Jordanian Dinar
+  symbol: JD
+  subunit:
+    name: Piastre
+    symbol: ""
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+    sub: []
+  coins:
+    main: []
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Central Bank of Jordan
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: JOR
+      name: Jordan
+  iso:
+    a3: JOD
+    n3: "400"
+KZT:
+  name: Tenge
+  symbol: ₸
+  subunit:
+    name: Tiyn
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 200
+      - 500
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  bank: National Bank of Kazakhstan
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: KAZ
+      name: Kazakhstan
+  iso:
+    a3: KZT
+    n3: "398"
+KES:
+  name: Kenyan Shilling
+  symbol: KSh
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+    sub: []
+  bank: Central Bank of Kenya
+  exchange:
+    arrangement: other managed arrangement
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: KEN
+      name: Kenya
+  iso:
+    a3: KES
+    n3: "404"
+KPW:
+  name: North Korean Won
+  symbol: ₩
+  subunit:
+    name: Chon
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+      - 2000
+      - 5000
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 1
+      - 5
+      - 10
+      - 50
+  bank: Central Bank of the Democratic People's Republic of Korea
+  exchange:
+    arrangement: null
+    policy: null
+  used_by:
+    - iso_a3: PRK
+      name: North Korea
+  iso:
+    a3: KPW
+    n3: "408"
+KRW:
+  name: Won
+  symbol: ₩
+  subunit:
+    name: Jeon
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 50000
+    sub: []
+  coins:
+    main:
+      - 10
+      - 50
+      - 100
+      - 500
+    sub: []
+  bank: Bank of Korea
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: KOR
+      name: South Korea
+  iso:
+    a3: KRW
+    n3: "410"
+KWD:
+  name: Kuwaiti Dinar
+  symbol: KD
+  subunit:
+    name: Fils
+    symbol: ""
+    value: 0.001
+  banknotes:
+    main:
+      - 0.25
+      - 0.5
+      - 1
+      - 5
+      - 10
+      - 20
+    sub: []
+  coins:
+    main: []
+    sub:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+  bank: Central Bank of Kuwait
+  exchange:
+    arrangement: other managed arrangement
+    policy: composite
+  used_by:
+    - iso_a3: KWT
+      name: Kuwait
+  iso:
+    a3: KWD
+    n3: "414"
+KGS:
+  name: Som
+  symbol: ⃀
+  subunit:
+    name: Tyiyn
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+      - 5000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 3
+      - 5
+      - 10
+    sub:
+      - 10
+      - 50
+  bank: National Bank of the Kyrgyz Republic
+  exchange:
+    arrangement: other managed arrangement
+    policy: others
+  used_by:
+    - iso_a3: KGZ
+      name: Kyrgyzstan
+  iso:
+    a3: KGS
+    n3: "417"
+LAK:
+  name: Lao Kip
+  symbol: ₭
+  subunit:
+    name: Att
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 500
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+      - 50000
+      - 100000
+    sub: []
+  coins:
+    main: []
+    sub: []
+  bank: Bank of the Lao P.D.R.
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: others
+  used_by:
+    - iso_a3: LAO
+      name: Laos
+  iso:
+    a3: LAK
+    n3: "418"
+LBP:
+  name: Lebanese Pound
+  symbol: LL
+  subunit:
+    name: Piastre
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1000
+      - 5000
+      - 10000
+      - 20000
+      - 50000
+      - 100000
+    sub: []
+  coins:
+    main:
+      - 250
+      - 500
+    sub: []
+  bank: Banque du Liban
+  exchange:
+    arrangement: stabilized arrangement
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: LBN
+      name: Lebanon
+  iso:
+    a3: LBP
+    n3: "422"
+LSL:
+  name: Loti
+  symbol: L
+  subunit:
+    name: Sente
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+    sub:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Central Bank of Lesotho
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: ZAR'
+  used_by:
+    - iso_a3: LSO
+      name: Lesotho
+  iso:
+    a3: LSL
+    n3: "426"
+LRD:
+  name: Liberian Dollar
+  symbol: L$
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+    sub:
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Central Bank of Liberia
+  exchange:
+    arrangement: other managed arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: LBR
+      name: Liberia
+  iso:
+    a3: LRD
+    n3: "430"
+LYD:
+  name: Libyan Dinar
+  symbol: LD
+  subunit:
+    name: Dirham
+    symbol: dh.
+    value: 0.001
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+    sub: []
+  coins:
+    main:
+      - 0.25
+      - 0.5
+    sub:
+      - 50
+      - 100
+  bank: Central Bank of Libya
+  exchange:
+    arrangement: conventional peg
+    policy: composite
+  used_by:
+    - iso_a3: LBY
+      name: Libya
+  iso:
+    a3: LYD
+    n3: "434"
+CHF:
+  name: Swiss Franc
+  symbol: CHF
+  subunit:
+    name: Centime
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 0.5
+      - 1
+      - 2
+      - 5
+    sub:
+      - 5
+      - 10
+      - 20
+  bank: Swiss National Bank
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: others
+  used_by:
+    - iso_a3: LIE
+      name: Liechtenstein
+    - iso_a3: CHE
+      name: Switzerland
+  iso:
+    a3: CHF
+    n3: "756"
+MOP:
+  name: Pataca
+  symbol: MOP$
+  subunit:
+    name: Avos
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 20
+      - 50
+      - 100
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+    sub:
+      - 10
+      - 20
+      - 50
+  bank: Monetary Authority of Macao
+  exchange:
+    arrangement: currency board
+    policy: 'exchange rate anchor: HKD'
+  used_by:
+    - iso_a3: MAC
+      name: Macao
+  iso:
+    a3: MOP
+    n3: "446"
+MGA:
+  name: Malagasy Ariary
+  symbol: Ar
+  subunit:
+    name: Iraimbilanja
+    symbol: null
+    value: 0.2
+  banknotes:
+    main:
+      - 100
+      - 200
+      - 500
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 4
+      - 5
+      - 10
+      - 20
+      - 50
+    sub:
+      - 1
+      - 2
+  bank: Central Bank of Madagascar
+  exchange:
+    arrangement: floating
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: MDG
+      name: Madagascar
+  iso:
+    a3: MGA
+    n3: "969"
+MWK:
+  name: Malawi Kwacha
+  symbol: MK
+  subunit:
+    name: Tambala
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+      - 2000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+    sub: []
+  bank: Reserve Bank of Malawi
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: others
+  used_by:
+    - iso_a3: MWI
+      name: Malawi
+  iso:
+    a3: MWK
+    n3: "454"
+MYR:
+  name: Malaysian Ringgit
+  symbol: RM
+  subunit:
+    name: Sen
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main: []
+    sub:
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Central Bank of Malaysia
+  exchange:
+    arrangement: floating
+    policy: others
+  used_by:
+    - iso_a3: MYS
+      name: Malaysia
+  iso:
+    a3: MYR
+    n3: "458"
+MVR:
+  name: Rufiyaa
+  symbol: Rf
+  subunit:
+    name: Laari
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Maldives Monetary Authority
+  exchange:
+    arrangement: stabilized arrangement
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: MDV
+      name: Maldives
+  iso:
+    a3: MVR
+    n3: "462"
+MRU:
+  name: Ouguiya
+  symbol: UM
+  subunit:
+    name: Khoums
+    symbol: null
+    value: 0.2
+  banknotes:
+    main:
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+    sub:
+      - 1
+  bank: Central Bank of Mauritania
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: others
+  used_by:
+    - iso_a3: MRT
+      name: Mauritania
+  iso:
+    a3: MRU
+    n3: "929"
+MUR:
+  name: Mauritius Rupee
+  symbol: Re
+  subunit:
+    name: Cent
+    symbol: c
+    value: 0.01
+  banknotes:
+    main:
+      - 25
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+      - 2000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+    sub:
+      - 5
+      - 20
+      - 50
+  bank: Bank of Mauritius
+  exchange:
+    arrangement: floating
+    policy: others
+  used_by:
+    - iso_a3: MUS
+      name: Mauritius
+  iso:
+    a3: MUR
+    n3: "480"
+MXN:
+  name: Mexican Peso
+  symbol: Mex$
+  subunit:
+    name: Centavo
+    symbol: ¢
+    value: 0.01
+  banknotes:
+    main:
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+    sub:
+      - 10
+      - 20
+      - 50
+  bank: Bank of Mexico
+  exchange:
+    arrangement: free floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: MEX
+      name: Mexico
+  iso:
+    a3: MXN
+    n3: "484"
+MDL:
+  name: Moldovan Leu
+  symbol: L
+  subunit:
+    name: Ban
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: National Bank of Moldova
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: MDA
+      name: Moldova
+  iso:
+    a3: MDL
+    n3: "498"
+MNT:
+  name: Tugrik
+  symbol: ₮
+  subunit:
+    name: Möngö
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 500
+      - 1000
+      - 5000
+      - 10000
+      - 20000
+    sub: []
+  coins:
+    main:
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+    sub: []
+  bank: Bank of Mongolia
+  exchange:
+    arrangement: stabilized arrangement
+    policy: others
+  used_by:
+    - iso_a3: MNG
+      name: Mongolia
+  iso:
+    a3: MNT
+    n3: "496"
+MAD:
+  name: Moroccan Dirham
+  symbol: DH
+  subunit:
+    name: Santim
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 0.5
+      - 1
+      - 5
+      - 10
+    sub:
+      - 10
+      - 20
+  bank: Bank Al-Maghrib
+  exchange:
+    arrangement: pegged exchange rate within horizontal bands
+    policy: composite
+  used_by:
+    - iso_a3: MAR
+      name: Morocco
+    - iso_a3: ESH
+      name: Western Sahara
+  iso:
+    a3: MAD
+    n3: "504"
+MZN:
+  name: Mozambique Metical
+  symbol: MT
+  subunit:
+    name: Centavo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+    sub:
+      - 50
+  bank: Bank of Mozambique
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: others
+  used_by:
+    - iso_a3: MOZ
+      name: Mozambique
+  iso:
+    a3: MZN
+    n3: "943"
+MMK:
+  name: Kyat
+  symbol: K
+  subunit:
+    name: Pya
+    symbol: ""
+    value: 0.01
+  banknotes:
+    main:
+      - 0.5
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+      - 5000
+      - 10000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 50
+      - 100
+    sub: []
+  bank: Central Bank of Myanmar
+  exchange:
+    arrangement: other managed arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: MMR
+      name: Myanmar
+  iso:
+    a3: MMK
+    n3: "104"
+NAD:
+  name: Namibia Dollar
+  symbol: N$
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+    sub:
+      - 5
+      - 10
+      - 50
+  bank: Bank of Namibia
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: ZAR'
+  used_by:
+    - iso_a3: NAM
+      name: Namibia
+  iso:
+    a3: NAD
+    n3: "516"
+NPR:
+  name: Nepalese Rupee
+  symbol: रु
+  subunit:
+    name: Paisa
+    symbol: ""
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub: []
+  bank: Nepal Rastra Bank
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: INR'
+  used_by:
+    - iso_a3: NPL
+      name: Nepal
+  iso:
+    a3: NPR
+    n3: "524"
+NIO:
+  name: Cordoba Oro
+  symbol: C$
+  subunit:
+    name: Centavo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+    sub:
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Central Bank of Nicaragua
+  exchange:
+    arrangement: crawling peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: NIC
+      name: Nicaragua
+  iso:
+    a3: NIO
+    n3: "558"
+NGN:
+  name: Naira
+  symbol: ₦
+  subunit:
+    name: Kobo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 50
+  bank: Central Bank of Nigeria
+  exchange:
+    arrangement: stabilized arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: NGA
+      name: Nigeria
+  iso:
+    a3: NGN
+    n3: "566"
+MKD:
+  name: Denar
+  symbol: den
+  subunit:
+    name: Deni
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+      - 2000
+      - 5000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 50
+    sub: []
+  bank: National Bank of the Republic of Macedonia
+  exchange:
+    arrangement: stabilized arrangement
+    policy: 'exchange rate anchor: EUR'
+  used_by:
+    - iso_a3: MKD
+      name: North Macedonia
+  iso:
+    a3: MKD
+    n3: "807"
+OMR:
+  name: Rial Omani
+  symbol: RO
+  subunit:
+    name: Baisa
+    symbol: null
+    value: 0.001
+  banknotes:
+    main:
+      - 0.5
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+    sub:
+      - 100
+  coins:
+    main: []
+    sub:
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Central Bank of Oman
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: OMN
+      name: Oman
+  iso:
+    a3: OMR
+    n3: "512"
+PKR:
+  name: Pakistan Rupee
+  symbol: Re.
+  subunit:
+    name: Paisa
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 20
+      - 50
+      - 75
+      - 100
+      - 500
+      - 1000
+      - 5000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+    sub: []
+  bank: State Bank of Pakistan
+  exchange:
+    arrangement: floating
+    policy: others
+  used_by:
+    - iso_a3: PAK
+      name: Pakistan
+  iso:
+    a3: PKR
+    n3: "586"
+PAB:
+  name: Balboa
+  symbol: B/.
+  subunit:
+    name: Centésimo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main: []
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: National Bank of Panama
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: PAN
+      name: Panama
+  iso:
+    a3: PAB
+    n3: "590"
+PGK:
+  name: Kina
+  symbol: K
+  subunit:
+    name: Toea
+    symbol: t
+    value: 0.01
+  banknotes:
+    main:
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Bank of Papua New Guinea
+  exchange:
+    arrangement: stabilized arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: PNG
+      name: Papua New Guinea
+  iso:
+    a3: PGK
+    n3: "598"
+PYG:
+  name: Guarani
+  symbol: ₲
+  subunit:
+    name: Céntimo
+    symbol: ¢
+    value: 0.01
+  banknotes:
+    main:
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+      - 50000
+      - 100000
+    sub: []
+  coins:
+    main:
+      - 50
+      - 100
+      - 500
+      - 1000
+    sub: []
+  bank: Central Bank of Paraguay
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: PRY
+      name: Paraguay
+  iso:
+    a3: PYG
+    n3: "600"
+PEN:
+  name: Sol
+  symbol: S/
+  subunit:
+    name: Céntimo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+    sub:
+      - 10
+      - 20
+      - 50
+  bank: Central Reserve Bank of Peru
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: PER
+      name: Peru
+  iso:
+    a3: PEN
+    n3: "604"
+PHP:
+  name: Philippine Peso
+  symbol: ₱
+  subunit:
+    name: Centavo
+    symbol: ¢
+    value: 0.01
+  banknotes:
+    main:
+      - 20
+      - 50
+      - 100
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+    sub:
+      - 1
+      - 5
+      - 25
+  bank: Bangko Sentral ng Pilipinas
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: PHL
+      name: Philippines
+  iso:
+    a3: PHP
+    n3: "608"
+PLN:
+  name: Zloty
+  symbol: zł
+  subunit:
+    name: Grosz
+    symbol: gr
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+    sub:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: National Bank of Poland
+  exchange:
+    arrangement: free floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: POL
+      name: Poland
+  iso:
+    a3: PLN
+    n3: "985"
+QAR:
+  name: Qatari Rial
+  symbol: QR
+  subunit:
+    name: Dirham
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 50
+      - 100
+      - 200
+      - 500
+    sub: []
+  coins:
+    main: []
+    sub:
+      - 25
+      - 50
+  bank: Qatar Central Bank
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: QAT
+      name: Qatar
+  iso:
+    a3: QAR
+    n3: "634"
+RON:
+  name: Romanian Leu
+  symbol: leu
+  subunit:
+    name: Ban
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+    sub: []
+  coins:
+    main: []
+    sub:
+      - 1
+      - 5
+      - 10
+      - 50
+  bank: National Bank of Romania
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: ROU
+      name: Romania
+  iso:
+    a3: RON
+    n3: "946"
+RUB:
+  name: Russian Ruble
+  symbol: ₽
+  subunit:
+    name: Kopeyka
+    symbol: kop
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+      - 2000
+      - 5000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+    sub:
+      - 1
+      - 5
+      - 10
+      - 50
+  bank: Central Bank of the Russian Federation
+  exchange:
+    arrangement: free floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: RUS
+      name: Russia
+  iso:
+    a3: RUB
+    n3: "643"
+RWF:
+  name: Rwanda Franc
+  symbol: FRw
+  subunit:
+    name: Centime
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 500
+      - 1000
+      - 2000
+      - 5000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  bank: National Bank of Rwanda
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: RWA
+      name: Rwanda
+  iso:
+    a3: RWF
+    n3: "646"
+SHP:
+  name: Saint Helena Pound
+  symbol: £
+  subunit:
+    name: Penny
+    symbol: p
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Government of Saint Helena
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: GBP'
+  used_by:
+    - iso_a3: SHN
+      name: Saint Helena, Ascension and Tristan da Cunha
+  iso:
+    a3: SHP
+    n3: "654"
+WST:
+  name: Tala
+  symbol: WS$
+  subunit:
+    name: Sene
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 10
+      - 20
+      - 50
+  bank: Central Bank of Samoa
+  exchange:
+    arrangement: conventional peg
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: WSM
+      name: Samoa
+  iso:
+    a3: WST
+    n3: "882"
+STN:
+  name: Dobra
+  symbol: Db
+  subunit:
+    name: Cêntimo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 10
+      - 20
+      - 50
+  bank: Central Bank of São Tomé and Príncipe
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: EUR'
+  used_by:
+    - iso_a3: STP
+      name: Sao Tome and Principe
+  iso:
+    a3: STN
+    n3: "930"
+SAR:
+  name: Saudi Riyal
+  symbol: SAR
+  subunit:
+    name: Halalah
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 50
+      - 100
+      - 500
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Saudi Central Bank
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: SAU
+      name: Saudi Arabia
+  iso:
+    a3: SAR
+    n3: "682"
+RSD:
+  name: Serbian Dinar
+  symbol: DIN
+  subunit:
+    name: Pаra
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+      - 2000
+      - 5000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+    sub: []
+  bank: National Bank of Serbia
+  exchange:
+    arrangement: stabilized arrangement
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: SRB
+      name: Serbia
+  iso:
+    a3: RSD
+    n3: "941"
+SCR:
+  name: Seychelles Rupee
+  symbol: Re
+  subunit:
+    name: Cent
+    symbol: c
+    value: 0.01
+  banknotes:
+    main:
+      - 10
+      - 25
+      - 50
+      - 100
+      - 500
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+  bank: Central Bank of Seychelles
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: SYC
+      name: Seychelles
+  iso:
+    a3: SCR
+    n3: "690"
+SLE:
+  name: Leone
+  symbol: Le
+  subunit:
+    name: Cent
+    symbol: ¢
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+    sub: []
+  coins:
+    main: []
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Bank of Sierra Leone
+  exchange:
+    arrangement: other managed arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: SLE
+      name: Sierra Leone
+  iso:
+    a3: SLE
+    n3: "925"
+SLL:
+  name: Leone
+  symbol: Le
+  subunit:
+    name: Cent
+    symbol: ¢
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 100
+      - 500
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+    sub:
+      - 50
+  coins:
+    main:
+      - 1
+      - 2
+      - 10
+      - 50
+      - 100
+      - 500
+    sub:
+      - 0.5
+      - 1
+      - 5
+      - 10
+      - 20
+  bank: Bank of Sierra Leone
+  exchange:
+    arrangement: other managed arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: SLE
+      name: Sierra Leone
+  iso:
+    a3: SLL
+    n3: "694"
+SGD:
+  name: Singapore Dollar
+  symbol: S$
+  subunit:
+    name: Cent
+    symbol: c
+    value: 0.01
+  banknotes:
+    main:
+      - 2
+      - 5
+      - 10
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Monetary Authority of Singapore
+  exchange:
+    arrangement: stabilized arrangement
+    policy: composite
+  used_by:
+    - iso_a3: SGP
+      name: Singapore
+  iso:
+    a3: SGD
+    n3: "702"
+SBD:
+  name: Solomon Islands Dollar
+  symbol: SI$
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 10
+      - 20
+      - 50
+  bank: Central Bank of Solomon Islands
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: others
+  used_by:
+    - iso_a3: SLB
+      name: Solomon Islands
+  iso:
+    a3: SBD
+    n3: "090"
+SOS:
+  name: Somali Shilling
+  symbol: Sh.
+  subunit:
+    name: Senti
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 500
+      - 1000
+      - 5000
+      - 10000
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 5
+      - 10
+      - 50
+  bank: Central Bank of Somalia
+  exchange:
+    arrangement: free floating
+    policy: others
+  used_by:
+    - iso_a3: SOM
+      name: Somalia
+  iso:
+    a3: SOS
+    n3: "706"
+SSP:
+  name: South Sudanese Pound
+  symbol: SSP
+  subunit:
+    name: Piaster
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 0.1
+      - 0.2
+      - 0.5
+      - 1
+      - 2
+    sub: []
+  bank: Bank of South Sudan
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: others
+  used_by:
+    - iso_a3: SSD
+      name: South Sudan
+  iso:
+    a3: SSP
+    n3: "728"
+LKR:
+  name: Sri Lanka Rupee
+  symbol: Re
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 20
+      - 50
+      - 100
+      - 500
+      - 1000
+      - 5000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+    sub: []
+  bank: Central Bank of Sri Lanka
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: LKA
+      name: Sri Lanka
+  iso:
+    a3: LKR
+    n3: "144"
+SDG:
+  name: Sudanese Pound
+  symbol: LS
+  subunit:
+    name: Piastre
+    symbol: PT
+    value: 0.01
+  banknotes:
+    main:
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Central Bank of Sudan
+  exchange:
+    arrangement: stabilized arrangement
+    policy: others
+  used_by:
+    - iso_a3: SDN
+      name: Sudan
+  iso:
+    a3: SDG
+    n3: "938"
+SRD:
+  name: Surinam Dollar
+  symbol: Sur$
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main: []
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 100
+      - 250
+  bank: Central Bank of Suriname
+  exchange:
+    arrangement: stabilized arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: SUR
+      name: Suriname
+  iso:
+    a3: SRD
+    n3: "968"
+SEK:
+  name: Swedish Krona
+  symbol: kr
+  subunit:
+    name: Öre
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+    sub: []
+  bank: Sveriges Riksbank
+  exchange:
+    arrangement: free floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: SWE
+      name: Sweden
+  iso:
+    a3: SEK
+    n3: "752"
+SYP:
+  name: Syrian Pound
+  symbol: LS, £S
+  subunit:
+    name: Piastre
+    symbol: p
+    value: 0.01
+  banknotes:
+    main:
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+      - 2000
+      - 5000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 25
+      - 50
+    sub: []
+  bank: Central Bank of Syria
+  exchange:
+    arrangement: other managed arrangement
+    policy: composite
+  used_by:
+    - iso_a3: SYR
+      name: Syria
+  iso:
+    a3: SYP
+    n3: "760"
+TWD:
+  name: New Taiwan Dollar
+  symbol: NT$
+  subunit:
+    name: Fen
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 100
+      - 200
+      - 500
+      - 10000
+      - 20000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+    sub:
+      - 50
+  bank: Central Bank of the Republic of China (Taiwan)
+  exchange:
+    arrangement: null
+    policy: null
+  used_by:
+    - iso_a3: TWN
+      name: Taiwan
+  iso:
+    a3: TWD
+    n3: "901"
+TJS:
+  name: Somoni
+  symbol: ЅM
+  subunit:
+    name: Diram
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 3
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+    sub:
+      - 1
+      - 5
+      - 20
+      - 50
+  coins:
+    main:
+      - 1
+      - 3
+      - 5
+    sub:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: National Bank of Tajikistan
+  exchange:
+    arrangement: stabilized arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: TJK
+      name: Tajikistan
+  iso:
+    a3: TJS
+    n3: "972"
+TZS:
+  name: Tanzanian Shilling
+  symbol: TSh
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 500
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+    sub: []
+  coins:
+    main:
+      - 50
+      - 100
+      - 200
+      - 500
+    sub: []
+  bank: Bank of Tanzania
+  exchange:
+    arrangement: stabilized arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: TZA
+      name: Tanzania
+  iso:
+    a3: TZS
+    n3: "834"
+THB:
+  name: Baht
+  symbol: ฿
+  subunit:
+    name: Satang
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 20
+      - 50
+      - 100
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Bank of Thailand
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: THA
+      name: Thailand
+  iso:
+    a3: THB
+    n3: "764"
+TOP:
+  name: Pa’anga
+  symbol: T$
+  subunit:
+    name: Seniti
+    symbol: ¢
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: National Reserve Bank of Tonga
+  exchange:
+    arrangement: other managed arrangement
+    policy: others
+  used_by:
+    - iso_a3: TON
+      name: Tonga
+  iso:
+    a3: TOP
+    n3: "776"
+TTD:
+  name: Trinidad and Tobago Dollar
+  symbol: TT$
+  subunit:
+    name: Cent
+    symbol: ¢
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Central Bank of Trinidad and Tobago
+  exchange:
+    arrangement: stabilized arrangement
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: TTO
+      name: Trinidad and Tobago
+  iso:
+    a3: TTD
+    n3: "780"
+TND:
+  name: Tunisian Dinar
+  symbol: DT
+  subunit:
+    name: Milim
+    symbol: null
+    value: 0.001
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+    sub: []
+  coins:
+    main:
+      - 0.5
+      - 1
+      - 2
+      - 5
+    sub:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+  bank: Central Bank of Tunisia
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: others
+  used_by:
+    - iso_a3: TUN
+      name: Tunisia
+  iso:
+    a3: TND
+    n3: "788"
+TRY:
+  name: Turkish Lira
+  symbol: ₺
+  subunit:
+    name: Kuruş
+    symbol: kr
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Central Bank of the Republic of Turkey
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: TUR
+      name: Turkey
+  iso:
+    a3: TRY
+    n3: "949"
+TMT:
+  name: Turkmenistan New Manat
+  symbol: m
+  subunit:
+    name: Tenge
+    symbol: t
+    value: 0.01
+  banknotes:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+  bank: Central Bank of Turkmenistan
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: TKM
+      name: Turkmenistan
+  iso:
+    a3: TMT
+    n3: "934"
+UGX:
+  name: Uganda Shilling
+  symbol: USh
+  subunit:
+    name: Cent
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+      - 50000
+    sub: []
+  coins:
+    main:
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  bank: Bank of Uganda
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: UGA
+      name: Uganda
+  iso:
+    a3: UGX
+    n3: "800"
+UAH:
+  name: Hryvnia
+  symbol: ₴
+  subunit:
+    name: Kopiyka
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+    sub:
+      - 10
+      - 50
+  bank: National Bank of Ukraine
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: UKR
+      name: Ukraine
+  iso:
+    a3: UAH
+    n3: "980"
+AED:
+  name: UAE Dirham
+  symbol: DH
+  subunit:
+    name: Fils
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 25
+      - 50
+  bank: Central Bank of the United Arab Emirates
+  exchange:
+    arrangement: conventional peg
+    policy: 'exchange rate anchor: USD'
+  used_by:
+    - iso_a3: ARE
+      name: United Arab Emirates
+  iso:
+    a3: AED
+    n3: "784"
+UYU:
+  name: Peso Uruguayo
+  symbol: $U
+  subunit:
+    name: Centésimo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 20
+      - 50
+      - 100
+      - 200
+      - 500
+      - 1000
+      - 2000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+      - 5
+      - 10
+      - 50
+    sub: []
+  bank: Central Bank of Uruguay
+  exchange:
+    arrangement: floating
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: URY
+      name: Uruguay
+  iso:
+    a3: UYU
+    n3: "858"
+UZS:
+  name: Uzbekistan Sum
+  symbol: Sum
+  subunit:
+    name: Tiyin
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+      - 50000
+      - 100000
+      - 2e+06
+    sub: []
+  coins:
+    main:
+      - 50
+      - 100
+      - 200
+      - 1000
+    sub: []
+  bank: Central Bank of the Republic of Uzbekistan
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: inflation targeting framework
+  used_by:
+    - iso_a3: UZB
+      name: Uzbekistan
+  iso:
+    a3: UZS
+    n3: "860"
+VUV:
+  name: Vatu
+  symbol: VT
+  subunit:
+    name: null
+    symbol: null
+    value: null
+  banknotes:
+    main:
+      - 200
+      - 500
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+    sub: []
+  coins:
+    main:
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  bank: Reserve Bank of Vanuatu
+  exchange:
+    arrangement: other managed arrangement
+    policy: others
+  used_by:
+    - iso_a3: VUT
+      name: Vanuatu
+  iso:
+    a3: VUV
+    n3: "548"
+VED:
+  name: Bolívar Digital
+  symbol: Bs.D
+  subunit:
+    name: Céntimo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main: []
+    sub: []
+  coins:
+    main: []
+    sub: []
+  bank: Central Bank of Venezuela
+  exchange:
+    arrangement: other managed arrangement
+    policy: others
+  used_by:
+    - iso_a3: VEN
+      name: Venezuela
+  iso:
+    a3: VED
+    n3: "926"
+VES:
+  name: Bolívar Soberano
+  symbol: Bs.S
+  subunit:
+    name: Céntimo
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 10000
+      - 20000
+      - 50000
+      - 200000
+      - 500000
+      - 1e+06
+    sub: []
+  coins:
+    main: []
+    sub: []
+  bank: Central Bank of Venezuela
+  exchange:
+    arrangement: other managed arrangement
+    policy: others
+  used_by:
+    - iso_a3: VEN
+      name: Venezuela
+  iso:
+    a3: VES
+    n3: "928"
+VND:
+  name: Dong
+  symbol: ₫
+  subunit:
+    name: Xu
+    symbol: null
+    value: 0
+  banknotes:
+    main:
+      - 1000
+      - 2000
+      - 5000
+      - 10000
+      - 20000
+      - 50000
+      - 100000
+      - 200000
+      - 500000
+    sub: []
+  coins:
+    main:
+      - 200
+      - 500
+      - 1000
+      - 2000
+      - 5000
+    sub: []
+  bank: State Bank of Vietnam
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: composite
+  used_by:
+    - iso_a3: VNM
+      name: Vietnam
+  iso:
+    a3: VND
+    n3: "704"
+YER:
+  name: Yemeni Rial
+  symbol: YRI
+  subunit:
+    name: Fils
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 50
+      - 100
+      - 200
+      - 250
+      - 500
+      - 1000
+    sub: []
+  coins:
+    main:
+      - 1
+      - 5
+      - 10
+      - 20
+    sub: []
+  bank: Central Bank of Yemen
+  exchange:
+    arrangement: floating
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: YEM
+      name: Yemen
+  iso:
+    a3: YER
+    n3: "886"
+ZMW:
+  name: Zambian Kwacha
+  symbol: ZK
+  subunit:
+    name: Ngwee
+    symbol: null
+    value: 0.01
+  banknotes:
+    main:
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+    sub:
+      - 5
+      - 10
+      - 50
+  bank: Bank of Zambia
+  exchange:
+    arrangement: crawl-like arrangement
+    policy: others
+  used_by:
+    - iso_a3: ZMB
+      name: Zambia
+  iso:
+    a3: ZMW
+    n3: "967"
+ZWL:
+  name: Zimbabwe Dollar
+  symbol: Z$
+  subunit:
+    name: Cent
+    symbol: ¢
+    value: 0.01
+  banknotes:
+    main:
+      - 2
+      - 5
+      - 10
+      - 20
+      - 50
+      - 100
+    sub: []
+  coins:
+    main:
+      - 1
+      - 2
+    sub:
+      - 1
+      - 5
+      - 10
+      - 25
+      - 50
+  bank: Reserve Bank of Zimbabwe
+  exchange:
+    arrangement: other managed arrangement
+    policy: monetary aggregate target
+  used_by:
+    - iso_a3: ZWE
+      name: Zimbabwe
+  iso:
+    a3: ZWL
+    n3: "932"
+BTC:
+  name: Bitcoin
+  symbol: ₿
+  subunit:
+    name: Satoshi
+    symbol: null
+    value: 1e-08
+  banknotes:
+    main: []
+    sub: []
+  coins:
+    main: []
+    sub: []
+  bank: null
+  exchange:
+    arrangement: floating
+    policy: others
+  used_by:
+    - iso_a3: SLV
+      name: El Salvador
+    - iso_a3: CAF
+      name: Central African Republic
+  iso:
+    a3: null
+    n3: null

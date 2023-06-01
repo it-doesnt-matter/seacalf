@@ -1,0 +1,158 @@
+name,symbol,subunit.name,subunit.symbol,subunit.value,banknotes.main,banknotes.sub,coins.main,coins.sub,bank,exchange.arrangement,exchange.policy,used_by,iso.a3,iso.n3
+Afghani,Af,Pul,,0.01,"1,2,5,10,20,50,100,500,1000",,"1,2,5",,Da Afghanistan Bank,crawl-like arrangement,monetary aggregate target,"(iso_a3:AFG,name:Afghanistan)",AFN,971
+Euro,€,Cent,c,0.01,"5,10,20,50,100,200,500",,"1,2","1,2,5,10,20,50",European Central Bank,free floating,others,"(iso_a3:ALA,name:Åland),(iso_a3:AND,name:Andorra),(iso_a3:AUT,name:Austria),(iso_a3:BEL,name:Belgium),(iso_a3:HRV,name:Croatia),(iso_a3:CYP,name:Cyprus),(iso_a3:EST,name:Estonia),(iso_a3:FIN,name:Finland),(iso_a3:FRA,name:France),(iso_a3:GUF,name:French Guiana),(iso_a3:ATF,name:French Southern Territories),(iso_a3:DEU,name:Germany),(iso_a3:GRC,name:Greece),(iso_a3:GLP,name:Guadeloupe),(iso_a3:VAT,name:Vatican City),(iso_a3:IRL,name:Ireland),(iso_a3:ITA,name:Italy),(iso_a3:LVA,name:Latvia),(iso_a3:LTU,name:Lithuania),(iso_a3:LUX,name:Luxembourg),(iso_a3:MLT,name:Malta),(iso_a3:MTQ,name:Martinique),(iso_a3:MYT,name:Mayotte),(iso_a3:MCO,name:Monaco),(iso_a3:MNE,name:Montenegro),(iso_a3:NLD,name:Netherlands),(iso_a3:PRT,name:Portugal),(iso_a3:REU,name:Réunion),(iso_a3:BLM,name:Saint Barthélemy),(iso_a3:MAF,name:Saint Martin),(iso_a3:SPM,name:Saint Pierre and Miquelon),(iso_a3:SMR,name:San Marino),(iso_a3:SVK,name:Slovakia),(iso_a3:SVN,name:Slovenia),(iso_a3:ESP,name:Spain)",EUR,978
+Lek,L,Qindarkë,,0.01,"200,500,1000,2000,5000,10000",,"1,5,10,20,50,100",,Bank of Albania,floating,inflation targeting framework,"(iso_a3:ALB,name:Albania)",ALL,008
+Algerian Dinar,DA,Centime,,0.01,"200,500,1000",,"5,10,20,50,100",,Bank of Algeria,stabilized arrangement,monetary aggregate target,"(iso_a3:DZA,name:Algeria)",DZD,012
+US Dollar,US$,Cent,¢,0.01,"1,2,5,10,20,50,100",,,"1,5,10,25",Federal Reserve,free floating,others,"(iso_a3:ASM,name:American Samoa),(iso_a3:BES,name:Bonaire, Sint Eustatius and Saba),(iso_a3:IOT,name:British Indian Ocean Territory),(iso_a3:ECU,name:Ecuador),(iso_a3:SLV,name:El Salvador),(iso_a3:GUM,name:Guam),(iso_a3:MHL,name:Marshall Islands),(iso_a3:FSM,name:Micronesia),(iso_a3:MNP,name:Northern Mariana Islands),(iso_a3:PLW,name:Palau),(iso_a3:PAN,name:Panama),(iso_a3:PRI,name:Puerto Rico),(iso_a3:TLS,name:Timor-Leste),(iso_a3:TCA,name:Turks and Caicos Islands),(iso_a3:USA,name:United States of America),(iso_a3:UMI,name:United States Minor Outlying Islands),(iso_a3:VGB,name:British Virgin Islands),(iso_a3:VIR,name:United States Virgin Islands)",USD,840
+Kwanza,Kz,Cêntimo,,0.01,"200,500,1000,2000,5000",,"10,20,50,100",,National Bank of Angola,floating,monetary aggregate target,"(iso_a3:AGO,name:Angola)",AOA,973
+East Caribbean Dollar,EC$,Cent,,0.01,"5,10,20,50,100",,1,"5,10,25",Eastern Caribbean Central Bank,currency board,exchange rate anchor: USD,"(iso_a3:AIA,name:Anguilla),(iso_a3:ATG,name:Antigua and Barbuda),(iso_a3:DMA,name:Dominica),(iso_a3:GRD,name:Grenada),(iso_a3:MSR,name:Montserrat),(iso_a3:KNA,name:Saint Kitts and Nevis),(iso_a3:LCA,name:Saint Lucia),(iso_a3:VCT,name:Saint Vincent and the Grenadines)",XCD,951
+Argentine Peso,Arg$,Centavo,,0.01,"20,50,100,200,500,1000",,"1,2,5,10",,Central Bank of the Argentine Republic,crawl-like arrangement,others,"(iso_a3:ARG,name:Argentina)",ARS,032
+Armenian Dram,֏,Luma,,0.01,"1000,2000,5000,10000,20000,50000,100000",,"10,20,50,100,200,500",,Central Bank of Armenia,floating,inflation targeting framework,"(iso_a3:ARM,name:Armenia)",AMD,051
+Aruban Florin,Afl,Cent,¢,0.01,"10,25,50,100,200",,"1,2.5,5","5,10,25,50",Central Bank of Aruba,conventional peg,exchange rate anchor: USD,"(iso_a3:ABW,name:Aruba)",AWG,533
+Australian Dollar,AU$,Cent,c,0.01,"5,10,20,50,100",,"1,2","5,10,20,50",Reserve Bank of Australia,free floating,inflation targeting framework,"(iso_a3:AUS,name:Australia),(iso_a3:CXR,name:Christmas Island),(iso_a3:CCK,name:Cocos (Keeling) Islands),(iso_a3:HMD,name:Heard Island and McDonald Islands),(iso_a3:KIR,name:Kiribati),(iso_a3:NRU,name:Nauru),(iso_a3:NFK,name:Norfolk Island),(iso_a3:TUV,name:Tuvalu)",AUD,036
+Azerbaijan Manat,₼,Gapik,,0.01,"1,5,10,20,50,100,200",,,"1,3,5,10,20,50",Central Bank of Azerbaijan,stabilized arrangement,others,"(iso_a3:AZE,name:Azerbaijan)",AZN,944
+Bahamian Dollar,B$,Cent,,0.01,"0.5,1,3,5,10,20,50,100",,,"5,10,15,25",Central Bank of The Bahamas,conventional peg,exchange rate anchor: USD,"(iso_a3:BHS,name:Bahamas)",BSD,044
+Bahraini Dinar,BD,Fils,,0.001,"0.5,1,5,10,20",,,"5,10,25,50,100",Central Bank of Bahrain,conventional peg,exchange rate anchor: USD,"(iso_a3:BHR,name:Bahrain)",BHD,048
+Taka,৳,Poisha,p,0.01,"5,10,20,50,100,200,500,1000",,"1,2,5",,Bangladesh Bank,stabilized arrangement,monetary aggregate target,"(iso_a3:BGD,name:Bangladesh)",BDT,050
+Barbados Dollar,BB$,Cent,¢,0.01,"2,5,10,20,50,100",,1,"1,5,10,25",Central Bank of Barbados,conventional peg,exchange rate anchor: USD,"(iso_a3:BRB,name:Barbados)",BBD,052
+Belarusian Ruble,Rbl,Copeck,cop,0.01,"5,10,20,50,100,200,500",,"1,2","1,2,5,10,20,50",National Bank of the Republic of Belarus,floating,monetary aggregate target,"(iso_a3:BLR,name:Belarus)",BYN,933
+Belize Dollar,BZ$,Cent,,0.01,"2,5,10,20,50,100",,1,"1,5,10,25,50",Central Bank of Belize,conventional peg,exchange rate anchor: USD,"(iso_a3:BLZ,name:Belize)",BZD,084
+CFA Franc BCEAO,F.CFA,Centime,c,0.01,"500,1000,2000,5000,10000",,"1,5,10,25,50,100,200,250,500",,Central Bank of West African States,conventional peg,exchange rate anchor: EUR,"(iso_a3:BEN,name:Benin),(iso_a3:BFA,name:Burkina Faso),(iso_a3:CIV,name:Ivory Coast),(iso_a3:GNB,name:Guinea-Bissau),(iso_a3:MLI,name:Mali),(iso_a3:NER,name:Niger),(iso_a3:SEN,name:Senegal),(iso_a3:TGO,name:Togo)",XOF,952
+Bermudian Dollar,BD$,Cent,,0.01,"2,5,10,20,50,100",,"1,5","1,5,10,25,50",Bermuda Monetary Authority,conventional peg,exchange rate anchor: USD,"(iso_a3:BMU,name:Bermuda)",BMD,060
+Ngultrum, Nu.,Chhertum,Ch.,0.01,"1,5,10,20,50,100,500,1000",,"1,3","5,10,25,50",Royal Monetary Authority of Bhutan,conventional peg,exchange rate anchor: INR,"(iso_a3:BTN,name:Bhutan)",BTN,064
+Indian Rupee,₹,Paisa,,0.01,"5,10,20,50,100,200,500,2000",,"1,2,5,10,20",50,Reserve Bank of India,floating,inflation targeting framework,"(iso_a3:BTN,name:Bhutan),(iso_a3:IND,name:India)",INR,356
+Boliviano,Bs,Centavo,c.,0.01,"10,20,50,100,200",,"1,2,5","10,20,50",Central Bank of Bolivia,stabilized arrangement,monetary aggregate target,"(iso_a3:BOL,name:Bolivia)",BOB,068
+Convertible Mark,KM,Fening,pf,0.01,"10,20,50,100,200",,"1,2,5","5,10,20,50",Central Bank of Bosnia and Herzegovina,currency board,exchange rate anchor: EUR,"(iso_a3:BIH,name:Bosnia and Herzegovina)",BAM,977
+Pula,P,Thebe,,0.01,"10,20,50,100,200",,"1,2,5","5,10,25,50",Bank of Botswana,crawling peg,composite,"(iso_a3:BWA,name:Botswana)",BWP,072
+Norwegian Krone,kr,Øre,,0.01,"50,100,200,500,1000",,"1,5,10,20",,Norges Bank,free floating,inflation targeting framework,"(iso_a3:BVT,name:Bouvet Island),(iso_a3:NOR,name:Norway),(iso_a3:SJM,name:Svalbard and Jan Mayen)",NOK,578
+Brazilian Real,R$,Centavo,,0.01,"2,5,10,20,50,100,200",,1,"1,5,10,25,50",Central Bank of Brazil,floating,inflation targeting framework,"(iso_a3:BRA,name:Brazil)",BRL,986
+Brunei Dollar,B$,Sen,,0.01,"1,5,10,50,100,500,1000,10000",,,"1,5,10,20,50",Brunei Darussalam Central Bank,currency board,exchange rate anchor: SGD,"(iso_a3:BRN,name:Brunei)",BND,096
+Bulgarian Lev,lv.,Stotinka,st.,0.01,"5,10,20,50,100",,"1,2","1,2,5,10,20,50",Bulgarian National Bank,currency board,exchange rate anchor: EUR,"(iso_a3:BGR,name:Bulgaria)",BGN,975
+Burundi Franc,FBu,Centime,,0.01,"100,500,1000,2000,5000,10000",,"1,5,10,50",,Bank of the Republic of Burundi,crawl-like arrangement,monetary aggregate target,"(iso_a3:BDI,name:Burundi)",BIF,108
+Cabo Verde Escudo,Esc,Centavo,,0.01,"200,500,1000,2000,5000",,"1,5,10,20,50,100,200",,Bank of Cape Verde,conventional peg,exchange rate anchor: EUR,"(iso_a3:CPV,name:Cape Verde)",CVE,132
+Riel,៛,Sen,,0.01,"50,100,200,500,1000,2000,5000,10000,20000,50000",,"50,100,200,500",,National Bank of Cambodia,stabilized arrangement,exchange rate anchor: USD,"(iso_a3:KHM,name:Cambodia)",KHR,116
+CFA Franc BEAC,F.CFA,Centime,c,0.01,"500,1000,2000,5000,10000",,"1,2,5,10,25,50,100,500",,Bank of Central African States,conventional peg,exchange rate anchor: EUR,"(iso_a3:CMR,name:Cameroon),(iso_a3:CAF,name:Central African Republic),(iso_a3:TCD,name:Chad),(iso_a3:COG,name:Congo),(iso_a3:GNQ,name:Equatorial Guinea),(iso_a3:GAB,name:Gabon)",XAF,950
+Canadian Dollar,CA$,Cent,¢,0.01,"5,10,20,50,100",,"1,2","5,10,25,50",Bank of Canada,free floating,inflation targeting framework,"(iso_a3:CAN,name:Canada)",CAD,124
+Cayman Islands Dollar,CI$,Cent,,0.01,"1,5,10,25,50,100",,,"1,5,10,25",Cayman Islands Monetary Authority,conventional peg,exchange rate anchor: USD,"(iso_a3:CYM,name:Cayman Islands)",KYD,136
+Chilean Peso,Ch$,Centavo,,0.01,"1000,2000,5000,10000,20000",,"10,50,100,500",,Central Bank of Chile,free floating,inflation targeting framework,"(iso_a3:CHL,name:Chile)",CLP,152
+Yuan Renminbi,¥,Fen,分,0.01,"1,5,10,20,50,100",,"0.1,0.5,1",,People's Bank of China,crawl-like arrangement,monetary aggregate target,"(iso_a3:CHN,name:China)",CNY,156
+Colombian Peso,Col$,Centavo,,0.01,"1000,2000,5000,10000,20000,50000,100000",,"50,100,200,500,1000",,Bank of the Republic,floating,inflation targeting framework,"(iso_a3:COL,name:Colombia)",COP,170
+Comorian Franc ,FC,Centime,,0.01,"500,1000,2000,5000,10000",,"25,50,100,250",,Central Bank of the Comoros,conventional peg,exchange rate anchor: EUR,"(iso_a3:COM,name:Comoros)",KMF,174
+Congolese Franc,FC,Centime,,0.01,"50,100,200,500,1000,5000,10000,20000",,,,Central Bank of the Congo,crawl-like arrangement,monetary aggregate target,"(iso_a3:COD,name:DR Congo)",CDF,976
+New Zealand Dollar,NZ$,Cent,c,0.01,"5,10,20,50,100",,"1,2","10,20,50",Reserve Bank of New Zealand,floating,inflation targeting framework,"(iso_a3:COK,name:Cook Islands),(iso_a3:NZL,name:New Zealand),(iso_a3:NIU,name:Niue),(iso_a3:PCN,name:Pitcairn Islands),(iso_a3:TKL,name:Tokelau)",NZD,554
+Costa Rican Colon,₡,Céntimo,,0.01,"1000,2000,5000,10000,20000,50000",,"5,10,25,50,100,500",,Central Bank of Costa Rica,crawl-like arrangement,inflation targeting framework,"(iso_a3:CRI,name:Costa Rica)",CRC,188
+Cuban Peso,$MN,Centavo,¢,0.01,"1,3,5,10,20,50,100,200,500,1000",,"1,3,5","1,2,5,20",Central Bank of Cuba,conventional peg,exchange rate anchor: USD,"(iso_a3:CUB,name:Cuba)",CUP,192
+Netherlands Antillean Guilder,NAf,Cent,,0.01,"10,25,50,100",,"1,2.5,5","1,5,10,25,50",Central Bank of Curaçao and Sint Maarten,conventional peg,exchange rate anchor: USD,"(iso_a3:CUW,name:Curaçao),(iso_a3:SXM,name:Sint Maarten)",ANG,532
+Czech Koruna,Kč,Haléřa,h,0.01,"100,200,500,1000,2000,5000",,"1,2,5,10,20,50",,Czech National Bank,free floating,inflation targeting framework,"(iso_a3:CZE,name:Czechia)",CZK,203
+Danish Krone,kr.,Øre,,0.01,"50,100,200,500,1000",,"1,2,5,10,20",50,Danmarks Nationalbank,conventional peg,exchange rate anchor: EUR,"(iso_a3:DNK,name:Denmark),(iso_a3:FRO,name:Faroe Islands),(iso_a3:GRL,name:Greenland)",DKK,208
+Djibouti Franc,Fdj,Centime,,0.01,"1000,2000,5000,10000",,"1,2,5,10,20,50,100,250,500",,Central Bank of Djibouti,currency board,exchange rate anchor: USD,"(iso_a3:DJI,name:Djibouti)",DJF,262
+Dominican Peso,RD$,Centavo,,0.01,"50,100,200,500,1000,2000",,"1,5,10,25",,Central Bank of the Dominican Republic,crawl-like arrangement,inflation targeting framework,"(iso_a3:DOM,name:Dominican Republic)",DOP,214
+Egyptian Pound,E£,Piastre,PT,0.01,"1,5,10,20,50,100,200","25,50",1,"25,50",Central Bank of Egypt,stabilized arrangement,others,"(iso_a3:EGY,name:Egypt)",EGP,818
+Nakfa,Nkf,Cent,,0.01,"1,5,10,20,50,100",,1,"1,5,10,25,50",Bank of Eritrea,conventional peg,exchange rate anchor: USD,"(iso_a3:ERI,name:Eritrea)",ERN,232
+Lilangeni,L,Cent,,0.01,"10,20,50,100,200",,"1,2,5","10,20,50",Central Bank of Swaziland,conventional peg,exchange rate anchor: ZAR,"(iso_a3:SWZ,name:Eswatini)",SZL,748
+Rand,R,Cent,c,0.01,"10,20,50,100,200",,"1,2,5","10,20,50",South African Reserve Bank,floating,inflation targeting framework,"(iso_a3:SWZ,name:Eswatini),(iso_a3:LSO,name:Lesotho),(iso_a3:NAM,name:Namibia),(iso_a3:ZAF,name:South Africa)",ZAR,710
+Ethiopian Birr,Br,Santim,,0.01,"1,5,10,50,100,200",,1,"1,5,10,25,50",National Bank of Ethiopia,crawl-like arrangement,monetary aggregate target,"(iso_a3:ETH,name:Ethiopia)",ETB,230
+Falkland Islands Pound,£,Penny,p,0.01,"5,10,20,50",,"1,2","1,2,5,10,20,50",Government of the Falkland Islands,conventional peg,exchange rate anchor: GBP,"(iso_a3:FLK,name:Falkland Islands)",FKP,238
+Fiji Dollar,FJ$,Cent,c,0.01,"5,10,20,50,100",,"1,2","5,10,20,50",Reserve Bank of Fiji,conventional peg,composite,"(iso_a3:FJI,name:Fiji)",FJD,242
+CFP Franc,F,Centime,,0.01,"500,1000,5000,10000",,"1,2,5,10,20,50,100,200",,Institut d'émission d'outre-mer,currency board,exchange rate anchor: EUR,"(iso_a3:PYF,name:French Polynesia),(iso_a3:NCL,name:New Caledonia),(iso_a3:WLF,name:Wallis and Futuna)",XPF,953
+Dalasi,D,Butut,,0.01,"5,10,20,25,50,100,200",,1,"1,5,10,25,50",Central Bank of The Gambia,stabilized arrangement,monetary aggregate target,"(iso_a3:GMB,name:Gambia)",GMD,270
+Lari,₾,Tetri,,0.01,"5,10,20,50,100",,"1,2","1,2,5,10,20,50",National Bank of Georgia,floating,inflation targeting framework,"(iso_a3:GEO,name:Georgia)",GEL,981
+Ghana Cedi,GH₵,Pesewa,Gp,0.01,"1,2,5,10,20,50,100,200",,"1,2","1,5,10,20,50",Bank of Ghana,crawl-like arrangement,inflation targeting framework,"(iso_a3:GHA,name:Ghana)",GHS,936
+Gibraltar Pound,£,Penny,p,0.01,"5,10,20,50,100",,"1,2,5","1,2,5,10,20,50",Government of Gibraltar,conventional peg,exchange rate anchor: GBP,"(iso_a3:GIB,name:Gibraltar)",GIP,292
+Quetzal,Q,Centavo,,0.01,"1,5,10,20,50,100,200",,1,"1,5,10,25,50",Bank of Guatemala,stabilized arrangement,inflation targeting framework,"(iso_a3:GTM,name:Guatemala)",GTQ,320
+Pound Sterling,£,Penny,p,0.01,"1,5,10,20,50,100",,"1,2","1,2,5,10,20,50",Bank of England,free floating,inflation targeting framework,"(iso_a3:GGY,name:Guernsey),(iso_a3:IMN,name:Isle of Man),(iso_a3:JEY,name:Jersey),(iso_a3:GBR,name:United Kingdom)",GBP,826
+Guinean Franc,FG,Centime,,0.01,"100,500,1000,2000,5000,10000,20000",,"1,5,10,25,50",,Central Bank of the Republic of Guinea,stabilized arrangement,monetary aggregate target,"(iso_a3:GIN,name:Guinea)",GNF,324
+Guyana Dollar,G$,Cent,,0.01,"20,50,100,500,1000,2000,5000",,"1,5,10",,Bank of Guyana,stabilized arrangement,exchange rate anchor: USD,"(iso_a3:GUY,name:Guyana)",GYD,328
+Gourde,G,Centime,c,0.01,"10,25,50,100,250,500,1000",,"1,5",50,Bank of the Republic of Haiti,other managed arrangement,others,"(iso_a3:HTI,name:Haiti)",HTG,332
+Lempira,L,Centavo,,0.01,"1,2,5,10,20,50,100,200,500",,,"5,10,20,50",Central Bank of Honduras,crawling peg,exchange rate anchor: USD,"(iso_a3:HND,name:Honduras)",HNL,340
+Hong Kong Dollar,HK$,Cent,¢,0.01,"10,20,50,100,500,1000",,"1,2,5,10","10,20,50",Hong Kong Monetary Authority,currency board,exchange rate anchor: USD,"(iso_a3:HKG,name:Hong Kong)",HKD,344
+Forint,Ft,Fillér,,0.01,"500,1000,2000,5000,10000,20000",,"5,10,20,50,100,200",,Hungarian National Bank,floating,inflation targeting framework,"(iso_a3:HUN,name:Hungary)",HUF,348
+Iceland Krona,kr,Eyrir,a,0.01,"500,1000,2000,5000,10000",,"1,5,10,50,100",,Central Bank of Iceland,floating,inflation targeting framework,"(iso_a3:ISL,name:Iceland)",ISK,352
+Rupiah,Rp,Sen,,0.01,"1000,2000,5000,10000,20000,50000,100000",,"100,200,500,1000",,Bank Indonesia,floating,inflation targeting framework,"(iso_a3:IDN,name:Indonesia)",IDR,360
+Iranian Rial,Rl,Dinar,,0.01,"1000,2000,5000,10000,20000,50000,100000,500000,1000000,2000000",,"1000,2000,5000",,Central Bank of Iran,stabilized arrangement,exchange rate anchor: USD,"(iso_a3:IRN,name:Iran)",IRR,364
+Iraqi Dinar,ID,Fils,,0.001,"250,500,1000,5000,10000,25000,50000",,"25,50,100",,Central Bank of Iraq,conventional peg,exchange rate anchor: USD,"(iso_a3:IRQ,name:Iraq)",IQD,368
+New Israeli Sheqel,₪,Agora,,0.01,"20,50,100,200",,"0.5,1,2,5,10",10,Bank of Israel,floating,inflation targeting framework,"(iso_a3:ISR,name:Israel)",ILS,376
+Jamaican Dollar,J$,Cent,,0.01,"50,100,500,1000,5000",,"1,5,10,20",,Bank of Jamaica,floating,inflation targeting framework,"(iso_a3:JAM,name:Jamaica)",JMD,388
+Yen,¥,Sen,,0.01,"1000,2000,5000,10000",,"1,5,10,50,100,500",,Bank of Japan,free floating,inflation targeting framework,"(iso_a3:JPN,name:Japan)",JPY,392
+Jordanian Dinar,JD,Piastre,,0.01,"1,5,10,20,50",,,"1,5,10,25,50",Central Bank of Jordan,conventional peg,exchange rate anchor: USD,"(iso_a3:JOR,name:Jordan)",JOD,400
+Tenge,₸,Tiyn,,0.01,"200,500,1000,2000,5000,10000,20000",,"1,2,5,10,20,50,100,200",,National Bank of Kazakhstan,floating,inflation targeting framework,"(iso_a3:KAZ,name:Kazakhstan)",KZT,398
+Kenyan Shilling,KSh,Cent,,0.01,"50,100,200,500,1000",,"1,5,10,20",,Central Bank of Kenya,other managed arrangement,inflation targeting framework,"(iso_a3:KEN,name:Kenya)",KES,404
+North Korean Won,₩,Chon,,0.01,"5,10,50,100,200,500,1000,2000,5000",,1,"1,5,10,50",Central Bank of the Democratic People's Republic of Korea,,,"(iso_a3:PRK,name:North Korea)",KPW,408
+Won,₩,Jeon,,0.01,"1000,2000,5000,10000,50000",,"10,50,100,500",,Bank of Korea,floating,inflation targeting framework,"(iso_a3:KOR,name:South Korea)",KRW,410
+Kuwaiti Dinar,KD,Fils,,0.001,"0.25,0.5,1,5,10,20",,,"5,10,20,50,100",Central Bank of Kuwait,other managed arrangement,composite,"(iso_a3:KWT,name:Kuwait)",KWD,414
+Som,⃀,Tyiyn,,0.01,"20,50,100,200,500,1000,5000",,"1,3,5,10","10,50",National Bank of the Kyrgyz Republic,other managed arrangement,others,"(iso_a3:KGZ,name:Kyrgyzstan)",KGS,417
+Lao Kip,₭,Att,,0.01,"500,1000,2000,5000,10000,20000,50000,100000",,,,Bank of the Lao P.D.R.,crawl-like arrangement,others,"(iso_a3:LAO,name:Laos)",LAK,418
+Lebanese Pound,LL,Piastre,,0.01,"1000,5000,10000,20000,50000,100000",,"250,500",,Banque du Liban,stabilized arrangement,exchange rate anchor: USD,"(iso_a3:LBN,name:Lebanon)",LBP,422
+Loti,L,Sente,,0.01,"10,20,50,100,200",,"1,2,5","1,2,5,10,20,50",Central Bank of Lesotho,conventional peg,exchange rate anchor: ZAR,"(iso_a3:LSO,name:Lesotho)",LSL,426
+Liberian Dollar,L$,Cent,,0.01,"5,10,20,50,100,500,1000",,"1,5,10","5,10,25,50",Central Bank of Liberia,other managed arrangement,monetary aggregate target,"(iso_a3:LBR,name:Liberia)",LRD,430
+Libyan Dinar,LD,Dirham,dh.,0.001,"1,5,10,20,50",,"0.25,0.5","50,100",Central Bank of Libya,conventional peg,composite,"(iso_a3:LBY,name:Libya)",LYD,434
+Swiss Franc,CHF,Centime,,0.01,"10,20,50,100,200,1000",,"0.5,1,2,5","5,10,20",Swiss National Bank,crawl-like arrangement,others,"(iso_a3:LIE,name:Liechtenstein),(iso_a3:CHE,name:Switzerland)",CHF,756
+Pataca,MOP$,Avos,,0.01,"10,20,50,100,500,1000",,"1,2,5,10","10,20,50",Monetary Authority of Macao,currency board,exchange rate anchor: HKD,"(iso_a3:MAC,name:Macao)",MOP,446
+Malagasy Ariary,Ar,Iraimbilanja,,0.2,"100,200,500,1000,2000,5000,10000,20000",,"1,2,4,5,10,20,50","1,2",Central Bank of Madagascar,floating,monetary aggregate target,"(iso_a3:MDG,name:Madagascar)",MGA,969
+Malawi Kwacha,MK,Tambala,,0.01,"20,50,100,200,500,1000,2000",,"1,5,10",,Reserve Bank of Malawi,crawl-like arrangement,others,"(iso_a3:MWI,name:Malawi)",MWK,454
+Malaysian Ringgit,RM,Sen,,0.01,"1,5,10,20,50,100",,,"5,10,20,50",Central Bank of Malaysia,floating,others,"(iso_a3:MYS,name:Malaysia)",MYR,458
+Rufiyaa,Rf,Laari,,0.01,"5,10,20,50,100,500,1000",,"1,2","1,2,5,10,25,50",Maldives Monetary Authority,stabilized arrangement,exchange rate anchor: USD,"(iso_a3:MDV,name:Maldives)",MVR,462
+Ouguiya,UM,Khoums,,0.2,"20,50,100,200,500,1000",,"1,2,5,10,20",1,Central Bank of Mauritania,crawl-like arrangement,others,"(iso_a3:MRT,name:Mauritania)",MRU,929
+Mauritius Rupee,Re,Cent,c,0.01,"25,50,100,200,500,1000,2000",,"1,5,10,20","5,20,50",Bank of Mauritius,floating,others,"(iso_a3:MUS,name:Mauritius)",MUR,480
+Mexican Peso,Mex$,Centavo,¢,0.01,"20,50,100,200,500,1000",,"1,2,5,10","10,20,50",Bank of Mexico,free floating,inflation targeting framework,"(iso_a3:MEX,name:Mexico)",MXN,484
+Moldovan Leu,L,Ban,,0.01,"1,5,10,20,50,100,200,500,1000",,"1,2,5,10","1,5,10,25,50",National Bank of Moldova,floating,inflation targeting framework,"(iso_a3:MDA,name:Moldova)",MDL,498
+Tugrik,₮,Möngö,,0.01,"1,5,10,20,50,100,500,1000,5000,10000,20000",,"20,50,100,200,500",,Bank of Mongolia,stabilized arrangement,others,"(iso_a3:MNG,name:Mongolia)",MNT,496
+Moroccan Dirham,DH,Santim,,0.01,"20,50,100,200",,"0.5,1,5,10","10,20",Bank Al-Maghrib,pegged exchange rate within horizontal bands,composite,"(iso_a3:MAR,name:Morocco),(iso_a3:ESH,name:Western Sahara)",MAD,504
+Mozambique Metical,MT,Centavo,,0.01,"20,50,100,200,500,1000",,"1,2,5,10",50,Bank of Mozambique,crawl-like arrangement,others,"(iso_a3:MOZ,name:Mozambique)",MZN,943
+Kyat,K,Pya,,0.01,"0.5,1,5,10,20,50,100,200,500,1000,5000,10000",,"1,5,10,50,100",,Central Bank of Myanmar,other managed arrangement,monetary aggregate target,"(iso_a3:MMR,name:Myanmar)",MMK,104
+Namibia Dollar,N$,Cent,,0.01,"10,20,50,100,200",,"1,5,10","5,10,50",Bank of Namibia,conventional peg,exchange rate anchor: ZAR,"(iso_a3:NAM,name:Namibia)",NAD,516
+Nepalese Rupee,रु,Paisa,,0.01,"5,10,20,50,100,500,1000",,"1,2",,Nepal Rastra Bank,conventional peg,exchange rate anchor: INR,"(iso_a3:NPL,name:Nepal)",NPR,524
+Cordoba Oro,C$,Centavo,,0.01,"5,10,20,50,100,200,500,1000",,"1,5,10","5,10,25,50",Central Bank of Nicaragua,crawling peg,exchange rate anchor: USD,"(iso_a3:NIC,name:Nicaragua)",NIO,558
+Naira,₦,Kobo,,0.01,"5,10,20,50,100,200,500,1000",,"1,2",50,Central Bank of Nigeria,stabilized arrangement,monetary aggregate target,"(iso_a3:NGA,name:Nigeria)",NGN,566
+Denar,den,Deni,,0.01,"10,50,100,200,500,1000,2000,5000",,"1,2,5,10,50",,National Bank of the Republic of Macedonia,stabilized arrangement,exchange rate anchor: EUR,"(iso_a3:MKD,name:North Macedonia)",MKD,807
+Rial Omani,RO,Baisa,,0.001,"0.5,1,5,10,20,50",100,,"5,10,25,50",Central Bank of Oman,conventional peg,exchange rate anchor: USD,"(iso_a3:OMN,name:Oman)",OMR,512
+Pakistan Rupee,Re.,Paisa,,0.01,"10,20,50,75,100,500,1000,5000",,"1,2,5,10",,State Bank of Pakistan,floating,others,"(iso_a3:PAK,name:Pakistan)",PKR,586
+Balboa,B/.,Centésimo,,0.01,,,1,"1,5,10,25,50",National Bank of Panama,conventional peg,exchange rate anchor: USD,"(iso_a3:PAN,name:Panama)",PAB,590
+Kina,K,Toea,t,0.01,"2,5,10,20,50,100",,1,"5,10,20,50",Bank of Papua New Guinea,stabilized arrangement,monetary aggregate target,"(iso_a3:PNG,name:Papua New Guinea)",PGK,598
+Guarani,₲,Céntimo,¢,0.01,"2000,5000,10000,20000,50000,100000",,"50,100,500,1000",,Central Bank of Paraguay,floating,inflation targeting framework,"(iso_a3:PRY,name:Paraguay)",PYG,600
+Sol,S/,Céntimo,,0.01,"10,20,50,100,200",,"1,2,5","10,20,50",Central Reserve Bank of Peru,floating,inflation targeting framework,"(iso_a3:PER,name:Peru)",PEN,604
+Philippine Peso,₱,Centavo,¢,0.01,"20,50,100,500,1000",,"1,5,10,20","1,5,25",Bangko Sentral ng Pilipinas,crawl-like arrangement,inflation targeting framework,"(iso_a3:PHL,name:Philippines)",PHP,608
+Zloty,zł,Grosz,gr,0.01,"10,20,50,100,200,500",,"1,2,5","1,2,5,10,20,50",National Bank of Poland,free floating,inflation targeting framework,"(iso_a3:POL,name:Poland)",PLN,985
+Qatari Rial,QR,Dirham,,0.01,"1,5,10,50,100,200,500",,,"25,50",Qatar Central Bank,conventional peg,exchange rate anchor: USD,"(iso_a3:QAT,name:Qatar)",QAR,634
+Romanian Leu,leu,Ban,,0.01,"1,5,10,20,50,100,200,500",,,"1,5,10,50",National Bank of Romania,crawl-like arrangement,inflation targeting framework,"(iso_a3:ROU,name:Romania)",RON,946
+Russian Ruble,₽,Kopeyka,kop,0.01,"10,50,100,200,500,1000,2000,5000",,"1,2,5,10","1,5,10,50",Central Bank of the Russian Federation,free floating,inflation targeting framework,"(iso_a3:RUS,name:Russia)",RUB,643
+Rwanda Franc,FRw,Centime,,0.01,"500,1000,2000,5000",,"1,2,5,10,20,50,100",,National Bank of Rwanda,crawl-like arrangement,monetary aggregate target,"(iso_a3:RWA,name:Rwanda)",RWF,646
+Saint Helena Pound,£,Penny,p,0.01,"5,10,20",,"1,2","1,2,5,10,20,50",Government of Saint Helena,conventional peg,exchange rate anchor: GBP,"(iso_a3:SHN,name:Saint Helena, Ascension and Tristan da Cunha)",SHP,654
+Tala,WS$,Sene,,0.01,"5,10,20,50,100",,"1,2","10,20,50",Central Bank of Samoa,conventional peg,monetary aggregate target,"(iso_a3:WSM,name:Samoa)",WST,882
+Dobra,Db,Cêntimo,,0.01,"5,10,20,50,100,200",,"1,2","10,20,50",Central Bank of São Tomé and Príncipe,conventional peg,exchange rate anchor: EUR,"(iso_a3:STP,name:Sao Tome and Principe)",STN,930
+Saudi Riyal,SAR,Halalah,,0.01,"5,10,50,100,500",,"1,2","1,5,10,25,50",Saudi Central Bank,conventional peg,exchange rate anchor: USD,"(iso_a3:SAU,name:Saudi Arabia)",SAR,682
+Serbian Dinar,DIN,Pаra,,0.01,"10,20,50,100,200,500,1000,2000,5000",,"1,2,5,10,20",,National Bank of Serbia,stabilized arrangement,inflation targeting framework,"(iso_a3:SRB,name:Serbia)",RSD,941
+Seychelles Rupee,Re,Cent,c,0.01,"10,25,50,100,500",,"1,5,10","1,5,10,25",Central Bank of Seychelles,floating,inflation targeting framework,"(iso_a3:SYC,name:Seychelles)",SCR,690
+Leone,Le,Cent,¢,0.01,"1,2,5,10,20",,,"1,5,10,25,50",Bank of Sierra Leone,other managed arrangement,monetary aggregate target,"(iso_a3:SLE,name:Sierra Leone)",SLE,925
+Leone,Le,Cent,¢,0.01,"1,2,5,10,20,100,500,1000,2000,5000,10000,20000",50,"1,2,10,50,100,500","0.5,1,5,10,20",Bank of Sierra Leone,other managed arrangement,monetary aggregate target,"(iso_a3:SLE,name:Sierra Leone)",SLL,694
+Singapore Dollar,S$,Cent,c,0.01,"2,5,10,50,100",,1,"5,10,20,50",Monetary Authority of Singapore,stabilized arrangement,composite,"(iso_a3:SGP,name:Singapore)",SGD,702
+Solomon Islands Dollar,SI$,Cent,,0.01,"2,5,10,20,50,100",,"1,2","10,20,50",Central Bank of Solomon Islands,crawl-like arrangement,others,"(iso_a3:SLB,name:Solomon Islands)",SBD,090
+Somali Shilling,Sh.,Senti,,0.01,"5,10,20,50,100,500,1000,5000,10000",,1,"5,10,50",Central Bank of Somalia,free floating,others,"(iso_a3:SOM,name:Somalia)",SOS,706
+South Sudanese Pound,SSP,Piaster,,0.01,"1,5,10,20,50,100,500,1000",,"0.1,0.2,0.5,1,2",,Bank of South Sudan,crawl-like arrangement,others,"(iso_a3:SSD,name:South Sudan)",SSP,728
+Sri Lanka Rupee,Re,Cent,,0.01,"20,50,100,500,1000,5000",,"1,2,5,10,20",,Central Bank of Sri Lanka,floating,inflation targeting framework,"(iso_a3:LKA,name:Sri Lanka)",LKR,144
+Sudanese Pound,LS,Piastre,PT,0.01,"2,5,10,20,50,100,200,500,1000",,1,"1,5,10,20,50",Central Bank of Sudan,stabilized arrangement,others,"(iso_a3:SDN,name:Sudan)",SDG,938
+Surinam Dollar,Sur$,Cent,,0.01,"5,10,20,50,100",,,"1,5,10,25,100,250",Central Bank of Suriname,stabilized arrangement,monetary aggregate target,"(iso_a3:SUR,name:Suriname)",SRD,968
+Swedish Krona,kr,Öre,,0.01,"20,50,100,200,500,1000",,"1,2,5,10",,Sveriges Riksbank,free floating,inflation targeting framework,"(iso_a3:SWE,name:Sweden)",SEK,752
+Syrian Pound,"LS, £S",Piastre,p,0.01,"50,100,200,500,1000,2000,5000",,"1,2,5,10,25,50",,Central Bank of Syria,other managed arrangement,composite,"(iso_a3:SYR,name:Syria)",SYP,760
+New Taiwan Dollar,NT$,Fen,,0.01,"100,200,500,10000,20000",,"1,5,10,20,50",50,Central Bank of the Republic of China (Taiwan),,,"(iso_a3:TWN,name:Taiwan)",TWD,901
+Somoni,ЅM,Diram,,0.01,"1,3,5,10,20,50,100,200,500","1,5,20,50","1,3,5","1,2,5,10,20,50",National Bank of Tajikistan,stabilized arrangement,monetary aggregate target,"(iso_a3:TJK,name:Tajikistan)",TJS,972
+Tanzanian Shilling,TSh,Cent,,0.01,"500,1000,2000,5000,10000",,"50,100,200,500",,Bank of Tanzania,stabilized arrangement,monetary aggregate target,"(iso_a3:TZA,name:Tanzania)",TZS,834
+Baht,฿,Satang,,0.01,"20,50,100,500,1000",,"1,2,5,10","1,5,10,25,50",Bank of Thailand,floating,inflation targeting framework,"(iso_a3:THA,name:Thailand)",THB,764
+Pa’anga,T$,Seniti,¢,0.01,"1,2,5,10,20,50,100",,1,"1,2,5,10,20,50",National Reserve Bank of Tonga,other managed arrangement,others,"(iso_a3:TON,name:Tonga)",TOP,776
+Trinidad and Tobago Dollar,TT$,Cent,¢,0.01,"1,5,10,20,50,100",,1,"5,10,25,50",Central Bank of Trinidad and Tobago,stabilized arrangement,exchange rate anchor: USD,"(iso_a3:TTO,name:Trinidad and Tobago)",TTD,780
+Tunisian Dinar,DT,Milim,,0.001,"5,10,20,50",,"0.5,1,2,5","5,10,20,50,100,200",Central Bank of Tunisia,crawl-like arrangement,others,"(iso_a3:TUN,name:Tunisia)",TND,788
+Turkish Lira,₺,Kuruş,kr,0.01,"5,10,20,50,100,200",,1,"1,5,10,25,50",Central Bank of the Republic of Turkey,floating,inflation targeting framework,"(iso_a3:TUR,name:Turkey)",TRY,949
+Turkmenistan New Manat,m,Tenge,t,0.01,"1,5,10,20,50,100",,"1,2","1,2,5,10,20,50",Central Bank of Turkmenistan,conventional peg,exchange rate anchor: USD,"(iso_a3:TKM,name:Turkmenistan)",TMT,934
+Uganda Shilling,USh,Cent,,0.01,"1000,2000,5000,10000,20000,50000",,"50,100,200,500,1000",,Bank of Uganda,floating,inflation targeting framework,"(iso_a3:UGA,name:Uganda)",UGX,800
+Hryvnia,₴,Kopiyka,,0.01,"20,50,100,200,500,1000",,"1,2,5,10","10,50",National Bank of Ukraine,floating,inflation targeting framework,"(iso_a3:UKR,name:Ukraine)",UAH,980
+UAE Dirham,DH,Fils,,0.01,"5,10,20,50,100,200,500,1000",,1,"25,50",Central Bank of the United Arab Emirates,conventional peg,exchange rate anchor: USD,"(iso_a3:ARE,name:United Arab Emirates)",AED,784
+Peso Uruguayo,$U,Centésimo,,0.01,"20,50,100,200,500,1000,2000",,"1,2,5,10,50",,Central Bank of Uruguay,floating,inflation targeting framework,"(iso_a3:URY,name:Uruguay)",UYU,858
+Uzbekistan Sum,Sum,Tiyin,,0.01,"1000,2000,5000,10000,20000,50000,100000,2000000",,"50,100,200,1000",,Central Bank of the Republic of Uzbekistan,crawl-like arrangement,inflation targeting framework,"(iso_a3:UZB,name:Uzbekistan)",UZS,860
+Vatu,VT,,,,"200,500,1000,2000,5000,10000",,"5,10,20,50,100",,Reserve Bank of Vanuatu,other managed arrangement,others,"(iso_a3:VUT,name:Vanuatu)",VUV,548
+Bolívar Digital,Bs.D,Céntimo,,0.01,,,,,Central Bank of Venezuela,other managed arrangement,others,"(iso_a3:VEN,name:Venezuela)",VED,926
+Bolívar Soberano,Bs.S,Céntimo,,0.01,"10000,20000,50000,200000,500000,1000000",,,,Central Bank of Venezuela,other managed arrangement,others,"(iso_a3:VEN,name:Venezuela)",VES,928
+Dong,₫,Xu,,0,"1000,2000,5000,10000,20000,50000,100000,200000,500000",,"200,500,1000,2000,5000",,State Bank of Vietnam,crawl-like arrangement,composite,"(iso_a3:VNM,name:Vietnam)",VND,704
+Yemeni Rial,YRI,Fils,,0.01,"50,100,200,250,500,1000",,"1,5,10,20",,Central Bank of Yemen,floating,monetary aggregate target,"(iso_a3:YEM,name:Yemen)",YER,886
+Zambian Kwacha,ZK,Ngwee,,0.01,"2,5,10,20,50,100",,1,"5,10,50",Bank of Zambia,crawl-like arrangement,others,"(iso_a3:ZMB,name:Zambia)",ZMW,967
+Zimbabwe Dollar,Z$,Cent,¢,0.01,"2,5,10,20,50,100",,"1,2","1,5,10,25,50",Reserve Bank of Zimbabwe,other managed arrangement,monetary aggregate target,"(iso_a3:ZWE,name:Zimbabwe)",ZWL,932
+Bitcoin,₿,Satoshi,,1e-08,,,,,,floating,others,"(iso_a3:SLV,name:El Salvador),(iso_a3:CAF,name:Central African Republic)",,

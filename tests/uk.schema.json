@@ -1,0 +1,158 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "patternProperties": {
+    "^[A-Z]{3}$": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "object",
+          "properties": {
+            "short": { "type": "string" },
+            "official": { "type": "string" },
+            "alt": { "type": ["string", "null"] }
+          },
+          "required": ["short", "official", "alt"],
+          "additionalProperties": false
+        },
+        "iso_code": { "type": "string" },
+        "largest_city": { "type": "string" },
+        "capital": { "type": "string" },
+        "currencies": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "iso_a3": { "type": "string" },
+              "name": { "type": "string" }
+            },
+            "required": ["iso_a3", "name"],
+            "additionalProperties": false
+          }
+        },
+        "population": { "type": "number" },
+        "area": {
+          "type": "object",
+          "properties": {
+            "total": { "type": "number" },
+            "land": { "type": ["number", "null"] },
+            "water": { "type": ["number", "null"] },
+            "water_percentage": { "type": ["number", "null"] }
+          },
+          "required": ["total", "land", "water", "water_percentage"],
+          "additionalProperties": false
+        },
+        "calling_code": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "gva": {
+          "type": "object",
+          "properties": {
+            "total": { "type": "number" },
+            "per_capita": { "type": "number"}
+          },
+          "required": ["total", "per_capita"],
+          "additionalProperties": false
+        },
+        "driving_side": { "type": "string" },
+        "hdi": { "type": "number" },
+        "time_zone": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "tld": { "type": "string" },
+        "continent": {
+          "type": "array",
+          "items": { "type": "string" },
+          "maxItems": 2
+        },
+        "languages": {
+          "type": "object",
+          "properties": {
+            "official": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "iso_a3": { "type": "string"},
+                  "name": { "type": "string"}
+                },
+                "required": ["iso_a3", "name"],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": ["official"],
+          "additionalProperties": false
+        },
+        "independence": {
+          "type": "object",
+          "properties": {
+            "is_independent": { "type": "boolean" },
+            "sovereign_state": {
+              "oneOf": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "iso_a3": { "type": "string" },
+                    "name": { "type": "string" }
+                  },
+                  "required": ["iso_a3", "name"],
+                  "additionalProperties": false
+                },
+                { "type": "null"}
+              ]
+            },
+            "status": { "type": ["string", "null"] }
+          },
+          "required": ["is_independent", "sovereign_state", "status"],
+          "additionalProperties": false
+        },
+        "centroid": {
+          "type": "object",
+          "properties": {
+            "latitude": { "type": ["number", "null"] },
+            "longitude": { "type": ["number", "null"] }
+          },
+          "required": ["latitude", "longitude"],
+          "additionalProperties": false
+        },
+        "land_borders": {
+          "type": "object",
+          "properties": {
+            "total": { "type": "number" },
+            "countries": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "iso_a3": { "type": "string"},
+                  "name": { "type": "string"},
+                  "length": { "type": "number"}
+                },
+                "required": ["iso_a3", "name", "length"],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": ["total", "countries"],
+          "additionalProperties": false
+        },
+        "gov_type": { "type": ["string", "null"] },
+        "coastline": { "type": ["number", "null"] },
+        "is_landlocked": { "type": "boolean" },
+        "emoji_flag": { "type": ["string", "null"] }
+      },
+      "required": [
+        "name", "iso_code", "largest_city", "capital", "currencies", "population",
+        "area", "calling_code", "gva", "driving_side", "hdi", "time_zone", "tld",
+        "continent", "languages", "independence", "centroid", "land_borders", "gov_type",
+        "coastline", "is_landlocked", "emoji_flag"
+      ],
+      "additionalProperties": false
+    },
+    "additionalProperties": false
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,265 @@
+<ENG>
+  <name>
+    <short>England</short>
+    <official>England</official>
+    <alt></alt>
+  </name>
+  <iso_code>GB-ENG</iso_code>
+  <largest_city>London</largest_city>
+  <capital>London</capital>
+  <currencies>
+    <iso_a3>GBP</iso_a3>
+    <name>Pound Sterling</name>
+  </currencies>
+  <population>5.64898e+07</population>
+  <area>
+    <total>130279</total>
+    <land>130279</land>
+    <water>0</water>
+    <water_percentage>0</water_percentage>
+  </area>
+  <calling_code>44</calling_code>
+  <gva>
+    <total>1.760438e+06</total>
+    <per_capita>31138</per_capita>
+  </gva>
+  <driving_side>left</driving_side>
+  <hdi>0.923</hdi>
+  <time_zone>UTC±00:00</time_zone>
+  <tld>.uk</tld>
+  <continent>Europe</continent>
+  <languages>
+    <official>
+      <iso_a3>ENG</iso_a3>
+      <name>English</name>
+    </official>
+  </languages>
+  <independence>
+    <is_independent>false</is_independent>
+    <sovereign_state>
+      <iso_a3>GBR</iso_a3>
+      <name>United Kingdom</name>
+    </sovereign_state>
+    <status>constituent country</status>
+  </independence>
+  <centroid>
+    <latitude>52.561928</latitude>
+    <longitude>-1.464854</longitude>
+  </centroid>
+  <land_borders>
+    <total>414</total>
+    <countries>
+      <iso_a3>WLS</iso_a3>
+      <name>Wales</name>
+      <length>260</length>
+    </countries>
+    <countries>
+      <iso_a3>SCT</iso_a3>
+      <name>Scotland</name>
+      <length>154</length>
+    </countries>
+  </land_borders>
+  <gov_type>part of a constitutional monarchy</gov_type>
+  <coastline>4422</coastline>
+  <is_landlocked>false</is_landlocked>
+  <emoji_flag>🏴󠁧󠁢󠁥󠁮󠁧󠁿</emoji_flag>
+</ENG>
+<NIR>
+  <name>
+    <short>Northern Ireland</short>
+    <official>Northern Ireland</official>
+    <alt></alt>
+  </name>
+  <iso_code>GB-NIR</iso_code>
+  <largest_city>Belfast</largest_city>
+  <capital>Belfast</capital>
+  <currencies>
+    <iso_a3>GBP</iso_a3>
+    <name>Pound Sterling</name>
+  </currencies>
+  <population>1.9031e+06</population>
+  <area>
+    <total>14130</total>
+    <land>14130</land>
+    <water>0</water>
+    <water_percentage>0</water_percentage>
+  </area>
+  <calling_code>44-28</calling_code>
+  <gva>
+    <total>45724</total>
+    <per_capita>24007</per_capita>
+  </gva>
+  <driving_side>left</driving_side>
+  <hdi>0.896</hdi>
+  <time_zone>UTC±00:00</time_zone>
+  <tld>.uk</tld>
+  <continent>Europe</continent>
+  <languages>
+    <official>
+      <iso_a3>ENG</iso_a3>
+      <name>English</name>
+    </official>
+    <official>
+      <iso_a3>GLE</iso_a3>
+      <name>Irish</name>
+    </official>
+  </languages>
+  <independence>
+    <is_independent>false</is_independent>
+    <sovereign_state>
+      <iso_a3>GBR</iso_a3>
+      <name>United Kingdom</name>
+    </sovereign_state>
+    <status>constituent country</status>
+  </independence>
+  <centroid>
+    <latitude>54.607577</latitude>
+    <longitude>-6.693145</longitude>
+  </centroid>
+  <land_borders>
+    <total>449</total>
+    <countries>
+      <iso_a3>IRL</iso_a3>
+      <name>Ireland</name>
+      <length>449</length>
+    </countries>
+  </land_borders>
+  <gov_type>consociational devolved legislature within a constitutional monarchy</gov_type>
+  <coastline>644</coastline>
+  <is_landlocked>false</is_landlocked>
+  <emoji_flag>null</emoji_flag>
+</NIR>
+<SCT>
+  <name>
+    <short>Scotland</short>
+    <official>Scotland</official>
+    <alt></alt>
+  </name>
+  <iso_code>GB-SCT</iso_code>
+  <largest_city>Glasgow</largest_city>
+  <capital>Edinburgh</capital>
+  <currencies>
+    <iso_a3>GBP</iso_a3>
+    <name>Pound Sterling</name>
+  </currencies>
+  <population>5.4633e+06</population>
+  <area>
+    <total>77933</total>
+    <land>75595</land>
+    <water>2338</water>
+    <water_percentage>0.3</water_percentage>
+  </area>
+  <calling_code>44</calling_code>
+  <gva>
+    <total>149938</total>
+    <per_capita>27361</per_capita>
+  </gva>
+  <driving_side>left</driving_side>
+  <hdi>0.921</hdi>
+  <time_zone>UTC±00:00</time_zone>
+  <tld>.scot</tld>
+  <continent>Europe</continent>
+  <languages>
+    <official>
+      <iso_a3>ENG</iso_a3>
+      <name>English</name>
+    </official>
+    <official>
+      <iso_a3>SCO</iso_a3>
+      <name>Scots</name>
+    </official>
+    <official>
+      <iso_a3>GLA</iso_a3>
+      <name>Scottish Gaelic</name>
+    </official>
+  </languages>
+  <independence>
+    <is_independent>false</is_independent>
+    <sovereign_state>
+      <iso_a3>GBR</iso_a3>
+      <name>United Kingdom</name>
+    </sovereign_state>
+    <status>constituent country</status>
+  </independence>
+  <centroid>
+    <latitude>56.816738</latitude>
+    <longitude>-4.183963</longitude>
+  </centroid>
+  <land_borders>
+    <total>154</total>
+    <countries>
+      <iso_a3>ENG</iso_a3>
+      <name>England</name>
+      <length>154</length>
+    </countries>
+  </land_borders>
+  <gov_type>devolved parliamentary legislature within a constitutional monarchy</gov_type>
+  <coastline>18672</coastline>
+  <is_landlocked>false</is_landlocked>
+  <emoji_flag>🏴󠁧󠁢󠁳󠁣󠁴󠁿</emoji_flag>
+</SCT>
+<WLS>
+  <name>
+    <short>Wales</short>
+    <official>Wales</official>
+    <alt></alt>
+  </name>
+  <iso_code>GB-WLS</iso_code>
+  <largest_city>Cardiff</largest_city>
+  <capital>Cardiff</capital>
+  <currencies>
+    <iso_a3>GBP</iso_a3>
+    <name>Pound Sterling</name>
+  </currencies>
+  <population>3.267501e+06</population>
+  <area>
+    <total>20779</total>
+    <land>null</land>
+    <water>null</water>
+    <water_percentage>null</water_percentage>
+  </area>
+  <calling_code>44</calling_code>
+  <gva>
+    <total>69500</total>
+    <per_capita>22380</per_capita>
+  </gva>
+  <driving_side>left</driving_side>
+  <hdi>0.898</hdi>
+  <time_zone>UTC±00:00</time_zone>
+  <tld>.wales</tld>
+  <continent>Europe</continent>
+  <languages>
+    <official>
+      <iso_a3>ENG</iso_a3>
+      <name>English</name>
+    </official>
+    <official>
+      <iso_a3>CYM</iso_a3>
+      <name>Welsh</name>
+    </official>
+  </languages>
+  <independence>
+    <is_independent>false</is_independent>
+    <sovereign_state>
+      <iso_a3>GBR</iso_a3>
+      <name>United Kingdom</name>
+    </sovereign_state>
+    <status>constituent country</status>
+  </independence>
+  <centroid>
+    <latitude>52.33022</latitude>
+    <longitude>-3.766409</longitude>
+  </centroid>
+  <land_borders>
+    <total>260</total>
+    <countries>
+      <iso_a3>ENG</iso_a3>
+      <name>England</name>
+      <length>260</length>
+    </countries>
+  </land_borders>
+  <gov_type>devolved parliamentary legislature within a constitutional monarchy</gov_type>
+  <coastline>2704</coastline>
+  <is_landlocked>false</is_landlocked>
+  <emoji_flag>🏴󠁧󠁢󠁷󠁬󠁳󠁿</emoji_flag>
+</WLS>

@@ -1,0 +1,127 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "patternProperties": {
+    "^[A-Z]{3}$": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "iso": {
+          "type": "object",
+          "properties": {
+            "a3": { "type": ["string", "null"] },
+            "n3": { "type": ["string", "null"] }
+          },
+          "required": ["a3", "n3"],
+          "additionalProperties": false
+        },
+        "symbol": { "type": "string" },
+        "subunit": {
+          "type": "object",
+          "properties": {
+            "name": { "type": ["string", "null"] },
+            "symbol": { "type": ["string", "null"] },
+            "value": { "type": ["number", "null"] }
+          },
+          "required": ["name", "symbol", "value"],
+          "additionalProperties": false
+        },
+        "banknotes": {
+          "type": "object",
+          "properties": {
+            "main": {
+              "type": "array",
+              "items": { "type": "number" }
+            },
+            "sub": {
+              "type": "array",
+              "items": { "type": "number" }
+            }
+          },
+          "required": ["main", "sub"],
+          "additionalProperties": false
+        },
+        "coins": {
+          "type": "object",
+          "properties": {
+            "main": {
+              "type": "array",
+              "items": { "type": "number" }
+            },
+            "sub": {
+              "type": "array",
+              "items": { "type": "number" }
+            }
+          },
+          "required": ["main", "sub"],
+          "additionalProperties": false
+        },
+        "bank": { "type": ["string", "null"] },
+        "exchange": {
+          "type": "object",
+          "properties": {
+            "arrangement": {
+              "oneOf": [
+                { "enum": [
+                  "currency board",
+                  "conventional peg",
+                  "stabilized arrangement",
+                  "crawling peg",
+                  "crawl-like arrangement",
+                  "pegged exchange rate within horizontal bands",
+                  "other managed arrangement",
+                  "floating",
+                  "free floating"
+                ] },
+                { "type": "null"}
+              ]
+            },
+            "policy": {
+              "oneOf": [
+                { "enum": [
+                  "exchange rate anchor: USD",
+                  "exchange rate anchor: EUR",
+                  "exchange rate anchor: INR",
+                  "exchange rate anchor: ZAR",
+                  "exchange rate anchor: SGD",
+                  "exchange rate anchor: GBP",
+                  "exchange rate anchor: HKD",
+                  "composite",
+                  "monetary aggregate target",
+                  "inflation targeting framework",
+                  "others"
+                ] },
+                { "type": "null"}
+              ]
+            }
+          },
+          "required": ["arrangement", "policy"],
+          "additionalProperties": false
+        },
+        "used_by": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "iso_a3": {
+              "type": "string",
+              "minLength": 3,
+              "maxLength": 3
+            },
+              "name": { "type": "string" }
+            },
+            "required": ["iso_a3", "name"],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "name", "iso", "symbol", "subunit", "banknotes", "coins", "bank", "exchange",
+        "used_by"
+      ],
+      "additionalProperties": false
+    },
+    "additionalProperties": false
+  },
+  "additionalProperties": false
+}
