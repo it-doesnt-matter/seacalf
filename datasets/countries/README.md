@@ -119,8 +119,9 @@ The `year` attribute was added because the year, in which the last estimate was 
 Source: [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI)
 
 ## hdi
-The data is from 2021.
+Source: [UNDP](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI)
 
+## gii
 Source: [UNDP](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI)
 
 ## time_zone

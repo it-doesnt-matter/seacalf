@@ -52,7 +52,12 @@ Each entry has the following properties:
 - `gini`: Gini coefficient
 	- `estimate`: latest estimate of the Gini coefficient
 	- `year`: year in which the estimate was made
-- `hdi`: Human Development Index
+- `hdi`: list of annual Human Development Index values
+	- `value`
+	- `year`: year of the data
+- `gii`: list of annual Gender Inequality Index values
+	- `value`
+	- `year`: year of the data
 - `time_zone`: list of time_zones (daylight saving times are not included)
 - `tld`: latin-character ccTLD (country code top-level domain)
 - `un`
@@ -199,4 +204,4 @@ Available formats: GeoJSON.
 ### Passports
 This dataset contains pictures of all passports, which are covered in Arton Capital's passport index.
 
-Available formats: PNG.
+Available formats: JPG.

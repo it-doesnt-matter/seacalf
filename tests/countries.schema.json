@@ -147,7 +147,46 @@
           "required": ["estimate", "year"],
           "additionalProperties": false
         },
-        "hdi": { "type": ["number", "null"] },
+        "hdi": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "value": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              },
+              "year": {
+                "type": "number",
+                "minimum": 1990,
+                "maximum": 2021
+              }
+            },
+            "required": ["value", "year"],
+            "additionalProperties": false
+          }
+        },
+        "gii": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "value": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              },
+              "year": {
+                "type": "number",
+                "minimum": 1990,
+                "maximum": 2021
+              }
+            },
+            "required": ["value", "year"],
+            "additionalProperties": false
+          }
+        },
         "time_zone": {
           "type": "array",
           "items": { "type": "string" }
@@ -379,10 +418,10 @@
       },
       "required": [
         "name", "iso", "largest_city", "capital", "currencies", "population", "area",
-        "calling_code", "gdp", "driving_side", "gini", "hdi", "time_zone", "tld", "un",
-        "unm49", "continent", "languages", "nato", "inflation", "independence", "centroid",
-        "land_borders", "gov_type", "coastline", "is_landlocked", "arton", "emoji_flag",
-        "translations"
+        "calling_code", "gdp", "driving_side", "gini", "hdi", "gii", "time_zone", "tld",
+        "un", "unm49", "continent", "languages", "nato", "inflation", "independence",
+        "centroid", "land_borders", "gov_type", "coastline", "is_landlocked", "arton",
+        "emoji_flag", "translations"
       ],
       "additionalProperties": false
     },
