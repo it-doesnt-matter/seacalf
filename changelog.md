@@ -1,11 +1,17 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+## 2023-06-05
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+### Added
 
-## 02.06.2023
+- access to electricity data
+
+### Changed
+
+- schema: countries
+- README: general and countries
+
+## 2023-06-02
 
 ### Added
 
@@ -22,6 +28,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - file format of passports in general README
 
-## 01.06.2023
+## 2023-06-01
 
 ### Initial Commit

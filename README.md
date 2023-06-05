@@ -107,6 +107,11 @@ Each entry has the following properties:
 	- `ipr`: individual power rank
 	- `wr`: world reach stated as a percentage
 - `emoji_flag`: flag of the country as emoji
+- `elec_access`: list of annual data about access to electricity
+	- `year`
+	- `total`: percentage of total population that has access to electricity
+	- `urban`: percentage of urban population that has access to electricity
+	- `rural`: percentage of rural population that has access to electricity
 
 ### UK
 ISO 3611-1 only includes the United Kingdom and not its constituent countries. Because the Countries dataset is based on said standard, it also doesn't contain England, Scotland, Wales and Northern Ireland. This dataset is for everyone interested in data about those individual countries. I tried to keep the schema similar to the one from Countries, but removed/changed a few properties.

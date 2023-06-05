@@ -414,6 +414,20 @@
             "THA", "TIR", "TUR", "UKR", "URD", "VIE", "CMN"
           ],
           "additionalProperties": false
+        },
+        "elec_access": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "year": { "type": "number" },
+              "total": { "type": ["number", "null"] },
+              "urban": { "type": ["number", "null"] },
+              "rural": { "type": ["number", "null"] }
+            },
+            "required": ["year", "total", "urban", "rural"],
+            "additionalProperties": false
+          }
         }
       },
       "required": [
@@ -421,7 +435,7 @@
         "calling_code", "gdp", "driving_side", "gini", "hdi", "gii", "time_zone", "tld",
         "un", "unm49", "continent", "languages", "nato", "inflation", "independence",
         "centroid", "land_borders", "gov_type", "coastline", "is_landlocked", "arton",
-        "emoji_flag", "translations"
+        "emoji_flag", "translations", "elec_access"
       ],
       "additionalProperties": false
     },
