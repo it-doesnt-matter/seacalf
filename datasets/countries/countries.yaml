@@ -451,6 +451,49 @@ AFG:
       total: 97.7
       urban: 99.5
       rural: 97.0667126311832
+  clean_access:
+    - value: 6
+      year: 2000
+    - value: 7
+      year: 2001
+    - value: 8
+      year: 2002
+    - value: 9
+      year: 2003
+    - value: 11
+      year: 2004
+    - value: 12
+      year: 2005
+    - value: 14
+      year: 2006
+    - value: 15
+      year: 2007
+    - value: 17
+      year: 2008
+    - value: 18
+      year: 2009
+    - value: 20
+      year: 2010
+    - value: 22
+      year: 2011
+    - value: 23
+      year: 2012
+    - value: 25
+      year: 2013
+    - value: 26
+      year: 2014
+    - value: 27
+      year: 2015
+    - value: 29
+      year: 2016
+    - value: 30
+      year: 2017
+    - value: 31
+      year: 2018
+    - value: 32
+      year: 2019
+    - value: 33
+      year: 2020
 ALA:
   name:
     short: Åland
@@ -598,6 +641,7 @@ ALA:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 ALB:
   name:
     short: Albania
@@ -1017,6 +1061,49 @@ ALB:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 38
+      year: 2000
+    - value: 40
+      year: 2001
+    - value: 43
+      year: 2002
+    - value: 46
+      year: 2003
+    - value: 49
+      year: 2004
+    - value: 52
+      year: 2005
+    - value: 55
+      year: 2006
+    - value: 58
+      year: 2007
+    - value: 61
+      year: 2008
+    - value: 64
+      year: 2009
+    - value: 66
+      year: 2010
+    - value: 69
+      year: 2011
+    - value: 71
+      year: 2012
+    - value: 73
+      year: 2013
+    - value: 75
+      year: 2014
+    - value: 76
+      year: 2015
+    - value: 78
+      year: 2016
+    - value: 79
+      year: 2017
+    - value: 80
+      year: 2018
+    - value: 81
+      year: 2019
+    - value: 81
+      year: 2020
 DZA:
   name:
     short: Algeria
@@ -1506,6 +1593,49 @@ DZA:
       total: 99.80413055419922
       urban: 99.8840103149414
       rural: 99.5799033976473
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 ASM:
   name:
     short: American Samoa
@@ -1655,6 +1785,7 @@ ASM:
     year: 1946
   gii: []
   elec_access: []
+  clean_access: []
 AND:
   name:
     short: Andorra
@@ -1936,6 +2067,49 @@ AND:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 AGO:
   name:
     short: Angola
@@ -2395,6 +2569,49 @@ AGO:
       total: 46.89060974121094
       urban: 73.70891571044922
       rural: null
+  clean_access:
+    - value: 41
+      year: 2000
+    - value: 42
+      year: 2001
+    - value: 42
+      year: 2002
+    - value: 42
+      year: 2003
+    - value: 42
+      year: 2004
+    - value: 43
+      year: 2005
+    - value: 43
+      year: 2006
+    - value: 43
+      year: 2007
+    - value: 44
+      year: 2008
+    - value: 44
+      year: 2009
+    - value: 44
+      year: 2010
+    - value: 45
+      year: 2011
+    - value: 45
+      year: 2012
+    - value: 46
+      year: 2013
+    - value: 46
+      year: 2014
+    - value: 47
+      year: 2015
+    - value: 48
+      year: 2016
+    - value: 48
+      year: 2017
+    - value: 49
+      year: 2018
+    - value: 50
+      year: 2019
+    - value: 50
+      year: 2020
 AIA:
   name:
     short: Anguilla
@@ -2626,6 +2843,7 @@ AIA:
       total: 100
       urban: null
       rural: null
+  clean_access: []
 ATA:
   name:
     short: Antarctica
@@ -2776,6 +2994,7 @@ ATA:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 ATG:
   name:
     short: Antigua and Barbuda
@@ -3143,6 +3362,49 @@ ATG:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 ARG:
   name:
     short: Argentina
@@ -3623,6 +3885,49 @@ ARG:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 ARM:
   name:
     short: Armenia
@@ -4056,6 +4361,49 @@ ARM:
       total: 100
       urban: 99.95941162109375
       rural: 100
+  clean_access:
+    - value: 80
+      year: 2000
+    - value: 82
+      year: 2001
+    - value: 85
+      year: 2002
+    - value: 88
+      year: 2003
+    - value: 90
+      year: 2004
+    - value: 92
+      year: 2005
+    - value: 93
+      year: 2006
+    - value: 94
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 ABW:
   name:
     short: Aruba
@@ -4343,6 +4691,7 @@ ABW:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 AUS:
   name:
     short: Australia
@@ -4814,6 +5163,49 @@ AUS:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 AUT:
   name:
     short: Austria
@@ -5304,6 +5696,49 @@ AUT:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 AZE:
   name:
     short: Azerbaijan
@@ -5734,6 +6169,49 @@ AZE:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 70
+      year: 2000
+    - value: 74
+      year: 2001
+    - value: 77
+      year: 2002
+    - value: 80
+      year: 2003
+    - value: 83
+      year: 2004
+    - value: 85
+      year: 2005
+    - value: 87
+      year: 2006
+    - value: 89
+      year: 2007
+    - value: 91
+      year: 2008
+    - value: 92
+      year: 2009
+    - value: 93
+      year: 2010
+    - value: 94
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 BHS:
   name:
     short: Bahamas
@@ -6189,6 +6667,49 @@ BHS:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 BHR:
   name:
     short: Bahrain
@@ -6629,6 +7150,49 @@ BHR:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 BGD:
   name:
     short: Bangladesh
@@ -7100,6 +7664,49 @@ BGD:
       total: 96.2
       urban: 97.8
       rural: 95.21196641385649
+  clean_access:
+    - value: 8
+      year: 2000
+    - value: 8
+      year: 2001
+    - value: 8
+      year: 2002
+    - value: 9
+      year: 2003
+    - value: 9
+      year: 2004
+    - value: 9
+      year: 2005
+    - value: 10
+      year: 2006
+    - value: 10
+      year: 2007
+    - value: 11
+      year: 2008
+    - value: 12
+      year: 2009
+    - value: 13
+      year: 2010
+    - value: 14
+      year: 2011
+    - value: 15
+      year: 2012
+    - value: 16
+      year: 2013
+    - value: 17
+      year: 2014
+    - value: 18
+      year: 2015
+    - value: 19
+      year: 2016
+    - value: 21
+      year: 2017
+    - value: 22
+      year: 2018
+    - value: 23
+      year: 2019
+    - value: 25
+      year: 2020
 BRB:
   name:
     short: Barbados
@@ -7565,6 +8172,49 @@ BRB:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 BLR:
   name:
     short: Belarus
@@ -8016,6 +8666,49 @@ BLR:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 BEL:
   name:
     short: Belgium
@@ -8497,6 +9190,49 @@ BEL:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 BLZ:
   name:
     short: Belize
@@ -8968,6 +9704,49 @@ BLZ:
       total: 97.11333465576172
       urban: 98.33164978027344
       rural: 96.07446635441761
+  clean_access:
+    - value: 80
+      year: 2000
+    - value: 81
+      year: 2001
+    - value: 82
+      year: 2002
+    - value: 82
+      year: 2003
+    - value: 83
+      year: 2004
+    - value: 83
+      year: 2005
+    - value: 83
+      year: 2006
+    - value: 83
+      year: 2007
+    - value: 84
+      year: 2008
+    - value: 83
+      year: 2009
+    - value: 84
+      year: 2010
+    - value: 83
+      year: 2011
+    - value: 83
+      year: 2012
+    - value: 83
+      year: 2013
+    - value: 83
+      year: 2014
+    - value: 83
+      year: 2015
+    - value: 83
+      year: 2016
+    - value: 83
+      year: 2017
+    - value: 82
+      year: 2018
+    - value: 82
+      year: 2019
+    - value: 82
+      year: 2020
 BEN:
   name:
     short: Benin
@@ -9445,6 +10224,49 @@ BEN:
       total: 41.41095733642578
       urban: 66.1453857421875
       rural: 18.1965107340526
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 BMU:
   name:
     short: Bermuda
@@ -9676,6 +10498,7 @@ BMU:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 BTN:
   name:
     short: Bhutan
@@ -10063,6 +10886,49 @@ BTN:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 28
+      year: 2000
+    - value: 31
+      year: 2001
+    - value: 35
+      year: 2002
+    - value: 39
+      year: 2003
+    - value: 43
+      year: 2004
+    - value: 47
+      year: 2005
+    - value: 51
+      year: 2006
+    - value: 55
+      year: 2007
+    - value: 58
+      year: 2008
+    - value: 61
+      year: 2009
+    - value: 64
+      year: 2010
+    - value: 67
+      year: 2011
+    - value: 69
+      year: 2012
+    - value: 71
+      year: 2013
+    - value: 73
+      year: 2014
+    - value: 75
+      year: 2015
+    - value: 76
+      year: 2016
+    - value: 77
+      year: 2017
+    - value: 78
+      year: 2018
+    - value: 79
+      year: 2019
+    - value: 80
+      year: 2020
 BOL:
   name:
     short: Bolivia
@@ -10593,6 +11459,49 @@ BOL:
       total: 97.55412292480469
       urban: 100
       rural: 91.81351210944584
+  clean_access:
+    - value: 63
+      year: 2000
+    - value: 64
+      year: 2001
+    - value: 65
+      year: 2002
+    - value: 66
+      year: 2003
+    - value: 67
+      year: 2004
+    - value: 68
+      year: 2005
+    - value: 70
+      year: 2006
+    - value: 72
+      year: 2007
+    - value: 73
+      year: 2008
+    - value: 75
+      year: 2009
+    - value: 76
+      year: 2010
+    - value: 78
+      year: 2011
+    - value: 79
+      year: 2012
+    - value: 80
+      year: 2013
+    - value: 82
+      year: 2014
+    - value: 83
+      year: 2015
+    - value: 84
+      year: 2016
+    - value: 84
+      year: 2017
+    - value: 85
+      year: 2018
+    - value: 86
+      year: 2019
+    - value: 86
+      year: 2020
 BES:
   name:
     short: Bonaire, Sint Eustatius and Saba
@@ -10742,6 +11651,7 @@ BES:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 BIH:
   name:
     short: Bosnia and Herzegovina
@@ -11131,6 +12041,49 @@ BIH:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 52
+      year: 2000
+    - value: 51
+      year: 2001
+    - value: 51
+      year: 2002
+    - value: 51
+      year: 2003
+    - value: 49
+      year: 2004
+    - value: 49
+      year: 2005
+    - value: 48
+      year: 2006
+    - value: 47
+      year: 2007
+    - value: 47
+      year: 2008
+    - value: 46
+      year: 2009
+    - value: 45
+      year: 2010
+    - value: 45
+      year: 2011
+    - value: 44
+      year: 2012
+    - value: 44
+      year: 2013
+    - value: 44
+      year: 2014
+    - value: 44
+      year: 2015
+    - value: 45
+      year: 2016
+    - value: 44
+      year: 2017
+    - value: 45
+      year: 2018
+    - value: 45
+      year: 2019
+    - value: 45
+      year: 2020
 BWA:
   name:
     short: Botswana
@@ -11608,6 +12561,49 @@ BWA:
       total: 71.99475860595703
       urban: 90.7364501953125
       rural: 26.38289900293262
+  clean_access:
+    - value: 44
+      year: 2000
+    - value: 46
+      year: 2001
+    - value: 48
+      year: 2002
+    - value: 50
+      year: 2003
+    - value: 51
+      year: 2004
+    - value: 53
+      year: 2005
+    - value: 54
+      year: 2006
+    - value: 55
+      year: 2007
+    - value: 56
+      year: 2008
+    - value: 58
+      year: 2009
+    - value: 58
+      year: 2010
+    - value: 60
+      year: 2011
+    - value: 60
+      year: 2012
+    - value: 61
+      year: 2013
+    - value: 61
+      year: 2014
+    - value: 62
+      year: 2015
+    - value: 62
+      year: 2016
+    - value: 63
+      year: 2017
+    - value: 64
+      year: 2018
+    - value: 64
+      year: 2019
+    - value: 65
+      year: 2020
 BVT:
   name:
     short: Bouvet Island
@@ -11755,6 +12751,7 @@ BVT:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 BRA:
   name:
     short: Brazil
@@ -12253,6 +13250,49 @@ BRA:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 89
+      year: 2000
+    - value: 90
+      year: 2001
+    - value: 90
+      year: 2002
+    - value: 91
+      year: 2003
+    - value: 91
+      year: 2004
+    - value: 92
+      year: 2005
+    - value: 92
+      year: 2006
+    - value: 93
+      year: 2007
+    - value: 93
+      year: 2008
+    - value: 94
+      year: 2009
+    - value: 94
+      year: 2010
+    - value: 94
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 IOT:
   name:
     short: British Indian Ocean Territory
@@ -12400,6 +13440,7 @@ IOT:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 BRN:
   name:
     short: Brunei
@@ -12818,6 +13859,49 @@ BRN:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 BGR:
   name:
     short: Bulgaria
@@ -13298,6 +14382,7 @@ BGR:
       total: 99.7
       urban: 99.8
       rural: 100
+  clean_access: []
 BFA:
   name:
     short: Burkina Faso
@@ -13745,6 +14830,49 @@ BFA:
       total: 18.957239151000977
       urban: 65.75390625
       rural: null
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 6
+      year: 2010
+    - value: 6
+      year: 2011
+    - value: 7
+      year: 2012
+    - value: 7
+      year: 2013
+    - value: 8
+      year: 2014
+    - value: 8
+      year: 2015
+    - value: 9
+      year: 2016
+    - value: 9
+      year: 2017
+    - value: 9
+      year: 2018
+    - value: 10
+      year: 2019
+    - value: 11
+      year: 2020
 BDI:
   name:
     short: Burundi
@@ -14207,6 +15335,49 @@ BDI:
       total: 11.735555648803711
       urban: 63.67844009399414
       rural: 3.484119494595449
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 CPV:
   name:
     short: Cape Verde
@@ -14602,6 +15773,49 @@ CPV:
       total: 94.1617431640625
       urban: 94.48597717285156
       rural: 93.51370358563929
+  clean_access:
+    - value: 63
+      year: 2000
+    - value: 63
+      year: 2001
+    - value: 63
+      year: 2002
+    - value: 63
+      year: 2003
+    - value: 64
+      year: 2004
+    - value: 64
+      year: 2005
+    - value: 65
+      year: 2006
+    - value: 66
+      year: 2007
+    - value: 68
+      year: 2008
+    - value: 68
+      year: 2009
+    - value: 70
+      year: 2010
+    - value: 71
+      year: 2011
+    - value: 72
+      year: 2012
+    - value: 73
+      year: 2013
+    - value: 74
+      year: 2014
+    - value: 76
+      year: 2015
+    - value: 76
+      year: 2016
+    - value: 78
+      year: 2017
+    - value: 79
+      year: 2018
+    - value: 80
+      year: 2019
+    - value: 81
+      year: 2020
 KHM:
   name:
     short: Cambodia
@@ -15052,6 +16266,49 @@ KHM:
       total: 86.4
       urban: 97.3
       rural: 82.91397957629013
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 6
+      year: 2004
+    - value: 7
+      year: 2005
+    - value: 8
+      year: 2006
+    - value: 8
+      year: 2007
+    - value: 9
+      year: 2008
+    - value: 10
+      year: 2009
+    - value: 12
+      year: 2010
+    - value: 13
+      year: 2011
+    - value: 15
+      year: 2012
+    - value: 16
+      year: 2013
+    - value: 18
+      year: 2014
+    - value: 20
+      year: 2015
+    - value: 23
+      year: 2016
+    - value: 26
+      year: 2017
+    - value: 29
+      year: 2018
+    - value: 33
+      year: 2019
+    - value: 37
+      year: 2020
 CMR:
   name:
     short: Cameroon
@@ -15537,6 +16794,49 @@ CMR:
       total: 64.72136688232422
       urban: 94.026611328125
       rural: 24.975613171716095
+  clean_access:
+    - value: 10
+      year: 2000
+    - value: 11
+      year: 2001
+    - value: 12
+      year: 2002
+    - value: 13
+      year: 2003
+    - value: 14
+      year: 2004
+    - value: 15
+      year: 2005
+    - value: 16
+      year: 2006
+    - value: 17
+      year: 2007
+    - value: 18
+      year: 2008
+    - value: 19
+      year: 2009
+    - value: 19
+      year: 2010
+    - value: 20
+      year: 2011
+    - value: 21
+      year: 2012
+    - value: 21
+      year: 2013
+    - value: 22
+      year: 2014
+    - value: 22
+      year: 2015
+    - value: 22
+      year: 2016
+    - value: 22
+      year: 2017
+    - value: 22
+      year: 2018
+    - value: 22
+      year: 2019
+    - value: 22
+      year: 2020
 CAN:
   name:
     short: Canada
@@ -16012,6 +17312,49 @@ CAN:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 CYM:
   name:
     short: Cayman Islands
@@ -16297,6 +17640,7 @@ CYM:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 CAF:
   name:
     short: Central African Republic
@@ -16784,6 +18128,49 @@ CAF:
       total: 15.465084075927734
       urban: 33.56291961669922
       rural: 2.2528667554538675
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 TCD:
   name:
     short: Chad
@@ -17227,6 +18614,49 @@ TCD:
       total: 11.080117225646973
       urban: 40.624454498291016
       rural: 1.9943065039157248
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 6
+      year: 2018
+    - value: 6
+      year: 2019
+    - value: 7
+      year: 2020
 CHL:
   name:
     short: Chile
@@ -17703,6 +19133,49 @@ CHL:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 CHN:
   name:
     short: China
@@ -18200,6 +19673,49 @@ CHN:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 42
+      year: 2000
+    - value: 42
+      year: 2001
+    - value: 43
+      year: 2002
+    - value: 43
+      year: 2003
+    - value: 45
+      year: 2004
+    - value: 46
+      year: 2005
+    - value: 48
+      year: 2006
+    - value: 49
+      year: 2007
+    - value: 51
+      year: 2008
+    - value: 53
+      year: 2009
+    - value: 56
+      year: 2010
+    - value: 58
+      year: 2011
+    - value: 61
+      year: 2012
+    - value: 63
+      year: 2013
+    - value: 66
+      year: 2014
+    - value: 68
+      year: 2015
+    - value: 71
+      year: 2016
+    - value: 73
+      year: 2017
+    - value: 76
+      year: 2018
+    - value: 78
+      year: 2019
+    - value: 79
+      year: 2020
 CXR:
   name:
     short: Christmas Island
@@ -18351,6 +19867,7 @@ CXR:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 CCK:
   name:
     short: Cocos (Keeling) Islands
@@ -18500,6 +20017,7 @@ CCK:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 COL:
   name:
     short: Colombia
@@ -18981,6 +20499,49 @@ COL:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 78
+      year: 2000
+    - value: 79
+      year: 2001
+    - value: 80
+      year: 2002
+    - value: 81
+      year: 2003
+    - value: 82
+      year: 2004
+    - value: 82
+      year: 2005
+    - value: 83
+      year: 2006
+    - value: 84
+      year: 2007
+    - value: 85
+      year: 2008
+    - value: 85
+      year: 2009
+    - value: 86
+      year: 2010
+    - value: 87
+      year: 2011
+    - value: 88
+      year: 2012
+    - value: 88
+      year: 2013
+    - value: 89
+      year: 2014
+    - value: 90
+      year: 2015
+    - value: 91
+      year: 2016
+    - value: 91
+      year: 2017
+    - value: 92
+      year: 2018
+    - value: 92
+      year: 2019
+    - value: 93
+      year: 2020
 COM:
   name:
     short: Comoros
@@ -19366,6 +20927,49 @@ COM:
       total: 86.73713684082031
       urban: 99.71875
       rural: 81.33640374306007
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 6
+      year: 2015
+    - value: 6
+      year: 2016
+    - value: 7
+      year: 2017
+    - value: 7
+      year: 2018
+    - value: 8
+      year: 2019
+    - value: 8
+      year: 2020
 COG:
   name:
     short: Congo
@@ -19830,6 +21434,49 @@ COG:
       total: 49.5171012878418
       urban: 66.00507354736328
       rural: 14.754022091076092
+  clean_access:
+    - value: 9
+      year: 2000
+    - value: 10
+      year: 2001
+    - value: 10
+      year: 2002
+    - value: 10
+      year: 2003
+    - value: 11
+      year: 2004
+    - value: 12
+      year: 2005
+    - value: 13
+      year: 2006
+    - value: 13
+      year: 2007
+    - value: 15
+      year: 2008
+    - value: 16
+      year: 2009
+    - value: 17
+      year: 2010
+    - value: 19
+      year: 2011
+    - value: 20
+      year: 2012
+    - value: 22
+      year: 2013
+    - value: 24
+      year: 2014
+    - value: 25
+      year: 2015
+    - value: 27
+      year: 2016
+    - value: 29
+      year: 2017
+    - value: 31
+      year: 2018
+    - value: 33
+      year: 2019
+    - value: 35
+      year: 2020
 COD:
   name:
     short: DR Congo
@@ -20295,6 +21942,49 @@ COD:
       total: 19.1
       urban: 40.65993208304324
       rural: 1
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 COK:
   name:
     short: Cook Islands
@@ -20528,6 +22218,49 @@ COK:
       total: 100
       urban: 100
       rural: null
+  clean_access:
+    - value: 81
+      year: 2000
+    - value: 81
+      year: 2001
+    - value: 82
+      year: 2002
+    - value: 82
+      year: 2003
+    - value: 83
+      year: 2004
+    - value: 83
+      year: 2005
+    - value: 83
+      year: 2006
+    - value: 83
+      year: 2007
+    - value: 82
+      year: 2008
+    - value: 82
+      year: 2009
+    - value: 81
+      year: 2010
+    - value: 80
+      year: 2011
+    - value: 80
+      year: 2012
+    - value: 80
+      year: 2013
+    - value: 79
+      year: 2014
+    - value: 78
+      year: 2015
+    - value: 78
+      year: 2016
+    - value: 77
+      year: 2017
+    - value: 77
+      year: 2018
+    - value: 77
+      year: 2019
+    - value: 76
+      year: 2020
 CRI:
   name:
     short: Costa Rica
@@ -20999,6 +22732,49 @@ CRI:
       total: 99.9
       urban: 99.94
       rural: 99.73198082378896
+  clean_access:
+    - value: 89
+      year: 2000
+    - value: 89
+      year: 2001
+    - value: 90
+      year: 2002
+    - value: 90
+      year: 2003
+    - value: 90
+      year: 2004
+    - value: 91
+      year: 2005
+    - value: 91
+      year: 2006
+    - value: 91
+      year: 2007
+    - value: 92
+      year: 2008
+    - value: 92
+      year: 2009
+    - value: 92
+      year: 2010
+    - value: 93
+      year: 2011
+    - value: 93
+      year: 2012
+    - value: 94
+      year: 2013
+    - value: 94
+      year: 2014
+    - value: 94
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 CIV:
   name:
     short: Ivory Coast
@@ -21479,6 +23255,49 @@ CIV:
       total: 69.67912292480469
       urban: 94.4706039428711
       rural: 43.13610841932994
+  clean_access:
+    - value: 19
+      year: 2000
+    - value: 18
+      year: 2001
+    - value: 18
+      year: 2002
+    - value: 17
+      year: 2003
+    - value: 17
+      year: 2004
+    - value: 17
+      year: 2005
+    - value: 17
+      year: 2006
+    - value: 17
+      year: 2007
+    - value: 17
+      year: 2008
+    - value: 17
+      year: 2009
+    - value: 18
+      year: 2010
+    - value: 19
+      year: 2011
+    - value: 19
+      year: 2012
+    - value: 21
+      year: 2013
+    - value: 22
+      year: 2014
+    - value: 23
+      year: 2015
+    - value: 25
+      year: 2016
+    - value: 27
+      year: 2017
+    - value: 28
+      year: 2018
+    - value: 30
+      year: 2019
+    - value: 32
+      year: 2020
 HRV:
   name:
     short: Croatia
@@ -21927,6 +23746,49 @@ HRV:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 CUB:
   name:
     short: Cuba
@@ -22286,6 +24148,49 @@ CUB:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 71
+      year: 2000
+    - value: 74
+      year: 2001
+    - value: 77
+      year: 2002
+    - value: 80
+      year: 2003
+    - value: 82
+      year: 2004
+    - value: 84
+      year: 2005
+    - value: 85
+      year: 2006
+    - value: 87
+      year: 2007
+    - value: 88
+      year: 2008
+    - value: 89
+      year: 2009
+    - value: 90
+      year: 2010
+    - value: 91
+      year: 2011
+    - value: 92
+      year: 2012
+    - value: 92
+      year: 2013
+    - value: 93
+      year: 2014
+    - value: 93
+      year: 2015
+    - value: 93
+      year: 2016
+    - value: 93
+      year: 2017
+    - value: 94
+      year: 2018
+    - value: 94
+      year: 2019
+    - value: 94
+      year: 2020
 CUW:
   name:
     short: Curaçao
@@ -22615,6 +24520,7 @@ CUW:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 CYP:
   name:
     short: Cyprus
@@ -23083,6 +24989,49 @@ CYP:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 CZE:
   name:
     short: Czechia
@@ -23562,6 +25511,49 @@ CZE:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 DNK:
   name:
     short: Denmark
@@ -24030,6 +26022,49 @@ DNK:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 DJI:
   name:
     short: Djibouti
@@ -24432,6 +26467,49 @@ DJI:
       total: 61.76708221435547
       urban: 72.15770721435547
       rural: 24.794140855034968
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 6
+      year: 2008
+    - value: 6
+      year: 2009
+    - value: 6
+      year: 2010
+    - value: 7
+      year: 2011
+    - value: 7
+      year: 2012
+    - value: 8
+      year: 2013
+    - value: 8
+      year: 2014
+    - value: 8
+      year: 2015
+    - value: 9
+      year: 2016
+    - value: 9
+      year: 2017
+    - value: 9
+      year: 2018
+    - value: 10
+      year: 2019
+    - value: 10
+      year: 2020
 DMA:
   name:
     short: Dominica
@@ -24813,6 +26891,49 @@ DMA:
       total: 100
       urban: null
       rural: null
+  clean_access:
+    - value: 81
+      year: 2000
+    - value: 82
+      year: 2001
+    - value: 83
+      year: 2002
+    - value: 84
+      year: 2003
+    - value: 84
+      year: 2004
+    - value: 85
+      year: 2005
+    - value: 86
+      year: 2006
+    - value: 86
+      year: 2007
+    - value: 87
+      year: 2008
+    - value: 87
+      year: 2009
+    - value: 88
+      year: 2010
+    - value: 88
+      year: 2011
+    - value: 88
+      year: 2012
+    - value: 89
+      year: 2013
+    - value: 89
+      year: 2014
+    - value: 89
+      year: 2015
+    - value: 89
+      year: 2016
+    - value: 89
+      year: 2017
+    - value: 89
+      year: 2018
+    - value: 89
+      year: 2019
+    - value: 89
+      year: 2020
 DOM:
   name:
     short: Dominican Republic
@@ -25283,6 +27404,49 @@ DOM:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 84
+      year: 2000
+    - value: 85
+      year: 2001
+    - value: 86
+      year: 2002
+    - value: 86
+      year: 2003
+    - value: 86
+      year: 2004
+    - value: 87
+      year: 2005
+    - value: 87
+      year: 2006
+    - value: 87
+      year: 2007
+    - value: 87
+      year: 2008
+    - value: 87
+      year: 2009
+    - value: 88
+      year: 2010
+    - value: 88
+      year: 2011
+    - value: 88
+      year: 2012
+    - value: 88
+      year: 2013
+    - value: 88
+      year: 2014
+    - value: 89
+      year: 2015
+    - value: 90
+      year: 2016
+    - value: 90
+      year: 2017
+    - value: 90
+      year: 2018
+    - value: 91
+      year: 2019
+    - value: 92
+      year: 2020
 ECU:
   name:
     short: Ecuador
@@ -25757,6 +27921,49 @@ ECU:
       total: 98.85
       urban: 99.66
       rural: 97.39957689505609
+  clean_access:
+    - value: 88
+      year: 2000
+    - value: 89
+      year: 2001
+    - value: 90
+      year: 2002
+    - value: 91
+      year: 2003
+    - value: 91
+      year: 2004
+    - value: 92
+      year: 2005
+    - value: 92
+      year: 2006
+    - value: 93
+      year: 2007
+    - value: 93
+      year: 2008
+    - value: 93
+      year: 2009
+    - value: 94
+      year: 2010
+    - value: 94
+      year: 2011
+    - value: 94
+      year: 2012
+    - value: 94
+      year: 2013
+    - value: 94
+      year: 2014
+    - value: 94
+      year: 2015
+    - value: 94
+      year: 2016
+    - value: 94
+      year: 2017
+    - value: 94
+      year: 2018
+    - value: 94
+      year: 2019
+    - value: 94
+      year: 2020
 EGY:
   name:
     short: Egypt
@@ -26236,6 +28443,49 @@ EGY:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 84
+      year: 2000
+    - value: 87
+      year: 2001
+    - value: 89
+      year: 2002
+    - value: 92
+      year: 2003
+    - value: 94
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 SLV:
   name:
     short: El Salvador
@@ -26709,6 +28959,49 @@ SLV:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 58
+      year: 2000
+    - value: 60
+      year: 2001
+    - value: 62
+      year: 2002
+    - value: 64
+      year: 2003
+    - value: 66
+      year: 2004
+    - value: 68
+      year: 2005
+    - value: 69
+      year: 2006
+    - value: 71
+      year: 2007
+    - value: 73
+      year: 2008
+    - value: 75
+      year: 2009
+    - value: 77
+      year: 2010
+    - value: 79
+      year: 2011
+    - value: 80
+      year: 2012
+    - value: 82
+      year: 2013
+    - value: 84
+      year: 2014
+    - value: 86
+      year: 2015
+    - value: 87
+      year: 2016
+    - value: 88
+      year: 2017
+    - value: 89
+      year: 2018
+    - value: 91
+      year: 2019
+    - value: 92
+      year: 2020
 GNQ:
   name:
     short: Equatorial Guinea
@@ -27100,6 +29393,49 @@ GNQ:
       total: 66.74772644042969
       urban: 90.96696472167969
       rural: 0.9326300184061808
+  clean_access:
+    - value: 19
+      year: 2000
+    - value: 20
+      year: 2001
+    - value: 19
+      year: 2002
+    - value: 20
+      year: 2003
+    - value: 20
+      year: 2004
+    - value: 21
+      year: 2005
+    - value: 21
+      year: 2006
+    - value: 22
+      year: 2007
+    - value: 22
+      year: 2008
+    - value: 22
+      year: 2009
+    - value: 23
+      year: 2010
+    - value: 23
+      year: 2011
+    - value: 24
+      year: 2012
+    - value: 24
+      year: 2013
+    - value: 24
+      year: 2014
+    - value: 24
+      year: 2015
+    - value: 24
+      year: 2016
+    - value: 24
+      year: 2017
+    - value: 24
+      year: 2018
+    - value: 24
+      year: 2019
+    - value: 24
+      year: 2020
 ERI:
   name:
     short: Eritrea
@@ -27440,6 +29776,49 @@ ERI:
       total: 52.17109680175781
       urban: 76.30296325683594
       rural: 39.024686725840276
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 6
+      year: 2005
+    - value: 6
+      year: 2006
+    - value: 7
+      year: 2007
+    - value: 7
+      year: 2008
+    - value: 8
+      year: 2009
+    - value: 8
+      year: 2010
+    - value: 8
+      year: 2011
+    - value: 9
+      year: 2012
+    - value: 9
+      year: 2013
+    - value: 9
+      year: 2014
+    - value: 9
+      year: 2015
+    - value: 9
+      year: 2016
+    - value: 9
+      year: 2017
+    - value: 9
+      year: 2018
+    - value: 9
+      year: 2019
+    - value: 9
+      year: 2020
 EST:
   name:
     short: Estonia
@@ -27869,6 +30248,49 @@ EST:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 SWZ:
   name:
     short: Eswatini
@@ -28344,6 +30766,49 @@ SWZ:
       total: 79.73049926757812
       urban: 92.19866943359375
       rural: 75.75619128094957
+  clean_access:
+    - value: 24
+      year: 2000
+    - value: 25
+      year: 2001
+    - value: 26
+      year: 2002
+    - value: 28
+      year: 2003
+    - value: 29
+      year: 2004
+    - value: 30
+      year: 2005
+    - value: 32
+      year: 2006
+    - value: 34
+      year: 2007
+    - value: 35
+      year: 2008
+    - value: 37
+      year: 2009
+    - value: 39
+      year: 2010
+    - value: 41
+      year: 2011
+    - value: 43
+      year: 2012
+    - value: 44
+      year: 2013
+    - value: 46
+      year: 2014
+    - value: 48
+      year: 2015
+    - value: 49
+      year: 2016
+    - value: 51
+      year: 2017
+    - value: 52
+      year: 2018
+    - value: 54
+      year: 2019
+    - value: 55
+      year: 2020
 ETH:
   name:
     short: Ethiopia
@@ -28793,6 +31258,49 @@ ETH:
       total: 51.0939826965332
       urban: 93.2479248046875
       rural: 39.41491037040906
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 6
+      year: 2018
+    - value: 7
+      year: 2019
+    - value: 8
+      year: 2020
 FLK:
   name:
     short: Falkland Islands
@@ -28940,6 +31448,7 @@ FLK:
     year: 1946
   gii: []
   elec_access: []
+  clean_access: []
 FRO:
   name:
     short: Faroe Islands
@@ -29173,6 +31682,7 @@ FRO:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 FJI:
   name:
     short: Fiji
@@ -29642,6 +32152,49 @@ FJI:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 28
+      year: 2000
+    - value: 28
+      year: 2001
+    - value: 28
+      year: 2002
+    - value: 28
+      year: 2003
+    - value: 28
+      year: 2004
+    - value: 29
+      year: 2005
+    - value: 29
+      year: 2006
+    - value: 30
+      year: 2007
+    - value: 30
+      year: 2008
+    - value: 31
+      year: 2009
+    - value: 32
+      year: 2010
+    - value: 33
+      year: 2011
+    - value: 34
+      year: 2012
+    - value: 37
+      year: 2013
+    - value: 38
+      year: 2014
+    - value: 40
+      year: 2015
+    - value: 42
+      year: 2016
+    - value: 45
+      year: 2017
+    - value: 47
+      year: 2018
+    - value: 49
+      year: 2019
+    - value: 51
+      year: 2020
 FIN:
   name:
     short: Finland
@@ -30118,6 +32671,49 @@ FIN:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 FRA:
   name:
     short: France
@@ -30607,6 +33203,49 @@ FRA:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 GUF:
   name:
     short: French Guiana
@@ -30760,6 +33399,7 @@ GUF:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 PYF:
   name:
     short: French Polynesia
@@ -30991,6 +33631,7 @@ PYF:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 ATF:
   name:
     short: French Southern Territories
@@ -31140,6 +33781,7 @@ ATF:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 GAB:
   name:
     short: Gabon
@@ -31614,6 +34256,49 @@ GAB:
       total: 91.57156372070312
       urban: 98.5889663696289
       rural: 27.763302327056493
+  clean_access:
+    - value: 65
+      year: 2000
+    - value: 66
+      year: 2001
+    - value: 68
+      year: 2002
+    - value: 70
+      year: 2003
+    - value: 71
+      year: 2004
+    - value: 73
+      year: 2005
+    - value: 74
+      year: 2006
+    - value: 76
+      year: 2007
+    - value: 78
+      year: 2008
+    - value: 79
+      year: 2009
+    - value: 80
+      year: 2010
+    - value: 82
+      year: 2011
+    - value: 83
+      year: 2012
+    - value: 84
+      year: 2013
+    - value: 85
+      year: 2014
+    - value: 86
+      year: 2015
+    - value: 86
+      year: 2016
+    - value: 87
+      year: 2017
+    - value: 87
+      year: 2018
+    - value: 88
+      year: 2019
+    - value: 88
+      year: 2020
 GMB:
   name:
     short: Gambia
@@ -32082,6 +34767,49 @@ GMB:
       total: 62.273067474365234
       urban: 80.63490295410156
       rural: 31.56268559152888
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 GEO:
   name:
     short: Georgia
@@ -32479,6 +35207,49 @@ GEO:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 48
+      year: 2000
+    - value: 49
+      year: 2001
+    - value: 50
+      year: 2002
+    - value: 51
+      year: 2003
+    - value: 53
+      year: 2004
+    - value: 54
+      year: 2005
+    - value: 56
+      year: 2006
+    - value: 58
+      year: 2007
+    - value: 61
+      year: 2008
+    - value: 63
+      year: 2009
+    - value: 66
+      year: 2010
+    - value: 69
+      year: 2011
+    - value: 72
+      year: 2012
+    - value: 74
+      year: 2013
+    - value: 77
+      year: 2014
+    - value: 79
+      year: 2015
+    - value: 82
+      year: 2016
+    - value: 84
+      year: 2017
+    - value: 86
+      year: 2018
+    - value: 88
+      year: 2019
+    - value: 89
+      year: 2020
 DEU:
   name:
     short: Germany
@@ -32971,6 +35742,49 @@ DEU:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 GHA:
   name:
     short: Ghana
@@ -33445,6 +36259,49 @@ GHA:
       total: 85.87355041503906
       urban: 94.71047973632812
       rural: 73.9913191791844
+  clean_access:
+    - value: 6
+      year: 2000
+    - value: 7
+      year: 2001
+    - value: 7
+      year: 2002
+    - value: 8
+      year: 2003
+    - value: 8
+      year: 2004
+    - value: 9
+      year: 2005
+    - value: 10
+      year: 2006
+    - value: 12
+      year: 2007
+    - value: 13
+      year: 2008
+    - value: 15
+      year: 2009
+    - value: 16
+      year: 2010
+    - value: 17
+      year: 2011
+    - value: 19
+      year: 2012
+    - value: 20
+      year: 2013
+    - value: 20
+      year: 2014
+    - value: 21
+      year: 2015
+    - value: 22
+      year: 2016
+    - value: 22
+      year: 2017
+    - value: 22
+      year: 2018
+    - value: 22
+      year: 2019
+    - value: 22
+      year: 2020
 GIB:
   name:
     short: Gibraltar
@@ -33679,6 +36536,7 @@ GIB:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 GRC:
   name:
     short: Greece
@@ -34156,6 +37014,49 @@ GRC:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 GRL:
   name:
     short: Greenland
@@ -34390,6 +37291,7 @@ GRL:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 GRD:
   name:
     short: Grenada
@@ -34767,6 +37669,49 @@ GRD:
       total: 93.5864486694336
       urban: null
       rural: null
+  clean_access:
+    - value: 92
+      year: 2000
+    - value: 93
+      year: 2001
+    - value: 93
+      year: 2002
+    - value: 93
+      year: 2003
+    - value: 93
+      year: 2004
+    - value: 93
+      year: 2005
+    - value: 93
+      year: 2006
+    - value: 93
+      year: 2007
+    - value: 93
+      year: 2008
+    - value: 93
+      year: 2009
+    - value: 93
+      year: 2010
+    - value: 93
+      year: 2011
+    - value: 92
+      year: 2012
+    - value: 92
+      year: 2013
+    - value: 92
+      year: 2014
+    - value: 91
+      year: 2015
+    - value: 91
+      year: 2016
+    - value: 90
+      year: 2017
+    - value: 90
+      year: 2018
+    - value: 90
+      year: 2019
+    - value: 89
+      year: 2020
 GLP:
   name:
     short: Guadeloupe
@@ -34914,6 +37859,7 @@ GLP:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 GUM:
   name:
     short: Guam
@@ -35147,6 +38093,7 @@ GUM:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 GTM:
   name:
     short: Guatemala
@@ -35624,6 +38571,49 @@ GTM:
       total: 97.05526733398438
       urban: 97.45913696289062
       rural: 96.62060693145479
+  clean_access:
+    - value: 41
+      year: 2000
+    - value: 40
+      year: 2001
+    - value: 39
+      year: 2002
+    - value: 38
+      year: 2003
+    - value: 38
+      year: 2004
+    - value: 37
+      year: 2005
+    - value: 37
+      year: 2006
+    - value: 37
+      year: 2007
+    - value: 37
+      year: 2008
+    - value: 37
+      year: 2009
+    - value: 38
+      year: 2010
+    - value: 38
+      year: 2011
+    - value: 39
+      year: 2012
+    - value: 40
+      year: 2013
+    - value: 42
+      year: 2014
+    - value: 43
+      year: 2015
+    - value: 44
+      year: 2016
+    - value: 46
+      year: 2017
+    - value: 47
+      year: 2018
+    - value: 49
+      year: 2019
+    - value: 50
+      year: 2020
 GGY:
   name:
     short: Guernsey
@@ -35775,6 +38765,7 @@ GGY:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 GIN:
   name:
     short: Guinea
@@ -36258,6 +39249,49 @@ GIN:
       total: 44.668678283691406
       urban: 88.08341217041016
       rural: 19.307596527050006
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 GNB:
   name:
     short: Guinea-Bissau
@@ -36669,6 +39703,49 @@ GNB:
       total: 33.33546829223633
       urban: 56.27449417114258
       rural: 15.16809031870132
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 GUY:
   name:
     short: Guyana
@@ -37125,6 +40202,49 @@ GUY:
       total: 92.54054260253906
       urban: 96.89897918701172
       rural: 90.94596623541973
+  clean_access:
+    - value: 36
+      year: 2000
+    - value: 38
+      year: 2001
+    - value: 40
+      year: 2002
+    - value: 42
+      year: 2003
+    - value: 45
+      year: 2004
+    - value: 48
+      year: 2005
+    - value: 50
+      year: 2006
+    - value: 53
+      year: 2007
+    - value: 56
+      year: 2008
+    - value: 58
+      year: 2009
+    - value: 61
+      year: 2010
+    - value: 64
+      year: 2011
+    - value: 66
+      year: 2012
+    - value: 69
+      year: 2013
+    - value: 71
+      year: 2014
+    - value: 73
+      year: 2015
+    - value: 75
+      year: 2016
+    - value: 76
+      year: 2017
+    - value: 78
+      year: 2018
+    - value: 80
+      year: 2019
+    - value: 81
+      year: 2020
 HTI:
   name:
     short: Haiti
@@ -37573,6 +40693,49 @@ HTI:
       total: 46.925533294677734
       urban: 80.54474639892578
       rural: 2.2001974708592065
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 HMD:
   name:
     short: Heard Island and McDonald Islands
@@ -37718,6 +40881,7 @@ HMD:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 VAT:
   name:
     short: Vatican City
@@ -37871,6 +41035,7 @@ VAT:
     year: 1964
   gii: []
   elec_access: []
+  clean_access: []
 HND:
   name:
     short: Honduras
@@ -38329,6 +41494,49 @@ HND:
       total: 93.20671081542969
       urban: 100
       rural: 83.68605729062453
+  clean_access:
+    - value: 31
+      year: 2000
+    - value: 32
+      year: 2001
+    - value: 34
+      year: 2002
+    - value: 35
+      year: 2003
+    - value: 36
+      year: 2004
+    - value: 37
+      year: 2005
+    - value: 39
+      year: 2006
+    - value: 40
+      year: 2007
+    - value: 41
+      year: 2008
+    - value: 42
+      year: 2009
+    - value: 42
+      year: 2010
+    - value: 43
+      year: 2011
+    - value: 44
+      year: 2012
+    - value: 44
+      year: 2013
+    - value: 45
+      year: 2014
+    - value: 46
+      year: 2015
+    - value: 46
+      year: 2016
+    - value: 47
+      year: 2017
+    - value: 47
+      year: 2018
+    - value: 48
+      year: 2019
+    - value: 48
+      year: 2020
 HKG:
   name:
     short: Hong Kong
@@ -38715,6 +41923,7 @@ HKG:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 HUN:
   name:
     short: Hungary
@@ -39201,6 +42410,49 @@ HUN:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 ISL:
   name:
     short: Iceland
@@ -39666,6 +42918,49 @@ ISL:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 IND:
   name:
     short: India
@@ -40151,6 +43446,49 @@ IND:
       total: 99
       urban: 100
       rural: 98.46328794825722
+  clean_access:
+    - value: 22
+      year: 2000
+    - value: 23
+      year: 2001
+    - value: 25
+      year: 2002
+    - value: 26
+      year: 2003
+    - value: 27
+      year: 2004
+    - value: 29
+      year: 2005
+    - value: 29
+      year: 2006
+    - value: 31
+      year: 2007
+    - value: 32
+      year: 2008
+    - value: 34
+      year: 2009
+    - value: 35
+      year: 2010
+    - value: 37
+      year: 2011
+    - value: 40
+      year: 2012
+    - value: 42
+      year: 2013
+    - value: 45
+      year: 2014
+    - value: 48
+      year: 2015
+    - value: 51
+      year: 2016
+    - value: 56
+      year: 2017
+    - value: 60
+      year: 2018
+    - value: 64
+      year: 2019
+    - value: 68
+      year: 2020
 IDN:
   name:
     short: Indonesia
@@ -40628,6 +43966,49 @@ IDN:
       total: 96.95
       urban: 99.6
       rural: 93.4882354385761
+  clean_access:
+    - value: 6
+      year: 2000
+    - value: 7
+      year: 2001
+    - value: 8
+      year: 2002
+    - value: 9
+      year: 2003
+    - value: 11
+      year: 2004
+    - value: 14
+      year: 2005
+    - value: 18
+      year: 2006
+    - value: 22
+      year: 2007
+    - value: 28
+      year: 2008
+    - value: 35
+      year: 2009
+    - value: 41
+      year: 2010
+    - value: 47
+      year: 2011
+    - value: 53
+      year: 2012
+    - value: 58
+      year: 2013
+    - value: 63
+      year: 2014
+    - value: 67
+      year: 2015
+    - value: 71
+      year: 2016
+    - value: 75
+      year: 2017
+    - value: 79
+      year: 2018
+    - value: 82
+      year: 2019
+    - value: 84
+      year: 2020
 IRN:
   name:
     short: Iran
@@ -41114,6 +44495,49 @@ IRN:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 93
+      year: 2000
+    - value: 94
+      year: 2001
+    - value: 94
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 IRQ:
   name:
     short: Iraq
@@ -41600,6 +45024,49 @@ IRQ:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 74
+      year: 2000
+    - value: 77
+      year: 2001
+    - value: 79
+      year: 2002
+    - value: 82
+      year: 2003
+    - value: 85
+      year: 2004
+    - value: 87
+      year: 2005
+    - value: 89
+      year: 2006
+    - value: 91
+      year: 2007
+    - value: 93
+      year: 2008
+    - value: 94
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 IRL:
   name:
     short: Ireland
@@ -42071,6 +45538,49 @@ IRL:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 IMN:
   name:
     short: Isle of Man
@@ -42304,6 +45814,7 @@ IMN:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 ISR:
   name:
     short: Israel
@@ -42785,6 +46296,49 @@ ISR:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 ITA:
   name:
     short: Italy
@@ -43268,6 +46822,49 @@ ITA:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 JAM:
   name:
     short: Jamaica
@@ -43733,6 +47330,49 @@ JAM:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 76
+      year: 2000
+    - value: 78
+      year: 2001
+    - value: 79
+      year: 2002
+    - value: 81
+      year: 2003
+    - value: 82
+      year: 2004
+    - value: 83
+      year: 2005
+    - value: 84
+      year: 2006
+    - value: 85
+      year: 2007
+    - value: 85
+      year: 2008
+    - value: 86
+      year: 2009
+    - value: 86
+      year: 2010
+    - value: 86
+      year: 2011
+    - value: 86
+      year: 2012
+    - value: 86
+      year: 2013
+    - value: 86
+      year: 2014
+    - value: 85
+      year: 2015
+    - value: 85
+      year: 2016
+    - value: 84
+      year: 2017
+    - value: 84
+      year: 2018
+    - value: 83
+      year: 2019
+    - value: 83
+      year: 2020
 JPN:
   name:
     short: Japan
@@ -44199,6 +47839,49 @@ JPN:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 JEY:
   name:
     short: Jersey
@@ -44350,6 +48033,7 @@ JEY:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 JOR:
   name:
     short: Jordan
@@ -44832,6 +48516,49 @@ JOR:
       total: 99.9
       urban: 100
       rural: 98.83476981794884
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 KAZ:
   name:
     short: Kazakhstan
@@ -45274,6 +49001,49 @@ KAZ:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 84
+      year: 2000
+    - value: 86
+      year: 2001
+    - value: 86
+      year: 2002
+    - value: 87
+      year: 2003
+    - value: 88
+      year: 2004
+    - value: 89
+      year: 2005
+    - value: 89
+      year: 2006
+    - value: 90
+      year: 2007
+    - value: 91
+      year: 2008
+    - value: 91
+      year: 2009
+    - value: 92
+      year: 2010
+    - value: 92
+      year: 2011
+    - value: 92
+      year: 2012
+    - value: 93
+      year: 2013
+    - value: 93
+      year: 2014
+    - value: 93
+      year: 2015
+    - value: 93
+      year: 2016
+    - value: 93
+      year: 2017
+    - value: 93
+      year: 2018
+    - value: 93
+      year: 2019
+    - value: 93
+      year: 2020
 KEN:
   name:
     short: Kenya
@@ -45756,6 +49526,49 @@ KEN:
       total: 71.43794250488281
       urban: 93.98622131347656
       rural: 62.671342408869805
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 6
+      year: 2008
+    - value: 7
+      year: 2009
+    - value: 7
+      year: 2010
+    - value: 8
+      year: 2011
+    - value: 9
+      year: 2012
+    - value: 10
+      year: 2013
+    - value: 11
+      year: 2014
+    - value: 12
+      year: 2015
+    - value: 13
+      year: 2016
+    - value: 14
+      year: 2017
+    - value: 16
+      year: 2018
+    - value: 18
+      year: 2019
+    - value: 19
+      year: 2020
 KIR:
   name:
     short: Kiribati
@@ -46119,6 +49932,49 @@ KIR:
       total: 91.96302795410156
       urban: 88.3895263671875
       rural: 96.43689482838802
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 6
+      year: 2015
+    - value: 6
+      year: 2016
+    - value: 7
+      year: 2017
+    - value: 8
+      year: 2018
+    - value: 9
+      year: 2019
+    - value: 10
+      year: 2020
 PRK:
   name:
     short: North Korea
@@ -46323,6 +50179,49 @@ PRK:
       total: 52.31354522705078
       urban: 43.345454545454686
       rural: 67.1847141356444
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 6
+      year: 2010
+    - value: 6
+      year: 2011
+    - value: 7
+      year: 2012
+    - value: 7
+      year: 2013
+    - value: 8
+      year: 2014
+    - value: 8
+      year: 2015
+    - value: 9
+      year: 2016
+    - value: 9
+      year: 2017
+    - value: 10
+      year: 2018
+    - value: 11
+      year: 2019
+    - value: 12
+      year: 2020
 KOR:
   name:
     short: South Korea
@@ -46792,6 +50691,49 @@ KOR:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 KWT:
   name:
     short: Kuwait
@@ -47264,6 +51206,49 @@ KWT:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 KGZ:
   name:
     short: Kyrgyzstan
@@ -47700,6 +51685,49 @@ KGZ:
       total: 99.98104858398438
       urban: 99.50406646728516
       rural: 100
+  clean_access:
+    - value: 53
+      year: 2000
+    - value: 55
+      year: 2001
+    - value: 56
+      year: 2002
+    - value: 58
+      year: 2003
+    - value: 60
+      year: 2004
+    - value: 62
+      year: 2005
+    - value: 64
+      year: 2006
+    - value: 66
+      year: 2007
+    - value: 68
+      year: 2008
+    - value: 70
+      year: 2009
+    - value: 72
+      year: 2010
+    - value: 73
+      year: 2011
+    - value: 75
+      year: 2012
+    - value: 75
+      year: 2013
+    - value: 76
+      year: 2014
+    - value: 76
+      year: 2015
+    - value: 77
+      year: 2016
+    - value: 77
+      year: 2017
+    - value: 77
+      year: 2018
+    - value: 77
+      year: 2019
+    - value: 77
+      year: 2020
 LAO:
   name:
     short: Laos
@@ -48164,6 +52192,49 @@ LAO:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 6
+      year: 2015
+    - value: 6
+      year: 2016
+    - value: 7
+      year: 2017
+    - value: 7
+      year: 2018
+    - value: 8
+      year: 2019
+    - value: 8
+      year: 2020
 LVA:
   name:
     short: Latvia
@@ -48597,6 +52668,49 @@ LVA:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 LBN:
   name:
     short: Lebanon
@@ -49004,6 +53118,7 @@ LBN:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 LSO:
   name:
     short: Lesotho
@@ -49476,6 +53591,49 @@ LSO:
       total: 47.35273742675781
       urban: 77.7254867553711
       rural: 34.93008699864904
+  clean_access:
+    - value: 16
+      year: 2000
+    - value: 17
+      year: 2001
+    - value: 19
+      year: 2002
+    - value: 21
+      year: 2003
+    - value: 22
+      year: 2004
+    - value: 24
+      year: 2005
+    - value: 26
+      year: 2006
+    - value: 27
+      year: 2007
+    - value: 28
+      year: 2008
+    - value: 30
+      year: 2009
+    - value: 31
+      year: 2010
+    - value: 33
+      year: 2011
+    - value: 34
+      year: 2012
+    - value: 35
+      year: 2013
+    - value: 36
+      year: 2014
+    - value: 36
+      year: 2015
+    - value: 37
+      year: 2016
+    - value: 38
+      year: 2017
+    - value: 39
+      year: 2018
+    - value: 39
+      year: 2019
+    - value: 40
+      year: 2020
 LBR:
   name:
     short: Liberia
@@ -49884,6 +54042,49 @@ LBR:
       total: 27.534709930419922
       urban: 45.17257308959961
       rural: 8.358771566755928
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 LBY:
   name:
     short: Libya
@@ -50337,6 +54538,7 @@ LBY:
       total: 69.70735168457031
       urban: 100
       rural: null
+  clean_access: []
 LIE:
   name:
     short: Liechtenstein
@@ -50640,6 +54842,7 @@ LIE:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 LTU:
   name:
     short: Lithuania
@@ -51095,6 +55298,49 @@ LTU:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 LUX:
   name:
     short: Luxembourg
@@ -51573,6 +55819,49 @@ LUX:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 MAC:
   name:
     short: Macao
@@ -51857,6 +56146,7 @@ MAC:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 MDG:
   name:
     short: Madagascar
@@ -52296,6 +56586,49 @@ MDG:
       total: 33.735076904296875
       urban: 70.16197204589844
       rural: 10.898485594799082
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 MWI:
   name:
     short: Malawi
@@ -52772,6 +57105,49 @@ MWI:
       total: 14.866768836975098
       urban: 53.98027038574219
       rural: 6.611880100424768
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 MYS:
   name:
     short: Malaysia
@@ -53246,6 +57622,49 @@ MYS:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 MDV:
   name:
     short: Maldives
@@ -53701,6 +58120,49 @@ MDV:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 53
+      year: 2000
+    - value: 59
+      year: 2001
+    - value: 64
+      year: 2002
+    - value: 69
+      year: 2003
+    - value: 74
+      year: 2004
+    - value: 79
+      year: 2005
+    - value: 83
+      year: 2006
+    - value: 86
+      year: 2007
+    - value: 89
+      year: 2008
+    - value: 91
+      year: 2009
+    - value: 93
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 MLI:
   name:
     short: Mali
@@ -54187,6 +58649,49 @@ MLI:
       total: 50.56141662597656
       urban: 94.08895874023438
       rural: 16.48730560550217
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 MLT:
   name:
     short: Malta
@@ -54655,6 +59160,49 @@ MLT:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 MHL:
   name:
     short: Marshall Islands
@@ -54946,6 +59494,49 @@ MHL:
       total: 99.16060638427734
       urban: 95.95038604736328
       rural: 100
+  clean_access:
+    - value: 16
+      year: 2000
+    - value: 19
+      year: 2001
+    - value: 21
+      year: 2002
+    - value: 24
+      year: 2003
+    - value: 28
+      year: 2004
+    - value: 32
+      year: 2005
+    - value: 37
+      year: 2006
+    - value: 41
+      year: 2007
+    - value: 46
+      year: 2008
+    - value: 50
+      year: 2009
+    - value: 53
+      year: 2010
+    - value: 55
+      year: 2011
+    - value: 58
+      year: 2012
+    - value: 59
+      year: 2013
+    - value: 61
+      year: 2014
+    - value: 62
+      year: 2015
+    - value: 62
+      year: 2016
+    - value: 63
+      year: 2017
+    - value: 63
+      year: 2018
+    - value: 64
+      year: 2019
+    - value: 64
+      year: 2020
 MTQ:
   name:
     short: Martinique
@@ -55093,6 +59684,7 @@ MTQ:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 MRT:
   name:
     short: Mauritania
@@ -55571,6 +60163,49 @@ MRT:
       total: 47.348419189453125
       urban: 88.3748779296875
       rural: null
+  clean_access:
+    - value: 30
+      year: 2000
+    - value: 31
+      year: 2001
+    - value: 33
+      year: 2002
+    - value: 34
+      year: 2003
+    - value: 36
+      year: 2004
+    - value: 38
+      year: 2005
+    - value: 39
+      year: 2006
+    - value: 40
+      year: 2007
+    - value: 41
+      year: 2008
+    - value: 41
+      year: 2009
+    - value: 42
+      year: 2010
+    - value: 43
+      year: 2011
+    - value: 43
+      year: 2012
+    - value: 43
+      year: 2013
+    - value: 43
+      year: 2014
+    - value: 43
+      year: 2015
+    - value: 43
+      year: 2016
+    - value: 43
+      year: 2017
+    - value: 43
+      year: 2018
+    - value: 43
+      year: 2019
+    - value: 43
+      year: 2020
 MUS:
   name:
     short: Mauritius
@@ -56038,6 +60673,49 @@ MUS:
       total: 99.66165161132812
       urban: 99.40860748291016
       rural: 99.83575848781766
+  clean_access:
+    - value: 94
+      year: 2000
+    - value: 94
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 MYT:
   name:
     short: Mayotte
@@ -56185,6 +60863,7 @@ MYT:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 MEX:
   name:
     short: Mexico
@@ -56662,6 +61341,49 @@ MEX:
       total: 99.4
       urban: 99.8
       rural: 97.72412682118043
+  clean_access:
+    - value: 82
+      year: 2000
+    - value: 83
+      year: 2001
+    - value: 84
+      year: 2002
+    - value: 85
+      year: 2003
+    - value: 85
+      year: 2004
+    - value: 85
+      year: 2005
+    - value: 85
+      year: 2006
+    - value: 85
+      year: 2007
+    - value: 85
+      year: 2008
+    - value: 85
+      year: 2009
+    - value: 85
+      year: 2010
+    - value: 85
+      year: 2011
+    - value: 85
+      year: 2012
+    - value: 85
+      year: 2013
+    - value: 85
+      year: 2014
+    - value: 85
+      year: 2015
+    - value: 85
+      year: 2016
+    - value: 85
+      year: 2017
+    - value: 85
+      year: 2018
+    - value: 85
+      year: 2019
+    - value: 85
+      year: 2020
 FSM:
   name:
     short: Micronesia
@@ -56992,6 +61714,49 @@ FSM:
       total: 82.92591857910156
       urban: 96.70623016357422
       rural: 78.825233144547
+  clean_access:
+    - value: 11
+      year: 2000
+    - value: 11
+      year: 2001
+    - value: 11
+      year: 2002
+    - value: 11
+      year: 2003
+    - value: 11
+      year: 2004
+    - value: 11
+      year: 2005
+    - value: 11
+      year: 2006
+    - value: 11
+      year: 2007
+    - value: 11
+      year: 2008
+    - value: 11
+      year: 2009
+    - value: 12
+      year: 2010
+    - value: 12
+      year: 2011
+    - value: 12
+      year: 2012
+    - value: 12
+      year: 2013
+    - value: 12
+      year: 2014
+    - value: 12
+      year: 2015
+    - value: 13
+      year: 2016
+    - value: 13
+      year: 2017
+    - value: 13
+      year: 2018
+    - value: 13
+      year: 2019
+    - value: 13
+      year: 2020
 MDA:
   name:
     short: Moldova
@@ -57421,6 +62186,49 @@ MDA:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 64
+      year: 2000
+    - value: 68
+      year: 2001
+    - value: 72
+      year: 2002
+    - value: 75
+      year: 2003
+    - value: 79
+      year: 2004
+    - value: 81
+      year: 2005
+    - value: 84
+      year: 2006
+    - value: 86
+      year: 2007
+    - value: 88
+      year: 2008
+    - value: 90
+      year: 2009
+    - value: 91
+      year: 2010
+    - value: 92
+      year: 2011
+    - value: 93
+      year: 2012
+    - value: 94
+      year: 2013
+    - value: 94
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 MCO:
   name:
     short: Monaco
@@ -57655,6 +62463,49 @@ MCO:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 MNG:
   name:
     short: Mongolia
@@ -58086,6 +62937,49 @@ MNG:
       total: 98.1
       urban: 99.7
       rural: 94.59519160304228
+  clean_access:
+    - value: 23
+      year: 2000
+    - value: 23
+      year: 2001
+    - value: 24
+      year: 2002
+    - value: 24
+      year: 2003
+    - value: 25
+      year: 2004
+    - value: 26
+      year: 2005
+    - value: 28
+      year: 2006
+    - value: 29
+      year: 2007
+    - value: 31
+      year: 2008
+    - value: 33
+      year: 2009
+    - value: 35
+      year: 2010
+    - value: 37
+      year: 2011
+    - value: 39
+      year: 2012
+    - value: 41
+      year: 2013
+    - value: 43
+      year: 2014
+    - value: 44
+      year: 2015
+    - value: 46
+      year: 2016
+    - value: 47
+      year: 2017
+    - value: 49
+      year: 2018
+    - value: 50
+      year: 2019
+    - value: 52
+      year: 2020
 MNE:
   name:
     short: Montenegro
@@ -58445,6 +63339,49 @@ MNE:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 67
+      year: 2000
+    - value: 67
+      year: 2001
+    - value: 67
+      year: 2002
+    - value: 67
+      year: 2003
+    - value: 67
+      year: 2004
+    - value: 66
+      year: 2005
+    - value: 65
+      year: 2006
+    - value: 65
+      year: 2007
+    - value: 64
+      year: 2008
+    - value: 63
+      year: 2009
+    - value: 63
+      year: 2010
+    - value: 63
+      year: 2011
+    - value: 62
+      year: 2012
+    - value: 62
+      year: 2013
+    - value: 61
+      year: 2014
+    - value: 61
+      year: 2015
+    - value: 62
+      year: 2016
+    - value: 62
+      year: 2017
+    - value: 62
+      year: 2018
+    - value: 62
+      year: 2019
+    - value: 62
+      year: 2020
 MSR:
   name:
     short: Montserrat
@@ -58634,6 +63571,7 @@ MSR:
     year: 1946
   gii: []
   elec_access: []
+  clean_access: []
 MAR:
   name:
     short: Morocco
@@ -59111,6 +64049,49 @@ MAR:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 91
+      year: 2000
+    - value: 91
+      year: 2001
+    - value: 92
+      year: 2002
+    - value: 93
+      year: 2003
+    - value: 93
+      year: 2004
+    - value: 94
+      year: 2005
+    - value: 94
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 MOZ:
   name:
     short: Mozambique
@@ -59594,6 +64575,49 @@ MOZ:
       total: 30.603832244873047
       urban: 74.96321868896484
       rural: 4.468690977892388
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 MMR:
   name:
     short: Myanmar
@@ -60034,6 +65058,49 @@ MMR:
       total: 70.3971939086914
       urban: 93.03386688232422
       rural: 60.15991721108251
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 6
+      year: 2007
+    - value: 7
+      year: 2008
+    - value: 8
+      year: 2009
+    - value: 10
+      year: 2010
+    - value: 12
+      year: 2011
+    - value: 13
+      year: 2012
+    - value: 15
+      year: 2013
+    - value: 18
+      year: 2014
+    - value: 20
+      year: 2015
+    - value: 22
+      year: 2016
+    - value: 24
+      year: 2017
+    - value: 26
+      year: 2018
+    - value: 29
+      year: 2019
+    - value: 31
+      year: 2020
 NAM:
   name:
     short: Namibia
@@ -60513,6 +65580,49 @@ NAM:
       total: 56.25869369506836
       urban: 74.66879272460938
       rural: 36.28802737756319
+  clean_access:
+    - value: 34
+      year: 2000
+    - value: 34
+      year: 2001
+    - value: 35
+      year: 2002
+    - value: 36
+      year: 2003
+    - value: 36
+      year: 2004
+    - value: 37
+      year: 2005
+    - value: 38
+      year: 2006
+    - value: 39
+      year: 2007
+    - value: 40
+      year: 2008
+    - value: 40
+      year: 2009
+    - value: 41
+      year: 2010
+    - value: 41
+      year: 2011
+    - value: 42
+      year: 2012
+    - value: 43
+      year: 2013
+    - value: 44
+      year: 2014
+    - value: 44
+      year: 2015
+    - value: 45
+      year: 2016
+    - value: 46
+      year: 2017
+    - value: 46
+      year: 2018
+    - value: 46
+      year: 2019
+    - value: 47
+      year: 2020
 NRU:
   name:
     short: Nauru
@@ -60782,6 +65892,49 @@ NRU:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 NPL:
   name:
     short: Nepal
@@ -61253,6 +66406,49 @@ NPL:
       total: 89.9
       urban: 94.2
       rural: 88.78601924895659
+  clean_access:
+    - value: 6
+      year: 2000
+    - value: 7
+      year: 2001
+    - value: 8
+      year: 2002
+    - value: 10
+      year: 2003
+    - value: 11
+      year: 2004
+    - value: 13
+      year: 2005
+    - value: 15
+      year: 2006
+    - value: 16
+      year: 2007
+    - value: 18
+      year: 2008
+    - value: 20
+      year: 2009
+    - value: 22
+      year: 2010
+    - value: 23
+      year: 2011
+    - value: 25
+      year: 2012
+    - value: 26
+      year: 2013
+    - value: 28
+      year: 2014
+    - value: 29
+      year: 2015
+    - value: 30
+      year: 2016
+    - value: 31
+      year: 2017
+    - value: 32
+      year: 2018
+    - value: 34
+      year: 2019
+    - value: 35
+      year: 2020
 NLD:
   name:
     short: Netherlands
@@ -61724,6 +66920,49 @@ NLD:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 NCL:
   name:
     short: New Caledonia
@@ -62011,6 +67250,7 @@ NCL:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 NZL:
   name:
     short: New Zealand
@@ -62479,6 +67719,49 @@ NZL:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 NIC:
   name:
     short: Nicaragua
@@ -62950,6 +68233,49 @@ NIC:
       total: 88.90737915039062
       urban: 100
       rural: 72.93690436178652
+  clean_access:
+    - value: 34
+      year: 2000
+    - value: 35
+      year: 2001
+    - value: 36
+      year: 2002
+    - value: 37
+      year: 2003
+    - value: 38
+      year: 2004
+    - value: 39
+      year: 2005
+    - value: 40
+      year: 2006
+    - value: 41
+      year: 2007
+    - value: 43
+      year: 2008
+    - value: 43
+      year: 2009
+    - value: 45
+      year: 2010
+    - value: 46
+      year: 2011
+    - value: 47
+      year: 2012
+    - value: 48
+      year: 2013
+    - value: 49
+      year: 2014
+    - value: 50
+      year: 2015
+    - value: 52
+      year: 2016
+    - value: 53
+      year: 2017
+    - value: 54
+      year: 2018
+    - value: 55
+      year: 2019
+    - value: 56
+      year: 2020
 NER:
   name:
     short: Niger
@@ -63436,6 +68762,49 @@ NER:
       total: 19.251909255981445
       urban: 48.39099884033203
       rural: 13.44114738874862
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 NGA:
   name:
     short: Nigeria
@@ -63861,6 +69230,49 @@ NGA:
       total: 55.4
       urban: 83.9
       rural: 24.576907474212263
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 7
+      year: 2016
+    - value: 9
+      year: 2017
+    - value: 11
+      year: 2018
+    - value: 13
+      year: 2019
+    - value: 15
+      year: 2020
 NIU:
   name:
     short: Niue
@@ -64094,6 +69506,49 @@ NIU:
       total: 99.65373229980469
       urban: 100
       rural: null
+  clean_access:
+    - value: 75
+      year: 2000
+    - value: 78
+      year: 2001
+    - value: 80
+      year: 2002
+    - value: 82
+      year: 2003
+    - value: 84
+      year: 2004
+    - value: 86
+      year: 2005
+    - value: 88
+      year: 2006
+    - value: 90
+      year: 2007
+    - value: 91
+      year: 2008
+    - value: 92
+      year: 2009
+    - value: 93
+      year: 2010
+    - value: 94
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 NFK:
   name:
     short: Norfolk Island
@@ -64243,6 +69698,7 @@ NFK:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 MKD:
   name:
     short: North Macedonia
@@ -64688,6 +70144,49 @@ MKD:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 58
+      year: 2000
+    - value: 58
+      year: 2001
+    - value: 59
+      year: 2002
+    - value: 61
+      year: 2003
+    - value: 61
+      year: 2004
+    - value: 62
+      year: 2005
+    - value: 63
+      year: 2006
+    - value: 65
+      year: 2007
+    - value: 66
+      year: 2008
+    - value: 67
+      year: 2009
+    - value: 68
+      year: 2010
+    - value: 69
+      year: 2011
+    - value: 70
+      year: 2012
+    - value: 71
+      year: 2013
+    - value: 72
+      year: 2014
+    - value: 73
+      year: 2015
+    - value: 74
+      year: 2016
+    - value: 75
+      year: 2017
+    - value: 77
+      year: 2018
+    - value: 77
+      year: 2019
+    - value: 78
+      year: 2020
 MNP:
   name:
     short: Northern Mariana Islands
@@ -64923,6 +70422,7 @@ MNP:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 NOR:
   name:
     short: Norway
@@ -65399,6 +70899,49 @@ NOR:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 OMN:
   name:
     short: Oman
@@ -65825,6 +71368,49 @@ OMN:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 PAK:
   name:
     short: Pakistan
@@ -66305,6 +71891,49 @@ PAK:
       total: 75.37969207763672
       urban: 100
       rural: 60.81752533623762
+  clean_access:
+    - value: 24
+      year: 2000
+    - value: 24
+      year: 2001
+    - value: 26
+      year: 2002
+    - value: 27
+      year: 2003
+    - value: 28
+      year: 2004
+    - value: 29
+      year: 2005
+    - value: 30
+      year: 2006
+    - value: 31
+      year: 2007
+    - value: 33
+      year: 2008
+    - value: 34
+      year: 2009
+    - value: 36
+      year: 2010
+    - value: 37
+      year: 2011
+    - value: 38
+      year: 2012
+    - value: 40
+      year: 2013
+    - value: 41
+      year: 2014
+    - value: 42
+      year: 2015
+    - value: 43
+      year: 2016
+    - value: 45
+      year: 2017
+    - value: 46
+      year: 2018
+    - value: 48
+      year: 2019
+    - value: 49
+      year: 2020
 PLW:
   name:
     short: Palau
@@ -66626,6 +72255,49 @@ PLW:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 PSE:
   name:
     short: Palestine
@@ -66950,6 +72622,7 @@ PSE:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 PAN:
   name:
     short: Panama
@@ -67423,6 +73096,49 @@ PAN:
       total: 96.70463562011719
       urban: 99.68539428710938
       rural: 90.24843539097635
+  clean_access:
+    - value: 80
+      year: 2000
+    - value: 81
+      year: 2001
+    - value: 82
+      year: 2002
+    - value: 82
+      year: 2003
+    - value: 83
+      year: 2004
+    - value: 84
+      year: 2005
+    - value: 84
+      year: 2006
+    - value: 85
+      year: 2007
+    - value: 85
+      year: 2008
+    - value: 86
+      year: 2009
+    - value: 86
+      year: 2010
+    - value: 87
+      year: 2011
+    - value: 87
+      year: 2012
+    - value: 87
+      year: 2013
+    - value: 88
+      year: 2014
+    - value: 88
+      year: 2015
+    - value: 88
+      year: 2016
+    - value: 88
+      year: 2017
+    - value: 88
+      year: 2018
+    - value: 88
+      year: 2019
+    - value: 88
+      year: 2020
 PNG:
   name:
     short: Papua New Guinea
@@ -67895,6 +73611,49 @@ PNG:
       total: 60.4
       urban: 83.6
       rural: 56.827164342891805
+  clean_access:
+    - value: 6
+      year: 2000
+    - value: 6
+      year: 2001
+    - value: 6
+      year: 2002
+    - value: 6
+      year: 2003
+    - value: 6
+      year: 2004
+    - value: 6
+      year: 2005
+    - value: 7
+      year: 2006
+    - value: 7
+      year: 2007
+    - value: 7
+      year: 2008
+    - value: 7
+      year: 2009
+    - value: 8
+      year: 2010
+    - value: 8
+      year: 2011
+    - value: 8
+      year: 2012
+    - value: 8
+      year: 2013
+    - value: 8
+      year: 2014
+    - value: 9
+      year: 2015
+    - value: 9
+      year: 2016
+    - value: 9
+      year: 2017
+    - value: 9
+      year: 2018
+    - value: 9
+      year: 2019
+    - value: 9
+      year: 2020
 PRY:
   name:
     short: Paraguay
@@ -68371,6 +74130,49 @@ PRY:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 49
+      year: 2000
+    - value: 49
+      year: 2001
+    - value: 49
+      year: 2002
+    - value: 48
+      year: 2003
+    - value: 49
+      year: 2004
+    - value: 49
+      year: 2005
+    - value: 50
+      year: 2006
+    - value: 52
+      year: 2007
+    - value: 54
+      year: 2008
+    - value: 56
+      year: 2009
+    - value: 57
+      year: 2010
+    - value: 60
+      year: 2011
+    - value: 61
+      year: 2012
+    - value: 63
+      year: 2013
+    - value: 64
+      year: 2014
+    - value: 65
+      year: 2015
+    - value: 66
+      year: 2016
+    - value: 67
+      year: 2017
+    - value: 67
+      year: 2018
+    - value: 68
+      year: 2019
+    - value: 69
+      year: 2020
 PER:
   name:
     short: Peru
@@ -68857,6 +74659,49 @@ PER:
       total: 99.31181335449219
       urban: 100
       rural: 96.8290714636159
+  clean_access:
+    - value: 43
+      year: 2000
+    - value: 46
+      year: 2001
+    - value: 49
+      year: 2002
+    - value: 51
+      year: 2003
+    - value: 54
+      year: 2004
+    - value: 56
+      year: 2005
+    - value: 58
+      year: 2006
+    - value: 60
+      year: 2007
+    - value: 62
+      year: 2008
+    - value: 64
+      year: 2009
+    - value: 66
+      year: 2010
+    - value: 68
+      year: 2011
+    - value: 70
+      year: 2012
+    - value: 72
+      year: 2013
+    - value: 74
+      year: 2014
+    - value: 76
+      year: 2015
+    - value: 78
+      year: 2016
+    - value: 80
+      year: 2017
+    - value: 82
+      year: 2018
+    - value: 83
+      year: 2019
+    - value: 85
+      year: 2020
 PHL:
   name:
     short: Philippines
@@ -69324,6 +75169,49 @@ PHL:
       total: 96.8423843383789
       urban: 98.23407745361328
       rural: 95.58787057685579
+  clean_access:
+    - value: 38
+      year: 2000
+    - value: 39
+      year: 2001
+    - value: 40
+      year: 2002
+    - value: 40
+      year: 2003
+    - value: 41
+      year: 2004
+    - value: 41
+      year: 2005
+    - value: 41
+      year: 2006
+    - value: 41
+      year: 2007
+    - value: 41
+      year: 2008
+    - value: 41
+      year: 2009
+    - value: 41
+      year: 2010
+    - value: 41
+      year: 2011
+    - value: 41
+      year: 2012
+    - value: 41
+      year: 2013
+    - value: 42
+      year: 2014
+    - value: 42
+      year: 2015
+    - value: 43
+      year: 2016
+    - value: 44
+      year: 2017
+    - value: 45
+      year: 2018
+    - value: 46
+      year: 2019
+    - value: 48
+      year: 2020
 PCN:
   name:
     short: Pitcairn Islands
@@ -69473,6 +75361,7 @@ PCN:
     year: 1946
   gii: []
   elec_access: []
+  clean_access: []
 POL:
   name:
     short: Poland
@@ -69959,6 +75848,49 @@ POL:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 PRT:
   name:
     short: Portugal
@@ -70427,6 +76359,49 @@ PRT:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 PRI:
   name:
     short: Puerto Rico
@@ -70745,6 +76720,7 @@ PRI:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 QAT:
   name:
     short: Qatar
@@ -71182,6 +77158,49 @@ QAT:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 REU:
   name:
     short: Réunion
@@ -71329,6 +77348,7 @@ REU:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 ROU:
   name:
     short: Romania
@@ -71809,6 +77829,49 @@ ROU:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 72
+      year: 2000
+    - value: 73
+      year: 2001
+    - value: 74
+      year: 2002
+    - value: 76
+      year: 2003
+    - value: 77
+      year: 2004
+    - value: 78
+      year: 2005
+    - value: 79
+      year: 2006
+    - value: 80
+      year: 2007
+    - value: 82
+      year: 2008
+    - value: 82
+      year: 2009
+    - value: 83
+      year: 2010
+    - value: 84
+      year: 2011
+    - value: 85
+      year: 2012
+    - value: 85
+      year: 2013
+    - value: 86
+      year: 2014
+    - value: 86
+      year: 2015
+    - value: 86
+      year: 2016
+    - value: 87
+      year: 2017
+    - value: 87
+      year: 2018
+    - value: 88
+      year: 2019
+    - value: 88
+      year: 2020
 RUS:
   name:
     short: Russia
@@ -72328,6 +78391,49 @@ RUS:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 94
+      year: 2013
+    - value: 94
+      year: 2014
+    - value: 92
+      year: 2015
+    - value: 91
+      year: 2016
+    - value: 90
+      year: 2017
+    - value: 89
+      year: 2018
+    - value: 88
+      year: 2019
+    - value: 86
+      year: 2020
 RWA:
   name:
     short: Rwanda
@@ -72801,6 +78907,49 @@ RWA:
       total: 46.6
       urban: 86.4
       rural: 38.197306791043516
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 BLM:
   name:
     short: Saint Barthélemy
@@ -72948,6 +79097,7 @@ BLM:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 SHN:
   name:
     short: Saint Helena, Ascension and Tristan da Cunha
@@ -73131,6 +79281,7 @@ SHN:
     year: 1946
   gii: []
   elec_access: []
+  clean_access: []
 KNA:
   name:
     short: Saint Kitts and Nevis
@@ -73502,6 +79653,49 @@ KNA:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 LCA:
   name:
     short: Saint Lucia
@@ -73967,6 +80161,49 @@ LCA:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 86
+      year: 2000
+    - value: 88
+      year: 2001
+    - value: 89
+      year: 2002
+    - value: 90
+      year: 2003
+    - value: 91
+      year: 2004
+    - value: 92
+      year: 2005
+    - value: 93
+      year: 2006
+    - value: 94
+      year: 2007
+    - value: 94
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 94
+      year: 2019
+    - value: 94
+      year: 2020
 MAF:
   name:
     short: Saint Martin
@@ -74201,6 +80438,7 @@ MAF:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 SPM:
   name:
     short: Saint Pierre and Miquelon
@@ -74348,6 +80586,7 @@ SPM:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 VCT:
   name:
     short: Saint Vincent and the Grenadines
@@ -74739,6 +80978,49 @@ VCT:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 94
+      year: 2019
+    - value: 94
+      year: 2020
 WSM:
   name:
     short: Samoa
@@ -75154,6 +81436,49 @@ WSM:
       total: 100
       urban: 99.9869155883789
       rural: 100
+  clean_access:
+    - value: 19
+      year: 2000
+    - value: 19
+      year: 2001
+    - value: 20
+      year: 2002
+    - value: 21
+      year: 2003
+    - value: 21
+      year: 2004
+    - value: 22
+      year: 2005
+    - value: 23
+      year: 2006
+    - value: 24
+      year: 2007
+    - value: 25
+      year: 2008
+    - value: 26
+      year: 2009
+    - value: 27
+      year: 2010
+    - value: 28
+      year: 2011
+    - value: 29
+      year: 2012
+    - value: 30
+      year: 2013
+    - value: 30
+      year: 2014
+    - value: 31
+      year: 2015
+    - value: 32
+      year: 2016
+    - value: 34
+      year: 2017
+    - value: 35
+      year: 2018
+    - value: 35
+      year: 2019
+    - value: 36
+      year: 2020
 SMR:
   name:
     short: San Marino
@@ -75436,6 +81761,49 @@ SMR:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 STP:
   name:
     short: Sao Tome and Principe
@@ -75901,6 +82269,49 @@ STP:
       total: 76.55908966064453
       urban: 78.44978332519531
       rural: 71.07750431198295
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 SAU:
   name:
     short: Saudi Arabia
@@ -76361,6 +82772,49 @@ SAU:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 SEN:
   name:
     short: Senegal
@@ -76841,6 +83295,49 @@ SEN:
       total: 70.36894226074219
       urban: 95.17642974853516
       rural: 47.3575325219366
+  clean_access:
+    - value: 35
+      year: 2000
+    - value: 36
+      year: 2001
+    - value: 37
+      year: 2002
+    - value: 38
+      year: 2003
+    - value: 38
+      year: 2004
+    - value: 39
+      year: 2005
+    - value: 38
+      year: 2006
+    - value: 38
+      year: 2007
+    - value: 37
+      year: 2008
+    - value: 35
+      year: 2009
+    - value: 34
+      year: 2010
+    - value: 32
+      year: 2011
+    - value: 31
+      year: 2012
+    - value: 29
+      year: 2013
+    - value: 28
+      year: 2014
+    - value: 27
+      year: 2015
+    - value: 26
+      year: 2016
+    - value: 26
+      year: 2017
+    - value: 25
+      year: 2018
+    - value: 25
+      year: 2019
+    - value: 24
+      year: 2020
 SRB:
   name:
     short: Serbia
@@ -77234,6 +83731,49 @@ SRB:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 58
+      year: 2000
+    - value: 59
+      year: 2001
+    - value: 60
+      year: 2002
+    - value: 61
+      year: 2003
+    - value: 62
+      year: 2004
+    - value: 62
+      year: 2005
+    - value: 64
+      year: 2006
+    - value: 65
+      year: 2007
+    - value: 65
+      year: 2008
+    - value: 66
+      year: 2009
+    - value: 67
+      year: 2010
+    - value: 68
+      year: 2011
+    - value: 69
+      year: 2012
+    - value: 70
+      year: 2013
+    - value: 72
+      year: 2014
+    - value: 73
+      year: 2015
+    - value: 74
+      year: 2016
+    - value: 76
+      year: 2017
+    - value: 77
+      year: 2018
+    - value: 79
+      year: 2019
+    - value: 80
+      year: 2020
 SYC:
   name:
     short: Seychelles
@@ -77619,6 +84159,49 @@ SYC:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 SLE:
   name:
     short: Sierra Leone
@@ -78074,6 +84657,49 @@ SLE:
       total: 26.200885772705078
       urban: 54.69330978393555
       rural: 4.774038778286273
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 SGP:
   name:
     short: Singapore
@@ -78545,6 +85171,49 @@ SGP:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 SXM:
   name:
     short: Sint Maarten
@@ -78781,6 +85450,7 @@ SXM:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 SVK:
   name:
     short: Slovakia
@@ -79229,6 +85899,49 @@ SVK:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 SVN:
   name:
     short: Slovenia
@@ -79674,6 +86387,49 @@ SVN:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 SLB:
   name:
     short: Solomon Islands
@@ -80037,6 +86793,49 @@ SLB:
       total: 73.34648132324219
       urban: 77.3165512084961
       rural: 72.04631172906733
+  clean_access:
+    - value: 9
+      year: 2000
+    - value: 9
+      year: 2001
+    - value: 9
+      year: 2002
+    - value: 9
+      year: 2003
+    - value: 8
+      year: 2004
+    - value: 8
+      year: 2005
+    - value: 8
+      year: 2006
+    - value: 8
+      year: 2007
+    - value: 8
+      year: 2008
+    - value: 8
+      year: 2009
+    - value: 8
+      year: 2010
+    - value: 8
+      year: 2011
+    - value: 8
+      year: 2012
+    - value: 8
+      year: 2013
+    - value: 8
+      year: 2014
+    - value: 8
+      year: 2015
+    - value: 9
+      year: 2016
+    - value: 9
+      year: 2017
+    - value: 9
+      year: 2018
+    - value: 9
+      year: 2019
+    - value: 9
+      year: 2020
 SOM:
   name:
     short: Somalia
@@ -80277,6 +87076,49 @@ SOM:
       total: 49.73086929321289
       urban: 70.12004089355469
       rural: 32.26346878030321
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 ZAF:
   name:
     short: South Africa
@@ -80780,6 +87622,49 @@ ZAF:
       total: 84.38553619384766
       urban: 88.80626678466797
       rural: 75.2648510629029
+  clean_access:
+    - value: 56
+      year: 2000
+    - value: 58
+      year: 2001
+    - value: 60
+      year: 2002
+    - value: 62
+      year: 2003
+    - value: 64
+      year: 2004
+    - value: 67
+      year: 2005
+    - value: 69
+      year: 2006
+    - value: 71
+      year: 2007
+    - value: 74
+      year: 2008
+    - value: 75
+      year: 2009
+    - value: 77
+      year: 2010
+    - value: 79
+      year: 2011
+    - value: 80
+      year: 2012
+    - value: 82
+      year: 2013
+    - value: 83
+      year: 2014
+    - value: 83
+      year: 2015
+    - value: 84
+      year: 2016
+    - value: 85
+      year: 2017
+    - value: 86
+      year: 2018
+    - value: 86
+      year: 2019
+    - value: 87
+      year: 2020
 SGS:
   name:
     short: South Georgia and the South Sandwich Islands
@@ -80925,6 +87810,7 @@ SGS:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 SSD:
   name:
     short: South Sudan
@@ -81242,6 +88128,49 @@ SSD:
       total: 7.24133825302124
       urban: 13.868668556213379
       rural: 5.563847732850449
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 ESP:
   name:
     short: Spain
@@ -81722,6 +88651,49 @@ ESP:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 LKA:
   name:
     short: Sri Lanka
@@ -82189,6 +89161,49 @@ LKA:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 17
+      year: 2000
+    - value: 17
+      year: 2001
+    - value: 18
+      year: 2002
+    - value: 18
+      year: 2003
+    - value: 19
+      year: 2004
+    - value: 19
+      year: 2005
+    - value: 20
+      year: 2006
+    - value: 20
+      year: 2007
+    - value: 21
+      year: 2008
+    - value: 21
+      year: 2009
+    - value: 22
+      year: 2010
+    - value: 22
+      year: 2011
+    - value: 23
+      year: 2012
+    - value: 24
+      year: 2013
+    - value: 25
+      year: 2014
+    - value: 26
+      year: 2015
+    - value: 27
+      year: 2016
+    - value: 28
+      year: 2017
+    - value: 29
+      year: 2018
+    - value: 31
+      year: 2019
+    - value: 32
+      year: 2020
 SDN:
   name:
     short: Sudan
@@ -82677,6 +89692,49 @@ SDN:
       total: 55.38970184326172
       urban: 81.51765441894531
       rural: 41.163734145857035
+  clean_access:
+    - value: 8
+      year: 2000
+    - value: 9
+      year: 2001
+    - value: 11
+      year: 2002
+    - value: 13
+      year: 2003
+    - value: 16
+      year: 2004
+    - value: 18
+      year: 2005
+    - value: 21
+      year: 2006
+    - value: 24
+      year: 2007
+    - value: 27
+      year: 2008
+    - value: 30
+      year: 2009
+    - value: 32
+      year: 2010
+    - value: 36
+      year: 2011
+    - value: 39
+      year: 2012
+    - value: 41
+      year: 2013
+    - value: 43
+      year: 2014
+    - value: 45
+      year: 2015
+    - value: 48
+      year: 2016
+    - value: 50
+      year: 2017
+    - value: 51
+      year: 2018
+    - value: 54
+      year: 2019
+    - value: 55
+      year: 2020
 SUR:
   name:
     short: Suriname
@@ -83095,6 +90153,49 @@ SUR:
       total: 98.20477294921875
       urban: 98.98081970214844
       rural: 96.68827705779599
+  clean_access:
+    - value: 78
+      year: 2000
+    - value: 79
+      year: 2001
+    - value: 80
+      year: 2002
+    - value: 81
+      year: 2003
+    - value: 82
+      year: 2004
+    - value: 83
+      year: 2005
+    - value: 84
+      year: 2006
+    - value: 85
+      year: 2007
+    - value: 85
+      year: 2008
+    - value: 86
+      year: 2009
+    - value: 87
+      year: 2010
+    - value: 88
+      year: 2011
+    - value: 89
+      year: 2012
+    - value: 90
+      year: 2013
+    - value: 91
+      year: 2014
+    - value: 91
+      year: 2015
+    - value: 92
+      year: 2016
+    - value: 93
+      year: 2017
+    - value: 93
+      year: 2018
+    - value: 94
+      year: 2019
+    - value: 94
+      year: 2020
 SJM:
   name:
     short: Svalbard and Jan Mayen
@@ -83242,6 +90343,7 @@ SJM:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 SWE:
   name:
     short: Sweden
@@ -83715,6 +90817,49 @@ SWE:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 CHE:
   name:
     short: Switzerland
@@ -84202,6 +91347,49 @@ CHE:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 SYR:
   name:
     short: Syria
@@ -84670,6 +91858,49 @@ SYR:
       total: 89.14031982421875
       urban: 100
       rural: 75.60992808599002
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 TWN:
   name:
     short: Taiwan
@@ -84817,6 +92048,7 @@ TWN:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 TJK:
   name:
     short: Tajikistan
@@ -85249,6 +92481,49 @@ TJK:
       total: 99.779296875
       urban: 99.0528564453125
       rural: 100
+  clean_access:
+    - value: 36
+      year: 2000
+    - value: 40
+      year: 2001
+    - value: 44
+      year: 2002
+    - value: 48
+      year: 2003
+    - value: 52
+      year: 2004
+    - value: 56
+      year: 2005
+    - value: 60
+      year: 2006
+    - value: 63
+      year: 2007
+    - value: 65
+      year: 2008
+    - value: 68
+      year: 2009
+    - value: 70
+      year: 2010
+    - value: 72
+      year: 2011
+    - value: 73
+      year: 2012
+    - value: 75
+      year: 2013
+    - value: 76
+      year: 2014
+    - value: 77
+      year: 2015
+    - value: 79
+      year: 2016
+    - value: 80
+      year: 2017
+    - value: 81
+      year: 2018
+    - value: 82
+      year: 2019
+    - value: 82
+      year: 2020
 TZA:
   name:
     short: Tanzania
@@ -85740,6 +93015,49 @@ TZA:
       total: 39.9
       urban: 72.9
       rural: 21.95284637441853
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 THA:
   name:
     short: Thailand
@@ -86217,6 +93535,49 @@ THA:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 57
+      year: 2000
+    - value: 59
+      year: 2001
+    - value: 61
+      year: 2002
+    - value: 63
+      year: 2003
+    - value: 65
+      year: 2004
+    - value: 66
+      year: 2005
+    - value: 68
+      year: 2006
+    - value: 70
+      year: 2007
+    - value: 71
+      year: 2008
+    - value: 73
+      year: 2009
+    - value: 74
+      year: 2010
+    - value: 75
+      year: 2011
+    - value: 76
+      year: 2012
+    - value: 77
+      year: 2013
+    - value: 78
+      year: 2014
+    - value: 79
+      year: 2015
+    - value: 80
+      year: 2016
+    - value: 81
+      year: 2017
+    - value: 82
+      year: 2018
+    - value: 83
+      year: 2019
+    - value: 84
+      year: 2020
 TLS:
   name:
     short: Timor-Leste
@@ -86567,6 +93928,49 @@ TLS:
       total: 96.1233139038086
       urban: 100
       rural: 94.35543688276523
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 6
+      year: 2012
+    - value: 7
+      year: 2013
+    - value: 8
+      year: 2014
+    - value: 9
+      year: 2015
+    - value: 9
+      year: 2016
+    - value: 10
+      year: 2017
+    - value: 12
+      year: 2018
+    - value: 12
+      year: 2019
+    - value: 14
+      year: 2020
 TGO:
   name:
     short: Togo
@@ -87041,6 +94445,49 @@ TGO:
       total: 53.997432708740234
       urban: 94.14375305175781
       rural: 23.957884788337974
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 6
+      year: 2014
+    - value: 7
+      year: 2015
+    - value: 7
+      year: 2016
+    - value: 8
+      year: 2017
+    - value: 9
+      year: 2018
+    - value: 9
+      year: 2019
+    - value: 10
+      year: 2020
 TKL:
   name:
     short: Tokelau
@@ -87190,6 +94637,7 @@ TKL:
     year: 1946
   gii: []
   elec_access: []
+  clean_access: []
 TON:
   name:
     short: Tonga
@@ -87657,6 +95105,49 @@ TON:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 36
+      year: 2000
+    - value: 38
+      year: 2001
+    - value: 40
+      year: 2002
+    - value: 43
+      year: 2003
+    - value: 46
+      year: 2004
+    - value: 48
+      year: 2005
+    - value: 51
+      year: 2006
+    - value: 53
+      year: 2007
+    - value: 55
+      year: 2008
+    - value: 58
+      year: 2009
+    - value: 60
+      year: 2010
+    - value: 62
+      year: 2011
+    - value: 65
+      year: 2012
+    - value: 67
+      year: 2013
+    - value: 70
+      year: 2014
+    - value: 72
+      year: 2015
+    - value: 75
+      year: 2016
+    - value: 77
+      year: 2017
+    - value: 80
+      year: 2018
+    - value: 82
+      year: 2019
+    - value: 84
+      year: 2020
 TTO:
   name:
     short: Trinidad and Tobago
@@ -88122,6 +95613,49 @@ TTO:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 TUN:
   name:
     short: Tunisia
@@ -88594,6 +96128,49 @@ TUN:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 94
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 TUR:
   name:
     short: Turkey
@@ -89084,6 +96661,49 @@ TUR:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 90
+      year: 2000
+    - value: 91
+      year: 2001
+    - value: 91
+      year: 2002
+    - value: 92
+      year: 2003
+    - value: 92
+      year: 2004
+    - value: 93
+      year: 2005
+    - value: 93
+      year: 2006
+    - value: 93
+      year: 2007
+    - value: 94
+      year: 2008
+    - value: 94
+      year: 2009
+    - value: 94
+      year: 2010
+    - value: 94
+      year: 2011
+    - value: 94
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 TKM:
   name:
     short: Turkmenistan
@@ -89476,6 +97096,49 @@ TKM:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 TCA:
   name:
     short: Turks and Caicos Islands
@@ -89739,6 +97402,7 @@ TCA:
       total: 99.4
       urban: 100
       rural: 100
+  clean_access: []
 TUV:
   name:
     short: Tuvalu
@@ -90080,6 +97744,49 @@ TUV:
       total: 99.6892318725586
       urban: 100
       rural: 99.1363238843297
+  clean_access:
+    - value: 16
+      year: 2000
+    - value: 18
+      year: 2001
+    - value: 20
+      year: 2002
+    - value: 22
+      year: 2003
+    - value: 25
+      year: 2004
+    - value: 28
+      year: 2005
+    - value: 31
+      year: 2006
+    - value: 36
+      year: 2007
+    - value: 41
+      year: 2008
+    - value: 45
+      year: 2009
+    - value: 49
+      year: 2010
+    - value: 53
+      year: 2011
+    - value: 57
+      year: 2012
+    - value: 60
+      year: 2013
+    - value: 62
+      year: 2014
+    - value: 64
+      year: 2015
+    - value: 66
+      year: 2016
+    - value: 68
+      year: 2017
+    - value: 69
+      year: 2018
+    - value: 70
+      year: 2019
+    - value: 71
+      year: 2020
 UGA:
   name:
     short: Uganda
@@ -90562,6 +98269,49 @@ UGA:
       total: 42.07441711425781
       urban: 69.87100219726562
       rural: 32.83160640049976
+  clean_access:
+    - value: 5
+      year: 2000
+    - value: 5
+      year: 2001
+    - value: 5
+      year: 2002
+    - value: 5
+      year: 2003
+    - value: 5
+      year: 2004
+    - value: 5
+      year: 2005
+    - value: 5
+      year: 2006
+    - value: 5
+      year: 2007
+    - value: 5
+      year: 2008
+    - value: 5
+      year: 2009
+    - value: 5
+      year: 2010
+    - value: 5
+      year: 2011
+    - value: 5
+      year: 2012
+    - value: 5
+      year: 2013
+    - value: 5
+      year: 2014
+    - value: 5
+      year: 2015
+    - value: 5
+      year: 2016
+    - value: 5
+      year: 2017
+    - value: 5
+      year: 2018
+    - value: 5
+      year: 2019
+    - value: 5
+      year: 2020
 UKR:
   name:
     short: Ukraine
@@ -91051,6 +98801,49 @@ UKR:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 92
+      year: 2000
+    - value: 92
+      year: 2001
+    - value: 92
+      year: 2002
+    - value: 93
+      year: 2003
+    - value: 93
+      year: 2004
+    - value: 93
+      year: 2005
+    - value: 94
+      year: 2006
+    - value: 94
+      year: 2007
+    - value: 94
+      year: 2008
+    - value: 94
+      year: 2009
+    - value: 94
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 ARE:
   name:
     short: United Arab Emirates
@@ -91523,6 +99316,49 @@ ARE:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 GBR:
   name:
     short: United Kingdom
@@ -91991,6 +99827,49 @@ GBR:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 USA:
   name:
     short: United States of America
@@ -92467,6 +100346,49 @@ USA:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 UMI:
   name:
     short: United States Minor Outlying Islands
@@ -92618,6 +100540,7 @@ UMI:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 URY:
   name:
     short: Uruguay
@@ -93089,6 +101012,49 @@ URY:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 UZB:
   name:
     short: Uzbekistan
@@ -93486,6 +101452,49 @@ UZB:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 84
+      year: 2000
+    - value: 84
+      year: 2001
+    - value: 84
+      year: 2002
+    - value: 84
+      year: 2003
+    - value: 85
+      year: 2004
+    - value: 85
+      year: 2005
+    - value: 85
+      year: 2006
+    - value: 85
+      year: 2007
+    - value: 86
+      year: 2008
+    - value: 86
+      year: 2009
+    - value: 86
+      year: 2010
+    - value: 86
+      year: 2011
+    - value: 86
+      year: 2012
+    - value: 86
+      year: 2013
+    - value: 86
+      year: 2014
+    - value: 85
+      year: 2015
+    - value: 85
+      year: 2016
+    - value: 85
+      year: 2017
+    - value: 84
+      year: 2018
+    - value: 85
+      year: 2019
+    - value: 84
+      year: 2020
 VUT:
   name:
     short: Vanuatu
@@ -93859,6 +101868,49 @@ VUT:
       total: 67.33326721191406
       urban: 95.58536529541016
       rural: 57.6503623387071
+  clean_access:
+    - value: 16
+      year: 2000
+    - value: 16
+      year: 2001
+    - value: 16
+      year: 2002
+    - value: 15
+      year: 2003
+    - value: 15
+      year: 2004
+    - value: 15
+      year: 2005
+    - value: 15
+      year: 2006
+    - value: 14
+      year: 2007
+    - value: 14
+      year: 2008
+    - value: 13
+      year: 2009
+    - value: 12
+      year: 2010
+    - value: 12
+      year: 2011
+    - value: 11
+      year: 2012
+    - value: 11
+      year: 2013
+    - value: 10
+      year: 2014
+    - value: 9
+      year: 2015
+    - value: 9
+      year: 2016
+    - value: 8
+      year: 2017
+    - value: 8
+      year: 2018
+    - value: 8
+      year: 2019
+    - value: 8
+      year: 2020
 VEN:
   name:
     short: Venezuela
@@ -94335,6 +102387,49 @@ VEN:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 95
+      year: 2000
+    - value: 95
+      year: 2001
+    - value: 95
+      year: 2002
+    - value: 95
+      year: 2003
+    - value: 95
+      year: 2004
+    - value: 95
+      year: 2005
+    - value: 95
+      year: 2006
+    - value: 95
+      year: 2007
+    - value: 95
+      year: 2008
+    - value: 95
+      year: 2009
+    - value: 95
+      year: 2010
+    - value: 95
+      year: 2011
+    - value: 95
+      year: 2012
+    - value: 95
+      year: 2013
+    - value: 95
+      year: 2014
+    - value: 95
+      year: 2015
+    - value: 95
+      year: 2016
+    - value: 95
+      year: 2017
+    - value: 95
+      year: 2018
+    - value: 95
+      year: 2019
+    - value: 95
+      year: 2020
 VNM:
   name:
     short: Vietnam
@@ -94809,6 +102904,49 @@ VNM:
       total: 100
       urban: 100
       rural: 100
+  clean_access:
+    - value: 14
+      year: 2000
+    - value: 17
+      year: 2001
+    - value: 21
+      year: 2002
+    - value: 24
+      year: 2003
+    - value: 28
+      year: 2004
+    - value: 32
+      year: 2005
+    - value: 36
+      year: 2006
+    - value: 39
+      year: 2007
+    - value: 43
+      year: 2008
+    - value: 46
+      year: 2009
+    - value: 49
+      year: 2010
+    - value: 52
+      year: 2011
+    - value: 54
+      year: 2012
+    - value: 56
+      year: 2013
+    - value: 58
+      year: 2014
+    - value: 60
+      year: 2015
+    - value: 61
+      year: 2016
+    - value: 62
+      year: 2017
+    - value: 63
+      year: 2018
+    - value: 64
+      year: 2019
+    - value: 65
+      year: 2020
 VGB:
   name:
     short: British Virgin Islands
@@ -95058,6 +103196,7 @@ VGB:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 VIR:
   name:
     short: United States Virgin Islands
@@ -95289,6 +103428,7 @@ VIR:
       total: 100
       urban: 100
       rural: 100
+  clean_access: []
 WLF:
   name:
     short: Wallis and Futuna
@@ -95436,6 +103576,7 @@ WLF:
     year: null
   gii: []
   elec_access: []
+  clean_access: []
 ESH:
   name:
     short: Western Sahara
@@ -95596,6 +103737,7 @@ ESH:
     year: 1963
   gii: []
   elec_access: []
+  clean_access: []
 YEM:
   name:
     short: Yemen
@@ -96051,6 +104193,49 @@ YEM:
       total: 73.75792694091797
       urban: 93.11345672607422
       rural: 61.941115944655394
+  clean_access:
+    - value: 56
+      year: 2000
+    - value: 56
+      year: 2001
+    - value: 57
+      year: 2002
+    - value: 57
+      year: 2003
+    - value: 57
+      year: 2004
+    - value: 58
+      year: 2005
+    - value: 58
+      year: 2006
+    - value: 59
+      year: 2007
+    - value: 59
+      year: 2008
+    - value: 60
+      year: 2009
+    - value: 60
+      year: 2010
+    - value: 60
+      year: 2011
+    - value: 60
+      year: 2012
+    - value: 60
+      year: 2013
+    - value: 61
+      year: 2014
+    - value: 61
+      year: 2015
+    - value: 61
+      year: 2016
+    - value: 61
+      year: 2017
+    - value: 62
+      year: 2018
+    - value: 61
+      year: 2019
+    - value: 62
+      year: 2020
 ZMB:
   name:
     short: Zambia
@@ -96540,6 +104725,49 @@ ZMB:
       total: 44.52447509765625
       urban: 82.38262176513672
       rural: 14.010824801421093
+  clean_access:
+    - value: 14
+      year: 2000
+    - value: 14
+      year: 2001
+    - value: 15
+      year: 2002
+    - value: 15
+      year: 2003
+    - value: 15
+      year: 2004
+    - value: 16
+      year: 2005
+    - value: 16
+      year: 2006
+    - value: 16
+      year: 2007
+    - value: 16
+      year: 2008
+    - value: 16
+      year: 2009
+    - value: 16
+      year: 2010
+    - value: 16
+      year: 2011
+    - value: 16
+      year: 2012
+    - value: 15
+      year: 2013
+    - value: 15
+      year: 2014
+    - value: 14
+      year: 2015
+    - value: 13
+      year: 2016
+    - value: 12
+      year: 2017
+    - value: 12
+      year: 2018
+    - value: 11
+      year: 2019
+    - value: 10
+      year: 2020
 ZWE:
   name:
     short: Zimbabwe
@@ -97045,3 +105273,46 @@ ZWE:
       total: 52.7476674999602
       urban: 85.7154764587655
       rural: 37.06024872217467
+  clean_access:
+    - value: 34
+      year: 2000
+    - value: 34
+      year: 2001
+    - value: 34
+      year: 2002
+    - value: 33
+      year: 2003
+    - value: 32
+      year: 2004
+    - value: 32
+      year: 2005
+    - value: 31
+      year: 2006
+    - value: 31
+      year: 2007
+    - value: 31
+      year: 2008
+    - value: 30
+      year: 2009
+    - value: 30
+      year: 2010
+    - value: 30
+      year: 2011
+    - value: 30
+      year: 2012
+    - value: 30
+      year: 2013
+    - value: 30
+      year: 2014
+    - value: 30
+      year: 2015
+    - value: 30
+      year: 2016
+    - value: 30
+      year: 2017
+    - value: 30
+      year: 2018
+    - value: 30
+      year: 2019
+    - value: 30
+      year: 2020

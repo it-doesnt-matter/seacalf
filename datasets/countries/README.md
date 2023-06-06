@@ -236,3 +236,8 @@ Source: [Passport Index](https://www.passportindex.org/)
 
 ## elec_access
 Source: [Tracking SDG7: The Energy Progress Report](https://trackingsdg7.esmap.org/)
+
+## clean_access
+In the original dataset, the values ranged only from 5% to 95%. Anything outside this range was reported as "<5" and ">95". To maintain an consistent data type, these strings were converted to 5% and 95% respectively.
+
+Source: [Tracking SDG7: The Energy Progress Report](https://trackingsdg7.esmap.org/)

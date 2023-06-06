@@ -112,6 +112,9 @@ Each entry has the following properties:
 	- `total`: percentage of total population that has access to electricity
 	- `urban`: percentage of urban population that has access to electricity
 	- `rural`: percentage of rural population that has access to electricity
+- `clean_access`: access to clean fuels for cooking
+	- `year`
+	- `value`: percentage of population with primary reliance on clean fuels and technology
 
 ### UK
 ISO 3611-1 only includes the United Kingdom and not its constituent countries. Because the Countries dataset is based on said standard, it also doesn't contain England, Scotland, Wales and Northern Ireland. This dataset is for everyone interested in data about those individual countries. I tried to keep the schema similar to the one from Countries, but removed/changed a few properties.

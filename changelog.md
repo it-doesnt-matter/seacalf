@@ -1,5 +1,16 @@
 # Changelog
 
+## 2023-06-06
+
+### Added
+
+- access to clean fuel for cooking data
+
+### Changed
+
+- schema: countries
+- README: general and countries
+
 ## 2023-06-05
 
 ### Added
