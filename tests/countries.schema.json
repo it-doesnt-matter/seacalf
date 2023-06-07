@@ -440,6 +440,30 @@
             "required": ["value", "year"],
             "additionalProperties": false
           }
+        },
+        "renewable": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "value": { "type": "number" },
+              "year": { "type": "number" }
+            },
+            "required": ["value", "year"],
+            "additionalProperties": false
+          }
+        },
+        "efficiency": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "value": { "type": "number" },
+              "year": { "type": "number" }
+            },
+            "required": ["value", "year"],
+            "additionalProperties": false
+          }
         }
       },
       "required": [
@@ -447,7 +471,8 @@
         "calling_code", "gdp", "driving_side", "gini", "hdi", "gii", "time_zone", "tld",
         "un", "unm49", "continent", "languages", "nato", "inflation", "independence",
         "centroid", "land_borders", "gov_type", "coastline", "is_landlocked", "arton",
-        "emoji_flag", "translations", "elec_access", "clean_access"
+        "emoji_flag", "translations", "elec_access", "clean_access", "renewable",
+        "efficiency"
       ],
       "additionalProperties": false
     },

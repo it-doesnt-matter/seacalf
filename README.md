@@ -115,6 +115,12 @@ Each entry has the following properties:
 - `clean_access`: access to clean fuels for cooking
 	- `year`
 	- `value`: percentage of population with primary reliance on clean fuels and technology
+- `renewable`: renewable energy share in the total final energy consumption
+	- `year`
+	- `value`: percentage of renewable energy
+- `efficiency`: energy intensity level of primary energy
+	- `year`
+	- `value`: efficiency in megajoules per constant 2017 purchasing power parity GDP
 
 ### UK
 ISO 3611-1 only includes the United Kingdom and not its constituent countries. Because the Countries dataset is based on said standard, it also doesn't contain England, Scotland, Wales and Northern Ireland. This dataset is for everyone interested in data about those individual countries. I tried to keep the schema similar to the one from Countries, but removed/changed a few properties.
