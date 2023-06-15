@@ -232,6 +232,8 @@ Countries that are not included in the passport index, don't have their own pass
 
 One exception is the Sahrawi Arab Democratic Republic that has its own passport, but is not listed on the index.
 
+Last updated on 15.06.2023.
+
 Source: [Passport Index](https://www.passportindex.org/)
 
 ## elec_access

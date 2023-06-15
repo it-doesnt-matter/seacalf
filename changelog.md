@@ -1,5 +1,21 @@
 # Changelog
 
+## Upcoming
+
+- new dataset for the US states
+- geojson data for the US states
+
+## 2023-06-15
+
+### Added
+
+- flags of the US states
+
+### Changed
+
+- the Arton passport index data has been updated
+- README: general, countries and flags
+
 ## 2023-06-07
 
 ### Added

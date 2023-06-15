@@ -206,7 +206,7 @@ Each entry has the following properties:
 	- `name`: name of the country
 
 ### Flags
-This dataset contains flags in svg format. All countries from the countries and uk dataset are covered.
+This dataset contains flags in svg format. All entries from the countries, uk and us states dataset are covered.
 
 Available formats: SVG.
 
