@@ -211,7 +211,7 @@ This dataset contains flags in svg format. All entries from the countries, uk an
 Available formats: SVG.
 
 ### GeoJson
-This dataset contains GeoJson files representing the borders of each country from the countries and uk dataset.
+This dataset contains GeoJson files representing the borders of each country/state. All entries from the countries, uk and us states dataset are covered.
 
 Available formats: GeoJSON.
 

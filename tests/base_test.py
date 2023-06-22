@@ -130,6 +130,16 @@ class TestSchemas:
                 assert country["independence"]["sovereign_state"]["name"] is not None
                 assert country["independence"]["status"] is not None
 
+    def test_us_states_geojson_flags_cross_reference(self):
+        geojson_paths = (Path.cwd().parent / "datasets/geojson/us_states").glob("*.json")
+        flag_paths = (Path.cwd().parent / "datasets/flags/us_states").glob("*.svg")
+
+        geojson_codes = {path.stem for path in geojson_paths}
+        flag_codes = {path.stem for path in flag_paths}
+        flag_codes.remove("UT2")
+        
+        assert geojson_codes == flag_codes
+
 
 @pytest.fixture
 def countries():

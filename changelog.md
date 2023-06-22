@@ -3,70 +3,58 @@
 ## Upcoming
 
 - new dataset for the US states
-- geojson data for the US states
+
+## 2023-06-22
+
+### Added
+
+- add geojson data of the US states to `geojson` dataset
+
+### Changed
+
+- update `Arton` passport index data from `countries` dataset
 
 ## 2023-06-15
 
 ### Added
 
-- flags of the US states
+- add flags of the US states to the `flags` dataset
 
 ### Changed
 
-- the Arton passport index data has been updated
-- README: general, countries and flags
+- update `Arton` passport index data from `countries` dataset
 
 ## 2023-06-07
 
 ### Added
 
-- renewable energy data
-- energy efficiency data
-
-### Changed
-
-- schema: countries
-- README: general and countries
+- add new attribute `renewable` to `countries` dataset
+- add new attribute `efficiency` to `countries` dataset
 
 ## 2023-06-06
 
 ### Added
 
-- access to clean fuel for cooking data
-
-### Changed
-
-- schema: countries
-- README: general and countries
+- add new attribute `clean_access` to `countries` dataset
 
 ## 2023-06-05
 
 ### Added
 
-- access to electricity data
-
-### Changed
-
-- schema: countries
-- README: general and countries
+- add new attribute `elec_acces` to `countries` dataset
 
 ## 2023-06-02
 
 ### Added
 
-- historical HDI data
-- GII data
-- changelog
-
-### Changed
-
-- schema: countries
-- README: general and countries
+- add historical data to `hdi` from `countries` dataset
+- add new attribute `gii` to `countries` dataset
+- add `CHANGELOG.md`
 
 ### Fixed
 
-- file format of passports in general README
+- correct file format of passports in README
 
 ## 2023-06-01
 
-### Initial Commit
+_initial commit_

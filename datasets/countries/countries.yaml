@@ -250,14 +250,14 @@ AFG:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 38
+    ms: 39
     vf: 3
-    voa: 33
+    voa: 34
     eta: 2
-    vr: 160
-    ppr: 95
+    vr: 159
+    ppr: 97
     ipr: 199
-    wr: 19
+    wr: 20
   emoji_flag: "\U0001F1E6\U0001F1EB"
   translations:
     AFR: Afganistan
@@ -932,14 +932,14 @@ ALB:
   coastline: 362
   is_landlocked: false
   arton:
-    ms: 117
+    ms: 119
     vf: 69
-    voa: 45
+    voa: 46
     eta: 3
-    vr: 81
+    vr: 79
     ppr: 39
     ipr: 93
-    wr: 59
+    wr: 60
   emoji_flag: "\U0001F1E6\U0001F1F1"
   translations:
     AFR: Albanië
@@ -1528,12 +1528,12 @@ DZA:
   coastline: 998
   is_landlocked: false
   arton:
-    ms: 65
+    ms: 66
     vf: 18
-    voa: 45
+    voa: 46
     eta: 2
-    vr: 133
-    ppr: 73
+    vr: 132
+    ppr: 75
     ipr: 158
     wr: 33
   emoji_flag: "\U0001F1E9\U0001F1FF"
@@ -2190,14 +2190,14 @@ AND:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 158
+    ms: 159
     vf: 96
-    voa: 55
+    voa: 56
     eta: 7
-    vr: 40
+    vr: 39
     ppr: 12
     ipr: 46
-    wr: 79
+    wr: 80
   emoji_flag: "\U0001F1E6\U0001F1E9"
   translations:
     AFR: Andorra
@@ -2670,12 +2670,12 @@ AGO:
   coastline: 1600
   is_landlocked: false
   arton:
-    ms: 63
+    ms: 64
     vf: 23
-    voa: 37
+    voa: 38
     eta: 3
-    vr: 135
-    ppr: 75
+    vr: 134
+    ppr: 77
     ipr: 163
     wr: 32
   emoji_flag: "\U0001F1E6\U0001F1F4"
@@ -3653,14 +3653,14 @@ ATG:
   coastline: 153
   is_landlocked: false
   arton:
-    ms: 140
+    ms: 141
     vf: 96
-    voa: 41
+    voa: 42
     eta: 3
-    vr: 58
+    vr: 57
     ppr: 23
     ipr: 62
-    wr: 70
+    wr: 71
   emoji_flag: "\U0001F1E6\U0001F1EC"
   translations:
     AFR: Antigua en Barbuda
@@ -4194,14 +4194,14 @@ ARG:
   coastline: 4989
   is_landlocked: false
   arton:
-    ms: 160
+    ms: 161
     vf: 103
-    voa: 52
+    voa: 53
     eta: 5
-    vr: 38
+    vr: 37
     ppr: 11
     ipr: 45
-    wr: 80
+    wr: 81
   emoji_flag: "\U0001F1E6\U0001F1F7"
   translations:
     AFR: Argentinië
@@ -4752,14 +4752,14 @@ ARM:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 80
+    ms: 81
     vf: 33
-    voa: 45
+    voa: 46
     eta: 2
-    vr: 118
-    ppr: 58
+    vr: 117
+    ppr: 60
     ipr: 121
-    wr: 40
+    wr: 41
   emoji_flag: "\U0001F1E6\U0001F1F2"
   translations:
     AFR: Armenië
@@ -5718,13 +5718,13 @@ AUS:
   coastline: 25760
   is_landlocked: false
   arton:
-    ms: 171
+    ms: 172
     vf: 110
-    voa: 56
+    voa: 57
     eta: 5
-    vr: 27
+    vr: 26
     ppr: 4
-    ipr: 28
+    ipr: 27
     wr: 86
   emoji_flag: "\U0001F1E6\U0001F1FA"
   translations:
@@ -6333,11 +6333,11 @@ AUT:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 173
+    ms: 174
     vf: 122
-    voa: 44
+    voa: 45
     eta: 7
-    vr: 25
+    vr: 24
     ppr: 2
     ipr: 10
     wr: 87
@@ -6888,13 +6888,13 @@ AZE:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 79
+    ms: 80
     vf: 30
-    voa: 46
+    voa: 47
     eta: 3
-    vr: 119
-    ppr: 59
-    ipr: 123
+    vr: 118
+    ppr: 61
+    ipr: 122
     wr: 40
   emoji_flag: "\U0001F1E6\U0001F1FF"
   translations:
@@ -7468,11 +7468,11 @@ BHS:
   coastline: 3542
   is_landlocked: false
   arton:
-    ms: 147
+    ms: 148
     vf: 98
-    voa: 44
+    voa: 45
     eta: 5
-    vr: 51
+    vr: 50
     ppr: 17
     ipr: 53
     wr: 74
@@ -8059,11 +8059,11 @@ BHR:
   coastline: 161
   is_landlocked: false
   arton:
-    ms: 99
+    ms: 100
     vf: 46
-    voa: 47
+    voa: 48
     eta: 6
-    vr: 99
+    vr: 98
     ppr: 44
     ipr: 100
     wr: 50
@@ -8629,12 +8629,12 @@ BGD:
   coastline: 580
   is_landlocked: false
   arton:
-    ms: 47
+    ms: 48
     vf: 14
-    voa: 31
+    voa: 32
     eta: 2
-    vr: 151
-    ppr: 89
+    vr: 150
+    ppr: 91
     ipr: 193
     wr: 24
   emoji_flag: "\U0001F1E7\U0001F1E9"
@@ -9817,14 +9817,14 @@ BLR:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 90
+    ms: 91
     vf: 42
-    voa: 46
+    voa: 47
     eta: 2
-    vr: 108
+    vr: 107
     ppr: 51
     ipr: 110
-    wr: 45
+    wr: 46
   emoji_flag: "\U0001F1E7\U0001F1FE"
   translations:
     AFR: Wit-Rusland
@@ -10401,14 +10401,14 @@ BEL:
   coastline: 66.5
   is_landlocked: false
   arton:
-    ms: 172
+    ms: 173
     vf: 123
-    voa: 43
+    voa: 44
     eta: 6
-    vr: 26
+    vr: 25
     ppr: 3
     ipr: 14
-    wr: 86
+    wr: 87
   emoji_flag: "\U0001F1E7\U0001F1EA"
   translations:
     AFR: België
@@ -10997,11 +10997,11 @@ BLZ:
   coastline: 386
   is_landlocked: false
   arton:
-    ms: 97
+    ms: 98
     vf: 58
-    voa: 37
+    voa: 38
     eta: 2
-    vr: 101
+    vr: 100
     ppr: 46
     ipr: 102
     wr: 49
@@ -11599,14 +11599,14 @@ BEN:
   coastline: 121
   is_landlocked: false
   arton:
-    ms: 68
+    ms: 69
     vf: 30
-    voa: 37
+    voa: 38
     eta: 1
-    vr: 130
-    ppr: 70
-    ipr: 148
-    wr: 34
+    vr: 129
+    ppr: 72
+    ipr: 147
+    wr: 35
   emoji_flag: "\U0001F1E7\U0001F1EF"
   translations:
     AFR: Benin
@@ -12465,14 +12465,14 @@ BTN:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 66
+    ms: 67
     vf: 16
-    voa: 48
+    voa: 49
     eta: 2
-    vr: 132
-    ppr: 72
-    ipr: 155
-    wr: 33
+    vr: 131
+    ppr: 74
+    ipr: 154
+    wr: 34
   emoji_flag: "\U0001F1E7\U0001F1F9"
   translations:
     AFR: Bhoetan
@@ -13098,11 +13098,11 @@ BOL:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 85
+    ms: 86
     vf: 35
-    voa: 48
+    voa: 49
     eta: 2
-    vr: 113
+    vr: 112
     ppr: 55
     ipr: 115
     wr: 43
@@ -13808,11 +13808,11 @@ BIH:
   coastline: 20
   is_landlocked: false
   arton:
-    ms: 117
+    ms: 118
     vf: 69
-    voa: 45
+    voa: 46
     eta: 3
-    vr: 81
+    vr: 80
     ppr: 39
     ipr: 94
     wr: 59
@@ -14388,14 +14388,14 @@ BWA:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 86
-    vf: 48
+    ms: 87
+    vf: 49
     voa: 34
     eta: 4
-    vr: 112
+    vr: 111
     ppr: 54
     ipr: 114
-    wr: 43
+    wr: 44
   emoji_flag: "\U0001F1E7\U0001F1FC"
   translations:
     AFR: Botswana
@@ -15161,14 +15161,14 @@ BRA:
   coastline: 7491
   is_landlocked: false
   arton:
-    ms: 160
+    ms: 161
     vf: 106
-    voa: 50
+    voa: 51
     eta: 4
-    vr: 38
+    vr: 37
     ppr: 11
     ipr: 44
-    wr: 80
+    wr: 81
   emoji_flag: "\U0001F1E7\U0001F1F7"
   translations:
     AFR: Brasilië
@@ -15906,11 +15906,11 @@ BRN:
   coastline: 161
   is_landlocked: false
   arton:
-    ms: 153
+    ms: 154
     vf: 99
-    voa: 46
+    voa: 47
     eta: 8
-    vr: 45
+    vr: 44
     ppr: 14
     ipr: 49
     wr: 77
@@ -16459,11 +16459,11 @@ BGR:
   coastline: 354
   is_landlocked: false
   arton:
-    ms: 167
+    ms: 168
     vf: 112
-    voa: 49
-    eta: 6
-    vr: 31
+    voa: 51
+    eta: 5
+    vr: 30
     ppr: 8
     ipr: 40
     wr: 84
@@ -17007,14 +17007,14 @@ BFA:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 68
+    ms: 69
     vf: 29
-    voa: 38
+    voa: 39
     eta: 1
-    vr: 130
-    ppr: 70
-    ipr: 149
-    wr: 34
+    vr: 129
+    ppr: 72
+    ipr: 148
+    wr: 35
   emoji_flag: "\U0001F1E7\U0001F1EB"
   translations:
     AFR: Boerkina Fasso
@@ -17592,12 +17592,12 @@ BDI:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 57
+    ms: 58
     vf: 17
-    voa: 38
+    voa: 39
     eta: 2
-    vr: 141
-    ppr: 80
+    vr: 140
+    ppr: 82
     ipr: 176
     wr: 29
   emoji_flag: "\U0001F1E7\U0001F1EE"
@@ -18146,14 +18146,14 @@ CPV:
   coastline: 965
   is_landlocked: false
   arton:
-    ms: 76
+    ms: 77
     vf: 36
-    voa: 39
+    voa: 40
     eta: 1
-    vr: 122
-    ppr: 62
+    vr: 121
+    ppr: 64
     ipr: 129
-    wr: 38
+    wr: 39
   emoji_flag: "\U0001F1E8\U0001F1FB"
   translations:
     AFR: Kaap Verde
@@ -18671,13 +18671,13 @@ KHM:
   coastline: 443
   is_landlocked: false
   arton:
-    ms: 69
+    ms: 70
     vf: 19
-    voa: 47
+    voa: 48
     eta: 3
-    vr: 129
-    ppr: 69
-    ipr: 145
+    vr: 128
+    ppr: 71
+    ipr: 144
     wr: 35
   emoji_flag: "\U0001F1F0\U0001F1ED"
   translations:
@@ -19281,12 +19281,12 @@ CMR:
   coastline: 402
   is_landlocked: false
   arton:
-    ms: 59
-    vf: 18
+    ms: 60
+    vf: 19
     voa: 39
     eta: 2
-    vr: 139
-    ppr: 79
+    vr: 138
+    ppr: 81
     ipr: 175
     wr: 30
   emoji_flag: "\U0001F1E8\U0001F1F2"
@@ -19881,13 +19881,13 @@ CAN:
   coastline: 202080
   is_landlocked: false
   arton:
-    ms: 171
+    ms: 172
     vf: 115
-    voa: 51
+    voa: 52
     eta: 5
-    vr: 27
+    vr: 26
     ppr: 4
-    ipr: 26
+    ipr: 25
     wr: 86
   emoji_flag: "\U0001F1E8\U0001F1E6"
   translations:
@@ -20861,14 +20861,14 @@ CAF:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 60
+    ms: 61
     vf: 19
-    voa: 40
+    voa: 41
     eta: 1
-    vr: 138
-    ppr: 78
+    vr: 137
+    ppr: 80
     ipr: 173
-    wr: 30
+    wr: 31
   emoji_flag: "\U0001F1E8\U0001F1EB"
   translations:
     AFR: Sentraal-Afrikaanse Republiek
@@ -21451,12 +21451,12 @@ TCD:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 61
+    ms: 62
     vf: 22
-    voa: 38
+    voa: 39
     eta: 1
-    vr: 137
-    ppr: 77
+    vr: 136
+    ppr: 79
     ipr: 169
     wr: 31
   emoji_flag: "\U0001F1F9\U0001F1E9"
@@ -22030,14 +22030,14 @@ CHL:
   coastline: 6435
   is_landlocked: false
   arton:
-    ms: 160
+    ms: 161
     vf: 104
-    voa: 50
+    voa: 51
     eta: 6
-    vr: 38
+    vr: 37
     ppr: 11
     ipr: 43
-    wr: 80
+    wr: 81
   emoji_flag: "\U0001F1E8\U0001F1F1"
   translations:
     AFR: Chili
@@ -22673,7 +22673,7 @@ CHN:
     voa: 50
     eta: 3
     vr: 115
-    ppr: 56
+    ppr: 58
     ipr: 118
     wr: 42
   emoji_flag: "\U0001F1E8\U0001F1F3"
@@ -23564,11 +23564,11 @@ COL:
   coastline: 3208
   is_landlocked: false
   arton:
-    ms: 137
+    ms: 138
     vf: 82
-    voa: 52
+    voa: 53
     eta: 3
-    vr: 61
+    vr: 60
     ppr: 26
     ipr: 66
     wr: 69
@@ -24138,14 +24138,14 @@ COM:
   coastline: 340
   is_landlocked: false
   arton:
-    ms: 62
+    ms: 63
     vf: 17
-    voa: 43
+    voa: 44
     eta: 2
-    vr: 136
-    ppr: 76
+    vr: 135
+    ppr: 78
     ipr: 168
-    wr: 31
+    wr: 32
   emoji_flag: "\U0001F1F0\U0001F1F2"
   translations:
     AFR: Comore
@@ -24679,14 +24679,14 @@ COG:
   coastline: 169
   is_landlocked: false
   arton:
-    ms: 56
+    ms: 57
     vf: 18
-    voa: 36
+    voa: 37
     eta: 2
-    vr: 142
-    ppr: 81
+    vr: 141
+    ppr: 83
     ipr: 177
-    wr: 28
+    wr: 29
   emoji_flag: "\U0001F1E8\U0001F1EC"
   translations:
     AFR: Kongo
@@ -25281,12 +25281,12 @@ COD:
   coastline: 37
   is_landlocked: false
   arton:
-    ms: 53
+    ms: 54
     vf: 14
-    voa: 37
+    voa: 38
     eta: 2
-    vr: 145
-    ppr: 84
+    vr: 144
+    ppr: 86
     ipr: 184
     wr: 27
   emoji_flag: "\U0001F1E8\U0001F1E9"
@@ -26167,11 +26167,11 @@ CRI:
   coastline: 1290
   is_landlocked: false
   arton:
-    ms: 141
+    ms: 142
     vf: 90
-    voa: 47
+    voa: 48
     eta: 4
-    vr: 57
+    vr: 56
     ppr: 22
     ipr: 61
     wr: 71
@@ -26772,12 +26772,12 @@ CIV:
   coastline: 515
   is_landlocked: false
   arton:
-    ms: 67
+    ms: 68
     vf: 29
-    voa: 37
+    voa: 38
     eta: 1
-    vr: 131
-    ppr: 71
+    vr: 130
+    ppr: 73
     ipr: 151
     wr: 34
   emoji_flag: "\U0001F1E8\U0001F1EE"
@@ -27345,11 +27345,11 @@ HRV:
   coastline: 5835
   is_landlocked: false
   arton:
-    ms: 167
+    ms: 168
     vf: 115
-    voa: 45
-    eta: 7
-    vr: 31
+    voa: 47
+    eta: 6
+    vr: 30
     ppr: 8
     ipr: 38
     wr: 84
@@ -27829,12 +27829,12 @@ CUB:
   coastline: 3735
   is_landlocked: false
   arton:
-    ms: 75
+    ms: 76
     vf: 27
-    voa: 46
+    voa: 47
     eta: 2
-    vr: 123
-    ppr: 63
+    vr: 122
+    ppr: 65
     ipr: 132
     wr: 38
   emoji_flag: "\U0001F1E8\U0001F1FA"
@@ -28834,11 +28834,11 @@ CYP:
   coastline: 648
   is_landlocked: false
   arton:
-    ms: 167
+    ms: 168
     vf: 117
-    voa: 44
-    eta: 6
-    vr: 31
+    voa: 46
+    eta: 5
+    vr: 30
     ppr: 8
     ipr: 37
     wr: 84
@@ -29438,13 +29438,13 @@ CZE:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 171
+    ms: 172
     vf: 119
-    voa: 45
-    eta: 7
-    vr: 27
+    voa: 47
+    eta: 6
+    vr: 26
     ppr: 4
-    ipr: 21
+    ipr: 22
     wr: 86
   emoji_flag: "\U0001F1E8\U0001F1FF"
   translations:
@@ -30031,14 +30031,14 @@ DNK:
   coastline: 7314
   is_landlocked: false
   arton:
-    ms: 172
+    ms: 173
     vf: 124
-    voa: 42
+    voa: 43
     eta: 6
-    vr: 26
+    vr: 25
     ppr: 3
     ipr: 13
-    wr: 86
+    wr: 87
   emoji_flag: "\U0001F1E9\U0001F1F0"
   translations:
     AFR: Denemarke
@@ -30622,14 +30622,14 @@ DJI:
   coastline: 314
   is_landlocked: false
   arton:
-    ms: 60
+    ms: 61
     vf: 14
-    voa: 44
+    voa: 45
     eta: 2
-    vr: 138
-    ppr: 78
+    vr: 137
+    ppr: 80
     ipr: 174
-    wr: 30
+    wr: 31
   emoji_flag: "\U0001F1E9\U0001F1EF"
   translations:
     AFR: Djiboeti
@@ -31128,14 +31128,14 @@ DMA:
   coastline: 148
   is_landlocked: false
   arton:
-    ms: 132
+    ms: 133
     vf: 88
-    voa: 41
+    voa: 42
     eta: 3
-    vr: 66
+    vr: 65
     ppr: 29
     ipr: 72
-    wr: 66
+    wr: 67
   emoji_flag: "\U0001F1E9\U0001F1F2"
   translations:
     AFR: Dominika
@@ -31659,12 +31659,12 @@ DOM:
   coastline: 1288
   is_landlocked: false
   arton:
-    ms: 81
+    ms: 82
     vf: 30
-    voa: 48
+    voa: 49
     eta: 3
-    vr: 117
-    ppr: 57
+    vr: 116
+    ppr: 59
     ipr: 120
     wr: 41
   emoji_flag: "\U0001F1E9\U0001F1F4"
@@ -32258,11 +32258,11 @@ ECU:
   coastline: 2237
   is_landlocked: false
   arton:
-    ms: 101
+    ms: 102
     vf: 49
-    voa: 49
+    voa: 50
     eta: 3
-    vr: 97
+    vr: 96
     ppr: 43
     ipr: 98
     wr: 51
@@ -32862,14 +32862,14 @@ EGY:
   coastline: 2450
   is_landlocked: false
   arton:
-    ms: 64
+    ms: 65
     vf: 17
-    voa: 45
+    voa: 46
     eta: 2
-    vr: 134
-    ppr: 74
+    vr: 133
+    ppr: 76
     ipr: 161
-    wr: 32
+    wr: 33
   emoji_flag: "\U0001F1EA\U0001F1EC"
   translations:
     AFR: Egipte
@@ -33460,11 +33460,11 @@ SLV:
   coastline: 307
   is_landlocked: false
   arton:
-    ms: 127
+    ms: 128
     vf: 79
-    voa: 45
+    voa: 46
     eta: 3
-    vr: 71
+    vr: 70
     ppr: 32
     ipr: 80
     wr: 64
@@ -34045,8 +34045,8 @@ GNQ:
     voa: 44
     eta: 2
     vr: 132
-    ppr: 72
-    ipr: 154
+    ppr: 75
+    ipr: 157
     wr: 33
   emoji_flag: "\U0001F1EC\U0001F1F6"
   translations:
@@ -34505,12 +34505,12 @@ ERI:
   coastline: 2234
   is_landlocked: false
   arton:
-    ms: 51
+    ms: 52
     vf: 10
-    voa: 39
+    voa: 40
     eta: 2
-    vr: 147
-    ppr: 86
+    vr: 146
+    ppr: 88
     ipr: 189
     wr: 26
   emoji_flag: "\U0001F1EA\U0001F1F7"
@@ -34955,11 +34955,11 @@ EST:
   coastline: 3794
   is_landlocked: false
   arton:
-    ms: 169
+    ms: 170
     vf: 117
-    voa: 45
-    eta: 7
-    vr: 29
+    voa: 47
+    eta: 6
+    vr: 28
     ppr: 6
     ipr: 32
     wr: 85
@@ -35555,14 +35555,14 @@ SWZ:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 78
+    ms: 79
     vf: 42
-    voa: 33
+    voa: 34
     eta: 3
-    vr: 120
-    ppr: 60
-    ipr: 124
-    wr: 39
+    vr: 119
+    ppr: 62
+    ipr: 123
+    wr: 40
   emoji_flag: "\U0001F1F8\U0001F1FF"
   translations:
     AFR: Swaziland
@@ -36151,14 +36151,14 @@ ETH:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 52
+    ms: 53
     vf: 11
-    voa: 39
+    voa: 40
     eta: 2
-    vr: 146
-    ppr: 85
+    vr: 145
+    ppr: 87
     ipr: 187
-    wr: 26
+    wr: 27
   emoji_flag: "\U0001F1EA\U0001F1F9"
   translations:
     AFR: Ethiopië
@@ -37189,11 +37189,11 @@ FJI:
   coastline: 1129
   is_landlocked: false
   arton:
-    ms: 95
+    ms: 96
     vf: 46
-    voa: 46
+    voa: 47
     eta: 3
-    vr: 103
+    vr: 102
     ppr: 48
     ipr: 105
     wr: 48
@@ -37790,11 +37790,11 @@ FIN:
   coastline: 1250
   is_landlocked: false
   arton:
-    ms: 173
+    ms: 174
     vf: 124
-    voa: 42
+    voa: 43
     eta: 7
-    vr: 25
+    vr: 24
     ppr: 2
     ipr: 4
     wr: 87
@@ -38404,11 +38404,11 @@ FRA:
   coastline: 3427
   is_landlocked: false
   arton:
-    ms: 173
+    ms: 174
     vf: 124
-    voa: 42
+    voa: 43
     eta: 7
-    vr: 25
+    vr: 24
     ppr: 2
     ipr: 6
     wr: 87
@@ -39607,12 +39607,12 @@ GAB:
   coastline: 885
   is_landlocked: false
   arton:
-    ms: 67
+    ms: 68
     vf: 24
-    voa: 41
+    voa: 42
     eta: 2
-    vr: 131
-    ppr: 71
+    vr: 130
+    ppr: 73
     ipr: 152
     wr: 34
   emoji_flag: "\U0001F1EC\U0001F1E6"
@@ -40200,14 +40200,14 @@ GMB:
   coastline: 80
   is_landlocked: false
   arton:
-    ms: 72
+    ms: 73
     vf: 42
-    voa: 29
+    voa: 30
     eta: 1
-    vr: 126
-    ppr: 66
+    vr: 125
+    ppr: 68
     ipr: 136
-    wr: 36
+    wr: 37
   emoji_flag: "\U0001F1EC\U0001F1F2"
   translations:
     AFR: Gambië
@@ -40742,11 +40742,11 @@ GEO:
   coastline: 310
   is_landlocked: false
   arton:
-    ms: 129
+    ms: 130
     vf: 76
-    voa: 51
+    voa: 52
     eta: 2
-    vr: 69
+    vr: 68
     ppr: 30
     ipr: 76
     wr: 65
@@ -41339,11 +41339,11 @@ DEU:
   coastline: 2389
   is_landlocked: false
   arton:
-    ms: 173
+    ms: 174
     vf: 124
-    voa: 42
+    voa: 43
     eta: 7
-    vr: 25
+    vr: 24
     ppr: 2
     ipr: 3
     wr: 87
@@ -41938,14 +41938,14 @@ GHA:
   coastline: 539
   is_landlocked: false
   arton:
-    ms: 72
+    ms: 73
     vf: 40
-    voa: 30
+    voa: 31
     eta: 2
-    vr: 126
-    ppr: 66
+    vr: 125
+    ppr: 68
     ipr: 137
-    wr: 36
+    wr: 37
   emoji_flag: "\U0001F1EC\U0001F1ED"
   translations:
     AFR: Ghana
@@ -42817,13 +42817,13 @@ GRC:
   coastline: 13676
   is_landlocked: false
   arton:
-    ms: 171
+    ms: 172
     vf: 119
-    voa: 45
+    voa: 46
     eta: 7
-    vr: 27
+    vr: 26
     ppr: 4
-    ipr: 22
+    ipr: 21
     wr: 86
   emoji_flag: "\U0001F1EC\U0001F1F7"
   translations:
@@ -43660,14 +43660,14 @@ GRD:
   coastline: 121
   is_landlocked: false
   arton:
-    ms: 134
+    ms: 135
     vf: 93
-    voa: 38
+    voa: 39
     eta: 3
-    vr: 64
+    vr: 63
     ppr: 28
     ipr: 69
-    wr: 67
+    wr: 68
   emoji_flag: "\U0001F1EC\U0001F1E9"
   translations:
     AFR: Grenada
@@ -44646,14 +44646,14 @@ GTM:
   coastline: 400
   is_landlocked: false
   arton:
-    ms: 128
+    ms: 129
     vf: 78
-    voa: 47
+    voa: 48
     eta: 3
-    vr: 70
+    vr: 69
     ppr: 31
     ipr: 77
-    wr: 64
+    wr: 65
   emoji_flag: "\U0001F1EC\U0001F1F9"
   translations:
     AFR: Guatemala
@@ -45448,14 +45448,14 @@ GIN:
   coastline: 320
   is_landlocked: false
   arton:
-    ms: 64
+    ms: 65
     vf: 27
-    voa: 35
+    voa: 36
     eta: 2
-    vr: 134
-    ppr: 74
+    vr: 133
+    ppr: 76
     ipr: 160
-    wr: 32
+    wr: 33
   emoji_flag: "\U0001F1EC\U0001F1F3"
   translations:
     AFR: Guinee
@@ -46014,14 +46014,14 @@ GNB:
   coastline: 350
   is_landlocked: false
   arton:
-    ms: 62
+    ms: 63
     vf: 26
-    voa: 35
+    voa: 36
     eta: 1
-    vr: 136
-    ppr: 76
+    vr: 135
+    ppr: 78
     ipr: 166
-    wr: 31
+    wr: 32
   emoji_flag: "\U0001F1EC\U0001F1FC"
   translations:
     AFR: Guinee-Bissau
@@ -46583,11 +46583,11 @@ GUY:
   coastline: 459
   is_landlocked: false
   arton:
-    ms: 93
+    ms: 94
     vf: 43
-    voa: 47
+    voa: 48
     eta: 3
-    vr: 105
+    vr: 104
     ppr: 50
     ipr: 109
     wr: 47
@@ -47160,12 +47160,12 @@ HTI:
   coastline: 1771
   is_landlocked: false
   arton:
-    ms: 61
+    ms: 62
     vf: 13
-    voa: 45
+    voa: 46
     eta: 3
-    vr: 137
-    ppr: 77
+    vr: 136
+    ppr: 79
     ipr: 171
     wr: 31
   emoji_flag: "\U0001F1ED\U0001F1F9"
@@ -47712,14 +47712,14 @@ VAT:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 146
+    ms: 147
     vf: 92
-    voa: 48
+    voa: 49
     eta: 6
-    vr: 52
+    vr: 51
     ppr: 18
     ipr: 55
-    wr: 73
+    wr: 74
   emoji_flag: "\U0001F1FB\U0001F1E6"
   translations:
     AFR: Vatikaan
@@ -48041,11 +48041,11 @@ HND:
   coastline: 823
   is_landlocked: false
   arton:
-    ms: 129
+    ms: 130
     vf: 81
-    voa: 45
+    voa: 46
     eta: 3
-    vr: 69
+    vr: 68
     ppr: 30
     ipr: 75
     wr: 65
@@ -48600,14 +48600,14 @@ HKG:
   coastline: 733
   is_landlocked: false
   arton:
-    ms: 156
+    ms: 157
     vf: 109
-    voa: 42
+    voa: 43
     eta: 5
-    vr: 42
+    vr: 41
     ppr: 13
     ipr: 47
-    wr: 78
+    wr: 79
   emoji_flag: "\U0001F1ED\U0001F1F0"
   translations:
     AFR: Hongkong
@@ -49105,13 +49105,13 @@ HUN:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 171
+    ms: 172
     vf: 118
-    voa: 46
-    eta: 7
-    vr: 27
+    voa: 48
+    eta: 6
+    vr: 26
     ppr: 4
-    ipr: 24
+    ipr: 23
     wr: 86
   emoji_flag: "\U0001F1ED\U0001F1FA"
   translations:
@@ -49695,14 +49695,14 @@ ISL:
   coastline: 4970
   is_landlocked: false
   arton:
-    ms: 168
+    ms: 169
     vf: 113
-    voa: 47
+    voa: 48
     eta: 8
-    vr: 30
+    vr: 29
     ppr: 7
     ipr: 36
-    wr: 84
+    wr: 85
   emoji_flag: "\U0001F1EE\U0001F1F8"
   translations:
     AFR: Ysland
@@ -50305,14 +50305,14 @@ IND:
   coastline: 7000
   is_landlocked: false
   arton:
-    ms: 70
+    ms: 71
     vf: 21
-    voa: 47
+    voa: 48
     eta: 2
-    vr: 128
-    ppr: 68
-    ipr: 142
-    wr: 35
+    vr: 127
+    ppr: 70
+    ipr: 141
+    wr: 36
   emoji_flag: "\U0001F1EE\U0001F1F3"
   translations:
     AFR: Indië
@@ -50907,11 +50907,11 @@ IDN:
   coastline: 54716
   is_landlocked: false
   arton:
-    ms: 87
+    ms: 88
     vf: 41
-    voa: 43
+    voa: 44
     eta: 3
-    vr: 111
+    vr: 110
     ppr: 53
     ipr: 113
     wr: 44
@@ -51518,12 +51518,12 @@ IRN:
   coastline: 2440
   is_landlocked: false
   arton:
-    ms: 51
+    ms: 52
     vf: 11
-    voa: 37
+    voa: 38
     eta: 3
-    vr: 147
-    ppr: 86
+    vr: 146
+    ppr: 88
     ipr: 188
     wr: 26
   emoji_flag: "\U0001F1EE\U0001F1F7"
@@ -52129,12 +52129,12 @@ IRQ:
   coastline: 58
   is_landlocked: false
   arton:
-    ms: 41
+    ms: 42
     vf: 7
-    voa: 32
+    voa: 33
     eta: 2
-    vr: 157
-    ppr: 93
+    vr: 156
+    ppr: 95
     ipr: 197
     wr: 21
   emoji_flag: "\U0001F1EE\U0001F1F6"
@@ -52725,14 +52725,14 @@ IRL:
   coastline: 1448
   is_landlocked: false
   arton:
-    ms: 172
+    ms: 173
     vf: 117
-    voa: 48
+    voa: 49
     eta: 7
-    vr: 26
+    vr: 25
     ppr: 3
     ipr: 18
-    wr: 86
+    wr: 87
   emoji_flag: "\U0001F1EE\U0001F1EA"
   translations:
     AFR: Ierland
@@ -53607,14 +53607,14 @@ ISR:
   coastline: 273
   is_landlocked: false
   arton:
-    ms: 150
+    ms: 151
     vf: 101
-    voa: 44
+    voa: 45
     eta: 5
-    vr: 48
+    vr: 47
     ppr: 16
     ipr: 51
-    wr: 75
+    wr: 76
   emoji_flag: "\U0001F1EE\U0001F1F1"
   translations:
     AFR: Israel
@@ -54215,11 +54215,11 @@ ITA:
   coastline: 7600
   is_landlocked: false
   arton:
-    ms: 173
+    ms: 174
     vf: 124
-    voa: 42
+    voa: 43
     eta: 7
-    vr: 25
+    vr: 24
     ppr: 2
     ipr: 7
     wr: 87
@@ -54805,14 +54805,14 @@ JAM:
   coastline: 1022
   is_landlocked: false
   arton:
-    ms: 96
+    ms: 97
     vf: 53
-    voa: 40
+    voa: 41
     eta: 3
-    vr: 102
+    vr: 101
     ppr: 47
     ipr: 103
-    wr: 48
+    wr: 49
   emoji_flag: "\U0001F1EF\U0001F1F2"
   translations:
     AFR: Jamaika
@@ -55396,13 +55396,13 @@ JPN:
   coastline: 29751
   is_landlocked: false
   arton:
-    ms: 171
+    ms: 172
     vf: 116
-    voa: 48
+    voa: 49
     eta: 7
-    vr: 27
+    vr: 26
     ppr: 4
-    ipr: 25
+    ipr: 24
     wr: 86
   emoji_flag: "\U0001F1EF\U0001F1F5"
   translations:
@@ -56197,12 +56197,12 @@ JOR:
   coastline: 26
   is_landlocked: false
   arton:
-    ms: 63
+    ms: 64
     vf: 19
-    voa: 41
+    voa: 42
     eta: 3
-    vr: 135
-    ppr: 75
+    vr: 134
+    ppr: 77
     ipr: 165
     wr: 32
   emoji_flag: "\U0001F1EF\U0001F1F4"
@@ -56764,11 +56764,11 @@ KAZ:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 89
+    ms: 90
     vf: 36
-    voa: 50
+    voa: 51
     eta: 3
-    vr: 109
+    vr: 108
     ppr: 52
     ipr: 112
     wr: 45
@@ -57371,14 +57371,14 @@ KEN:
   coastline: 536
   is_landlocked: false
   arton:
-    ms: 76
+    ms: 77
     vf: 40
-    voa: 34
+    voa: 35
     eta: 2
-    vr: 122
-    ppr: 62
+    vr: 121
+    ppr: 64
     ipr: 128
-    wr: 38
+    wr: 39
   emoji_flag: "\U0001F1F0\U0001F1EA"
   translations:
     AFR: Kenia
@@ -57923,14 +57923,14 @@ KIR:
   coastline: 1143
   is_landlocked: false
   arton:
-    ms: 124
+    ms: 125
     vf: 77
-    voa: 44
+    voa: 45
     eta: 3
-    vr: 74
+    vr: 73
     ppr: 34
     ipr: 83
-    wr: 62
+    wr: 63
   emoji_flag: "\U0001F1F0\U0001F1EE"
   translations:
     AFR: Kiribati
@@ -58288,12 +58288,12 @@ PRK:
   coastline: 2495
   is_landlocked: false
   arton:
-    ms: 49
+    ms: 50
     vf: 9
-    voa: 39
+    voa: 40
     eta: 1
-    vr: 149
-    ppr: 88
+    vr: 148
+    ppr: 90
     ipr: 192
     wr: 25
   emoji_flag: "\U0001F1F0\U0001F1F5"
@@ -58742,11 +58742,11 @@ KOR:
   coastline: 2413
   is_landlocked: false
   arton:
-    ms: 173
+    ms: 174
     vf: 116
-    voa: 50
+    voa: 51
     eta: 7
-    vr: 25
+    vr: 24
     ppr: 2
     ipr: 12
     wr: 87
@@ -59339,14 +59339,14 @@ KWT:
   coastline: 499
   is_landlocked: false
   arton:
-    ms: 108
+    ms: 109
     vf: 54
-    voa: 48
+    voa: 49
     eta: 6
-    vr: 90
+    vr: 89
     ppr: 41
     ipr: 96
-    wr: 54
+    wr: 55
   emoji_flag: "\U0001F1F0\U0001F1FC"
   translations:
     AFR: Koeweit
@@ -59900,12 +59900,12 @@ KGZ:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 73
+    ms: 74
     vf: 26
-    voa: 45
+    voa: 46
     eta: 2
-    vr: 125
-    ppr: 65
+    vr: 124
+    ppr: 67
     ipr: 134
     wr: 37
   emoji_flag: "\U0001F1F0\U0001F1EC"
@@ -60505,14 +60505,14 @@ LAO:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 62
+    ms: 63
     vf: 19
-    voa: 40
+    voa: 41
     eta: 3
-    vr: 136
-    ppr: 76
+    vr: 135
+    ppr: 78
     ipr: 167
-    wr: 31
+    wr: 32
   emoji_flag: "\U0001F1F1\U0001F1E6"
   translations:
     AFR: Laos
@@ -61047,11 +61047,11 @@ LVA:
   coastline: 498
   is_landlocked: false
   arton:
-    ms: 169
+    ms: 170
     vf: 117
-    voa: 45
-    eta: 7
-    vr: 29
+    voa: 47
+    eta: 6
+    vr: 28
     ppr: 6
     ipr: 33
     wr: 85
@@ -61613,12 +61613,12 @@ LBN:
   coastline: 225
   is_landlocked: false
   arton:
-    ms: 55
+    ms: 56
     vf: 14
-    voa: 39
+    voa: 40
     eta: 2
-    vr: 143
-    ppr: 82
+    vr: 142
+    ppr: 84
     ipr: 179
     wr: 28
   emoji_flag: "\U0001F1F1\U0001F1E7"
@@ -62134,12 +62134,12 @@ LSO:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 81
+    ms: 82
     vf: 43
-    voa: 35
+    voa: 36
     eta: 3
-    vr: 117
-    ppr: 57
+    vr: 116
+    ppr: 59
     ipr: 119
     wr: 41
   emoji_flag: "\U0001F1F1\U0001F1F8"
@@ -62715,14 +62715,14 @@ LBR:
   coastline: 579
   is_landlocked: false
   arton:
-    ms: 60
+    ms: 61
     vf: 25
-    voa: 34
+    voa: 35
     eta: 1
-    vr: 138
-    ppr: 78
+    vr: 137
+    ppr: 80
     ipr: 172
-    wr: 30
+    wr: 31
   emoji_flag: "\U0001F1F1\U0001F1F7"
   translations:
     AFR: Liberië
@@ -63275,14 +63275,14 @@ LBY:
   coastline: 1770
   is_landlocked: false
   arton:
-    ms: 50
+    ms: 51
     vf: 12
-    voa: 36
+    voa: 37
     eta: 2
-    vr: 148
-    ppr: 87
+    vr: 147
+    ppr: 89
     ipr: 190
-    wr: 25
+    wr: 26
   emoji_flag: "\U0001F1F1\U0001F1FE"
   translations:
     AFR: Libië
@@ -63695,11 +63695,11 @@ LIE:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 169
+    ms: 170
     vf: 114
-    voa: 48
+    voa: 49
     eta: 7
-    vr: 29
+    vr: 28
     ppr: 6
     ipr: 35
     wr: 85
@@ -64131,11 +64131,11 @@ LTU:
   arton:
     ms: 171
     vf: 117
-    voa: 46
-    eta: 8
+    voa: 47
+    eta: 7
     vr: 27
-    ppr: 4
-    ipr: 23
+    ppr: 5
+    ipr: 30
     wr: 86
   emoji_flag: "\U0001F1F1\U0001F1F9"
   translations:
@@ -64732,11 +64732,11 @@ LUX:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 173
+    ms: 174
     vf: 122
-    voa: 43
+    voa: 44
     eta: 8
-    vr: 25
+    vr: 24
     ppr: 2
     ipr: 9
     wr: 87
@@ -65205,11 +65205,11 @@ MAC:
   coastline: 41
   is_landlocked: false
   arton:
-    ms: 137
+    ms: 138
     vf: 91
-    voa: 43
+    voa: 44
     eta: 3
-    vr: 61
+    vr: 60
     ppr: 26
     ipr: 65
     wr: 69
@@ -65673,14 +65673,14 @@ MDG:
   coastline: 4828
   is_landlocked: false
   arton:
-    ms: 66
+    ms: 67
     vf: 24
-    voa: 40
+    voa: 41
     eta: 2
-    vr: 132
-    ppr: 72
+    vr: 131
+    ppr: 74
     ipr: 153
-    wr: 33
+    wr: 34
   emoji_flag: "\U0001F1F2\U0001F1EC"
   translations:
     AFR: Madagaskar
@@ -66264,12 +66264,12 @@ MWI:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 77
+    ms: 78
     vf: 40
-    voa: 35
+    voa: 36
     eta: 2
-    vr: 121
-    ppr: 61
+    vr: 120
+    ppr: 63
     ipr: 126
     wr: 39
   emoji_flag: "\U0001F1F2\U0001F1FC"
@@ -66863,14 +66863,14 @@ MYS:
   coastline: 4675
   is_landlocked: false
   arton:
-    ms: 166
+    ms: 167
     vf: 115
-    voa: 45
+    voa: 46
     eta: 6
-    vr: 32
+    vr: 31
     ppr: 9
     ipr: 41
-    wr: 83
+    wr: 84
   emoji_flag: "\U0001F1F2\U0001F1FE"
   translations:
     AFR: Maleisië
@@ -67443,14 +67443,14 @@ MDV:
   coastline: 644
   is_landlocked: false
   arton:
-    ms: 94
+    ms: 95
     vf: 50
-    voa: 42
+    voa: 43
     eta: 2
-    vr: 104
+    vr: 103
     ppr: 49
     ipr: 107
-    wr: 47
+    wr: 48
   emoji_flag: "\U0001F1F2\U0001F1FB"
   translations:
     AFR: Maldive
@@ -68054,12 +68054,12 @@ MLI:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 63
+    ms: 64
     vf: 29
-    voa: 32
+    voa: 33
     eta: 2
-    vr: 135
-    ppr: 75
+    vr: 134
+    ppr: 77
     ipr: 162
     wr: 32
   emoji_flag: "\U0001F1F2\U0001F1F1"
@@ -68647,14 +68647,14 @@ MLT:
   coastline: 196.8
   is_landlocked: false
   arton:
-    ms: 170
+    ms: 171
     vf: 118
-    voa: 44
+    voa: 45
     eta: 8
-    vr: 28
+    vr: 27
     ppr: 5
-    ipr: 30
-    wr: 85
+    ipr: 29
+    wr: 86
   emoji_flag: "\U0001F1F2\U0001F1F9"
   translations:
     AFR: Malta
@@ -69127,13 +69127,13 @@ MHL:
   coastline: 370.4
   is_landlocked: false
   arton:
-    ms: 123
+    ms: 124
     vf: 72
-    voa: 48
+    voa: 49
     eta: 3
-    vr: 75
+    vr: 74
     ppr: 35
-    ipr: 87
+    ipr: 86
     wr: 62
   emoji_flag: "\U0001F1F2\U0001F1ED"
   translations:
@@ -69838,12 +69838,12 @@ MRT:
   coastline: 754
   is_landlocked: false
   arton:
-    ms: 63
+    ms: 64
     vf: 25
-    voa: 37
+    voa: 38
     eta: 1
-    vr: 135
-    ppr: 75
+    vr: 134
+    ppr: 77
     ipr: 164
     wr: 32
   emoji_flag: "\U0001F1F2\U0001F1F7"
@@ -70430,11 +70430,11 @@ MUS:
   coastline: 177
   is_landlocked: false
   arton:
-    ms: 135
+    ms: 136
     vf: 96
-    voa: 35
+    voa: 36
     eta: 4
-    vr: 63
+    vr: 62
     ppr: 27
     ipr: 67
     wr: 68
@@ -71204,14 +71204,14 @@ MEX:
   coastline: 9330
   is_landlocked: false
   arton:
-    ms: 150
+    ms: 151
     vf: 95
-    voa: 50
+    voa: 51
     eta: 5
-    vr: 48
+    vr: 47
     ppr: 16
     ipr: 52
-    wr: 75
+    wr: 76
   emoji_flag: "\U0001F1F2\U0001F1FD"
   translations:
     AFR: Meksiko
@@ -71723,11 +71723,11 @@ FSM:
   coastline: 6112
   is_landlocked: false
   arton:
-    ms: 119
+    ms: 120
     vf: 67
-    voa: 49
+    voa: 50
     eta: 3
-    vr: 79
+    vr: 78
     ppr: 38
     ipr: 92
     wr: 60
@@ -72213,11 +72213,11 @@ MDA:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 121
+    ms: 122
     vf: 73
-    voa: 46
+    voa: 47
     eta: 2
-    vr: 77
+    vr: 76
     ppr: 36
     ipr: 90
     wr: 61
@@ -72636,11 +72636,11 @@ MCO:
   coastline: 4.1
   is_landlocked: false
   arton:
-    ms: 165
+    ms: 166
     vf: 105
-    voa: 52
+    voa: 53
     eta: 8
-    vr: 33
+    vr: 32
     ppr: 10
     ipr: 42
     wr: 83
@@ -73048,12 +73048,12 @@ MNG:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 75
+    ms: 76
     vf: 31
-    voa: 42
+    voa: 43
     eta: 2
-    vr: 123
-    ppr: 63
+    vr: 122
+    ppr: 65
     ipr: 131
     wr: 38
   emoji_flag: "\U0001F1F2\U0001F1F3"
@@ -73564,11 +73564,11 @@ MNE:
   coastline: 293.5
   is_landlocked: false
   arton:
-    ms: 127
+    ms: 128
     vf: 75
-    voa: 49
+    voa: 50
     eta: 3
-    vr: 71
+    vr: 70
     ppr: 32
     ipr: 81
     wr: 64
@@ -74346,14 +74346,14 @@ MAR:
   coastline: 2945
   is_landlocked: false
   arton:
-    ms: 76
+    ms: 77
     vf: 33
-    voa: 41
+    voa: 42
     eta: 2
-    vr: 122
-    ppr: 62
+    vr: 121
+    ppr: 64
     ipr: 130
-    wr: 38
+    wr: 39
   emoji_flag: "\U0001F1F2\U0001F1E6"
   translations:
     AFR: Marokko
@@ -74954,13 +74954,13 @@ MOZ:
   coastline: 2470
   is_landlocked: false
   arton:
-    ms: 65
+    ms: 66
     vf: 26
-    voa: 36
+    voa: 37
     eta: 3
-    vr: 133
-    ppr: 73
-    ipr: 156
+    vr: 132
+    ppr: 75
+    ipr: 155
     wr: 33
   emoji_flag: "\U0001F1F2\U0001F1FF"
   translations:
@@ -75559,12 +75559,12 @@ MMR:
   coastline: 1930
   is_landlocked: false
   arton:
-    ms: 55
+    ms: 56
     vf: 12
-    voa: 40
+    voa: 41
     eta: 3
-    vr: 143
-    ppr: 82
+    vr: 142
+    ppr: 84
     ipr: 181
     wr: 28
   emoji_flag: "\U0001F1F2\U0001F1F2"
@@ -76123,14 +76123,14 @@ NAM:
   coastline: 1572
   is_landlocked: false
   arton:
-    ms: 78
+    ms: 79
     vf: 42
-    voa: 34
+    voa: 35
     eta: 2
-    vr: 120
-    ppr: 60
-    ipr: 125
-    wr: 39
+    vr: 119
+    ppr: 62
+    ipr: 124
+    wr: 40
   emoji_flag: "\U0001F1F3\U0001F1E6"
   translations:
     AFR: Namibië
@@ -76581,11 +76581,11 @@ NRU:
   coastline: 30
   is_landlocked: false
   arton:
-    ms: 89
+    ms: 90
     vf: 42
-    voa: 44
+    voa: 45
     eta: 3
-    vr: 109
+    vr: 108
     ppr: 52
     ipr: 111
     wr: 45
@@ -77113,14 +77113,14 @@ NPL:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 54
+    ms: 55
     vf: 12
-    voa: 40
+    voa: 41
     eta: 2
-    vr: 144
-    ppr: 83
+    vr: 143
+    ppr: 85
     ipr: 183
-    wr: 27
+    wr: 28
   emoji_flag: "\U0001F1F3\U0001F1F5"
   translations:
     AFR: Nepal
@@ -77709,11 +77709,11 @@ NLD:
   coastline: 451
   is_landlocked: false
   arton:
-    ms: 173
+    ms: 174
     vf: 123
-    voa: 43
+    voa: 44
     eta: 7
-    vr: 25
+    vr: 24
     ppr: 2
     ipr: 8
     wr: 87
@@ -78632,14 +78632,14 @@ NZL:
   coastline: 15134
   is_landlocked: false
   arton:
-    ms: 172
+    ms: 173
     vf: 113
-    voa: 54
+    voa: 55
     eta: 5
-    vr: 26
+    vr: 25
     ppr: 3
     ipr: 20
-    wr: 86
+    wr: 87
   emoji_flag: "\U0001F1F3\U0001F1FF"
   translations:
     AFR: Nieu-Seeland
@@ -79228,11 +79228,11 @@ NIC:
   coastline: 910
   is_landlocked: false
   arton:
-    ms: 121
+    ms: 122
     vf: 73
-    voa: 45
+    voa: 46
     eta: 3
-    vr: 77
+    vr: 76
     ppr: 36
     ipr: 89
     wr: 61
@@ -79839,14 +79839,14 @@ NER:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 64
+    ms: 65
     vf: 29
-    voa: 34
+    voa: 35
     eta: 1
-    vr: 134
-    ppr: 74
+    vr: 133
+    ppr: 76
     ipr: 159
-    wr: 32
+    wr: 33
   emoji_flag: "\U0001F1F3\U0001F1EA"
   translations:
     AFR: Niger
@@ -80415,12 +80415,12 @@ NGA:
   coastline: 853
   is_landlocked: false
   arton:
-    ms: 55
+    ms: 56
     vf: 24
-    voa: 30
+    voa: 31
     eta: 1
-    vr: 143
-    ppr: 82
+    vr: 142
+    ppr: 84
     ipr: 178
     wr: 28
   emoji_flag: "\U0001F1F3\U0001F1EC"
@@ -81429,14 +81429,14 @@ MKD:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 128
+    ms: 129
     vf: 78
-    voa: 48
+    voa: 49
     eta: 2
-    vr: 70
+    vr: 69
     ppr: 31
     ipr: 78
-    wr: 64
+    wr: 65
   emoji_flag: "\U0001F1F2\U0001F1F0"
   translations:
     AFR: Macedonië
@@ -82308,14 +82308,14 @@ NOR:
   coastline: 25148
   is_landlocked: false
   arton:
-    ms: 172
+    ms: 173
     vf: 119
-    voa: 46
+    voa: 47
     eta: 7
-    vr: 26
+    vr: 25
     ppr: 3
     ipr: 16
-    wr: 86
+    wr: 87
   emoji_flag: "\U0001F1F3\U0001F1F4"
   translations:
     AFR: Noorweë
@@ -82887,11 +82887,11 @@ OMN:
   coastline: 2092
   is_landlocked: false
   arton:
-    ms: 95
+    ms: 96
     vf: 40
-    voa: 49
+    voa: 50
     eta: 6
-    vr: 103
+    vr: 102
     ppr: 48
     ipr: 106
     wr: 48
@@ -83464,14 +83464,14 @@ PAK:
   coastline: 1046
   is_landlocked: false
   arton:
-    ms: 44
+    ms: 45
     vf: 9
-    voa: 33
+    voa: 34
     eta: 2
-    vr: 154
-    ppr: 91
+    vr: 153
+    ppr: 93
     ipr: 195
-    wr: 22
+    wr: 23
   emoji_flag: "\U0001F1F5\U0001F1F0"
   translations:
     AFR: Pakistan
@@ -83974,14 +83974,14 @@ PLW:
   coastline: 1519
   is_landlocked: false
   arton:
-    ms: 120
+    ms: 121
     vf: 67
-    voa: 50
+    voa: 51
     eta: 3
-    vr: 78
+    vr: 77
     ppr: 37
     ipr: 91
-    wr: 60
+    wr: 61
   emoji_flag: "\U0001F1F5\U0001F1FC"
   translations:
     AFR: Palau
@@ -84423,14 +84423,14 @@ PSE:
   coastline: 40
   is_landlocked: false
   arton:
-    ms: 50
+    ms: 51
     vf: 10
-    voa: 38
+    voa: 39
     eta: 2
-    vr: 148
-    ppr: 87
+    vr: 147
+    ppr: 89
     ipr: 191
-    wr: 25
+    wr: 26
   emoji_flag: "\U0001F1F5\U0001F1F8"
   translations:
     AFR: Palestynse Grondgebiede
@@ -84915,14 +84915,14 @@ PAN:
   coastline: 2490
   is_landlocked: false
   arton:
-    ms: 134
+    ms: 135
     vf: 85
-    voa: 46
+    voa: 47
     eta: 3
-    vr: 64
+    vr: 63
     ppr: 28
     ipr: 70
-    wr: 67
+    wr: 68
   emoji_flag: "\U0001F1F5\U0001F1E6"
   translations:
     AFR: Panama
@@ -85512,11 +85512,11 @@ PNG:
   coastline: 5152
   is_landlocked: false
   arton:
-    ms: 83
+    ms: 84
     vf: 34
-    voa: 46
+    voa: 47
     eta: 3
-    vr: 115
+    vr: 114
     ppr: 56
     ipr: 117
     wr: 42
@@ -86113,14 +86113,14 @@ PRY:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 138
+    ms: 139
     vf: 86
-    voa: 48
+    voa: 49
     eta: 4
-    vr: 60
+    vr: 59
     ppr: 25
     ipr: 64
-    wr: 69
+    wr: 70
   emoji_flag: "\U0001F1F5\U0001F1FE"
   translations:
     AFR: Paraguay
@@ -86724,11 +86724,11 @@ PER:
   coastline: 2414
   is_landlocked: false
   arton:
-    ms: 145
+    ms: 146
     vf: 88
-    voa: 54
+    voa: 55
     eta: 3
-    vr: 53
+    vr: 52
     ppr: 19
     ipr: 57
     wr: 73
@@ -87316,12 +87316,12 @@ PHL:
   coastline: 36289
   is_landlocked: false
   arton:
-    ms: 77
+    ms: 78
     vf: 34
-    voa: 41
+    voa: 42
     eta: 2
-    vr: 121
-    ppr: 61
+    vr: 120
+    ppr: 63
     ipr: 127
     wr: 39
   emoji_flag: "\U0001F1F5\U0001F1ED"
@@ -88079,14 +88079,14 @@ POL:
   coastline: 440
   is_landlocked: false
   arton:
-    ms: 172
+    ms: 173
     vf: 118
-    voa: 47
-    eta: 7
-    vr: 26
+    voa: 48
+    eta: 6
+    vr: 25
     ppr: 3
     ipr: 17
-    wr: 86
+    wr: 87
   emoji_flag: "\U0001F1F5\U0001F1F1"
   translations:
     AFR: Pole
@@ -88672,14 +88672,14 @@ PRT:
   coastline: 1793
   is_landlocked: false
   arton:
-    ms: 172
+    ms: 173
     vf: 122
-    voa: 43
+    voa: 44
     eta: 7
-    vr: 26
+    vr: 25
     ppr: 3
     ipr: 15
-    wr: 86
+    wr: 87
   emoji_flag: "\U0001F1F5\U0001F1F9"
   translations:
     AFR: Portugal
@@ -89667,14 +89667,14 @@ QAT:
   coastline: 563
   is_landlocked: false
   arton:
-    ms: 114
+    ms: 115
     vf: 64
-    voa: 44
+    voa: 45
     eta: 6
-    vr: 84
+    vr: 83
     ppr: 40
     ipr: 95
-    wr: 57
+    wr: 58
   emoji_flag: "\U0001F1F6\U0001F1E6"
   translations:
     AFR: Katar
@@ -90412,11 +90412,11 @@ ROU:
   coastline: 225
   is_landlocked: false
   arton:
-    ms: 167
+    ms: 168
     vf: 113
-    voa: 48
-    eta: 6
-    vr: 31
+    voa: 50
+    eta: 5
+    vr: 30
     ppr: 8
     ipr: 39
     wr: 84
@@ -91056,13 +91056,13 @@ RUS:
   coastline: 37653
   is_landlocked: false
   arton:
-    ms: 123
+    ms: 124
     vf: 74
-    voa: 44
+    voa: 45
     eta: 5
-    vr: 75
+    vr: 74
     ppr: 35
-    ipr: 86
+    ipr: 85
     wr: 62
   emoji_flag: "\U0001F1F7\U0001F1FA"
   translations:
@@ -91654,12 +91654,12 @@ RWA:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 71
+    ms: 72
     vf: 27
-    voa: 41
+    voa: 42
     eta: 3
-    vr: 127
-    ppr: 67
+    vr: 126
+    ppr: 69
     ipr: 138
     wr: 36
   emoji_flag: "\U0001F1F7\U0001F1FC"
@@ -92590,14 +92590,14 @@ KNA:
   coastline: 135
   is_landlocked: false
   arton:
-    ms: 142
+    ms: 143
     vf: 100
-    voa: 38
+    voa: 39
     eta: 4
-    vr: 56
+    vr: 55
     ppr: 21
     ipr: 59
-    wr: 71
+    wr: 72
   emoji_flag: "\U0001F1F0\U0001F1F3"
   translations:
     AFR: Saint Kitts en Nevis
@@ -93116,11 +93116,11 @@ LCA:
   coastline: 158
   is_landlocked: false
   arton:
-    ms: 135
+    ms: 136
     vf: 90
-    voa: 41
+    voa: 42
     eta: 4
-    vr: 63
+    vr: 62
     ppr: 27
     ipr: 68
     wr: 68
@@ -94113,11 +94113,11 @@ VCT:
   coastline: 84
   is_landlocked: false
   arton:
-    ms: 143
+    ms: 144
     vf: 99
-    voa: 41
+    voa: 42
     eta: 3
-    vr: 55
+    vr: 54
     ppr: 20
     ipr: 58
     wr: 72
@@ -94641,11 +94641,11 @@ WSM:
   coastline: 403
   is_landlocked: false
   arton:
-    ms: 127
+    ms: 128
     vf: 80
-    voa: 43
+    voa: 44
     eta: 4
-    vr: 71
+    vr: 70
     ppr: 32
     ipr: 79
     wr: 64
@@ -95070,14 +95070,14 @@ SMR:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 156
+    ms: 157
     vf: 100
-    voa: 49
+    voa: 50
     eta: 7
-    vr: 42
+    vr: 41
     ppr: 13
     ipr: 48
-    wr: 78
+    wr: 79
   emoji_flag: "\U0001F1F8\U0001F1F2"
   translations:
     AFR: San Marino
@@ -95516,12 +95516,12 @@ STP:
   coastline: 209
   is_landlocked: false
   arton:
-    ms: 71
+    ms: 72
     vf: 24
-    voa: 45
+    voa: 46
     eta: 2
-    vr: 127
-    ppr: 67
+    vr: 126
+    ppr: 69
     ipr: 139
     wr: 36
   emoji_flag: "\U0001F1F8\U0001F1F9"
@@ -96127,14 +96127,14 @@ SAU:
   coastline: 2640
   is_landlocked: false
   arton:
-    ms: 95
+    ms: 97
     vf: 45
-    voa: 44
+    voa: 45
     eta: 6
-    vr: 103
+    vr: 101
     ppr: 48
     ipr: 104
-    wr: 48
+    wr: 49
   emoji_flag: "\U0001F1F8\U0001F1E6"
   translations:
     AFR: Saoedi-Arabië
@@ -96706,14 +96706,14 @@ SEN:
   coastline: 531
   is_landlocked: false
   arton:
-    ms: 68
+    ms: 69
     vf: 32
-    voa: 35
+    voa: 36
     eta: 1
-    vr: 130
-    ppr: 70
-    ipr: 147
-    wr: 34
+    vr: 129
+    ppr: 72
+    ipr: 146
+    wr: 35
   emoji_flag: "\U0001F1F8\U0001F1F3"
   translations:
     AFR: Senegal
@@ -97256,14 +97256,14 @@ SRB:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 134
+    ms: 135
     vf: 82
-    voa: 49
+    voa: 50
     eta: 3
-    vr: 64
+    vr: 63
     ppr: 28
     ipr: 71
-    wr: 67
+    wr: 68
   emoji_flag: "\U0001F1F7\U0001F1F8"
   translations:
     AFR: Serwië
@@ -97798,14 +97798,14 @@ SYC:
   coastline: 491
   is_landlocked: false
   arton:
-    ms: 142
+    ms: 143
     vf: 100
-    voa: 39
+    voa: 40
     eta: 3
-    vr: 56
+    vr: 55
     ppr: 21
     ipr: 60
-    wr: 71
+    wr: 72
   emoji_flag: "\U0001F1F8\U0001F1E8"
   translations:
     AFR: Seychelle
@@ -98332,14 +98332,14 @@ SLE:
   coastline: 402
   is_landlocked: false
   arton:
-    ms: 68
+    ms: 69
     vf: 40
-    voa: 27
+    voa: 28
     eta: 1
-    vr: 130
-    ppr: 70
-    ipr: 146
-    wr: 34
+    vr: 129
+    ppr: 72
+    ipr: 145
+    wr: 35
   emoji_flag: "\U0001F1F8\U0001F1F1"
   translations:
     AFR: Sierra Leone
@@ -98910,14 +98910,14 @@ SGP:
   coastline: 193
   is_landlocked: false
   arton:
-    ms: 170
+    ms: 171
     vf: 127
-    voa: 37
+    voa: 38
     eta: 6
-    vr: 28
+    vr: 27
     ppr: 5
-    ipr: 29
-    wr: 85
+    ipr: 28
+    wr: 86
   emoji_flag: "\U0001F1F8\U0001F1EC"
   translations:
     AFR: Singapoer
@@ -99778,14 +99778,14 @@ SVK:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 170
+    ms: 171
     vf: 116
-    voa: 47
-    eta: 7
-    vr: 28
+    voa: 49
+    eta: 6
+    vr: 27
     ppr: 5
     ipr: 31
-    wr: 85
+    wr: 86
   emoji_flag: "\U0001F1F8\U0001F1F0"
   translations:
     AFR: Slowakye
@@ -100348,11 +100348,11 @@ SVN:
   coastline: 46.6
   is_landlocked: false
   arton:
-    ms: 169
+    ms: 170
     vf: 116
-    voa: 46
-    eta: 7
-    vr: 29
+    voa: 48
+    eta: 6
+    vr: 28
     ppr: 6
     ipr: 34
     wr: 85
@@ -100900,14 +100900,14 @@ SLB:
   coastline: 5313
   is_landlocked: false
   arton:
-    ms: 132
+    ms: 133
     vf: 82
-    voa: 46
+    voa: 47
     eta: 4
-    vr: 66
+    vr: 65
     ppr: 29
     ipr: 73
-    wr: 66
+    wr: 67
   emoji_flag: "\U0001F1F8\U0001F1E7"
   translations:
     AFR: Solomon Eilande
@@ -101265,12 +101265,12 @@ SOM:
   coastline: 3025
   is_landlocked: false
   arton:
-    ms: 43
+    ms: 44
     vf: 9
-    voa: 32
+    voa: 33
     eta: 2
-    vr: 155
-    ppr: 92
+    vr: 154
+    ppr: 94
     ipr: 196
     wr: 22
   emoji_flag: "\U0001F1F8\U0001F1F4"
@@ -101829,11 +101829,11 @@ ZAF:
   coastline: 2798
   is_landlocked: false
   arton:
-    ms: 107
+    ms: 108
     vf: 60
-    voa: 43
+    voa: 44
     eta: 4
-    vr: 91
+    vr: 90
     ppr: 42
     ipr: 97
     wr: 54
@@ -102461,14 +102461,14 @@ SSD:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 52
+    ms: 53
     vf: 17
-    voa: 33
+    voa: 34
     eta: 2
-    vr: 146
-    ppr: 85
+    vr: 145
+    ppr: 87
     ipr: 186
-    wr: 26
+    wr: 27
   emoji_flag: "\U0001F1F8\U0001F1F8"
   translations:
     AFR: Suid-Soedan
@@ -102960,11 +102960,11 @@ ESP:
   coastline: 4964
   is_landlocked: false
   arton:
-    ms: 173
+    ms: 174
     vf: 124
-    voa: 42
+    voa: 43
     eta: 7
-    vr: 25
+    vr: 24
     ppr: 2
     ipr: 5
     wr: 87
@@ -103552,14 +103552,14 @@ LKA:
   coastline: 1340
   is_landlocked: false
   arton:
-    ms: 54
+    ms: 55
     vf: 15
-    voa: 37
+    voa: 38
     eta: 2
-    vr: 144
-    ppr: 83
+    vr: 143
+    ppr: 85
     ipr: 182
-    wr: 27
+    wr: 28
   emoji_flag: "\U0001F1F1\U0001F1F0"
   translations:
     AFR: Sri Lanka
@@ -104165,12 +104165,12 @@ SDN:
   coastline: 853
   is_landlocked: false
   arton:
-    ms: 53
+    ms: 54
     vf: 12
-    voa: 39
+    voa: 40
     eta: 2
-    vr: 145
-    ppr: 84
+    vr: 144
+    ppr: 86
     ipr: 185
     wr: 27
   emoji_flag: "\U0001F1F8\U0001F1E9"
@@ -104736,11 +104736,11 @@ SUR:
   coastline: 386
   is_landlocked: false
   arton:
-    ms: 85
+    ms: 86
     vf: 33
-    voa: 49
+    voa: 50
     eta: 3
-    vr: 113
+    vr: 112
     ppr: 55
     ipr: 116
     wr: 43
@@ -105456,11 +105456,11 @@ SWE:
   coastline: 3218
   is_landlocked: false
   arton:
-    ms: 173
+    ms: 174
     vf: 124
-    voa: 42
+    voa: 43
     eta: 7
-    vr: 25
+    vr: 24
     ppr: 2
     ipr: 2
     wr: 87
@@ -106068,11 +106068,11 @@ CHE:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 173
+    ms: 174
     vf: 118
-    voa: 47
+    voa: 48
     eta: 8
-    vr: 25
+    vr: 24
     ppr: 2
     ipr: 11
     wr: 87
@@ -106661,12 +106661,12 @@ SYR:
   coastline: 193
   is_landlocked: false
   arton:
-    ms: 39
+    ms: 40
     vf: 7
-    voa: 30
+    voa: 31
     eta: 2
-    vr: 159
-    ppr: 94
+    vr: 158
+    ppr: 96
     ipr: 198
     wr: 20
   emoji_flag: "\U0001F1F8\U0001F1FE"
@@ -107081,14 +107081,14 @@ TWN:
   coastline: 1566.3
   is_landlocked: false
   arton:
-    ms: 132
+    ms: 133
     vf: 76
-    voa: 50
+    voa: 51
     eta: 6
-    vr: 66
+    vr: 65
     ppr: 29
     ipr: 74
-    wr: 66
+    wr: 67
   emoji_flag: "\U0001F1F9\U0001F1FC"
   translations:
     AFR: Taiwan
@@ -107369,12 +107369,12 @@ TJK:
   is_landlocked: true
   arton:
     ms: 69
-    vf: 23
-    voa: 43
+    vf: 22
+    voa: 44
     eta: 3
     vr: 129
-    ppr: 70
-    ipr: 144
+    ppr: 72
+    ipr: 149
     wr: 35
   emoji_flag: "\U0001F1F9\U0001F1EF"
   translations:
@@ -107984,14 +107984,14 @@ TZA:
   coastline: 1424
   is_landlocked: false
   arton:
-    ms: 72
+    ms: 73
     vf: 41
-    voa: 28
+    voa: 29
     eta: 3
-    vr: 126
-    ppr: 66
+    vr: 125
+    ppr: 68
     ipr: 135
-    wr: 36
+    wr: 37
   emoji_flag: "\U0001F1F9\U0001F1FF"
   translations:
     AFR: Tanzanië
@@ -108586,14 +108586,14 @@ THA:
   coastline: 3219
   is_landlocked: false
   arton:
-    ms: 94
+    ms: 95
     vf: 38
-    voa: 52
+    voa: 53
     eta: 4
-    vr: 104
+    vr: 103
     ppr: 49
     ipr: 108
-    wr: 47
+    wr: 48
   emoji_flag: "\U0001F1F9\U0001F1ED"
   translations:
     AFR: Thailand
@@ -109085,11 +109085,11 @@ TLS:
   coastline: 706
   is_landlocked: false
   arton:
-    ms: 99
+    ms: 100
     vf: 54
-    voa: 43
+    voa: 44
     eta: 2
-    vr: 99
+    vr: 98
     ppr: 44
     ipr: 99
     wr: 50
@@ -109656,13 +109656,13 @@ TGO:
   coastline: 56
   is_landlocked: false
   arton:
-    ms: 65
+    ms: 66
     vf: 26
-    voa: 38
+    voa: 39
     eta: 1
-    vr: 133
-    ppr: 73
-    ipr: 157
+    vr: 132
+    ppr: 75
+    ipr: 156
     wr: 33
   emoji_flag: "\U0001F1F9\U0001F1EC"
   translations:
@@ -110400,13 +110400,13 @@ TON:
   coastline: 419
   is_landlocked: false
   arton:
-    ms: 123
+    ms: 124
     vf: 78
-    voa: 41
+    voa: 42
     eta: 4
-    vr: 75
+    vr: 74
     ppr: 35
-    ipr: 85
+    ipr: 84
     wr: 62
   emoji_flag: "\U0001F1F9\U0001F1F4"
   translations:
@@ -110990,11 +110990,11 @@ TTO:
   coastline: 362
   is_landlocked: false
   arton:
-    ms: 139
+    ms: 140
     vf: 96
-    voa: 40
+    voa: 41
     eta: 3
-    vr: 59
+    vr: 58
     ppr: 24
     ipr: 63
     wr: 70
@@ -111592,8 +111592,8 @@ TUN:
     voa: 42
     eta: 3
     vr: 119
-    ppr: 59
-    ipr: 122
+    ppr: 62
+    ipr: 125
     wr: 40
   emoji_flag: "\U0001F1F9\U0001F1F3"
   translations:
@@ -112207,8 +112207,8 @@ TUR:
     voa: 50
     eta: 5
     vr: 74
-    ppr: 34
-    ipr: 84
+    ppr: 35
+    ipr: 87
     wr: 62
   emoji_flag: "\U0001F1F9\U0001F1F7"
   translations:
@@ -112729,12 +112729,12 @@ TKM:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 61
+    ms: 62
     vf: 14
-    voa: 45
+    voa: 46
     eta: 2
-    vr: 137
-    ppr: 77
+    vr: 136
+    ppr: 79
     ipr: 170
     wr: 31
   emoji_flag: "\U0001F1F9\U0001F1F2"
@@ -113595,14 +113595,14 @@ TUV:
   coastline: 24
   is_landlocked: false
   arton:
-    ms: 126
+    ms: 127
     vf: 81
-    voa: 42
+    voa: 43
     eta: 3
-    vr: 72
+    vr: 71
     ppr: 33
     ipr: 82
-    wr: 63
+    wr: 64
   emoji_flag: "\U0001F1F9\U0001F1FB"
   translations:
     AFR: Tuvalu
@@ -114138,14 +114138,14 @@ UGA:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 70
+    ms: 71
     vf: 33
-    voa: 35
+    voa: 36
     eta: 2
-    vr: 128
-    ppr: 68
+    vr: 127
+    ppr: 70
     ipr: 140
-    wr: 35
+    wr: 36
   emoji_flag: "\U0001F1FA\U0001F1EC"
   translations:
     AFR: Uganda
@@ -114752,14 +114752,14 @@ UKR:
   coastline: 2782
   is_landlocked: false
   arton:
-    ms: 146
+    ms: 147
     vf: 93
-    voa: 50
+    voa: 51
     eta: 3
-    vr: 52
+    vr: 51
     ppr: 18
     ipr: 56
-    wr: 73
+    wr: 74
   emoji_flag: "\U0001F1FA\U0001F1E6"
   translations:
     AFR: Oekraine
@@ -115942,14 +115942,14 @@ GBR:
   coastline: 12429
   is_landlocked: false
   arton:
-    ms: 172
+    ms: 173
     vf: 117
-    voa: 48
+    voa: 49
     eta: 7
-    vr: 26
+    vr: 25
     ppr: 3
     ipr: 19
-    wr: 86
+    wr: 87
   emoji_flag: "\U0001F1EC\U0001F1E7"
   translations:
     AFR: Groot-Brittanje
@@ -116543,13 +116543,13 @@ USA:
   coastline: 19924
   is_landlocked: false
   arton:
-    ms: 171
+    ms: 172
     vf: 115
-    voa: 51
+    voa: 52
     eta: 5
-    vr: 27
+    vr: 26
     ppr: 4
-    ipr: 27
+    ipr: 26
     wr: 86
   emoji_flag: "\U0001F1FA\U0001F1F8"
   translations:
@@ -117293,11 +117293,11 @@ URY:
   coastline: 660
   is_landlocked: false
   arton:
-    ms: 147
+    ms: 148
     vf: 95
-    voa: 48
+    voa: 49
     eta: 4
-    vr: 51
+    vr: 50
     ppr: 17
     ipr: 54
     wr: 74
@@ -117836,12 +117836,12 @@ UZB:
   is_landlocked: true
   arton:
     ms: 70
-    vf: 25
-    voa: 43
+    vf: 24
+    voa: 44
     eta: 2
     vr: 128
-    ppr: 69
-    ipr: 141
+    ppr: 71
+    ipr: 143
     wr: 35
   emoji_flag: "\U0001F1FA\U0001F1FF"
   translations:
@@ -118377,14 +118377,14 @@ VUT:
   coastline: 2528
   is_landlocked: false
   arton:
-    ms: 98
+    ms: 99
     vf: 49
-    voa: 47
+    voa: 48
     eta: 2
-    vr: 100
+    vr: 99
     ppr: 45
     ipr: 101
-    wr: 49
+    wr: 50
   emoji_flag: "\U0001F1FB\U0001F1FA"
   translations:
     AFR: Vanuatu
@@ -118914,11 +118914,11 @@ VEN:
   coastline: 2800
   is_landlocked: false
   arton:
-    ms: 123
+    ms: 124
     vf: 69
-    voa: 51
+    voa: 52
     eta: 3
-    vr: 75
+    vr: 74
     ppr: 35
     ipr: 88
     wr: 62
@@ -119473,14 +119473,14 @@ VNM:
   coastline: 3444
   is_landlocked: false
   arton:
-    ms: 68
+    ms: 69
     vf: 20
-    voa: 45
+    voa: 46
     eta: 3
-    vr: 130
-    ppr: 70
+    vr: 129
+    ppr: 72
     ipr: 150
-    wr: 34
+    wr: 35
   emoji_flag: "\U0001F1FB\U0001F1F3"
   translations:
     AFR: Viëtnam
@@ -120988,12 +120988,12 @@ YEM:
   coastline: 1906
   is_landlocked: false
   arton:
-    ms: 45
+    ms: 46
     vf: 9
-    voa: 34
+    voa: 35
     eta: 2
-    vr: 153
-    ppr: 90
+    vr: 152
+    ppr: 92
     ipr: 194
     wr: 23
   emoji_flag: "\U0001F1FE\U0001F1EA"
@@ -121546,14 +121546,14 @@ ZMB:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 74
+    ms: 75
     vf: 38
-    voa: 33
+    voa: 34
     eta: 3
-    vr: 124
-    ppr: 64
+    vr: 123
+    ppr: 66
     ipr: 133
-    wr: 37
+    wr: 38
   emoji_flag: "\U0001F1FF\U0001F1F2"
   translations:
     AFR: Zambië
@@ -122176,13 +122176,13 @@ ZWE:
   coastline: 0
   is_landlocked: true
   arton:
-    ms: 69
+    ms: 70
     vf: 36
-    voa: 31
+    voa: 32
     eta: 2
-    vr: 129
-    ppr: 69
-    ipr: 143
+    vr: 128
+    ppr: 71
+    ipr: 142
     wr: 35
   emoji_flag: "\U0001F1FF\U0001F1FC"
   translations:
