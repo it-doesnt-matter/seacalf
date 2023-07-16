@@ -1,8 +1,8 @@
 # Changelog
 
-## Upcoming
+## 2023-07-16
 
-- new dataset for the US states
+- add new dataset for the US states
 
 ## 2023-06-22
 

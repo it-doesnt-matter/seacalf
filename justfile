@@ -16,4 +16,8 @@ convert:
     cd {{justfile_directory()}}/datasets/currencies && yq -i -p=json -o=yaml '.' currencies.yaml
     cd {{justfile_directory()}}/datasets/currencies && cp currencies.json currencies.xml
     cd {{justfile_directory()}}/datasets/currencies && yq -i -p=json -o=xml '.' currencies.xml
+    cd {{justfile_directory()}}/datasets/us_states && cp us_states.json us_states.yaml
+    cd {{justfile_directory()}}/datasets/us_states && yq -i -p=json -o=yaml '.' us_states.yaml
+    cd {{justfile_directory()}}/datasets/us_states && cp us_states.json us_states.xml
+    cd {{justfile_directory()}}/datasets/us_states && yq -i -p=json -o=xml '.' us_states.xml
     cd {{justfile_directory()}}/scripts && python json_to_csv.py

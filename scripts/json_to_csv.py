@@ -31,7 +31,7 @@ def get_as_string(l):
 
 def get_values(d):
     all_values = []
-    for key, value in d.items():
+    for value in d.values():
         if isinstance(value, dict):
             all_values.extend(get_values(value))
         elif isinstance(value, list):
@@ -42,7 +42,7 @@ def get_values(d):
 
 
 def main():
-    for dataset in ["countries", "currencies", "uk"]:
+    for dataset in ["countries", "currencies", "uk", "us_states"]:
         with open(f"../datasets/{dataset}/{dataset}.json", "r", encoding="utf-8") as file:
             data = json.load(file)
 

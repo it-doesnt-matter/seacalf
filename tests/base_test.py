@@ -18,6 +18,12 @@ class TestSchemas:
 
         validate(instance=uk, schema=schema)
 
+    def test_us_states_schema(self, us_states):
+        with open("us_states.schema.json", "r", encoding="utf-8") as file:
+            schema = json.load(file)
+
+        validate(instance=us_states, schema=schema)
+
     def test_currencies_schema(self, currencies):
         with open("currencies.schema.json", "r", encoding="utf-8") as file:
             schema = json.load(file)
@@ -153,6 +159,13 @@ def uk():
     with open("../datasets/uk/uk.json", "r", encoding="utf-8") as file:
         uk = json.load(file)
     return uk
+
+
+@pytest.fixture
+def us_states():
+    with open("../datasets/us_states/us_states.json", "r", encoding="utf-8") as file:
+        us_states = json.load(file)
+    return us_states
 
 
 @pytest.fixture

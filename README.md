@@ -4,6 +4,7 @@
 The SEACALF repository is a collection of datasets, which currently contains the following:
 - [Countries](#countries)
 - [UK](#uk)
+- [US States](#us_states)
 - [Currencies](#currencies)
 - [Flags](#flags)
 - [GeoJson](#geojson)
@@ -175,6 +176,111 @@ Each entry has the following properties:
 - `coastline`: length of the coastline indicated in km
 - `is_landlocked`: True if the country is landlocked, False otherwise
 - `emoji_flag`: flag of the country as emoji
+
+### US States
+This set contains data about all 50 U.S. states and the District of Columbia.
+
+Each entry has the following properties:
+- `name`
+    - `area`
+		- `total`: total area, i.e. land plus water area, in square miles
+		- `land`: land area in square miles
+		- `water`: water area in square miles
+- `neighbours`: list of all neighbouring states
+    - `code`: second part of the ISO 3166-2:US code, e.g. CA for California
+    - `name`: name of the neighbour
+- `median_age`: median age of the population
+- `population_by_age_and_sex`
+    - `from`: start of the age range (inclusive)
+    - `to`: end of the age range (inclusive)
+    - `male`
+    - `female`
+- `ancestry`
+    - `type`
+    - `value`
+- `no_internet`: percentage of population without internet subscription
+- `languages`: languages spoken at home
+    - `type`
+    - `value`
+- `foreign_born`: percentage of population that's foreign born
+- `residential_mobility`: data about relocation to and inside the state
+    - `type`
+    - `value`
+- `veterans`
+    - `total`: percentage of population (18+ years) that's veterans
+    - `male`: percentage of veterans that are male
+    - `female`: percentage of veterans that are male
+- `income`
+    - `total`: median household income in USD
+    - `by_family`: list of median income in USD grouped by type of family
+        - `type`
+        - `value`
+- `poverty`
+    - `total`: percentage of population for which the poverty status is determined
+    - `by_age`: poverty percentage grouped into age groups
+        - `from`
+        - `to`
+        - `value`
+- `education`: education attainment for population 25 years and over
+    - `type`
+    - `value`
+- `school_enrollment`: school enrollment for population 3 years and over
+    - `type`
+    - `value`
+- `worker_classes`
+    - `type`
+    - `value`
+- `average_commute`: average travel time to work in minutes
+- `commute_type`: means of transportation to work for population 16 years and over
+    - `type`
+    - `value`
+- `employment_rate`
+    - `year`
+    - `value`
+- `work_hours`: mean usual hours worked per week
+    - `total`
+    - `male`
+    - `female`
+- `median_rent`: median gross rent in USD
+- `rent`
+    - `from`
+    - `to`
+    - `value`
+- `homeownership_rate`
+- `housing_value`
+    - `from`
+    - `to`
+    - `value`
+- `housing_units`
+    - `total`: total amount of housing units
+    - `occupied`: amount of occupied housing units
+    - `vacant`: amount of vacant housing units
+- `occupied_units_by_type`
+    - `type`
+    - `value`
+- `bedrooms`: amount of occupied housing units grouped by number of bedrooms
+    - `from`
+    - `to`
+    - `amount`
+- `vacancy_rate`
+    - `year`
+    - `value`
+- `disability_rate`: amount of population that's disabled
+- `disability_types`
+    - `type`
+    - `value`
+- `birth_by_mother_age`: amount of births grouped by the age of the mother
+    - `from`
+    - `to`
+    - `value`
+- `health_insurance_coverage`: amount of population without health care coverage
+    - `year`
+    - `value`
+- `average_family_size`
+- `marital_status`: marital status for population 15 years and over
+    - `type`
+    - `male`
+    - `female`
 
 ### Currencies
 This dataset includes all the currencies mentioned in the Countries set under the property of the same title. All currencies from the ISO 4217 Table A.1. are covered, except for fund codes, precious metals, complementary currencies and other special entries. There's only one additional currency, which is not part of ISO 4217: Bitcoin. It has been added, because it is legal tender in two countries and thus mentioned in the Countries dataset.

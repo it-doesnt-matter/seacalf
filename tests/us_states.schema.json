@@ -1,0 +1,335 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "patternProperties": {
+    "^[A-Z]{2}$": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "area": {
+          "type": "object",
+          "properties": {
+            "total": { "type": "number" },
+            "land": { "type": "number" },
+            "water": { "type": "number" }
+          },
+          "required": ["total", "land", "water"],
+          "additionalProperties": false
+        },
+        "neighbours": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "code": { "type": "string" },
+              "name": { "type": "string" }
+            },
+            "required": ["code", "name"],
+            "additionalProperties": false
+          }
+        },
+        "median_age": { "type": "number" },
+        "population_by_age_and_sex": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "from": { "type": "number" },
+              "to": { "type": ["number", "null"] },
+              "male": { "type": "number" },
+              "female": { "type": "number" }
+            },
+            "required": ["from", "to", "male", "female"],
+            "additionalProperties": false
+          }
+        },
+        "ancestry": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": { "type": "string" },
+              "value": { "type": "number" }
+            },
+            "required": ["type", "value"],
+            "additionalProperties": false
+          }
+        },
+        "no_internet": { "type": "number" },
+        "languages": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": { "type": "string" },
+              "value": { "type": "number" }
+            },
+            "required": ["type", "value"],
+            "additionalProperties": false
+          }
+        },
+        "foreign_born": { "type": "number" },
+        "residential_mobility": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": { "type": "string" },
+              "value": { "type": "number" }
+            },
+            "required": ["type", "value"],
+            "additionalProperties": false
+          }
+        },
+        "veterans": {
+          "type": "object",
+          "properties": {
+            "total": { "type": "number" },
+            "male": { "type": "number" },
+            "female": { "type": "number" }
+          },
+          "required": ["total", "male", "female"],
+          "additionalProperties": false
+        },
+        "income": {
+          "type": "object",
+          "properties": {
+            "total": { "type": "number" },
+            "by_family": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "type": { "type": "string" },
+                  "value": { "type": "number" }
+                },
+                "required": ["type", "value"],
+                "additionalProperties": false
+              }
+            }
+          }
+		},
+        "poverty": {
+          "type": "object",
+          "properties": {
+            "total": { "type": "number" },
+            "by_age": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "from": { "type": "number" },
+                  "to": { "type": ["number", "null"] },
+                  "value": { "type": "number" }
+                },
+                "required": ["from", "to", "value"],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": ["total", "by_age"],
+          "additionalProperties": false
+        },
+        "education": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": { "type": "string" },
+              "value": { "type": "number" }
+            },
+            "required": ["type", "value"],
+            "additionalProperties": false
+          }
+        },
+        "school_enrollment": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": { "type": "string" },
+              "value": { "type": "number" }
+            },
+            "required": ["type", "value"],
+            "additionalProperties": false
+          }
+        },
+        "worker_classes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": { "type": "string" },
+              "value": { "type": "number" }
+            },
+            "required": ["type", "value"],
+            "additionalProperties": false
+          }
+        },
+        "average_commute": { "type": "number" },
+        "commute_type": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": { "type": "string" },
+              "value": { "type": "number" }
+            },
+            "required": ["type", "value"],
+            "additionalProperties": false
+          }
+        },
+        "employment_rate": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "year": { "type": "number" },
+              "value": { "type": "number" }
+            },
+            "required": ["year", "value"],
+            "additionalProperties": false
+          }
+        },
+        "work_hours": {
+          "type": "object",
+		  "properties": {
+		    "total": { "type": "number" },
+		    "male": { "type": "number" },
+		    "female": { "type": "number" }
+		   },
+		  "required": ["total", "male", "female"],
+		  "additionalProperties": false
+        },
+        "median_rent": { "type": "number" },
+        "rent": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "from": { "type": "number" },
+              "to": { "type": ["number", "null"] },
+              "value": { "type": "number" }
+            },
+            "required": ["from", "to", "value"],
+            "additionalProperties": false
+          }
+        },
+        "homeownership_rate": { "type": "number" },
+        "housing_value": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "from": { "type": "number" },
+              "to": { "type": ["number", "null"] },
+              "value": { "type": "number" }
+            },
+            "required": ["from", "to", "value"],
+            "additionalProperties": false
+          }
+        },
+        "housing_units": {
+          "type": "object",
+          "properties": {
+            "total": { "type": "number" },
+            "occupied": { "type": "number" },
+            "vacant": { "type": "number" }
+          },
+          "required": ["total", "occupied", "vacant"],
+		  "additionalProperties": false
+        },
+        "occupied_units_by_type": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": { "type": "string" },
+              "value": { "type": "number" }
+            },
+            "required": ["type", "value"],
+            "additionalProperties": false
+          }
+        },
+        "bedrooms": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "from": { "type": "number" },
+              "to": { "type": ["number", "null"] },
+              "amount": { "type": "number" }
+            },
+            "required": ["from", "to", "amount"],
+            "additionalProperties": false
+          }
+        },
+        "vacancy_rate": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "year": { "type": "number" },
+              "value": { "type": "number" }
+            },
+            "required": ["year", "value"],
+            "additionalProperties": false
+          }
+        },
+        "disability_rate": { "type": "number" },
+        "disability_types": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": { "type": "string" },
+              "value": { "type": "number" }
+            },
+            "required": ["type", "value"],
+            "additionalProperties": false
+          }
+        },
+        "birth_by_mother_age": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "from": { "type": "number" },
+              "to": { "type": ["number", "null"] },
+              "value": { "type": "number" }
+            },
+            "required": ["from", "to", "value"],
+            "additionalProperties": false
+          }
+        },
+        "health_insurance_coverage": {},
+        "average_family_size": { "type": "number" },
+        "marital_status": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": { "type": "string" },
+              "male": { "type": "number" },
+              "female": { "type": "number" }
+            },
+            "required": ["type", "male", "female"],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "name", "area", "neighbours", "median_age", "population_by_age_and_sex", "ancestry",
+        "no_internet", "languages", "foreign_born", "residential_mobility", "veterans", "income", "poverty",
+        "education", "school_enrollment", "worker_classes", "average_commute",
+        "commute_type", "employment_rate", "work_hours", "median_rent", "rent", "homeownership_rate",
+        "housing_value", "housing_units", "occupied_units_by_type", "bedrooms", "vacancy_rate",
+        "disability_rate", "disability_types", "birth_by_mother_age", "health_insurance_coverage",
+        "average_family_size", "marital_status"
+      ],
+      "additionalProperties": false
+    },
+    "additionalProperties": false
+  },
+  "additionalProperties": false
+}
