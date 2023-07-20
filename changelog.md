@@ -1,6 +1,14 @@
 # Changelog
 
+## 2023-07-20
+
+### Added
+
+- add missing US states Kansas and South Dakota
+
 ## 2023-07-16
+
+### Added
 
 - add new dataset for the US states
 

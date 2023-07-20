@@ -5802,6 +5802,369 @@ IN:
     - type: never married
       male: 34.1
       female: 28.8
+KS:
+  name: Kansas
+  area:
+    total: 82256.40000000001
+    land: 81736.8
+    water: 519.6
+  neighbours:
+    - code: CO
+      name: Colorado
+    - code: MO
+      name: Missouri
+    - code: OK
+      name: Oklahoma
+    - code: NE
+      name: Nebraska
+  median_age: 37.3
+  population_by_age_and_sex:
+    - from: 0
+      to: 5
+      male: 95187
+      female: 90089
+    - from: 5
+      to: 9
+      male: 104105
+      female: 98651
+    - from: 10
+      to: 14
+      male: 104313
+      female: 99835
+    - from: 15
+      to: 19
+      male: 106094
+      female: 100051
+    - from: 20
+      to: 24
+      male: 111094
+      female: 100729
+    - from: 25
+      to: 29
+      male: 98904
+      female: 91623
+    - from: 30
+      to: 34
+      male: 94929
+      female: 92525
+    - from: 35
+      to: 39
+      male: 99726
+      female: 94101
+    - from: 40
+      to: 44
+      male: 86946
+      female: 85850
+    - from: 45
+      to: 49
+      male: 84861
+      female: 81972
+    - from: 50
+      to: 54
+      male: 85937
+      female: 84485
+    - from: 55
+      to: 59
+      male: 92897
+      female: 94717
+    - from: 60
+      to: 64
+      male: 92647
+      female: 95803
+    - from: 65
+      to: 69
+      male: 75947
+      female: 79413
+    - from: 70
+      to: 74
+      male: 56074
+      female: 61939
+    - from: 75
+      to: 79
+      male: 33609
+      female: 41346
+    - from: 80
+      to: 84
+      male: 22515
+      female: 30721
+    - from: 85
+      to: null
+      male: 22367
+      female: 40097
+  ancestry:
+    - type: English
+      value: 13
+    - type: French (except Basque)
+      value: 1.9
+    - type: German
+      value: 23.3
+    - type: Irish
+      value: 11.3
+    - type: Italian
+      value: 2.3
+    - type: Norwegian
+      value: 0.8
+    - type: Polish
+      value: 1.2
+    - type: Scottish
+      value: 1.8
+    - type: Subsaharan African
+      value: 0.7
+  no_internet: 10
+  languages:
+    - type: English only
+      value: 88.4
+    - type: Spanish
+      value: 7.9
+    - type: other Indo-European languages
+      value: 1.3
+    - type: Asian and Pacific Islander languages
+      value: 1.8
+    - type: other languages
+      value: 0.6
+  foreign_born: 6.9
+  residential_mobility:
+    - type: Moved within the Same County
+      value: 7.9
+    - type: Moved from a Different County, Same State
+      value: 3.3
+    - type: Moved from a Different State
+      value: 3.5
+    - type: Moved from Abroad
+      value: 0.5
+  veterans:
+    total: 6.7
+    male: 91.1
+    female: 8.9
+  income:
+    median: 64124
+    by_family:
+      - type: Families
+        value: 82637
+      - type: Married-couple families
+        value: 95458
+      - type: Nonfamily households
+        value: 36685
+  poverty:
+    total: 11.7
+    by_age:
+      - from: 0
+        to: 18
+        value: 13.4
+      - from: 18
+        to: 64
+        value: 11.7
+      - from: 65
+        to: null
+        value: 9.1
+  education:
+    - type: high school or equivalent degree
+      value: 25.4
+    - type: some college, no degree
+      value: 22.5
+    - type: associate's degree
+      value: 8.6
+    - type: bachelor's degree
+      value: 22
+    - type: graduate or professional degree
+      value: 13.4
+  school_enrollment:
+    - type: nursery school, preschool
+      value: 6
+    - type: kindergarten to 12th grade
+      value: 69.5
+    - type: college, undergraduate
+      value: 19
+    - type: graduate, professional school
+      value: 5.6
+  worker_classes:
+    - type: employee of private company workers
+      value: 65.1
+    - type: self-employed in own incorporated business workers
+      value: 3.5
+    - type: private not-for-profit wage and salary workers
+      value: 8.2
+    - type: local, state, and federal government workers
+      value: 16.9
+    - type: self-employed in own not incorporated business workers and unpaid family workers
+      value: 6.3
+  average_commute: 19.6
+  commute_type:
+    - type: drove alone
+      value: 74.4
+    - type: carpool
+      value: 7.9
+    - type: public transportation
+      value: 0.3
+    - type: walked
+      value: 2.2
+    - type: other means
+      value: 1.4
+    - type: worked from home
+      value: 13.8
+  employment_rate:
+    - year: 2014
+      value: 61.9
+    - year: 2015
+      value: 62.4
+    - year: 2016
+      value: 62.7
+    - year: 2017
+      value: 63
+    - year: 2018
+      value: 63.1
+    - year: 2019
+      value: 63.5
+    - year: 2021
+      value: 62.1
+  work_hours:
+    total: 39.2
+    male: 41.6
+    female: 36.5
+  median_rent: 904
+  rent:
+    - from: 0
+      to: 500
+      value: 11.1
+    - from: 500
+      to: 999
+      value: 48.9
+    - from: 1000
+      to: 1499
+      value: 29.8
+    - from: 1500
+      to: 1999
+      value: 7.7
+    - from: 2000
+      to: 2499
+      value: 1.3
+    - from: 2500
+      to: 2999
+      value: 0.3
+    - from: 3000
+      to: null
+      value: 0.9
+  homeownership_rate: 67
+  housing_value:
+    - from: 0
+      to: 50000
+      value: 9.4
+    - from: 50000
+      to: 99999
+      value: 15.7
+    - from: 100000
+      to: 149999
+      value: 13.9
+    - from: 150000
+      to: 199999
+      value: 15.2
+    - from: 200000
+      to: 299999
+      value: 20.9
+    - from: 300000
+      to: 499999
+      value: 17.7
+    - from: 500000
+      to: 999999
+      value: 6.3
+    - from: 1e+06
+      to: null
+      value: 0.8
+  housing_units:
+    total: 1.275689e+06
+    occupied: 1
+    vacant: 124
+  occupied_units_by_type:
+    - type: married-couple family
+      value: 482930
+    - type: male householder, no spouse present
+      value: 29084
+    - type: female householder, no spouse present
+      value: 54616
+  bedrooms:
+    - from: 0
+      to: 0
+      amount: 2.1
+    - from: 1
+      to: 1
+      amount: 8.7
+    - from: 2
+      to: 3
+      amount: 61.1
+    - from: 4
+      to: null
+      amount: 28.2
+  vacancy_rate:
+    - year: 2014
+      value: 11.2
+    - year: 2015
+      value: 11.3
+    - year: 2016
+      value: 11.9
+    - year: 2017
+      value: 11.4
+    - year: 2018
+      value: 11.5
+    - year: 2019
+      value: 11.6
+    - year: 2021
+      value: 9.8
+  disability_rate: 13.4
+  disability_types:
+    - type: hearing difficulty
+      value: 4.1
+    - type: vision difficulty
+      value: 2.3
+    - type: cognitive difficulty
+      value: 5.9
+    - type: ambulatory difficulty
+      value: 6.4
+    - type: self-care difficulty
+      value: 2.2
+    - type: independent living difficulty
+      value: 5.6
+  birth_by_mother_age:
+    - from: 15
+      to: 19
+      value: 1320
+    - from: 20
+      to: 34
+      value: 30086
+    - from: 35
+      to: 50
+      value: 7647
+  health_insurance_coverage:
+    - year: 2014
+      value: 10.2
+    - year: 2015
+      value: 9.1
+    - year: 2016
+      value: 8.7
+    - year: 2017
+      value: 8.7
+    - year: 2018
+      value: 8.8
+    - year: 2019
+      value: 9.2
+    - year: 2021
+      value: 9.2
+  average_family_size: 3
+  marital_status:
+    - type: married, not separated
+      male: 52.3
+      female: 50.5
+    - type: widowed
+      male: 2.7
+      female: 8.6
+    - type: divorced
+      male: 9.8
+      female: 12.3
+    - type: separated
+      male: 1.1
+      female: 1.4
+    - type: never married
+      male: 34.1
+      female: 27.2
 KY:
   name: Kentucky
   area:
@@ -14538,6 +14901,373 @@ SC:
     - type: never married
       male: 35.2
       female: 30.6
+SD:
+  name: South Dakota
+  area:
+    total: 77095.6
+    land: 75789.6
+    water: 1306
+  neighbours:
+    - code: ND
+      name: North Dakota
+    - code: WY
+      name: Wyoming
+    - code: MT
+      name: Montana
+    - code: MN
+      name: Minnesota
+    - code: IA
+      name: Iowa
+    - code: NE
+      name: Nebraska
+  median_age: 37.6
+  population_by_age_and_sex:
+    - from: 0
+      to: 5
+      male: 30241
+      female: 29297
+    - from: 5
+      to: 9
+      male: 31312
+      female: 30911
+    - from: 10
+      to: 14
+      male: 31887
+      female: 29840
+    - from: 15
+      to: 19
+      male: 31183
+      female: 28760
+    - from: 20
+      to: 24
+      male: 29732
+      female: 28387
+    - from: 25
+      to: 29
+      male: 29783
+      female: 26493
+    - from: 30
+      to: 34
+      male: 29735
+      female: 27465
+    - from: 35
+      to: 39
+      male: 31491
+      female: 27710
+    - from: 40
+      to: 44
+      male: 24035
+      female: 23797
+    - from: 45
+      to: 49
+      male: 24131
+      female: 22408
+    - from: 50
+      to: 54
+      male: 25160
+      female: 24363
+    - from: 55
+      to: 59
+      male: 28366
+      female: 29064
+    - from: 60
+      to: 64
+      male: 30469
+      female: 28981
+    - from: 65
+      to: 69
+      male: 25824
+      female: 24686
+    - from: 70
+      to: 74
+      male: 18592
+      female: 19354
+    - from: 75
+      to: 79
+      male: 10886
+      female: 12284
+    - from: 80
+      to: 84
+      male: 7161
+      female: 9298
+    - from: 85
+      to: null
+      male: 6473
+      female: 12226
+  ancestry:
+    - type: English
+      value: 7.5
+    - type: French (except Basque)
+      value: 1.7
+    - type: German
+      value: 34.1
+    - type: Irish
+      value: 9.5
+    - type: Italian
+      value: 1.2
+    - type: Norwegian
+      value: 10.7
+    - type: Polish
+      value: 1.6
+    - type: Scottish
+      value: 0.9
+    - type: Subsaharan African
+      value: 1.1
+  no_internet: 11.7
+  languages:
+    - type: English only
+      value: 93.9
+    - type: Spanish
+      value: 2.1
+    - type: other Indo-European languages
+      value: 1.4
+    - type: Asian and Pacific Islander languages
+      value: 0.8
+    - type: other languages
+      value: 1.7
+  foreign_born: 3.5
+  residential_mobility:
+    - type: Moved within the Same County
+      value: 6.7
+    - type: Moved from a Different County, Same State
+      value: 4.1
+    - type: Moved from a Different State
+      value: 3.1
+    - type: Moved from Abroad
+      value: 0.2
+  veterans:
+    total: 8.1
+    male: 90.9
+    female: 9.1
+  income:
+    median: 66143
+    by_family:
+      - type: Families
+        value: 82562
+      - type: Married-couple families
+        value: 93567
+      - type: Nonfamily households
+        value: 40405
+  poverty:
+    total: 12.3
+    by_age:
+      - from: 0
+        to: 18
+        value: 14.6
+      - from: 18
+        to: 64
+        value: 11.7
+      - from: 65
+        to: null
+        value: 11
+  education:
+    - type: high school or equivalent degree
+      value: 29.3
+    - type: some college, no degree
+      value: 20.1
+    - type: associate's degree
+      value: 12
+    - type: bachelor's degree
+      value: 21.6
+    - type: graduate or professional degree
+      value: 10.1
+  school_enrollment:
+    - type: nursery school, preschool
+      value: 7
+    - type: kindergarten to 12th grade
+      value: 71.5
+    - type: college, undergraduate
+      value: 18.1
+    - type: graduate, professional school
+      value: 3.3
+  worker_classes:
+    - type: employee of private company workers
+      value: 59.8
+    - type: self-employed in own incorporated business workers
+      value: 4.6
+    - type: private not-for-profit wage and salary workers
+      value: 12
+    - type: local, state, and federal government workers
+      value: 15
+    - type: self-employed in own not incorporated business workers and unpaid family workers
+      value: 8.7
+  average_commute: 17.4
+  commute_type:
+    - type: drove alone
+      value: 76.1
+    - type: carpool
+      value: 7.8
+    - type: public transportation
+      value: 0.4
+    - type: walked
+      value: 3.2
+    - type: other means
+      value: 1.4
+    - type: worked from home
+      value: 11.1
+  employment_rate:
+    - year: 2014
+      value: 66.5
+    - year: 2015
+      value: 65.1
+    - year: 2016
+      value: 65
+    - year: 2017
+      value: 65.1
+    - year: 2018
+      value: 65.7
+    - year: 2019
+      value: 65.4
+    - year: 2021
+      value: 64.2
+  work_hours:
+    total: 39.6
+    male: 42.3
+    female: 36.5
+  median_rent: 830
+  rent:
+    - from: 0
+      to: 500
+      value: 17.6
+    - from: 500
+      to: 999
+      value: 49.8
+    - from: 1000
+      to: 1499
+      value: 25.8
+    - from: 1500
+      to: 1999
+      value: 4.7
+    - from: 2000
+      to: 2499
+      value: 1
+    - from: 2500
+      to: 2999
+      value: 0.1
+    - from: 3000
+      to: null
+      value: 1
+  homeownership_rate: 69.4
+  housing_value:
+    - from: 0
+      to: 50000
+      value: 9.3
+    - from: 50000
+      to: 99999
+      value: 10
+    - from: 100000
+      to: 149999
+      value: 10.8
+    - from: 150000
+      to: 199999
+      value: 14.4
+    - from: 200000
+      to: 299999
+      value: 25.6
+    - from: 300000
+      to: 499999
+      value: 21.1
+    - from: 500000
+      to: 999999
+      value: 7.3
+    - from: 1e+06
+      to: null
+      value: 1.6
+  housing_units:
+    total: 393375
+    occupied: 350
+    vacant: 42
+  occupied_units_by_type:
+    - type: married-couple family
+      value: 152416
+    - type: male householder, no spouse present
+      value: 9295
+    - type: female householder, no spouse present
+      value: 15279
+  bedrooms:
+    - from: 0
+      to: 0
+      amount: 1.7
+    - from: 1
+      to: 1
+      amount: 8.7
+    - from: 2
+      to: 3
+      amount: 59.1
+    - from: 4
+      to: null
+      amount: 30.6
+  vacancy_rate:
+    - year: 2014
+      value: 11.1
+    - year: 2015
+      value: 10.7
+    - year: 2016
+      value: 13
+    - year: 2017
+      value: 12.3
+    - year: 2018
+      value: 13.1
+    - year: 2019
+      value: 11.9
+    - year: 2021
+      value: 10.9
+  disability_rate: 12.4
+  disability_types:
+    - type: hearing difficulty
+      value: 4.1
+    - type: vision difficulty
+      value: 1.9
+    - type: cognitive difficulty
+      value: 4.3
+    - type: ambulatory difficulty
+      value: 6
+    - type: self-care difficulty
+      value: 2
+    - type: independent living difficulty
+      value: 5.1
+  birth_by_mother_age:
+    - from: 15
+      to: 19
+      value: 576
+    - from: 20
+      to: 34
+      value: 8586
+    - from: 35
+      to: 50
+      value: 2017
+  health_insurance_coverage:
+    - year: 2014
+      value: 9.8
+    - year: 2015
+      value: 10.2
+    - year: 2016
+      value: 8.7
+    - year: 2017
+      value: 9.1
+    - year: 2018
+      value: 9.8
+    - year: 2019
+      value: 10.2
+    - year: 2021
+      value: 9.5
+  average_family_size: 3
+  marital_status:
+    - type: married, not separated
+      male: 51.6
+      female: 51.2
+    - type: widowed
+      male: 2.3
+      female: 8.8
+    - type: divorced
+      male: 9.1
+      female: 10.8
+    - type: separated
+      male: 1.3
+      female: 1
+    - type: never married
+      male: 35.7
+      female: 28.1
 TN:
   name: Tennessee
   area:
