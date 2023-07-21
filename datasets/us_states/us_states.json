@@ -617,7 +617,9 @@
         "male": 37.8,
         "female": 29.0
       }
-    ]
+    ],
+    "capital": "Juneau",
+    "largest_city": "Anchorage"
   },
   "AL": {
     "name": "Alabama",
@@ -1254,7 +1256,9 @@
         "male": 34.4,
         "female": 29.3
       }
-    ]
+    ],
+    "capital": "Montgomery",
+    "largest_city": "Huntsville"
   },
   "AR": {
     "name": "Arkansas",
@@ -1899,7 +1903,9 @@
         "male": 32.2,
         "female": 26.3
       }
-    ]
+    ],
+    "capital": "Little Rock",
+    "largest_city": "Little Rock"
   },
   "AZ": {
     "name": "Arizona",
@@ -2540,7 +2546,9 @@
         "male": 36.7,
         "female": 29.6
       }
-    ]
+    ],
+    "capital": "Phoenix",
+    "largest_city": "Phoenix"
   },
   "CA": {
     "name": "California",
@@ -3173,7 +3181,9 @@
         "male": 41.4,
         "female": 35.1
       }
-    ]
+    ],
+    "capital": "Sacramento",
+    "largest_city": "Los Angeles"
   },
   "CO": {
     "name": "Colorado",
@@ -3822,7 +3832,9 @@
         "male": 36.7,
         "female": 29.7
       }
-    ]
+    ],
+    "capital": "Denver",
+    "largest_city": "Denver"
   },
   "CT": {
     "name": "Connecticut",
@@ -4455,7 +4467,9 @@
         "male": 38.7,
         "female": 33.2
       }
-    ]
+    ],
+    "capital": "Hartford",
+    "largest_city": "Bridgeport"
   },
   "DC": {
     "name": "District of Columbia",
@@ -5084,7 +5098,9 @@
         "male": 54.6,
         "female": 56.0
       }
-    ]
+    ],
+    "capital": null,
+    "largest_city": null
   },
   "DE": {
     "name": "Delaware",
@@ -5717,7 +5733,9 @@
         "male": 36.7,
         "female": 31.7
       }
-    ]
+    ],
+    "capital": "Dover",
+    "largest_city": "Wilmington"
   },
   "FL": {
     "name": "Florida",
@@ -6346,7 +6364,9 @@
         "male": 34.8,
         "female": 28.6
       }
-    ]
+    ],
+    "capital": "Tallahassee",
+    "largest_city": "Jacksonville"
   },
   "GA": {
     "name": "Georgia",
@@ -6987,7 +7007,9 @@
         "male": 37.9,
         "female": 32.7
       }
-    ]
+    ],
+    "capital": "Atlanta",
+    "largest_city": "Atlanta"
   },
   "HI": {
     "name": "Hawaii",
@@ -7607,7 +7629,9 @@
         "male": 38.5,
         "female": 29.5
       }
-    ]
+    ],
+    "capital": "Honolulu",
+    "largest_city": "Honolulu"
   },
   "IA": {
     "name": "Iowa",
@@ -8252,7 +8276,9 @@
         "male": 35.3,
         "female": 28.1
       }
-    ]
+    ],
+    "capital": "Des Moines",
+    "largest_city": "Des Moines"
   },
   "ID": {
     "name": "Idaho",
@@ -8897,7 +8923,9 @@
         "male": 30.4,
         "female": 24.4
       }
-    ]
+    ],
+    "capital": "Boise",
+    "largest_city": "Boise"
   },
   "IL": {
     "name": "Illinois",
@@ -9542,7 +9570,9 @@
         "male": 38.7,
         "female": 33.5
       }
-    ]
+    ],
+    "capital": "Springfield",
+    "largest_city": "Chicago"
   },
   "IN": {
     "name": "Indiana",
@@ -10179,7 +10209,9 @@
         "male": 34.1,
         "female": 28.8
       }
-    ]
+    ],
+    "capital": "Indianapolis",
+    "largest_city": "Indianapolis"
   },
   "KS": {
     "name": "Kansas",
@@ -10816,7 +10848,9 @@
         "male": 34.1,
         "female": 27.2
       }
-    ]
+    ],
+    "capital": "Topeka",
+    "largest_city": "Wichita"
   },
   "KY": {
     "name": "Kentucky",
@@ -11465,7 +11499,9 @@
         "male": 33.7,
         "female": 26.3
       }
-    ]
+    ],
+    "capital": "Frankfort",
+    "largest_city": "Louisville"
   },
   "LA": {
     "name": "Louisiana",
@@ -12098,7 +12134,9 @@
         "male": 39.2,
         "female": 33.7
       }
-    ]
+    ],
+    "capital": "Baton Rouge",
+    "largest_city": "New Orleans"
   },
   "MA": {
     "name": "Massachusetts",
@@ -12739,7 +12777,9 @@
         "male": 39.8,
         "female": 35.4
       }
-    ]
+    ],
+    "capital": "Boston",
+    "largest_city": "Boston"
   },
   "MD": {
     "name": "Maryland",
@@ -13380,7 +13420,9 @@
         "male": 38.0,
         "female": 33.4
       }
-    ]
+    ],
+    "capital": "Annapolis",
+    "largest_city": "Baltimore"
   },
   "ME": {
     "name": "Maine",
@@ -14005,7 +14047,9 @@
         "male": 31.0,
         "female": 26.3
       }
-    ]
+    ],
+    "capital": "Augusta",
+    "largest_city": "Portland"
   },
   "MI": {
     "name": "Michigan",
@@ -14646,7 +14690,9 @@
         "male": 36.9,
         "female": 31.0
       }
-    ]
+    ],
+    "capital": "Lansing",
+    "largest_city": "Detroit"
   },
   "MN": {
     "name": "Minnesota",
@@ -15287,7 +15333,9 @@
         "male": 36.2,
         "female": 30.4
       }
-    ]
+    ],
+    "capital": "Saint Paul",
+    "largest_city": "Minneapolis"
   },
   "MO": {
     "name": "Missouri",
@@ -15940,7 +15988,9 @@
         "male": 33.9,
         "female": 28.3
       }
-    ]
+    ],
+    "capital": "Jefferson City",
+    "largest_city": "Kansas City"
   },
   "MS": {
     "name": "Mississippi",
@@ -16577,7 +16627,9 @@
         "male": 37.4,
         "female": 31.9
       }
-    ]
+    ],
+    "capital": "Jackson",
+    "largest_city": "Jackson"
   },
   "MT": {
     "name": "Montana",
@@ -17214,7 +17266,9 @@
         "male": 34.3,
         "female": 26.8
       }
-    ]
+    ],
+    "capital": "Helena",
+    "largest_city": "Billings"
   },
   "NC": {
     "name": "North Carolina",
@@ -17851,7 +17905,9 @@
         "male": 35.8,
         "female": 30.2
       }
-    ]
+    ],
+    "capital": "Raleigh",
+    "largest_city": "Charlotte"
   },
   "ND": {
     "name": "North Dakota",
@@ -18484,7 +18540,9 @@
         "male": 38.5,
         "female": 28.9
       }
-    ]
+    ],
+    "capital": "Bismarck",
+    "largest_city": "Fargo"
   },
   "NE": {
     "name": "Nebraska",
@@ -19129,7 +19187,9 @@
         "male": 33.9,
         "female": 28.5
       }
-    ]
+    ],
+    "capital": "Lincoln",
+    "largest_city": "Omaha"
   },
   "NH": {
     "name": "New Hampshire",
@@ -19762,7 +19822,9 @@
         "male": 33.7,
         "female": 27.6
       }
-    ]
+    ],
+    "capital": "Concord",
+    "largest_city": "Manchester"
   },
   "NJ": {
     "name": "New Jersey",
@@ -20395,7 +20457,9 @@
         "male": 37.1,
         "female": 31.8
       }
-    ]
+    ],
+    "capital": "Trenton",
+    "largest_city": "Newark"
   },
   "NM": {
     "name": "New Mexico",
@@ -21036,7 +21100,9 @@
         "male": 38.8,
         "female": 31.6
       }
-    ]
+    ],
+    "capital": "Santa Fe",
+    "largest_city": "Albuquerque"
   },
   "NV": {
     "name": "Nevada",
@@ -21677,7 +21743,9 @@
         "male": 38.3,
         "female": 31.6
       }
-    ]
+    ],
+    "capital": "Carson City",
+    "largest_city": "Las Vegas"
   },
   "NY": {
     "name": "New York",
@@ -22322,7 +22390,9 @@
         "male": 41.3,
         "female": 36.2
       }
-    ]
+    ],
+    "capital": "Albany",
+    "largest_city": "New York City"
   },
   "OH": {
     "name": "Ohio",
@@ -22963,7 +23033,9 @@
         "male": 36.4,
         "female": 30.5
       }
-    ]
+    ],
+    "capital": "Columbus",
+    "largest_city": "Columbus"
   },
   "OK": {
     "name": "Oklahoma",
@@ -23608,7 +23680,9 @@
         "male": 33.9,
         "female": 26.9
       }
-    ]
+    ],
+    "capital": "Oklahoma City",
+    "largest_city": "Oklahoma City"
   },
   "OR": {
     "name": "Oregon",
@@ -24245,7 +24319,9 @@
         "male": 36.1,
         "female": 28.9
       }
-    ]
+    ],
+    "capital": "Salem",
+    "largest_city": "Portland"
   },
   "PA": {
     "name": "Pennsylvania",
@@ -24890,7 +24966,9 @@
         "male": 37.3,
         "female": 31.6
       }
-    ]
+    ],
+    "capital": "Harrisburg",
+    "largest_city": "Philadelphia"
   },
   "RI": {
     "name": "Rhode Island",
@@ -25523,7 +25601,9 @@
         "male": 40.2,
         "female": 34.8
       }
-    ]
+    ],
+    "capital": "Providence",
+    "largest_city": "Providence"
   },
   "SC": {
     "name": "South Carolina",
@@ -26152,7 +26232,9 @@
         "male": 35.2,
         "female": 30.6
       }
-    ]
+    ],
+    "capital": "Columbia",
+    "largest_city": "Charleston"
   },
   "SD": {
     "name": "South Dakota",
@@ -26797,7 +26879,9 @@
         "male": 35.7,
         "female": 28.1
       }
-    ]
+    ],
+    "capital": "Pierre",
+    "largest_city": "Sioux Falls"
   },
   "TN": {
     "name": "Tennessee",
@@ -27450,7 +27534,9 @@
         "male": 33.9,
         "female": 28.5
       }
-    ]
+    ],
+    "capital": "Nashville",
+    "largest_city": "Nashville"
   },
   "TX": {
     "name": "Texas",
@@ -28087,7 +28173,9 @@
         "male": 36.2,
         "female": 30.8
       }
-    ]
+    ],
+    "capital": "Austin",
+    "largest_city": "Houston"
   },
   "UT": {
     "name": "Utah",
@@ -28732,7 +28820,9 @@
         "male": 34.6,
         "female": 28.3
       }
-    ]
+    ],
+    "capital": "Salt Lake City",
+    "largest_city": "Salt Lake City"
   },
   "VA": {
     "name": "Virginia",
@@ -29377,7 +29467,9 @@
         "male": 36.0,
         "female": 30.7
       }
-    ]
+    ],
+    "capital": "Richmond",
+    "largest_city": "Virginia Beach"
   },
   "VT": {
     "name": "Vermont",
@@ -30010,7 +30102,9 @@
         "male": 35.6,
         "female": 30.3
       }
-    ]
+    ],
+    "capital": "Montpelier",
+    "largest_city": "Burlington"
   },
   "WA": {
     "name": "Washington",
@@ -30639,7 +30733,9 @@
         "male": 35.7,
         "female": 28.5
       }
-    ]
+    ],
+    "capital": "Olympia",
+    "largest_city": "Seattle"
   },
   "WI": {
     "name": "Wisconsin",
@@ -31276,7 +31372,9 @@
         "male": 36.4,
         "female": 30.0
       }
-    ]
+    ],
+    "capital": "Madison",
+    "largest_city": "Milwaukee"
   },
   "WV": {
     "name": "West Virginia",
@@ -31917,7 +32015,9 @@
         "male": 32.1,
         "female": 25.3
       }
-    ]
+    ],
+    "capital": "Charleston",
+    "largest_city": "Charleston"
   },
   "WY": {
     "name": "Wyoming",
@@ -32562,6 +32662,8 @@
         "male": 31.2,
         "female": 23.6
       }
-    ]
+    ],
+    "capital": "Cheyenne",
+    "largest_city": "Cheyenne"
   }
 }

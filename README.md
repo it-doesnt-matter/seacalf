@@ -186,6 +186,8 @@ Each entry has the following properties:
 		- `total`: total area, i.e. land plus water area, in square miles
 		- `land`: land area in square miles
 		- `water`: water area in square miles
+- `capital`
+- `largest_city`: largest city by population
 - `neighbours`: list of all neighbouring states
     - `code`: second part of the ISO 3166-2:US code, e.g. CA for California
     - `name`: name of the neighbour

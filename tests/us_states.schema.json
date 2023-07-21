@@ -316,16 +316,18 @@
             "required": ["type", "male", "female"],
             "additionalProperties": false
           }
-        }
+        },
+		"capital": { "type": ["string", "null"] },
+		"largest_city": { "type": ["string", "null"] }
       },
       "required": [
         "name", "area", "neighbours", "median_age", "population_by_age_and_sex", "ancestry",
-        "no_internet", "languages", "foreign_born", "residential_mobility", "veterans", "income", "poverty",
-        "education", "school_enrollment", "worker_classes", "average_commute",
+        "no_internet", "languages", "foreign_born", "residential_mobility", "veterans", "income",
+		"poverty", "education", "school_enrollment", "worker_classes", "average_commute",
         "commute_type", "employment_rate", "work_hours", "median_rent", "rent", "homeownership_rate",
         "housing_value", "housing_units", "occupied_units_by_type", "bedrooms", "vacancy_rate",
         "disability_rate", "disability_types", "birth_by_mother_age", "health_insurance_coverage",
-        "average_family_size", "marital_status"
+        "average_family_size", "marital_status", "capital", "largest_city"
       ],
       "additionalProperties": false
     },

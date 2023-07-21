@@ -576,6 +576,8 @@
     <male>37.8</male>
     <female>29</female>
   </marital_status>
+  <capital>Juneau</capital>
+  <largest_city>Anchorage</largest_city>
 </AK>
 <AL>
   <name>Alabama</name>
@@ -1171,6 +1173,8 @@
     <male>34.4</male>
     <female>29.3</female>
   </marital_status>
+  <capital>Montgomery</capital>
+  <largest_city>Huntsville</largest_city>
 </AL>
 <AR>
   <name>Arkansas</name>
@@ -1774,6 +1778,8 @@
     <male>32.2</male>
     <female>26.3</female>
   </marital_status>
+  <capital>Little Rock</capital>
+  <largest_city>Little Rock</largest_city>
 </AR>
 <AZ>
   <name>Arizona</name>
@@ -2373,6 +2379,8 @@
     <male>36.7</male>
     <female>29.6</female>
   </marital_status>
+  <capital>Phoenix</capital>
+  <largest_city>Phoenix</largest_city>
 </AZ>
 <CA>
   <name>California</name>
@@ -2964,6 +2972,8 @@
     <male>41.4</male>
     <female>35.1</female>
   </marital_status>
+  <capital>Sacramento</capital>
+  <largest_city>Los Angeles</largest_city>
 </CA>
 <CO>
   <name>Colorado</name>
@@ -3571,6 +3581,8 @@
     <male>36.7</male>
     <female>29.7</female>
   </marital_status>
+  <capital>Denver</capital>
+  <largest_city>Denver</largest_city>
 </CO>
 <CT>
   <name>Connecticut</name>
@@ -4162,6 +4174,8 @@
     <male>38.7</male>
     <female>33.2</female>
   </marital_status>
+  <capital>Hartford</capital>
+  <largest_city>Bridgeport</largest_city>
 </CT>
 <DC>
   <name>District of Columbia</name>
@@ -4749,6 +4763,8 @@
     <male>54.6</male>
     <female>56</female>
   </marital_status>
+  <capital>null</capital>
+  <largest_city>null</largest_city>
 </DC>
 <DE>
   <name>Delaware</name>
@@ -5340,6 +5356,8 @@
     <male>36.7</male>
     <female>31.7</female>
   </marital_status>
+  <capital>Dover</capital>
+  <largest_city>Wilmington</largest_city>
 </DE>
 <FL>
   <name>Florida</name>
@@ -5927,6 +5945,8 @@
     <male>34.8</male>
     <female>28.6</female>
   </marital_status>
+  <capital>Tallahassee</capital>
+  <largest_city>Jacksonville</largest_city>
 </FL>
 <GA>
   <name>Georgia</name>
@@ -6526,6 +6546,8 @@
     <male>37.9</male>
     <female>32.7</female>
   </marital_status>
+  <capital>Atlanta</capital>
+  <largest_city>Atlanta</largest_city>
 </GA>
 <HI>
   <name>Hawaii</name>
@@ -7105,6 +7127,8 @@
     <male>38.5</male>
     <female>29.5</female>
   </marital_status>
+  <capital>Honolulu</capital>
+  <largest_city>Honolulu</largest_city>
 </HI>
 <IA>
   <name>Iowa</name>
@@ -7708,6 +7732,8 @@
     <male>35.3</male>
     <female>28.1</female>
   </marital_status>
+  <capital>Des Moines</capital>
+  <largest_city>Des Moines</largest_city>
 </IA>
 <ID>
   <name>Idaho</name>
@@ -8311,6 +8337,8 @@
     <male>30.4</male>
     <female>24.4</female>
   </marital_status>
+  <capital>Boise</capital>
+  <largest_city>Boise</largest_city>
 </ID>
 <IL>
   <name>Illinois</name>
@@ -8914,6 +8942,8 @@
     <male>38.7</male>
     <female>33.5</female>
   </marital_status>
+  <capital>Springfield</capital>
+  <largest_city>Chicago</largest_city>
 </IL>
 <IN>
   <name>Indiana</name>
@@ -9509,6 +9539,8 @@
     <male>34.1</male>
     <female>28.8</female>
   </marital_status>
+  <capital>Indianapolis</capital>
+  <largest_city>Indianapolis</largest_city>
 </IN>
 <KS>
   <name>Kansas</name>
@@ -10104,6 +10136,8 @@
     <male>34.1</male>
     <female>27.2</female>
   </marital_status>
+  <capital>Topeka</capital>
+  <largest_city>Wichita</largest_city>
 </KS>
 <KY>
   <name>Kentucky</name>
@@ -10711,6 +10745,8 @@
     <male>33.7</male>
     <female>26.3</female>
   </marital_status>
+  <capital>Frankfort</capital>
+  <largest_city>Louisville</largest_city>
 </KY>
 <LA>
   <name>Louisiana</name>
@@ -11302,6 +11338,8 @@
     <male>39.2</male>
     <female>33.7</female>
   </marital_status>
+  <capital>Baton Rouge</capital>
+  <largest_city>New Orleans</largest_city>
 </LA>
 <MA>
   <name>Massachusetts</name>
@@ -11901,6 +11939,8 @@
     <male>39.8</male>
     <female>35.4</female>
   </marital_status>
+  <capital>Boston</capital>
+  <largest_city>Boston</largest_city>
 </MA>
 <MD>
   <name>Maryland</name>
@@ -12500,6 +12540,8 @@
     <male>38</male>
     <female>33.4</female>
   </marital_status>
+  <capital>Annapolis</capital>
+  <largest_city>Baltimore</largest_city>
 </MD>
 <ME>
   <name>Maine</name>
@@ -13083,6 +13125,8 @@
     <male>31</male>
     <female>26.3</female>
   </marital_status>
+  <capital>Augusta</capital>
+  <largest_city>Portland</largest_city>
 </ME>
 <MI>
   <name>Michigan</name>
@@ -13682,6 +13726,8 @@
     <male>36.9</male>
     <female>31</female>
   </marital_status>
+  <capital>Lansing</capital>
+  <largest_city>Detroit</largest_city>
 </MI>
 <MN>
   <name>Minnesota</name>
@@ -14281,6 +14327,8 @@
     <male>36.2</male>
     <female>30.4</female>
   </marital_status>
+  <capital>Saint Paul</capital>
+  <largest_city>Minneapolis</largest_city>
 </MN>
 <MO>
   <name>Missouri</name>
@@ -14892,6 +14940,8 @@
     <male>33.9</male>
     <female>28.3</female>
   </marital_status>
+  <capital>Jefferson City</capital>
+  <largest_city>Kansas City</largest_city>
 </MO>
 <MS>
   <name>Mississippi</name>
@@ -15487,6 +15537,8 @@
     <male>37.4</male>
     <female>31.9</female>
   </marital_status>
+  <capital>Jackson</capital>
+  <largest_city>Jackson</largest_city>
 </MS>
 <MT>
   <name>Montana</name>
@@ -16082,6 +16134,8 @@
     <male>34.3</male>
     <female>26.8</female>
   </marital_status>
+  <capital>Helena</capital>
+  <largest_city>Billings</largest_city>
 </MT>
 <NC>
   <name>North Carolina</name>
@@ -16677,6 +16731,8 @@
     <male>35.8</male>
     <female>30.2</female>
   </marital_status>
+  <capital>Raleigh</capital>
+  <largest_city>Charlotte</largest_city>
 </NC>
 <ND>
   <name>North Dakota</name>
@@ -17268,6 +17324,8 @@
     <male>38.5</male>
     <female>28.9</female>
   </marital_status>
+  <capital>Bismarck</capital>
+  <largest_city>Fargo</largest_city>
 </ND>
 <NE>
   <name>Nebraska</name>
@@ -17871,6 +17929,8 @@
     <male>33.9</male>
     <female>28.5</female>
   </marital_status>
+  <capital>Lincoln</capital>
+  <largest_city>Omaha</largest_city>
 </NE>
 <NH>
   <name>New Hampshire</name>
@@ -18462,6 +18522,8 @@
     <male>33.7</male>
     <female>27.6</female>
   </marital_status>
+  <capital>Concord</capital>
+  <largest_city>Manchester</largest_city>
 </NH>
 <NJ>
   <name>New Jersey</name>
@@ -19053,6 +19115,8 @@
     <male>37.1</male>
     <female>31.8</female>
   </marital_status>
+  <capital>Trenton</capital>
+  <largest_city>Newark</largest_city>
 </NJ>
 <NM>
   <name>New Mexico</name>
@@ -19652,6 +19716,8 @@
     <male>38.8</male>
     <female>31.6</female>
   </marital_status>
+  <capital>Santa Fe</capital>
+  <largest_city>Albuquerque</largest_city>
 </NM>
 <NV>
   <name>Nevada</name>
@@ -20251,6 +20317,8 @@
     <male>38.3</male>
     <female>31.6</female>
   </marital_status>
+  <capital>Carson City</capital>
+  <largest_city>Las Vegas</largest_city>
 </NV>
 <NY>
   <name>New York</name>
@@ -20854,6 +20922,8 @@
     <male>41.3</male>
     <female>36.2</female>
   </marital_status>
+  <capital>Albany</capital>
+  <largest_city>New York City</largest_city>
 </NY>
 <OH>
   <name>Ohio</name>
@@ -21453,6 +21523,8 @@
     <male>36.4</male>
     <female>30.5</female>
   </marital_status>
+  <capital>Columbus</capital>
+  <largest_city>Columbus</largest_city>
 </OH>
 <OK>
   <name>Oklahoma</name>
@@ -22056,6 +22128,8 @@
     <male>33.9</male>
     <female>26.9</female>
   </marital_status>
+  <capital>Oklahoma City</capital>
+  <largest_city>Oklahoma City</largest_city>
 </OK>
 <OR>
   <name>Oregon</name>
@@ -22651,6 +22725,8 @@
     <male>36.1</male>
     <female>28.9</female>
   </marital_status>
+  <capital>Salem</capital>
+  <largest_city>Portland</largest_city>
 </OR>
 <PA>
   <name>Pennsylvania</name>
@@ -23254,6 +23330,8 @@
     <male>37.3</male>
     <female>31.6</female>
   </marital_status>
+  <capital>Harrisburg</capital>
+  <largest_city>Philadelphia</largest_city>
 </PA>
 <RI>
   <name>Rhode Island</name>
@@ -23845,6 +23923,8 @@
     <male>40.2</male>
     <female>34.8</female>
   </marital_status>
+  <capital>Providence</capital>
+  <largest_city>Providence</largest_city>
 </RI>
 <SC>
   <name>South Carolina</name>
@@ -24432,6 +24512,8 @@
     <male>35.2</male>
     <female>30.6</female>
   </marital_status>
+  <capital>Columbia</capital>
+  <largest_city>Charleston</largest_city>
 </SC>
 <SD>
   <name>South Dakota</name>
@@ -25035,6 +25117,8 @@
     <male>35.7</male>
     <female>28.1</female>
   </marital_status>
+  <capital>Pierre</capital>
+  <largest_city>Sioux Falls</largest_city>
 </SD>
 <TN>
   <name>Tennessee</name>
@@ -25646,6 +25730,8 @@
     <male>33.9</male>
     <female>28.5</female>
   </marital_status>
+  <capital>Nashville</capital>
+  <largest_city>Nashville</largest_city>
 </TN>
 <TX>
   <name>Texas</name>
@@ -26241,6 +26327,8 @@
     <male>36.2</male>
     <female>30.8</female>
   </marital_status>
+  <capital>Austin</capital>
+  <largest_city>Houston</largest_city>
 </TX>
 <UT>
   <name>Utah</name>
@@ -26844,6 +26932,8 @@
     <male>34.6</male>
     <female>28.3</female>
   </marital_status>
+  <capital>Salt Lake City</capital>
+  <largest_city>Salt Lake City</largest_city>
 </UT>
 <VA>
   <name>Virginia</name>
@@ -27447,6 +27537,8 @@
     <male>36</male>
     <female>30.7</female>
   </marital_status>
+  <capital>Richmond</capital>
+  <largest_city>Virginia Beach</largest_city>
 </VA>
 <VT>
   <name>Vermont</name>
@@ -28038,6 +28130,8 @@
     <male>35.6</male>
     <female>30.3</female>
   </marital_status>
+  <capital>Montpelier</capital>
+  <largest_city>Burlington</largest_city>
 </VT>
 <WA>
   <name>Washington</name>
@@ -28625,6 +28719,8 @@
     <male>35.7</male>
     <female>28.5</female>
   </marital_status>
+  <capital>Olympia</capital>
+  <largest_city>Seattle</largest_city>
 </WA>
 <WI>
   <name>Wisconsin</name>
@@ -29220,6 +29316,8 @@
     <male>36.4</male>
     <female>30</female>
   </marital_status>
+  <capital>Madison</capital>
+  <largest_city>Milwaukee</largest_city>
 </WI>
 <WV>
   <name>West Virginia</name>
@@ -29819,6 +29917,8 @@
     <male>32.1</male>
     <female>25.3</female>
   </marital_status>
+  <capital>Charleston</capital>
+  <largest_city>Charleston</largest_city>
 </WV>
 <WY>
   <name>Wyoming</name>
@@ -30422,4 +30522,6 @@
     <male>31.2</male>
     <female>23.6</female>
   </marital_status>
+  <capital>Cheyenne</capital>
+  <largest_city>Cheyenne</largest_city>
 </WY>

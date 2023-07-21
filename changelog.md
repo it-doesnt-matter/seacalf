@@ -1,5 +1,11 @@
 # Changelog
 
+## 2023-07-21
+
+### Added
+
+- add capital and largest_city property to the US states
+
 ## 2023-07-20
 
 ### Added

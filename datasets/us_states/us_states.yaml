@@ -353,6 +353,8 @@ AK:
     - type: never married
       male: 37.8
       female: 29
+  capital: Juneau
+  largest_city: Anchorage
 AL:
   name: Alabama
   area:
@@ -716,6 +718,8 @@ AL:
     - type: never married
       male: 34.4
       female: 29.3
+  capital: Montgomery
+  largest_city: Huntsville
 AR:
   name: Arkansas
   area:
@@ -1083,6 +1087,8 @@ AR:
     - type: never married
       male: 32.2
       female: 26.3
+  capital: Little Rock
+  largest_city: Little Rock
 AZ:
   name: Arizona
   area:
@@ -1448,6 +1454,8 @@ AZ:
     - type: never married
       male: 36.7
       female: 29.6
+  capital: Phoenix
+  largest_city: Phoenix
 CA:
   name: California
   area:
@@ -1809,6 +1817,8 @@ CA:
     - type: never married
       male: 41.4
       female: 35.1
+  capital: Sacramento
+  largest_city: Los Angeles
 CO:
   name: Colorado
   area:
@@ -2178,6 +2188,8 @@ CO:
     - type: never married
       male: 36.7
       female: 29.7
+  capital: Denver
+  largest_city: Denver
 CT:
   name: Connecticut
   area:
@@ -2539,6 +2551,8 @@ CT:
     - type: never married
       male: 38.7
       female: 33.2
+  capital: Hartford
+  largest_city: Bridgeport
 DC:
   name: District of Columbia
   area:
@@ -2898,6 +2912,8 @@ DC:
     - type: never married
       male: 54.6
       female: 56
+  capital: null
+  largest_city: null
 DE:
   name: Delaware
   area:
@@ -3259,6 +3275,8 @@ DE:
     - type: never married
       male: 36.7
       female: 31.7
+  capital: Dover
+  largest_city: Wilmington
 FL:
   name: Florida
   area:
@@ -3618,6 +3636,8 @@ FL:
     - type: never married
       male: 34.8
       female: 28.6
+  capital: Tallahassee
+  largest_city: Jacksonville
 GA:
   name: Georgia
   area:
@@ -3983,6 +4003,8 @@ GA:
     - type: never married
       male: 37.9
       female: 32.7
+  capital: Atlanta
+  largest_city: Atlanta
 HI:
   name: Hawaii
   area:
@@ -4338,6 +4360,8 @@ HI:
     - type: never married
       male: 38.5
       female: 29.5
+  capital: Honolulu
+  largest_city: Honolulu
 IA:
   name: Iowa
   area:
@@ -4705,6 +4729,8 @@ IA:
     - type: never married
       male: 35.3
       female: 28.1
+  capital: Des Moines
+  largest_city: Des Moines
 ID:
   name: Idaho
   area:
@@ -5072,6 +5098,8 @@ ID:
     - type: never married
       male: 30.4
       female: 24.4
+  capital: Boise
+  largest_city: Boise
 IL:
   name: Illinois
   area:
@@ -5439,6 +5467,8 @@ IL:
     - type: never married
       male: 38.7
       female: 33.5
+  capital: Springfield
+  largest_city: Chicago
 IN:
   name: Indiana
   area:
@@ -5802,6 +5832,8 @@ IN:
     - type: never married
       male: 34.1
       female: 28.8
+  capital: Indianapolis
+  largest_city: Indianapolis
 KS:
   name: Kansas
   area:
@@ -6165,6 +6197,8 @@ KS:
     - type: never married
       male: 34.1
       female: 27.2
+  capital: Topeka
+  largest_city: Wichita
 KY:
   name: Kentucky
   area:
@@ -6534,6 +6568,8 @@ KY:
     - type: never married
       male: 33.7
       female: 26.3
+  capital: Frankfort
+  largest_city: Louisville
 LA:
   name: Louisiana
   area:
@@ -6895,6 +6931,8 @@ LA:
     - type: never married
       male: 39.2
       female: 33.7
+  capital: Baton Rouge
+  largest_city: New Orleans
 MA:
   name: Massachusetts
   area:
@@ -7260,6 +7298,8 @@ MA:
     - type: never married
       male: 39.8
       female: 35.4
+  capital: Boston
+  largest_city: Boston
 MD:
   name: Maryland
   area:
@@ -7625,6 +7665,8 @@ MD:
     - type: never married
       male: 38
       female: 33.4
+  capital: Annapolis
+  largest_city: Baltimore
 ME:
   name: Maine
   area:
@@ -7982,6 +8024,8 @@ ME:
     - type: never married
       male: 31
       female: 26.3
+  capital: Augusta
+  largest_city: Portland
 MI:
   name: Michigan
   area:
@@ -8347,6 +8391,8 @@ MI:
     - type: never married
       male: 36.9
       female: 31
+  capital: Lansing
+  largest_city: Detroit
 MN:
   name: Minnesota
   area:
@@ -8712,6 +8758,8 @@ MN:
     - type: never married
       male: 36.2
       female: 30.4
+  capital: Saint Paul
+  largest_city: Minneapolis
 MO:
   name: Missouri
   area:
@@ -9083,6 +9131,8 @@ MO:
     - type: never married
       male: 33.9
       female: 28.3
+  capital: Jefferson City
+  largest_city: Kansas City
 MS:
   name: Mississippi
   area:
@@ -9446,6 +9496,8 @@ MS:
     - type: never married
       male: 37.4
       female: 31.9
+  capital: Jackson
+  largest_city: Jackson
 MT:
   name: Montana
   area:
@@ -9809,6 +9861,8 @@ MT:
     - type: never married
       male: 34.3
       female: 26.8
+  capital: Helena
+  largest_city: Billings
 NC:
   name: North Carolina
   area:
@@ -10172,6 +10226,8 @@ NC:
     - type: never married
       male: 35.8
       female: 30.2
+  capital: Raleigh
+  largest_city: Charlotte
 ND:
   name: North Dakota
   area:
@@ -10533,6 +10589,8 @@ ND:
     - type: never married
       male: 38.5
       female: 28.9
+  capital: Bismarck
+  largest_city: Fargo
 NE:
   name: Nebraska
   area:
@@ -10900,6 +10958,8 @@ NE:
     - type: never married
       male: 33.9
       female: 28.5
+  capital: Lincoln
+  largest_city: Omaha
 NH:
   name: New Hampshire
   area:
@@ -11261,6 +11321,8 @@ NH:
     - type: never married
       male: 33.7
       female: 27.6
+  capital: Concord
+  largest_city: Manchester
 NJ:
   name: New Jersey
   area:
@@ -11622,6 +11684,8 @@ NJ:
     - type: never married
       male: 37.1
       female: 31.8
+  capital: Trenton
+  largest_city: Newark
 NM:
   name: New Mexico
   area:
@@ -11987,6 +12051,8 @@ NM:
     - type: never married
       male: 38.8
       female: 31.6
+  capital: Santa Fe
+  largest_city: Albuquerque
 NV:
   name: Nevada
   area:
@@ -12352,6 +12418,8 @@ NV:
     - type: never married
       male: 38.3
       female: 31.6
+  capital: Carson City
+  largest_city: Las Vegas
 NY:
   name: New York
   area:
@@ -12719,6 +12787,8 @@ NY:
     - type: never married
       male: 41.3
       female: 36.2
+  capital: Albany
+  largest_city: New York City
 OH:
   name: Ohio
   area:
@@ -13084,6 +13154,8 @@ OH:
     - type: never married
       male: 36.4
       female: 30.5
+  capital: Columbus
+  largest_city: Columbus
 OK:
   name: Oklahoma
   area:
@@ -13451,6 +13523,8 @@ OK:
     - type: never married
       male: 33.9
       female: 26.9
+  capital: Oklahoma City
+  largest_city: Oklahoma City
 OR:
   name: Oregon
   area:
@@ -13814,6 +13888,8 @@ OR:
     - type: never married
       male: 36.1
       female: 28.9
+  capital: Salem
+  largest_city: Portland
 PA:
   name: Pennsylvania
   area:
@@ -14181,6 +14257,8 @@ PA:
     - type: never married
       male: 37.3
       female: 31.6
+  capital: Harrisburg
+  largest_city: Philadelphia
 RI:
   name: Rhode Island
   area:
@@ -14542,6 +14620,8 @@ RI:
     - type: never married
       male: 40.2
       female: 34.8
+  capital: Providence
+  largest_city: Providence
 SC:
   name: South Carolina
   area:
@@ -14901,6 +14981,8 @@ SC:
     - type: never married
       male: 35.2
       female: 30.6
+  capital: Columbia
+  largest_city: Charleston
 SD:
   name: South Dakota
   area:
@@ -15268,6 +15350,8 @@ SD:
     - type: never married
       male: 35.7
       female: 28.1
+  capital: Pierre
+  largest_city: Sioux Falls
 TN:
   name: Tennessee
   area:
@@ -15639,6 +15723,8 @@ TN:
     - type: never married
       male: 33.9
       female: 28.5
+  capital: Nashville
+  largest_city: Nashville
 TX:
   name: Texas
   area:
@@ -16002,6 +16088,8 @@ TX:
     - type: never married
       male: 36.2
       female: 30.8
+  capital: Austin
+  largest_city: Houston
 UT:
   name: Utah
   area:
@@ -16369,6 +16457,8 @@ UT:
     - type: never married
       male: 34.6
       female: 28.3
+  capital: Salt Lake City
+  largest_city: Salt Lake City
 VA:
   name: Virginia
   area:
@@ -16736,6 +16826,8 @@ VA:
     - type: never married
       male: 36
       female: 30.7
+  capital: Richmond
+  largest_city: Virginia Beach
 VT:
   name: Vermont
   area:
@@ -17097,6 +17189,8 @@ VT:
     - type: never married
       male: 35.6
       female: 30.3
+  capital: Montpelier
+  largest_city: Burlington
 WA:
   name: Washington
   area:
@@ -17456,6 +17550,8 @@ WA:
     - type: never married
       male: 35.7
       female: 28.5
+  capital: Olympia
+  largest_city: Seattle
 WI:
   name: Wisconsin
   area:
@@ -17819,6 +17915,8 @@ WI:
     - type: never married
       male: 36.4
       female: 30
+  capital: Madison
+  largest_city: Milwaukee
 WV:
   name: West Virginia
   area:
@@ -18184,6 +18282,8 @@ WV:
     - type: never married
       male: 32.1
       female: 25.3
+  capital: Charleston
+  largest_city: Charleston
 WY:
   name: Wyoming
   area:
@@ -18551,3 +18651,5 @@ WY:
     - type: never married
       male: 31.2
       female: 23.6
+  capital: Cheyenne
+  largest_city: Cheyenne
