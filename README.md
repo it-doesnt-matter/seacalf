@@ -191,6 +191,9 @@ Each entry has the following properties:
 - `neighbours`: list of all neighbouring states
     - `code`: second part of the ISO 3166-2:US code, e.g. CA for California
     - `name`: name of the neighbour
+- `subdivisions`
+	- `type`: type of subdivision, e.g. county, independent city, etc.
+	- `amount`
 - `median_age`: median age of the population
 - `population_by_age_and_sex`
     - `from`: start of the age range (inclusive)

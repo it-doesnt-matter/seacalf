@@ -355,6 +355,11 @@ AK:
       female: 29
   capital: Juneau
   largest_city: Anchorage
+  subdivisions:
+    - type: organized borough
+      amount: 19
+    - type: designated census area
+      amount: 11
 AL:
   name: Alabama
   area:
@@ -720,6 +725,9 @@ AL:
       female: 29.3
   capital: Montgomery
   largest_city: Huntsville
+  subdivisions:
+    - type: county
+      amount: 67
 AR:
   name: Arkansas
   area:
@@ -1089,6 +1097,9 @@ AR:
       female: 26.3
   capital: Little Rock
   largest_city: Little Rock
+  subdivisions:
+    - type: county
+      amount: 75
 AZ:
   name: Arizona
   area:
@@ -1456,6 +1467,9 @@ AZ:
       female: 29.6
   capital: Phoenix
   largest_city: Phoenix
+  subdivisions:
+    - type: county
+      amount: 15
 CA:
   name: California
   area:
@@ -1819,6 +1833,9 @@ CA:
       female: 35.1
   capital: Sacramento
   largest_city: Los Angeles
+  subdivisions:
+    - type: county
+      amount: 58
 CO:
   name: Colorado
   area:
@@ -2190,6 +2207,9 @@ CO:
       female: 29.7
   capital: Denver
   largest_city: Denver
+  subdivisions:
+    - type: county
+      amount: 64
 CT:
   name: Connecticut
   area:
@@ -2553,6 +2573,9 @@ CT:
       female: 33.2
   capital: Hartford
   largest_city: Bridgeport
+  subdivisions:
+    - type: council of governments
+      amount: 9
 DC:
   name: District of Columbia
   area:
@@ -2914,6 +2937,7 @@ DC:
       female: 56
   capital: null
   largest_city: null
+  subdivisions: []
 DE:
   name: Delaware
   area:
@@ -3277,6 +3301,9 @@ DE:
       female: 31.7
   capital: Dover
   largest_city: Wilmington
+  subdivisions:
+    - type: county
+      amount: 3
 FL:
   name: Florida
   area:
@@ -3638,6 +3665,9 @@ FL:
       female: 28.6
   capital: Tallahassee
   largest_city: Jacksonville
+  subdivisions:
+    - type: county
+      amount: 67
 GA:
   name: Georgia
   area:
@@ -4005,6 +4035,9 @@ GA:
       female: 32.7
   capital: Atlanta
   largest_city: Atlanta
+  subdivisions:
+    - type: county
+      amount: 159
 HI:
   name: Hawaii
   area:
@@ -4362,6 +4395,9 @@ HI:
       female: 29.5
   capital: Honolulu
   largest_city: Honolulu
+  subdivisions:
+    - type: county
+      amount: 5
 IA:
   name: Iowa
   area:
@@ -4731,6 +4767,9 @@ IA:
       female: 28.1
   capital: Des Moines
   largest_city: Des Moines
+  subdivisions:
+    - type: county
+      amount: 99
 ID:
   name: Idaho
   area:
@@ -5100,6 +5139,9 @@ ID:
       female: 24.4
   capital: Boise
   largest_city: Boise
+  subdivisions:
+    - type: county
+      amount: 44
 IL:
   name: Illinois
   area:
@@ -5469,6 +5511,9 @@ IL:
       female: 33.5
   capital: Springfield
   largest_city: Chicago
+  subdivisions:
+    - type: county
+      amount: 102
 IN:
   name: Indiana
   area:
@@ -5834,6 +5879,9 @@ IN:
       female: 28.8
   capital: Indianapolis
   largest_city: Indianapolis
+  subdivisions:
+    - type: county
+      amount: 92
 KS:
   name: Kansas
   area:
@@ -6199,6 +6247,9 @@ KS:
       female: 27.2
   capital: Topeka
   largest_city: Wichita
+  subdivisions:
+    - type: county
+      amount: 105
 KY:
   name: Kentucky
   area:
@@ -6570,6 +6621,9 @@ KY:
       female: 26.3
   capital: Frankfort
   largest_city: Louisville
+  subdivisions:
+    - type: county
+      amount: 120
 LA:
   name: Louisiana
   area:
@@ -6933,6 +6987,9 @@ LA:
       female: 33.7
   capital: Baton Rouge
   largest_city: New Orleans
+  subdivisions:
+    - type: parish
+      amount: 64
 MA:
   name: Massachusetts
   area:
@@ -7300,6 +7357,9 @@ MA:
       female: 35.4
   capital: Boston
   largest_city: Boston
+  subdivisions:
+    - type: county
+      amount: 14
 MD:
   name: Maryland
   area:
@@ -7667,6 +7727,11 @@ MD:
       female: 33.4
   capital: Annapolis
   largest_city: Baltimore
+  subdivisions:
+    - type: county
+      amount: 23
+    - type: independent city
+      amount: 1
 ME:
   name: Maine
   area:
@@ -8026,6 +8091,9 @@ ME:
       female: 26.3
   capital: Augusta
   largest_city: Portland
+  subdivisions:
+    - type: county
+      amount: 16
 MI:
   name: Michigan
   area:
@@ -8393,6 +8461,9 @@ MI:
       female: 31
   capital: Lansing
   largest_city: Detroit
+  subdivisions:
+    - type: county
+      amount: 83
 MN:
   name: Minnesota
   area:
@@ -8760,6 +8831,9 @@ MN:
       female: 30.4
   capital: Saint Paul
   largest_city: Minneapolis
+  subdivisions:
+    - type: county
+      amount: 87
 MO:
   name: Missouri
   area:
@@ -9133,6 +9207,11 @@ MO:
       female: 28.3
   capital: Jefferson City
   largest_city: Kansas City
+  subdivisions:
+    - type: county
+      amount: 114
+    - type: independent city
+      amount: 1
 MS:
   name: Mississippi
   area:
@@ -9498,6 +9577,9 @@ MS:
       female: 31.9
   capital: Jackson
   largest_city: Jackson
+  subdivisions:
+    - type: county
+      amount: 82
 MT:
   name: Montana
   area:
@@ -9863,6 +9945,9 @@ MT:
       female: 26.8
   capital: Helena
   largest_city: Billings
+  subdivisions:
+    - type: county
+      amount: 56
 NC:
   name: North Carolina
   area:
@@ -10228,6 +10313,9 @@ NC:
       female: 30.2
   capital: Raleigh
   largest_city: Charlotte
+  subdivisions:
+    - type: county
+      amount: 100
 ND:
   name: North Dakota
   area:
@@ -10591,6 +10679,9 @@ ND:
       female: 28.9
   capital: Bismarck
   largest_city: Fargo
+  subdivisions:
+    - type: county
+      amount: 53
 NE:
   name: Nebraska
   area:
@@ -10960,6 +11051,9 @@ NE:
       female: 28.5
   capital: Lincoln
   largest_city: Omaha
+  subdivisions:
+    - type: county
+      amount: 93
 NH:
   name: New Hampshire
   area:
@@ -11323,6 +11417,9 @@ NH:
       female: 27.6
   capital: Concord
   largest_city: Manchester
+  subdivisions:
+    - type: county
+      amount: 10
 NJ:
   name: New Jersey
   area:
@@ -11686,6 +11783,9 @@ NJ:
       female: 31.8
   capital: Trenton
   largest_city: Newark
+  subdivisions:
+    - type: county
+      amount: 21
 NM:
   name: New Mexico
   area:
@@ -12053,6 +12153,9 @@ NM:
       female: 31.6
   capital: Santa Fe
   largest_city: Albuquerque
+  subdivisions:
+    - type: county
+      amount: 33
 NV:
   name: Nevada
   area:
@@ -12420,6 +12523,11 @@ NV:
       female: 31.6
   capital: Carson City
   largest_city: Las Vegas
+  subdivisions:
+    - type: county
+      amount: 16
+    - type: independent city
+      amount: 1
 NY:
   name: New York
   area:
@@ -12789,6 +12897,9 @@ NY:
       female: 36.2
   capital: Albany
   largest_city: New York City
+  subdivisions:
+    - type: county
+      amount: 62
 OH:
   name: Ohio
   area:
@@ -13156,6 +13267,9 @@ OH:
       female: 30.5
   capital: Columbus
   largest_city: Columbus
+  subdivisions:
+    - type: county
+      amount: 88
 OK:
   name: Oklahoma
   area:
@@ -13525,6 +13639,9 @@ OK:
       female: 26.9
   capital: Oklahoma City
   largest_city: Oklahoma City
+  subdivisions:
+    - type: county
+      amount: 77
 OR:
   name: Oregon
   area:
@@ -13890,6 +14007,9 @@ OR:
       female: 28.9
   capital: Salem
   largest_city: Portland
+  subdivisions:
+    - type: county
+      amount: 36
 PA:
   name: Pennsylvania
   area:
@@ -14259,6 +14379,9 @@ PA:
       female: 31.6
   capital: Harrisburg
   largest_city: Philadelphia
+  subdivisions:
+    - type: county
+      amount: 67
 RI:
   name: Rhode Island
   area:
@@ -14622,6 +14745,9 @@ RI:
       female: 34.8
   capital: Providence
   largest_city: Providence
+  subdivisions:
+    - type: county
+      amount: 5
 SC:
   name: South Carolina
   area:
@@ -14983,6 +15109,9 @@ SC:
       female: 30.6
   capital: Columbia
   largest_city: Charleston
+  subdivisions:
+    - type: county
+      amount: 46
 SD:
   name: South Dakota
   area:
@@ -15352,6 +15481,9 @@ SD:
       female: 28.1
   capital: Pierre
   largest_city: Sioux Falls
+  subdivisions:
+    - type: county
+      amount: 66
 TN:
   name: Tennessee
   area:
@@ -15725,6 +15857,9 @@ TN:
       female: 28.5
   capital: Nashville
   largest_city: Nashville
+  subdivisions:
+    - type: county
+      amount: 95
 TX:
   name: Texas
   area:
@@ -16090,6 +16225,9 @@ TX:
       female: 30.8
   capital: Austin
   largest_city: Houston
+  subdivisions:
+    - type: county
+      amount: 254
 UT:
   name: Utah
   area:
@@ -16459,6 +16597,9 @@ UT:
       female: 28.3
   capital: Salt Lake City
   largest_city: Salt Lake City
+  subdivisions:
+    - type: county
+      amount: 29
 VA:
   name: Virginia
   area:
@@ -16828,6 +16969,11 @@ VA:
       female: 30.7
   capital: Richmond
   largest_city: Virginia Beach
+  subdivisions:
+    - type: county
+      amount: 95
+    - type: independent city
+      amount: 38
 VT:
   name: Vermont
   area:
@@ -17191,6 +17337,9 @@ VT:
       female: 30.3
   capital: Montpelier
   largest_city: Burlington
+  subdivisions:
+    - type: county
+      amount: 14
 WA:
   name: Washington
   area:
@@ -17552,6 +17701,9 @@ WA:
       female: 28.5
   capital: Olympia
   largest_city: Seattle
+  subdivisions:
+    - type: county
+      amount: 39
 WI:
   name: Wisconsin
   area:
@@ -17917,6 +18069,9 @@ WI:
       female: 30
   capital: Madison
   largest_city: Milwaukee
+  subdivisions:
+    - type: county
+      amount: 72
 WV:
   name: West Virginia
   area:
@@ -18284,6 +18439,9 @@ WV:
       female: 25.3
   capital: Charleston
   largest_city: Charleston
+  subdivisions:
+    - type: county
+      amount: 55
 WY:
   name: Wyoming
   area:
@@ -18653,3 +18811,6 @@ WY:
       female: 23.6
   capital: Cheyenne
   largest_city: Cheyenne
+  subdivisions:
+    - type: county
+      amount: 23

@@ -318,7 +318,19 @@
           }
         },
 		"capital": { "type": ["string", "null"] },
-		"largest_city": { "type": ["string", "null"] }
+		"largest_city": { "type": ["string", "null"] },
+        "subdivisions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": { "type": "string" },
+              "amount": { "type": "number" }
+            },
+            "required": ["type", "amount"],
+            "additionalProperties": false
+          }
+        }
       },
       "required": [
         "name", "area", "neighbours", "median_age", "population_by_age_and_sex", "ancestry",
@@ -327,7 +339,7 @@
         "commute_type", "employment_rate", "work_hours", "median_rent", "rent", "homeownership_rate",
         "housing_value", "housing_units", "occupied_units_by_type", "bedrooms", "vacancy_rate",
         "disability_rate", "disability_types", "birth_by_mother_age", "health_insurance_coverage",
-        "average_family_size", "marital_status", "capital", "largest_city"
+        "average_family_size", "marital_status", "capital", "largest_city", "subdivisions"
       ],
       "additionalProperties": false
     },

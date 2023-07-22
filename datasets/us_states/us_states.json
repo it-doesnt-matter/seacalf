@@ -619,7 +619,17 @@
       }
     ],
     "capital": "Juneau",
-    "largest_city": "Anchorage"
+    "largest_city": "Anchorage",
+    "subdivisions": [
+      {
+        "type": "organized borough",
+        "amount": 19
+      },
+      {
+        "type": "designated census area",
+        "amount": 11
+      }
+    ]
   },
   "AL": {
     "name": "Alabama",
@@ -1258,7 +1268,13 @@
       }
     ],
     "capital": "Montgomery",
-    "largest_city": "Huntsville"
+    "largest_city": "Huntsville",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 67
+      }
+    ]
   },
   "AR": {
     "name": "Arkansas",
@@ -1905,7 +1921,13 @@
       }
     ],
     "capital": "Little Rock",
-    "largest_city": "Little Rock"
+    "largest_city": "Little Rock",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 75
+      }
+    ]
   },
   "AZ": {
     "name": "Arizona",
@@ -2548,7 +2570,13 @@
       }
     ],
     "capital": "Phoenix",
-    "largest_city": "Phoenix"
+    "largest_city": "Phoenix",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 15
+      }
+    ]
   },
   "CA": {
     "name": "California",
@@ -3183,7 +3211,13 @@
       }
     ],
     "capital": "Sacramento",
-    "largest_city": "Los Angeles"
+    "largest_city": "Los Angeles",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 58
+      }
+    ]
   },
   "CO": {
     "name": "Colorado",
@@ -3834,7 +3868,13 @@
       }
     ],
     "capital": "Denver",
-    "largest_city": "Denver"
+    "largest_city": "Denver",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 64
+      }
+    ]
   },
   "CT": {
     "name": "Connecticut",
@@ -4469,7 +4509,13 @@
       }
     ],
     "capital": "Hartford",
-    "largest_city": "Bridgeport"
+    "largest_city": "Bridgeport",
+    "subdivisions": [
+      {
+        "type": "council of governments",
+        "amount": 9
+      }
+    ]
   },
   "DC": {
     "name": "District of Columbia",
@@ -5100,7 +5146,8 @@
       }
     ],
     "capital": null,
-    "largest_city": null
+    "largest_city": null,
+    "subdivisions": []
   },
   "DE": {
     "name": "Delaware",
@@ -5735,7 +5782,13 @@
       }
     ],
     "capital": "Dover",
-    "largest_city": "Wilmington"
+    "largest_city": "Wilmington",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 3
+      }
+    ]
   },
   "FL": {
     "name": "Florida",
@@ -6366,7 +6419,13 @@
       }
     ],
     "capital": "Tallahassee",
-    "largest_city": "Jacksonville"
+    "largest_city": "Jacksonville",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 67
+      }
+    ]
   },
   "GA": {
     "name": "Georgia",
@@ -7009,7 +7068,13 @@
       }
     ],
     "capital": "Atlanta",
-    "largest_city": "Atlanta"
+    "largest_city": "Atlanta",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 159
+      }
+    ]
   },
   "HI": {
     "name": "Hawaii",
@@ -7631,7 +7696,13 @@
       }
     ],
     "capital": "Honolulu",
-    "largest_city": "Honolulu"
+    "largest_city": "Honolulu",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 5
+      }
+    ]
   },
   "IA": {
     "name": "Iowa",
@@ -8278,7 +8349,13 @@
       }
     ],
     "capital": "Des Moines",
-    "largest_city": "Des Moines"
+    "largest_city": "Des Moines",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 99
+      }
+    ]
   },
   "ID": {
     "name": "Idaho",
@@ -8925,7 +9002,13 @@
       }
     ],
     "capital": "Boise",
-    "largest_city": "Boise"
+    "largest_city": "Boise",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 44
+      }
+    ]
   },
   "IL": {
     "name": "Illinois",
@@ -9572,7 +9655,13 @@
       }
     ],
     "capital": "Springfield",
-    "largest_city": "Chicago"
+    "largest_city": "Chicago",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 102
+      }
+    ]
   },
   "IN": {
     "name": "Indiana",
@@ -10211,7 +10300,13 @@
       }
     ],
     "capital": "Indianapolis",
-    "largest_city": "Indianapolis"
+    "largest_city": "Indianapolis",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 92
+      }
+    ]
   },
   "KS": {
     "name": "Kansas",
@@ -10850,7 +10945,13 @@
       }
     ],
     "capital": "Topeka",
-    "largest_city": "Wichita"
+    "largest_city": "Wichita",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 105
+      }
+    ]
   },
   "KY": {
     "name": "Kentucky",
@@ -11501,7 +11602,13 @@
       }
     ],
     "capital": "Frankfort",
-    "largest_city": "Louisville"
+    "largest_city": "Louisville",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 120
+      }
+    ]
   },
   "LA": {
     "name": "Louisiana",
@@ -12136,7 +12243,13 @@
       }
     ],
     "capital": "Baton Rouge",
-    "largest_city": "New Orleans"
+    "largest_city": "New Orleans",
+    "subdivisions": [
+      {
+        "type": "parish",
+        "amount": 64
+      }
+    ]
   },
   "MA": {
     "name": "Massachusetts",
@@ -12779,7 +12892,13 @@
       }
     ],
     "capital": "Boston",
-    "largest_city": "Boston"
+    "largest_city": "Boston",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 14
+      }
+    ]
   },
   "MD": {
     "name": "Maryland",
@@ -13422,7 +13541,17 @@
       }
     ],
     "capital": "Annapolis",
-    "largest_city": "Baltimore"
+    "largest_city": "Baltimore",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 23
+      },
+      {
+        "type": "independent city",
+        "amount": 1
+      }
+    ]
   },
   "ME": {
     "name": "Maine",
@@ -14049,7 +14178,13 @@
       }
     ],
     "capital": "Augusta",
-    "largest_city": "Portland"
+    "largest_city": "Portland",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 16
+      }
+    ]
   },
   "MI": {
     "name": "Michigan",
@@ -14692,7 +14827,13 @@
       }
     ],
     "capital": "Lansing",
-    "largest_city": "Detroit"
+    "largest_city": "Detroit",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 83
+      }
+    ]
   },
   "MN": {
     "name": "Minnesota",
@@ -15335,7 +15476,13 @@
       }
     ],
     "capital": "Saint Paul",
-    "largest_city": "Minneapolis"
+    "largest_city": "Minneapolis",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 87
+      }
+    ]
   },
   "MO": {
     "name": "Missouri",
@@ -15990,7 +16137,17 @@
       }
     ],
     "capital": "Jefferson City",
-    "largest_city": "Kansas City"
+    "largest_city": "Kansas City",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 114
+      },
+      {
+        "type": "independent city",
+        "amount": 1
+      }
+    ]
   },
   "MS": {
     "name": "Mississippi",
@@ -16629,7 +16786,13 @@
       }
     ],
     "capital": "Jackson",
-    "largest_city": "Jackson"
+    "largest_city": "Jackson",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 82
+      }
+    ]
   },
   "MT": {
     "name": "Montana",
@@ -17268,7 +17431,13 @@
       }
     ],
     "capital": "Helena",
-    "largest_city": "Billings"
+    "largest_city": "Billings",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 56
+      }
+    ]
   },
   "NC": {
     "name": "North Carolina",
@@ -17907,7 +18076,13 @@
       }
     ],
     "capital": "Raleigh",
-    "largest_city": "Charlotte"
+    "largest_city": "Charlotte",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 100
+      }
+    ]
   },
   "ND": {
     "name": "North Dakota",
@@ -18542,7 +18717,13 @@
       }
     ],
     "capital": "Bismarck",
-    "largest_city": "Fargo"
+    "largest_city": "Fargo",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 53
+      }
+    ]
   },
   "NE": {
     "name": "Nebraska",
@@ -19189,7 +19370,13 @@
       }
     ],
     "capital": "Lincoln",
-    "largest_city": "Omaha"
+    "largest_city": "Omaha",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 93
+      }
+    ]
   },
   "NH": {
     "name": "New Hampshire",
@@ -19824,7 +20011,13 @@
       }
     ],
     "capital": "Concord",
-    "largest_city": "Manchester"
+    "largest_city": "Manchester",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 10
+      }
+    ]
   },
   "NJ": {
     "name": "New Jersey",
@@ -20459,7 +20652,13 @@
       }
     ],
     "capital": "Trenton",
-    "largest_city": "Newark"
+    "largest_city": "Newark",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 21
+      }
+    ]
   },
   "NM": {
     "name": "New Mexico",
@@ -21102,7 +21301,13 @@
       }
     ],
     "capital": "Santa Fe",
-    "largest_city": "Albuquerque"
+    "largest_city": "Albuquerque",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 33
+      }
+    ]
   },
   "NV": {
     "name": "Nevada",
@@ -21745,7 +21950,17 @@
       }
     ],
     "capital": "Carson City",
-    "largest_city": "Las Vegas"
+    "largest_city": "Las Vegas",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 16
+      },
+      {
+        "type": "independent city",
+        "amount": 1
+      }
+    ]
   },
   "NY": {
     "name": "New York",
@@ -22392,7 +22607,13 @@
       }
     ],
     "capital": "Albany",
-    "largest_city": "New York City"
+    "largest_city": "New York City",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 62
+      }
+    ]
   },
   "OH": {
     "name": "Ohio",
@@ -23035,7 +23256,13 @@
       }
     ],
     "capital": "Columbus",
-    "largest_city": "Columbus"
+    "largest_city": "Columbus",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 88
+      }
+    ]
   },
   "OK": {
     "name": "Oklahoma",
@@ -23682,7 +23909,13 @@
       }
     ],
     "capital": "Oklahoma City",
-    "largest_city": "Oklahoma City"
+    "largest_city": "Oklahoma City",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 77
+      }
+    ]
   },
   "OR": {
     "name": "Oregon",
@@ -24321,7 +24554,13 @@
       }
     ],
     "capital": "Salem",
-    "largest_city": "Portland"
+    "largest_city": "Portland",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 36
+      }
+    ]
   },
   "PA": {
     "name": "Pennsylvania",
@@ -24968,7 +25207,13 @@
       }
     ],
     "capital": "Harrisburg",
-    "largest_city": "Philadelphia"
+    "largest_city": "Philadelphia",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 67
+      }
+    ]
   },
   "RI": {
     "name": "Rhode Island",
@@ -25603,7 +25848,13 @@
       }
     ],
     "capital": "Providence",
-    "largest_city": "Providence"
+    "largest_city": "Providence",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 5
+      }
+    ]
   },
   "SC": {
     "name": "South Carolina",
@@ -26234,7 +26485,13 @@
       }
     ],
     "capital": "Columbia",
-    "largest_city": "Charleston"
+    "largest_city": "Charleston",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 46
+      }
+    ]
   },
   "SD": {
     "name": "South Dakota",
@@ -26881,7 +27138,13 @@
       }
     ],
     "capital": "Pierre",
-    "largest_city": "Sioux Falls"
+    "largest_city": "Sioux Falls",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 66
+      }
+    ]
   },
   "TN": {
     "name": "Tennessee",
@@ -27536,7 +27799,13 @@
       }
     ],
     "capital": "Nashville",
-    "largest_city": "Nashville"
+    "largest_city": "Nashville",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 95
+      }
+    ]
   },
   "TX": {
     "name": "Texas",
@@ -28175,7 +28444,13 @@
       }
     ],
     "capital": "Austin",
-    "largest_city": "Houston"
+    "largest_city": "Houston",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 254
+      }
+    ]
   },
   "UT": {
     "name": "Utah",
@@ -28822,7 +29097,13 @@
       }
     ],
     "capital": "Salt Lake City",
-    "largest_city": "Salt Lake City"
+    "largest_city": "Salt Lake City",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 29
+      }
+    ]
   },
   "VA": {
     "name": "Virginia",
@@ -29469,7 +29750,17 @@
       }
     ],
     "capital": "Richmond",
-    "largest_city": "Virginia Beach"
+    "largest_city": "Virginia Beach",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 95
+      },
+      {
+        "type": "independent city",
+        "amount": 38
+      }
+    ]
   },
   "VT": {
     "name": "Vermont",
@@ -30104,7 +30395,13 @@
       }
     ],
     "capital": "Montpelier",
-    "largest_city": "Burlington"
+    "largest_city": "Burlington",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 14
+      }
+    ]
   },
   "WA": {
     "name": "Washington",
@@ -30735,7 +31032,13 @@
       }
     ],
     "capital": "Olympia",
-    "largest_city": "Seattle"
+    "largest_city": "Seattle",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 39
+      }
+    ]
   },
   "WI": {
     "name": "Wisconsin",
@@ -31374,7 +31677,13 @@
       }
     ],
     "capital": "Madison",
-    "largest_city": "Milwaukee"
+    "largest_city": "Milwaukee",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 72
+      }
+    ]
   },
   "WV": {
     "name": "West Virginia",
@@ -32017,7 +32326,13 @@
       }
     ],
     "capital": "Charleston",
-    "largest_city": "Charleston"
+    "largest_city": "Charleston",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 55
+      }
+    ]
   },
   "WY": {
     "name": "Wyoming",
@@ -32664,6 +32979,12 @@
       }
     ],
     "capital": "Cheyenne",
-    "largest_city": "Cheyenne"
+    "largest_city": "Cheyenne",
+    "subdivisions": [
+      {
+        "type": "county",
+        "amount": 23
+      }
+    ]
   }
 }

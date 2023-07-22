@@ -578,6 +578,14 @@
   </marital_status>
   <capital>Juneau</capital>
   <largest_city>Anchorage</largest_city>
+  <subdivisions>
+    <type>organized borough</type>
+    <amount>19</amount>
+  </subdivisions>
+  <subdivisions>
+    <type>designated census area</type>
+    <amount>11</amount>
+  </subdivisions>
 </AK>
 <AL>
   <name>Alabama</name>
@@ -1175,6 +1183,10 @@
   </marital_status>
   <capital>Montgomery</capital>
   <largest_city>Huntsville</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>67</amount>
+  </subdivisions>
 </AL>
 <AR>
   <name>Arkansas</name>
@@ -1780,6 +1792,10 @@
   </marital_status>
   <capital>Little Rock</capital>
   <largest_city>Little Rock</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>75</amount>
+  </subdivisions>
 </AR>
 <AZ>
   <name>Arizona</name>
@@ -2381,6 +2397,10 @@
   </marital_status>
   <capital>Phoenix</capital>
   <largest_city>Phoenix</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>15</amount>
+  </subdivisions>
 </AZ>
 <CA>
   <name>California</name>
@@ -2974,6 +2994,10 @@
   </marital_status>
   <capital>Sacramento</capital>
   <largest_city>Los Angeles</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>58</amount>
+  </subdivisions>
 </CA>
 <CO>
   <name>Colorado</name>
@@ -3583,6 +3607,10 @@
   </marital_status>
   <capital>Denver</capital>
   <largest_city>Denver</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>64</amount>
+  </subdivisions>
 </CO>
 <CT>
   <name>Connecticut</name>
@@ -4176,6 +4204,10 @@
   </marital_status>
   <capital>Hartford</capital>
   <largest_city>Bridgeport</largest_city>
+  <subdivisions>
+    <type>council of governments</type>
+    <amount>9</amount>
+  </subdivisions>
 </CT>
 <DC>
   <name>District of Columbia</name>
@@ -5358,6 +5390,10 @@
   </marital_status>
   <capital>Dover</capital>
   <largest_city>Wilmington</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>3</amount>
+  </subdivisions>
 </DE>
 <FL>
   <name>Florida</name>
@@ -5947,6 +5983,10 @@
   </marital_status>
   <capital>Tallahassee</capital>
   <largest_city>Jacksonville</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>67</amount>
+  </subdivisions>
 </FL>
 <GA>
   <name>Georgia</name>
@@ -6548,6 +6588,10 @@
   </marital_status>
   <capital>Atlanta</capital>
   <largest_city>Atlanta</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>159</amount>
+  </subdivisions>
 </GA>
 <HI>
   <name>Hawaii</name>
@@ -7129,6 +7173,10 @@
   </marital_status>
   <capital>Honolulu</capital>
   <largest_city>Honolulu</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>5</amount>
+  </subdivisions>
 </HI>
 <IA>
   <name>Iowa</name>
@@ -7734,6 +7782,10 @@
   </marital_status>
   <capital>Des Moines</capital>
   <largest_city>Des Moines</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>99</amount>
+  </subdivisions>
 </IA>
 <ID>
   <name>Idaho</name>
@@ -8339,6 +8391,10 @@
   </marital_status>
   <capital>Boise</capital>
   <largest_city>Boise</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>44</amount>
+  </subdivisions>
 </ID>
 <IL>
   <name>Illinois</name>
@@ -8944,6 +9000,10 @@
   </marital_status>
   <capital>Springfield</capital>
   <largest_city>Chicago</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>102</amount>
+  </subdivisions>
 </IL>
 <IN>
   <name>Indiana</name>
@@ -9541,6 +9601,10 @@
   </marital_status>
   <capital>Indianapolis</capital>
   <largest_city>Indianapolis</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>92</amount>
+  </subdivisions>
 </IN>
 <KS>
   <name>Kansas</name>
@@ -10138,6 +10202,10 @@
   </marital_status>
   <capital>Topeka</capital>
   <largest_city>Wichita</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>105</amount>
+  </subdivisions>
 </KS>
 <KY>
   <name>Kentucky</name>
@@ -10747,6 +10815,10 @@
   </marital_status>
   <capital>Frankfort</capital>
   <largest_city>Louisville</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>120</amount>
+  </subdivisions>
 </KY>
 <LA>
   <name>Louisiana</name>
@@ -11340,6 +11412,10 @@
   </marital_status>
   <capital>Baton Rouge</capital>
   <largest_city>New Orleans</largest_city>
+  <subdivisions>
+    <type>parish</type>
+    <amount>64</amount>
+  </subdivisions>
 </LA>
 <MA>
   <name>Massachusetts</name>
@@ -11941,6 +12017,10 @@
   </marital_status>
   <capital>Boston</capital>
   <largest_city>Boston</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>14</amount>
+  </subdivisions>
 </MA>
 <MD>
   <name>Maryland</name>
@@ -12542,6 +12622,14 @@
   </marital_status>
   <capital>Annapolis</capital>
   <largest_city>Baltimore</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>23</amount>
+  </subdivisions>
+  <subdivisions>
+    <type>independent city</type>
+    <amount>1</amount>
+  </subdivisions>
 </MD>
 <ME>
   <name>Maine</name>
@@ -13127,6 +13215,10 @@
   </marital_status>
   <capital>Augusta</capital>
   <largest_city>Portland</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>16</amount>
+  </subdivisions>
 </ME>
 <MI>
   <name>Michigan</name>
@@ -13728,6 +13820,10 @@
   </marital_status>
   <capital>Lansing</capital>
   <largest_city>Detroit</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>83</amount>
+  </subdivisions>
 </MI>
 <MN>
   <name>Minnesota</name>
@@ -14329,6 +14425,10 @@
   </marital_status>
   <capital>Saint Paul</capital>
   <largest_city>Minneapolis</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>87</amount>
+  </subdivisions>
 </MN>
 <MO>
   <name>Missouri</name>
@@ -14942,6 +15042,14 @@
   </marital_status>
   <capital>Jefferson City</capital>
   <largest_city>Kansas City</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>114</amount>
+  </subdivisions>
+  <subdivisions>
+    <type>independent city</type>
+    <amount>1</amount>
+  </subdivisions>
 </MO>
 <MS>
   <name>Mississippi</name>
@@ -15539,6 +15647,10 @@
   </marital_status>
   <capital>Jackson</capital>
   <largest_city>Jackson</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>82</amount>
+  </subdivisions>
 </MS>
 <MT>
   <name>Montana</name>
@@ -16136,6 +16248,10 @@
   </marital_status>
   <capital>Helena</capital>
   <largest_city>Billings</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>56</amount>
+  </subdivisions>
 </MT>
 <NC>
   <name>North Carolina</name>
@@ -16733,6 +16849,10 @@
   </marital_status>
   <capital>Raleigh</capital>
   <largest_city>Charlotte</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>100</amount>
+  </subdivisions>
 </NC>
 <ND>
   <name>North Dakota</name>
@@ -17326,6 +17446,10 @@
   </marital_status>
   <capital>Bismarck</capital>
   <largest_city>Fargo</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>53</amount>
+  </subdivisions>
 </ND>
 <NE>
   <name>Nebraska</name>
@@ -17931,6 +18055,10 @@
   </marital_status>
   <capital>Lincoln</capital>
   <largest_city>Omaha</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>93</amount>
+  </subdivisions>
 </NE>
 <NH>
   <name>New Hampshire</name>
@@ -18524,6 +18652,10 @@
   </marital_status>
   <capital>Concord</capital>
   <largest_city>Manchester</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>10</amount>
+  </subdivisions>
 </NH>
 <NJ>
   <name>New Jersey</name>
@@ -19117,6 +19249,10 @@
   </marital_status>
   <capital>Trenton</capital>
   <largest_city>Newark</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>21</amount>
+  </subdivisions>
 </NJ>
 <NM>
   <name>New Mexico</name>
@@ -19718,6 +19854,10 @@
   </marital_status>
   <capital>Santa Fe</capital>
   <largest_city>Albuquerque</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>33</amount>
+  </subdivisions>
 </NM>
 <NV>
   <name>Nevada</name>
@@ -20319,6 +20459,14 @@
   </marital_status>
   <capital>Carson City</capital>
   <largest_city>Las Vegas</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>16</amount>
+  </subdivisions>
+  <subdivisions>
+    <type>independent city</type>
+    <amount>1</amount>
+  </subdivisions>
 </NV>
 <NY>
   <name>New York</name>
@@ -20924,6 +21072,10 @@
   </marital_status>
   <capital>Albany</capital>
   <largest_city>New York City</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>62</amount>
+  </subdivisions>
 </NY>
 <OH>
   <name>Ohio</name>
@@ -21525,6 +21677,10 @@
   </marital_status>
   <capital>Columbus</capital>
   <largest_city>Columbus</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>88</amount>
+  </subdivisions>
 </OH>
 <OK>
   <name>Oklahoma</name>
@@ -22130,6 +22286,10 @@
   </marital_status>
   <capital>Oklahoma City</capital>
   <largest_city>Oklahoma City</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>77</amount>
+  </subdivisions>
 </OK>
 <OR>
   <name>Oregon</name>
@@ -22727,6 +22887,10 @@
   </marital_status>
   <capital>Salem</capital>
   <largest_city>Portland</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>36</amount>
+  </subdivisions>
 </OR>
 <PA>
   <name>Pennsylvania</name>
@@ -23332,6 +23496,10 @@
   </marital_status>
   <capital>Harrisburg</capital>
   <largest_city>Philadelphia</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>67</amount>
+  </subdivisions>
 </PA>
 <RI>
   <name>Rhode Island</name>
@@ -23925,6 +24093,10 @@
   </marital_status>
   <capital>Providence</capital>
   <largest_city>Providence</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>5</amount>
+  </subdivisions>
 </RI>
 <SC>
   <name>South Carolina</name>
@@ -24514,6 +24686,10 @@
   </marital_status>
   <capital>Columbia</capital>
   <largest_city>Charleston</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>46</amount>
+  </subdivisions>
 </SC>
 <SD>
   <name>South Dakota</name>
@@ -25119,6 +25295,10 @@
   </marital_status>
   <capital>Pierre</capital>
   <largest_city>Sioux Falls</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>66</amount>
+  </subdivisions>
 </SD>
 <TN>
   <name>Tennessee</name>
@@ -25732,6 +25912,10 @@
   </marital_status>
   <capital>Nashville</capital>
   <largest_city>Nashville</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>95</amount>
+  </subdivisions>
 </TN>
 <TX>
   <name>Texas</name>
@@ -26329,6 +26513,10 @@
   </marital_status>
   <capital>Austin</capital>
   <largest_city>Houston</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>254</amount>
+  </subdivisions>
 </TX>
 <UT>
   <name>Utah</name>
@@ -26934,6 +27122,10 @@
   </marital_status>
   <capital>Salt Lake City</capital>
   <largest_city>Salt Lake City</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>29</amount>
+  </subdivisions>
 </UT>
 <VA>
   <name>Virginia</name>
@@ -27539,6 +27731,14 @@
   </marital_status>
   <capital>Richmond</capital>
   <largest_city>Virginia Beach</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>95</amount>
+  </subdivisions>
+  <subdivisions>
+    <type>independent city</type>
+    <amount>38</amount>
+  </subdivisions>
 </VA>
 <VT>
   <name>Vermont</name>
@@ -28132,6 +28332,10 @@
   </marital_status>
   <capital>Montpelier</capital>
   <largest_city>Burlington</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>14</amount>
+  </subdivisions>
 </VT>
 <WA>
   <name>Washington</name>
@@ -28721,6 +28925,10 @@
   </marital_status>
   <capital>Olympia</capital>
   <largest_city>Seattle</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>39</amount>
+  </subdivisions>
 </WA>
 <WI>
   <name>Wisconsin</name>
@@ -29318,6 +29526,10 @@
   </marital_status>
   <capital>Madison</capital>
   <largest_city>Milwaukee</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>72</amount>
+  </subdivisions>
 </WI>
 <WV>
   <name>West Virginia</name>
@@ -29919,6 +30131,10 @@
   </marital_status>
   <capital>Charleston</capital>
   <largest_city>Charleston</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>55</amount>
+  </subdivisions>
 </WV>
 <WY>
   <name>Wyoming</name>
@@ -30524,4 +30740,8 @@
   </marital_status>
   <capital>Cheyenne</capital>
   <largest_city>Cheyenne</largest_city>
+  <subdivisions>
+    <type>county</type>
+    <amount>23</amount>
+  </subdivisions>
 </WY>

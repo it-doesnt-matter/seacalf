@@ -1,5 +1,11 @@
 # Changelog
 
+## 2023-07-22
+
+### Added
+
+- add subdivisions property to the US states
+
 ## 2023-07-21
 
 ### Added
