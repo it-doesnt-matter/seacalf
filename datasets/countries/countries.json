@@ -461,9 +461,9 @@
       "ms": 39,
       "vf": 3,
       "voa": 34,
-      "eta": 2,
+      "eta": 3,
       "vr": 159,
-      "ppr": 97,
+      "ppr": 98,
       "ipr": 199,
       "wr": 20
     },
@@ -1540,12 +1540,12 @@
     "coastline": 362.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 119,
+      "ms": 120,
       "vf": 69,
       "voa": 46,
-      "eta": 3,
-      "vr": 79,
-      "ppr": 39,
+      "eta": 4,
+      "vr": 78,
+      "ppr": 42,
       "ipr": 93,
       "wr": 60
     },
@@ -2572,9 +2572,9 @@
       "ms": 66,
       "vf": 18,
       "voa": 46,
-      "eta": 2,
+      "eta": 3,
       "vr": 132,
-      "ppr": 75,
+      "ppr": 78,
       "ipr": 158,
       "wr": 33
     },
@@ -3613,11 +3613,11 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 159,
+      "ms": 160,
       "vf": 96,
       "voa": 56,
-      "eta": 7,
-      "vr": 39,
+      "eta": 8,
+      "vr": 38,
       "ppr": 12,
       "ipr": 46,
       "wr": 80
@@ -4411,14 +4411,14 @@
     "coastline": 1600.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 64,
-      "vf": 23,
-      "voa": 38,
-      "eta": 3,
-      "vr": 134,
-      "ppr": 77,
-      "ipr": 163,
-      "wr": 32
+      "ms": 65,
+      "vf": 22,
+      "voa": 39,
+      "eta": 4,
+      "vr": 133,
+      "ppr": 79,
+      "ipr": 162,
+      "wr": 33
     },
     "emoji_flag": "🇦🇴",
     "translations": {
@@ -5926,12 +5926,12 @@
     "coastline": 153.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 141,
+      "ms": 142,
       "vf": 96,
       "voa": 42,
-      "eta": 3,
-      "vr": 57,
-      "ppr": 23,
+      "eta": 4,
+      "vr": 56,
+      "ppr": 24,
       "ipr": 62,
       "wr": 71
     },
@@ -6846,11 +6846,11 @@
     "coastline": 4989.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 161,
+      "ms": 162,
       "vf": 103,
       "voa": 53,
-      "eta": 5,
-      "vr": 37,
+      "eta": 6,
+      "vr": 36,
       "ppr": 11,
       "ipr": 45,
       "wr": 81
@@ -7801,12 +7801,12 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 81,
+      "ms": 82,
       "vf": 33,
       "voa": 46,
-      "eta": 2,
-      "vr": 117,
-      "ppr": 60,
+      "eta": 3,
+      "vr": 116,
+      "ppr": 63,
       "ipr": 121,
       "wr": 41
     },
@@ -9411,14 +9411,14 @@
     "coastline": 25760.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 172,
+      "ms": 173,
       "vf": 110,
       "voa": 57,
-      "eta": 5,
-      "vr": 26,
+      "eta": 6,
+      "vr": 25,
       "ppr": 4,
       "ipr": 27,
-      "wr": 86
+      "wr": 87
     },
     "emoji_flag": "🇦🇺",
     "translations": {
@@ -10477,14 +10477,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 174,
+      "ms": 175,
       "vf": 122,
       "voa": 45,
-      "eta": 7,
-      "vr": 24,
+      "eta": 8,
+      "vr": 23,
       "ppr": 2,
       "ipr": 10,
-      "wr": 87
+      "wr": 88
     },
     "emoji_flag": "🇦🇹",
     "translations": {
@@ -11425,14 +11425,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 80,
-      "vf": 30,
+      "ms": 82,
+      "vf": 31,
       "voa": 47,
-      "eta": 3,
-      "vr": 118,
-      "ppr": 61,
+      "eta": 4,
+      "vr": 116,
+      "ppr": 63,
       "ipr": 122,
-      "wr": 40
+      "wr": 41
     },
     "emoji_flag": "🇦🇿",
     "translations": {
@@ -12428,14 +12428,14 @@
     "coastline": 3542.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 148,
+      "ms": 149,
       "vf": 98,
       "voa": 45,
-      "eta": 5,
-      "vr": 50,
-      "ppr": 17,
+      "eta": 6,
+      "vr": 49,
+      "ppr": 18,
       "ipr": 53,
-      "wr": 74
+      "wr": 75
     },
     "emoji_flag": "🇧🇸",
     "translations": {
@@ -13453,14 +13453,14 @@
     "coastline": 161.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 100,
+      "ms": 101,
       "vf": 46,
       "voa": 48,
-      "eta": 6,
-      "vr": 98,
-      "ppr": 44,
-      "ipr": 100,
-      "wr": 50
+      "eta": 7,
+      "vr": 97,
+      "ppr": 48,
+      "ipr": 99,
+      "wr": 51
     },
     "emoji_flag": "🇧🇭",
     "translations": {
@@ -14435,14 +14435,14 @@
     "coastline": 580.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 48,
+      "ms": 49,
       "vf": 14,
       "voa": 32,
-      "eta": 2,
-      "vr": 150,
-      "ppr": 91,
+      "eta": 3,
+      "vr": 149,
+      "ppr": 93,
       "ipr": 193,
-      "wr": 24
+      "wr": 25
     },
     "emoji_flag": "🇧🇩",
     "translations": {
@@ -15458,14 +15458,14 @@
     "coastline": 97.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 152,
+      "ms": 153,
       "vf": 105,
       "voa": 42,
-      "eta": 5,
-      "vr": 46,
-      "ppr": 15,
+      "eta": 6,
+      "vr": 45,
+      "ppr": 16,
       "ipr": 50,
-      "wr": 76
+      "wr": 77
     },
     "emoji_flag": "🇧🇧",
     "translations": {
@@ -16493,12 +16493,12 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 91,
+      "ms": 92,
       "vf": 42,
       "voa": 47,
-      "eta": 2,
-      "vr": 107,
-      "ppr": 51,
+      "eta": 3,
+      "vr": 106,
+      "ppr": 55,
       "ipr": 110,
       "wr": 46
     },
@@ -17501,11 +17501,11 @@
     "coastline": 66.5,
     "is_landlocked": false,
     "arton": {
-      "ms": 173,
+      "ms": 174,
       "vf": 123,
       "voa": 44,
-      "eta": 6,
-      "vr": 25,
+      "eta": 7,
+      "vr": 24,
       "ppr": 3,
       "ipr": 14,
       "wr": 87
@@ -18535,14 +18535,14 @@
     "coastline": 386.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 98,
+      "ms": 99,
       "vf": 58,
       "voa": 38,
-      "eta": 2,
-      "vr": 100,
-      "ppr": 46,
-      "ipr": 102,
-      "wr": 49
+      "eta": 3,
+      "vr": 99,
+      "ppr": 50,
+      "ipr": 101,
+      "wr": 50
     },
     "emoji_flag": "🇧🇿",
     "translations": {
@@ -19582,9 +19582,9 @@
       "ms": 69,
       "vf": 30,
       "voa": 38,
-      "eta": 1,
+      "eta": 2,
       "vr": 129,
-      "ppr": 72,
+      "ppr": 75,
       "ipr": 147,
       "wr": 35
     },
@@ -20995,10 +20995,10 @@
       "ms": 67,
       "vf": 16,
       "voa": 49,
-      "eta": 2,
+      "eta": 3,
       "vr": 131,
-      "ppr": 74,
-      "ipr": 154,
+      "ppr": 77,
+      "ipr": 156,
       "wr": 34
     },
     "emoji_flag": "🇧🇹",
@@ -22097,14 +22097,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 86,
+      "ms": 87,
       "vf": 35,
       "voa": 49,
-      "eta": 2,
-      "vr": 112,
-      "ppr": 55,
+      "eta": 3,
+      "vr": 111,
+      "ppr": 59,
       "ipr": 115,
-      "wr": 43
+      "wr": 44
     },
     "emoji_flag": "🇧🇴",
     "translations": {
@@ -23233,14 +23233,14 @@
     "coastline": 20.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 118,
+      "ms": 119,
       "vf": 69,
       "voa": 46,
-      "eta": 3,
-      "vr": 80,
-      "ppr": 39,
+      "eta": 4,
+      "vr": 79,
+      "ppr": 43,
       "ipr": 94,
-      "wr": 59
+      "wr": 60
     },
     "emoji_flag": "🇧🇦",
     "translations": {
@@ -24233,12 +24233,12 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 87,
+      "ms": 88,
       "vf": 49,
       "voa": 34,
-      "eta": 4,
-      "vr": 111,
-      "ppr": 54,
+      "eta": 5,
+      "vr": 110,
+      "ppr": 58,
       "ipr": 114,
       "wr": 44
     },
@@ -25488,11 +25488,11 @@
     "coastline": 7491.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 161,
+      "ms": 162,
       "vf": 106,
       "voa": 51,
-      "eta": 4,
-      "vr": 37,
+      "eta": 5,
+      "vr": 36,
       "ppr": 11,
       "ipr": 44,
       "wr": 81
@@ -26699,14 +26699,14 @@
     "coastline": 161.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 154,
+      "ms": 155,
       "vf": 99,
       "voa": 47,
-      "eta": 8,
-      "vr": 44,
-      "ppr": 14,
+      "eta": 9,
+      "vr": 43,
+      "ppr": 15,
       "ipr": 49,
-      "wr": 77
+      "wr": 78
     },
     "emoji_flag": "🇧🇳",
     "translations": {
@@ -27644,14 +27644,14 @@
     "coastline": 354.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 168,
+      "ms": 169,
       "vf": 112,
       "voa": 51,
       "eta": 5,
-      "vr": 30,
+      "vr": 29,
       "ppr": 8,
       "ipr": 40,
-      "wr": 84
+      "wr": 85
     },
     "emoji_flag": "🇧🇬",
     "translations": {
@@ -28580,9 +28580,9 @@
       "ms": 69,
       "vf": 29,
       "voa": 39,
-      "eta": 1,
+      "eta": 2,
       "vr": 129,
-      "ppr": 72,
+      "ppr": 75,
       "ipr": 148,
       "wr": 35
     },
@@ -29588,14 +29588,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 58,
+      "ms": 59,
       "vf": 17,
       "voa": 39,
-      "eta": 2,
-      "vr": 140,
-      "ppr": 82,
+      "eta": 3,
+      "vr": 139,
+      "ppr": 84,
       "ipr": 176,
-      "wr": 29
+      "wr": 30
     },
     "emoji_flag": "🇧🇮",
     "translations": {
@@ -30541,11 +30541,11 @@
     "arton": {
       "ms": 77,
       "vf": 36,
-      "voa": 40,
-      "eta": 1,
+      "voa": 38,
+      "eta": 2,
       "vr": 121,
-      "ppr": 64,
-      "ipr": 129,
+      "ppr": 68,
+      "ipr": 132,
       "wr": 39
     },
     "emoji_flag": "🇨🇻",
@@ -31433,9 +31433,9 @@
       "ms": 70,
       "vf": 19,
       "voa": 48,
-      "eta": 3,
+      "eta": 4,
       "vr": 128,
-      "ppr": 71,
+      "ppr": 74,
       "ipr": 144,
       "wr": 35
     },
@@ -32488,14 +32488,14 @@
     "coastline": 402.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 60,
+      "ms": 61,
       "vf": 19,
-      "voa": 39,
-      "eta": 2,
-      "vr": 138,
-      "ppr": 81,
-      "ipr": 175,
-      "wr": 30
+      "voa": 40,
+      "eta": 3,
+      "vr": 137,
+      "ppr": 83,
+      "ipr": 174,
+      "wr": 31
     },
     "emoji_flag": "🇨🇲",
     "translations": {
@@ -33526,14 +33526,14 @@
     "coastline": 202080.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 172,
+      "ms": 173,
       "vf": 115,
       "voa": 52,
-      "eta": 5,
-      "vr": 26,
+      "eta": 6,
+      "vr": 25,
       "ppr": 4,
       "ipr": 25,
-      "wr": 86
+      "wr": 87
     },
     "emoji_flag": "🇨🇦",
     "translations": {
@@ -35164,13 +35164,13 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 61,
+      "ms": 62,
       "vf": 19,
       "voa": 41,
-      "eta": 1,
-      "vr": 137,
-      "ppr": 80,
-      "ipr": 173,
+      "eta": 2,
+      "vr": 136,
+      "ppr": 82,
+      "ipr": 171,
       "wr": 31
     },
     "emoji_flag": "🇨🇫",
@@ -36182,14 +36182,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 62,
+      "ms": 63,
       "vf": 22,
       "voa": 39,
-      "eta": 1,
-      "vr": 136,
-      "ppr": 79,
+      "eta": 2,
+      "vr": 135,
+      "ppr": 81,
       "ipr": 169,
-      "wr": 31
+      "wr": 32
     },
     "emoji_flag": "🇹🇩",
     "translations": {
@@ -37179,11 +37179,11 @@
     "coastline": 6435.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 161,
+      "ms": 162,
       "vf": 104,
       "voa": 51,
-      "eta": 6,
-      "vr": 37,
+      "eta": 7,
+      "vr": 36,
       "ppr": 11,
       "ipr": 43,
       "wr": 81
@@ -38283,12 +38283,12 @@
     "coastline": 14500.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 83,
+      "ms": 84,
       "vf": 30,
       "voa": 50,
-      "eta": 3,
-      "vr": 115,
-      "ppr": 58,
+      "eta": 4,
+      "vr": 114,
+      "ppr": 61,
       "ipr": 118,
       "wr": 42
     },
@@ -39670,14 +39670,14 @@
     "coastline": 3208.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 138,
+      "ms": 139,
       "vf": 82,
       "voa": 53,
-      "eta": 3,
-      "vr": 60,
-      "ppr": 26,
+      "eta": 4,
+      "vr": 59,
+      "ppr": 27,
       "ipr": 66,
-      "wr": 69
+      "wr": 70
     },
     "emoji_flag": "🇨🇴",
     "translations": {
@@ -40661,13 +40661,13 @@
     "coastline": 340.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 63,
+      "ms": 64,
       "vf": 17,
       "voa": 44,
-      "eta": 2,
-      "vr": 135,
-      "ppr": 78,
-      "ipr": 168,
+      "eta": 3,
+      "vr": 134,
+      "ppr": 80,
+      "ipr": 167,
       "wr": 32
     },
     "emoji_flag": "🇰🇲",
@@ -41581,12 +41581,12 @@
     "coastline": 169.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 57,
+      "ms": 58,
       "vf": 18,
       "voa": 37,
-      "eta": 2,
-      "vr": 141,
-      "ppr": 83,
+      "eta": 3,
+      "vr": 140,
+      "ppr": 85,
       "ipr": 177,
       "wr": 29
     },
@@ -42619,14 +42619,14 @@
     "coastline": 37.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 54,
+      "ms": 55,
       "vf": 14,
       "voa": 38,
-      "eta": 2,
-      "vr": 144,
-      "ppr": 86,
-      "ipr": 184,
-      "wr": 27
+      "eta": 3,
+      "vr": 143,
+      "ppr": 88,
+      "ipr": 183,
+      "wr": 28
     },
     "emoji_flag": "🇨🇩",
     "translations": {
@@ -44072,14 +44072,14 @@
     "coastline": 1290.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 142,
+      "ms": 143,
       "vf": 90,
       "voa": 48,
-      "eta": 4,
-      "vr": 56,
-      "ppr": 22,
+      "eta": 5,
+      "vr": 55,
+      "ppr": 23,
       "ipr": 61,
-      "wr": 71
+      "wr": 72
     },
     "emoji_flag": "🇨🇷",
     "translations": {
@@ -45124,10 +45124,10 @@
       "ms": 68,
       "vf": 29,
       "voa": 38,
-      "eta": 1,
+      "eta": 2,
       "vr": 130,
-      "ppr": 73,
-      "ipr": 151,
+      "ppr": 76,
+      "ipr": 152,
       "wr": 34
     },
     "emoji_flag": "🇨🇮",
@@ -46106,14 +46106,14 @@
     "coastline": 5835.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 168,
+      "ms": 170,
       "vf": 115,
-      "voa": 47,
+      "voa": 48,
       "eta": 6,
-      "vr": 30,
-      "ppr": 8,
-      "ipr": 38,
-      "wr": 84
+      "vr": 28,
+      "ppr": 7,
+      "ipr": 37,
+      "wr": 85
     },
     "emoji_flag": "🇭🇷",
     "translations": {
@@ -46917,12 +46917,12 @@
     "is_landlocked": false,
     "arton": {
       "ms": 76,
-      "vf": 27,
+      "vf": 26,
       "voa": 47,
-      "eta": 2,
+      "eta": 3,
       "vr": 122,
-      "ppr": 65,
-      "ipr": 132,
+      "ppr": 68,
+      "ipr": 133,
       "wr": 38
     },
     "emoji_flag": "🇨🇺",
@@ -48608,14 +48608,14 @@
     "coastline": 648.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 168,
+      "ms": 169,
       "vf": 117,
       "voa": 46,
       "eta": 5,
-      "vr": 30,
+      "vr": 29,
       "ppr": 8,
-      "ipr": 37,
-      "wr": 84
+      "ipr": 38,
+      "wr": 85
     },
     "emoji_flag": "🇨🇾",
     "translations": {
@@ -49656,14 +49656,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 172,
+      "ms": 173,
       "vf": 119,
       "voa": 47,
       "eta": 6,
-      "vr": 26,
+      "vr": 25,
       "ppr": 4,
       "ipr": 22,
-      "wr": 86
+      "wr": 87
     },
     "emoji_flag": "🇨🇿",
     "translations": {
@@ -50685,11 +50685,11 @@
     "coastline": 7314.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 173,
+      "ms": 174,
       "vf": 124,
       "voa": 43,
-      "eta": 6,
-      "vr": 25,
+      "eta": 7,
+      "vr": 24,
       "ppr": 3,
       "ipr": 13,
       "wr": 87
@@ -51708,13 +51708,13 @@
     "coastline": 314.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 61,
-      "vf": 14,
+      "ms": 62,
+      "vf": 15,
       "voa": 45,
-      "eta": 2,
-      "vr": 137,
-      "ppr": 80,
-      "ipr": 174,
+      "eta": 3,
+      "vr": 136,
+      "ppr": 82,
+      "ipr": 172,
       "wr": 31
     },
     "emoji_flag": "🇩🇯",
@@ -52563,12 +52563,12 @@
     "is_landlocked": false,
     "arton": {
       "ms": 133,
-      "vf": 88,
+      "vf": 87,
       "voa": 42,
-      "eta": 3,
+      "eta": 4,
       "vr": 65,
-      "ppr": 29,
-      "ipr": 72,
+      "ppr": 32,
+      "ipr": 74,
       "wr": 67
     },
     "emoji_flag": "🇩🇲",
@@ -53464,14 +53464,14 @@
     "coastline": 1288.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 82,
-      "vf": 30,
-      "voa": 49,
-      "eta": 3,
-      "vr": 116,
-      "ppr": 59,
+      "ms": 83,
+      "vf": 29,
+      "voa": 50,
+      "eta": 4,
+      "vr": 115,
+      "ppr": 62,
       "ipr": 120,
-      "wr": 41
+      "wr": 42
     },
     "emoji_flag": "🇩🇴",
     "translations": {
@@ -54504,11 +54504,11 @@
     "is_landlocked": false,
     "arton": {
       "ms": 102,
-      "vf": 49,
+      "vf": 48,
       "voa": 50,
-      "eta": 3,
+      "eta": 4,
       "vr": 96,
-      "ppr": 43,
+      "ppr": 47,
       "ipr": 98,
       "wr": 51
     },
@@ -55551,12 +55551,12 @@
     "is_landlocked": false,
     "arton": {
       "ms": 65,
-      "vf": 17,
+      "vf": 16,
       "voa": 46,
-      "eta": 2,
+      "eta": 3,
       "vr": 133,
-      "ppr": 76,
-      "ipr": 161,
+      "ppr": 79,
+      "ipr": 164,
       "wr": 33
     },
     "emoji_flag": "🇪🇬",
@@ -56588,14 +56588,14 @@
     "coastline": 307.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 128,
+      "ms": 129,
       "vf": 79,
       "voa": 46,
-      "eta": 3,
-      "vr": 70,
-      "ppr": 32,
+      "eta": 4,
+      "vr": 69,
+      "ppr": 35,
       "ipr": 80,
-      "wr": 64
+      "wr": 65
     },
     "emoji_flag": "🇸🇻",
     "translations": {
@@ -57590,14 +57590,14 @@
     "coastline": 296.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 66,
+      "ms": 67,
       "vf": 20,
       "voa": 44,
-      "eta": 2,
-      "vr": 132,
-      "ppr": 75,
-      "ipr": 157,
-      "wr": 33
+      "eta": 3,
+      "vr": 131,
+      "ppr": 77,
+      "ipr": 155,
+      "wr": 34
     },
     "emoji_flag": "🇬🇶",
     "translations": {
@@ -58360,14 +58360,14 @@
     "coastline": 2234.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 52,
-      "vf": 10,
-      "voa": 40,
-      "eta": 2,
-      "vr": 146,
-      "ppr": 88,
+      "ms": 53,
+      "vf": 9,
+      "voa": 41,
+      "eta": 3,
+      "vr": 145,
+      "ppr": 90,
       "ipr": 189,
-      "wr": 26
+      "wr": 27
     },
     "emoji_flag": "🇪🇷",
     "translations": {
@@ -59100,14 +59100,14 @@
     "coastline": 3794.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 170,
+      "ms": 171,
       "vf": 117,
       "voa": 47,
       "eta": 6,
-      "vr": 28,
+      "vr": 27,
       "ppr": 6,
       "ipr": 32,
-      "wr": 85
+      "wr": 86
     },
     "emoji_flag": "🇪🇪",
     "translations": {
@@ -60142,12 +60142,12 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 79,
+      "ms": 80,
       "vf": 42,
       "voa": 34,
-      "eta": 3,
-      "vr": 119,
-      "ppr": 62,
+      "eta": 4,
+      "vr": 118,
+      "ppr": 64,
       "ipr": 123,
       "wr": 40
     },
@@ -61172,13 +61172,13 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 53,
+      "ms": 54,
       "vf": 11,
       "voa": 40,
-      "eta": 2,
-      "vr": 145,
-      "ppr": 87,
-      "ipr": 187,
+      "eta": 3,
+      "vr": 144,
+      "ppr": 89,
+      "ipr": 186,
       "wr": 27
     },
     "emoji_flag": "🇪🇹",
@@ -62808,14 +62808,14 @@
     "coastline": 1129.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 96,
+      "ms": 97,
       "vf": 46,
       "voa": 47,
-      "eta": 3,
-      "vr": 102,
-      "ppr": 48,
+      "eta": 4,
+      "vr": 101,
+      "ppr": 52,
       "ipr": 105,
-      "wr": 48
+      "wr": 49
     },
     "emoji_flag": "🇫🇯",
     "translations": {
@@ -63851,14 +63851,14 @@
     "coastline": 1250.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 174,
+      "ms": 175,
       "vf": 124,
       "voa": 43,
-      "eta": 7,
-      "vr": 24,
+      "eta": 8,
+      "vr": 23,
       "ppr": 2,
       "ipr": 4,
-      "wr": 87
+      "wr": 88
     },
     "emoji_flag": "🇫🇮",
     "translations": {
@@ -64915,14 +64915,14 @@
     "coastline": 3427.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 174,
+      "ms": 175,
       "vf": 124,
       "voa": 43,
-      "eta": 7,
-      "vr": 24,
+      "eta": 8,
+      "vr": 23,
       "ppr": 2,
       "ipr": 6,
-      "wr": 87
+      "wr": 88
     },
     "emoji_flag": "🇫🇷",
     "translations": {
@@ -66754,14 +66754,14 @@
     "coastline": 885.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 68,
+      "ms": 69,
       "vf": 24,
       "voa": 42,
-      "eta": 2,
-      "vr": 130,
-      "ppr": 73,
-      "ipr": 152,
-      "wr": 34
+      "eta": 3,
+      "vr": 129,
+      "ppr": 75,
+      "ipr": 149,
+      "wr": 35
     },
     "emoji_flag": "🇬🇦",
     "translations": {
@@ -67786,9 +67786,9 @@
       "ms": 73,
       "vf": 42,
       "voa": 30,
-      "eta": 1,
+      "eta": 2,
       "vr": 125,
-      "ppr": 68,
+      "ppr": 71,
       "ipr": 136,
       "wr": 37
     },
@@ -68704,14 +68704,14 @@
     "coastline": 310.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 130,
+      "ms": 131,
       "vf": 76,
       "voa": 52,
-      "eta": 2,
-      "vr": 68,
-      "ppr": 30,
-      "ipr": 76,
-      "wr": 65
+      "eta": 3,
+      "vr": 67,
+      "ppr": 33,
+      "ipr": 75,
+      "wr": 66
     },
     "emoji_flag": "🇬🇪",
     "translations": {
@@ -69733,14 +69733,14 @@
     "coastline": 2389.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 174,
+      "ms": 175,
       "vf": 124,
       "voa": 43,
-      "eta": 7,
-      "vr": 24,
+      "eta": 8,
+      "vr": 23,
       "ppr": 2,
       "ipr": 3,
-      "wr": 87
+      "wr": 88
     },
     "emoji_flag": "🇩🇪",
     "translations": {
@@ -70773,11 +70773,11 @@
     "is_landlocked": false,
     "arton": {
       "ms": 73,
-      "vf": 40,
+      "vf": 39,
       "voa": 31,
-      "eta": 2,
+      "eta": 3,
       "vr": 125,
-      "ppr": 68,
+      "ppr": 71,
       "ipr": 137,
       "wr": 37
     },
@@ -72208,14 +72208,14 @@
     "coastline": 13676.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 172,
+      "ms": 173,
       "vf": 119,
       "voa": 46,
-      "eta": 7,
-      "vr": 26,
+      "eta": 8,
+      "vr": 25,
       "ppr": 4,
       "ipr": 21,
-      "wr": 86
+      "wr": 87
     },
     "emoji_flag": "🇬🇷",
     "translations": {
@@ -73572,13 +73572,13 @@
     "coastline": 121.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 135,
+      "ms": 136,
       "vf": 93,
       "voa": 39,
-      "eta": 3,
-      "vr": 63,
-      "ppr": 28,
-      "ipr": 69,
+      "eta": 4,
+      "vr": 62,
+      "ppr": 29,
+      "ipr": 70,
       "wr": 68
     },
     "emoji_flag": "🇬🇩",
@@ -75100,12 +75100,12 @@
     "coastline": 400.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 129,
+      "ms": 130,
       "vf": 78,
       "voa": 48,
-      "eta": 3,
-      "vr": 69,
-      "ppr": 31,
+      "eta": 4,
+      "vr": 68,
+      "ppr": 34,
       "ipr": 77,
       "wr": 65
     },
@@ -76424,9 +76424,9 @@
       "ms": 65,
       "vf": 27,
       "voa": 36,
-      "eta": 2,
+      "eta": 3,
       "vr": 133,
-      "ppr": 76,
+      "ppr": 79,
       "ipr": 160,
       "wr": 33
     },
@@ -77398,10 +77398,10 @@
       "ms": 63,
       "vf": 26,
       "voa": 36,
-      "eta": 1,
+      "eta": 2,
       "vr": 135,
-      "ppr": 78,
-      "ipr": 166,
+      "ppr": 81,
+      "ipr": 168,
       "wr": 32
     },
     "emoji_flag": "🇬🇼",
@@ -78374,14 +78374,14 @@
     "coastline": 459.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 94,
+      "ms": 95,
       "vf": 43,
       "voa": 48,
-      "eta": 3,
-      "vr": 104,
-      "ppr": 50,
-      "ipr": 109,
-      "wr": 47
+      "eta": 4,
+      "vr": 103,
+      "ppr": 54,
+      "ipr": 108,
+      "wr": 48
     },
     "emoji_flag": "🇬🇾",
     "translations": {
@@ -79372,12 +79372,12 @@
     "is_landlocked": false,
     "arton": {
       "ms": 62,
-      "vf": 13,
+      "vf": 12,
       "voa": 46,
-      "eta": 3,
+      "eta": 4,
       "vr": 136,
-      "ppr": 79,
-      "ipr": 171,
+      "ppr": 83,
+      "ipr": 175,
       "wr": 31
     },
     "emoji_flag": "🇭🇹",
@@ -80192,12 +80192,12 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 147,
+      "ms": 148,
       "vf": 92,
       "voa": 49,
-      "eta": 6,
-      "vr": 51,
-      "ppr": 18,
+      "eta": 7,
+      "vr": 50,
+      "ppr": 19,
       "ipr": 55,
       "wr": 74
     },
@@ -80729,12 +80729,12 @@
     "is_landlocked": false,
     "arton": {
       "ms": 130,
-      "vf": 81,
+      "vf": 80,
       "voa": 46,
-      "eta": 3,
+      "eta": 4,
       "vr": 68,
-      "ppr": 30,
-      "ipr": 75,
+      "ppr": 34,
+      "ipr": 76,
       "wr": 65
     },
     "emoji_flag": "🇭🇳",
@@ -81689,13 +81689,13 @@
     "coastline": 733.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 157,
+      "ms": 158,
       "vf": 109,
       "voa": 43,
-      "eta": 5,
-      "vr": 41,
-      "ppr": 13,
-      "ipr": 47,
+      "eta": 6,
+      "vr": 40,
+      "ppr": 14,
+      "ipr": 48,
       "wr": 79
     },
     "emoji_flag": "🇭🇰",
@@ -82534,14 +82534,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 172,
+      "ms": 173,
       "vf": 118,
       "voa": 48,
       "eta": 6,
-      "vr": 26,
+      "vr": 25,
       "ppr": 4,
       "ipr": 23,
-      "wr": 86
+      "wr": 87
     },
     "emoji_flag": "🇭🇺",
     "translations": {
@@ -83557,11 +83557,11 @@
     "coastline": 4970.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 169,
+      "ms": 170,
       "vf": 113,
       "voa": 48,
-      "eta": 8,
-      "vr": 29,
+      "eta": 9,
+      "vr": 28,
       "ppr": 7,
       "ipr": 36,
       "wr": 85
@@ -84615,12 +84615,12 @@
     "coastline": 7000.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 71,
+      "ms": 72,
       "vf": 21,
       "voa": 48,
-      "eta": 2,
-      "vr": 127,
-      "ppr": 70,
+      "eta": 3,
+      "vr": 126,
+      "ppr": 72,
       "ipr": 141,
       "wr": 36
     },
@@ -85657,14 +85657,14 @@
     "coastline": 54716.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 88,
+      "ms": 90,
       "vf": 41,
       "voa": 44,
-      "eta": 3,
-      "vr": 110,
-      "ppr": 53,
+      "eta": 5,
+      "vr": 108,
+      "ppr": 57,
       "ipr": 113,
-      "wr": 44
+      "wr": 45
     },
     "emoji_flag": "🇮🇩",
     "translations": {
@@ -86716,14 +86716,14 @@
     "coastline": 2440.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 52,
+      "ms": 53,
       "vf": 11,
       "voa": 38,
-      "eta": 3,
-      "vr": 146,
-      "ppr": 88,
+      "eta": 4,
+      "vr": 145,
+      "ppr": 90,
       "ipr": 188,
-      "wr": 26
+      "wr": 27
     },
     "emoji_flag": "🇮🇷",
     "translations": {
@@ -87778,10 +87778,10 @@
     "arton": {
       "ms": 42,
       "vf": 7,
-      "voa": 33,
-      "eta": 2,
+      "voa": 31,
+      "eta": 3,
       "vr": 156,
-      "ppr": 95,
+      "ppr": 96,
       "ipr": 197,
       "wr": 21
     },
@@ -88811,11 +88811,11 @@
     "coastline": 1448.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 173,
+      "ms": 174,
       "vf": 117,
       "voa": 49,
-      "eta": 7,
-      "vr": 25,
+      "eta": 8,
+      "vr": 24,
       "ppr": 3,
       "ipr": 18,
       "wr": 87
@@ -90252,12 +90252,12 @@
     "coastline": 273.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 151,
+      "ms": 152,
       "vf": 101,
       "voa": 45,
-      "eta": 5,
-      "vr": 47,
-      "ppr": 16,
+      "eta": 6,
+      "vr": 46,
+      "ppr": 17,
       "ipr": 51,
       "wr": 76
     },
@@ -91306,14 +91306,14 @@
     "coastline": 7600.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 174,
+      "ms": 175,
       "vf": 124,
       "voa": 43,
-      "eta": 7,
-      "vr": 24,
+      "eta": 8,
+      "vr": 23,
       "ppr": 2,
       "ipr": 7,
-      "wr": 87
+      "wr": 88
     },
     "emoji_flag": "🇮🇹",
     "translations": {
@@ -92329,13 +92329,13 @@
     "coastline": 1022.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 97,
+      "ms": 98,
       "vf": 53,
       "voa": 41,
-      "eta": 3,
-      "vr": 101,
-      "ppr": 47,
-      "ipr": 103,
+      "eta": 4,
+      "vr": 100,
+      "ppr": 51,
+      "ipr": 102,
       "wr": 49
     },
     "emoji_flag": "🇯🇲",
@@ -93354,14 +93354,14 @@
     "coastline": 29751.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 172,
+      "ms": 173,
       "vf": 116,
       "voa": 49,
-      "eta": 7,
-      "vr": 26,
+      "eta": 8,
+      "vr": 25,
       "ppr": 4,
       "ipr": 24,
-      "wr": 86
+      "wr": 87
     },
     "emoji_flag": "🇯🇵",
     "translations": {
@@ -94673,14 +94673,14 @@
     "coastline": 26.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 64,
+      "ms": 65,
       "vf": 19,
       "voa": 42,
-      "eta": 3,
-      "vr": 134,
-      "ppr": 77,
-      "ipr": 165,
-      "wr": 32
+      "eta": 4,
+      "vr": 133,
+      "ppr": 79,
+      "ipr": 163,
+      "wr": 33
     },
     "emoji_flag": "🇯🇴",
     "translations": {
@@ -95643,14 +95643,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 90,
+      "ms": 91,
       "vf": 36,
       "voa": 51,
-      "eta": 3,
-      "vr": 108,
-      "ppr": 52,
+      "eta": 4,
+      "vr": 107,
+      "ppr": 56,
       "ipr": 112,
-      "wr": 45
+      "wr": 46
     },
     "emoji_flag": "🇰🇿",
     "translations": {
@@ -96696,12 +96696,12 @@
     "coastline": 536.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 77,
-      "vf": 40,
-      "voa": 35,
-      "eta": 2,
-      "vr": 121,
-      "ppr": 64,
+      "ms": 78,
+      "vf": 39,
+      "voa": 36,
+      "eta": 3,
+      "vr": 120,
+      "ppr": 66,
       "ipr": 128,
       "wr": 39
     },
@@ -97641,13 +97641,13 @@
     "coastline": 1143.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 125,
+      "ms": 126,
       "vf": 77,
       "voa": 45,
-      "eta": 3,
-      "vr": 73,
-      "ppr": 34,
-      "ipr": 83,
+      "eta": 4,
+      "vr": 72,
+      "ppr": 37,
+      "ipr": 84,
       "wr": 63
     },
     "emoji_flag": "🇰🇮",
@@ -98212,9 +98212,9 @@
       "ms": 50,
       "vf": 9,
       "voa": 40,
-      "eta": 1,
+      "eta": 2,
       "vr": 148,
-      "ppr": 90,
+      "ppr": 92,
       "ipr": 192,
       "wr": 25
     },
@@ -98976,14 +98976,14 @@
     "coastline": 2413.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 174,
+      "ms": 175,
       "vf": 116,
       "voa": 51,
-      "eta": 7,
-      "vr": 24,
+      "eta": 8,
+      "vr": 23,
       "ppr": 2,
       "ipr": 12,
-      "wr": 87
+      "wr": 88
     },
     "emoji_flag": "🇰🇷",
     "translations": {
@@ -100012,12 +100012,12 @@
     "coastline": 499.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 109,
+      "ms": 110,
       "vf": 54,
       "voa": 49,
-      "eta": 6,
-      "vr": 89,
-      "ppr": 41,
+      "eta": 7,
+      "vr": 88,
+      "ppr": 45,
       "ipr": 96,
       "wr": 55
     },
@@ -100974,14 +100974,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 74,
+      "ms": 75,
       "vf": 26,
       "voa": 46,
-      "eta": 2,
-      "vr": 124,
-      "ppr": 67,
+      "eta": 3,
+      "vr": 123,
+      "ppr": 69,
       "ipr": 134,
-      "wr": 37
+      "wr": 38
     },
     "emoji_flag": "🇰🇬",
     "translations": {
@@ -102023,13 +102023,13 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 63,
+      "ms": 64,
       "vf": 19,
       "voa": 41,
-      "eta": 3,
-      "vr": 135,
-      "ppr": 78,
-      "ipr": 167,
+      "eta": 4,
+      "vr": 134,
+      "ppr": 80,
+      "ipr": 166,
       "wr": 32
     },
     "emoji_flag": "🇱🇦",
@@ -102947,14 +102947,14 @@
     "coastline": 498.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 170,
+      "ms": 171,
       "vf": 117,
       "voa": 47,
       "eta": 6,
-      "vr": 28,
+      "vr": 27,
       "ppr": 6,
       "ipr": 33,
-      "wr": 85
+      "wr": 86
     },
     "emoji_flag": "🇱🇻",
     "translations": {
@@ -103921,14 +103921,14 @@
     "coastline": 225.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 56,
+      "ms": 57,
       "vf": 14,
       "voa": 40,
-      "eta": 2,
-      "vr": 142,
-      "ppr": 84,
-      "ipr": 179,
-      "wr": 28
+      "eta": 3,
+      "vr": 141,
+      "ppr": 86,
+      "ipr": 178,
+      "wr": 29
     },
     "emoji_flag": "🇱🇧",
     "translations": {
@@ -104805,14 +104805,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 82,
+      "ms": 83,
       "vf": 43,
       "voa": 36,
-      "eta": 3,
-      "vr": 116,
-      "ppr": 59,
+      "eta": 4,
+      "vr": 115,
+      "ppr": 62,
       "ipr": 119,
-      "wr": 41
+      "wr": 42
     },
     "emoji_flag": "🇱🇸",
     "translations": {
@@ -105811,10 +105811,10 @@
       "ms": 61,
       "vf": 25,
       "voa": 35,
-      "eta": 1,
+      "eta": 2,
       "vr": 137,
-      "ppr": 80,
-      "ipr": 172,
+      "ppr": 83,
+      "ipr": 173,
       "wr": 31
     },
     "emoji_flag": "🇱🇷",
@@ -106780,12 +106780,12 @@
     "coastline": 1770.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 51,
+      "ms": 52,
       "vf": 12,
       "voa": 37,
-      "eta": 2,
-      "vr": 147,
-      "ppr": 89,
+      "eta": 3,
+      "vr": 146,
+      "ppr": 91,
       "ipr": 190,
       "wr": 26
     },
@@ -107461,14 +107461,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 170,
+      "ms": 171,
       "vf": 114,
       "voa": 49,
-      "eta": 7,
-      "vr": 28,
+      "eta": 8,
+      "vr": 27,
       "ppr": 6,
       "ipr": 35,
-      "wr": 85
+      "wr": 86
     },
     "emoji_flag": "🇱🇮",
     "translations": {
@@ -108166,11 +108166,11 @@
     "coastline": 90.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 171,
+      "ms": 172,
       "vf": 117,
       "voa": 47,
       "eta": 7,
-      "vr": 27,
+      "vr": 26,
       "ppr": 5,
       "ipr": 30,
       "wr": 86
@@ -109213,14 +109213,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 174,
+      "ms": 175,
       "vf": 122,
       "voa": 44,
-      "eta": 8,
-      "vr": 24,
+      "eta": 9,
+      "vr": 23,
       "ppr": 2,
       "ipr": 9,
-      "wr": 87
+      "wr": 88
     },
     "emoji_flag": "🇱🇺",
     "translations": {
@@ -110001,14 +110001,14 @@
     "coastline": 41.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 138,
-      "vf": 91,
-      "voa": 44,
-      "eta": 3,
-      "vr": 60,
-      "ppr": 26,
-      "ipr": 65,
-      "wr": 69
+      "ms": 141,
+      "vf": 92,
+      "voa": 45,
+      "eta": 4,
+      "vr": 57,
+      "ppr": 25,
+      "ipr": 64,
+      "wr": 71
     },
     "emoji_flag": "🇲🇴",
     "translations": {
@@ -110778,12 +110778,12 @@
     "coastline": 4828.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 67,
+      "ms": 68,
       "vf": 24,
       "voa": 41,
-      "eta": 2,
-      "vr": 131,
-      "ppr": 74,
+      "eta": 3,
+      "vr": 130,
+      "ppr": 76,
       "ipr": 153,
       "wr": 34
     },
@@ -111801,14 +111801,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 78,
+      "ms": 79,
       "vf": 40,
       "voa": 36,
-      "eta": 2,
-      "vr": 120,
-      "ppr": 63,
+      "eta": 3,
+      "vr": 119,
+      "ppr": 65,
       "ipr": 126,
-      "wr": 39
+      "wr": 40
     },
     "emoji_flag": "🇲🇼",
     "translations": {
@@ -112840,11 +112840,11 @@
     "coastline": 4675.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 167,
+      "ms": 168,
       "vf": 115,
       "voa": 46,
-      "eta": 6,
-      "vr": 31,
+      "eta": 7,
+      "vr": 30,
       "ppr": 9,
       "ipr": 41,
       "wr": 84
@@ -113843,12 +113843,12 @@
     "coastline": 644.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 95,
+      "ms": 96,
       "vf": 50,
       "voa": 43,
-      "eta": 2,
-      "vr": 103,
-      "ppr": 49,
+      "eta": 3,
+      "vr": 102,
+      "ppr": 53,
       "ipr": 107,
       "wr": 48
     },
@@ -114905,10 +114905,10 @@
       "ms": 64,
       "vf": 29,
       "voa": 33,
-      "eta": 2,
+      "eta": 3,
       "vr": 134,
-      "ppr": 77,
-      "ipr": 162,
+      "ppr": 80,
+      "ipr": 165,
       "wr": 32
     },
     "emoji_flag": "🇲🇱",
@@ -115931,11 +115931,11 @@
     "coastline": 196.8,
     "is_landlocked": false,
     "arton": {
-      "ms": 171,
+      "ms": 172,
       "vf": 118,
       "voa": 45,
-      "eta": 8,
-      "vr": 27,
+      "eta": 9,
+      "vr": 26,
       "ppr": 5,
       "ipr": 29,
       "wr": 86
@@ -116734,14 +116734,14 @@
     "coastline": 370.4,
     "is_landlocked": false,
     "arton": {
-      "ms": 124,
+      "ms": 125,
       "vf": 72,
       "voa": 49,
-      "eta": 3,
-      "vr": 74,
-      "ppr": 35,
+      "eta": 4,
+      "vr": 73,
+      "ppr": 38,
       "ipr": 86,
-      "wr": 62
+      "wr": 63
     },
     "emoji_flag": "🇲🇭",
     "translations": {
@@ -117874,14 +117874,14 @@
     "coastline": 754.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 64,
+      "ms": 65,
       "vf": 25,
       "voa": 38,
-      "eta": 1,
-      "vr": 134,
-      "ppr": 77,
-      "ipr": 164,
-      "wr": 32
+      "eta": 2,
+      "vr": 133,
+      "ppr": 79,
+      "ipr": 161,
+      "wr": 33
     },
     "emoji_flag": "🇲🇷",
     "translations": {
@@ -118901,14 +118901,14 @@
     "coastline": 177.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 136,
+      "ms": 137,
       "vf": 96,
       "voa": 36,
-      "eta": 4,
-      "vr": 62,
-      "ppr": 27,
+      "eta": 5,
+      "vr": 61,
+      "ppr": 28,
       "ipr": 67,
-      "wr": 68
+      "wr": 69
     },
     "emoji_flag": "🇲🇺",
     "translations": {
@@ -120166,12 +120166,12 @@
     "coastline": 9330.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 151,
+      "ms": 152,
       "vf": 95,
       "voa": 51,
-      "eta": 5,
-      "vr": 47,
-      "ppr": 16,
+      "eta": 6,
+      "vr": 46,
+      "ppr": 17,
       "ipr": 52,
       "wr": 76
     },
@@ -121046,14 +121046,14 @@
     "coastline": 6112.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 120,
+      "ms": 121,
       "vf": 67,
       "voa": 50,
-      "eta": 3,
-      "vr": 78,
-      "ppr": 38,
+      "eta": 4,
+      "vr": 77,
+      "ppr": 41,
       "ipr": 92,
-      "wr": 60
+      "wr": 61
     },
     "emoji_flag": "🇫🇲",
     "translations": {
@@ -121866,14 +121866,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 122,
+      "ms": 123,
       "vf": 73,
       "voa": 47,
-      "eta": 2,
-      "vr": 76,
-      "ppr": 36,
+      "eta": 3,
+      "vr": 75,
+      "ppr": 39,
       "ipr": 90,
-      "wr": 61
+      "wr": 62
     },
     "emoji_flag": "🇲🇩",
     "translations": {
@@ -122553,14 +122553,14 @@
     "coastline": 4.1,
     "is_landlocked": false,
     "arton": {
-      "ms": 166,
+      "ms": 167,
       "vf": 105,
       "voa": 53,
-      "eta": 8,
-      "vr": 32,
+      "eta": 9,
+      "vr": 31,
       "ppr": 10,
       "ipr": 42,
-      "wr": 83
+      "wr": 84
     },
     "emoji_flag": "🇲🇨",
     "translations": {
@@ -123215,14 +123215,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 76,
+      "ms": 77,
       "vf": 31,
       "voa": 43,
-      "eta": 2,
-      "vr": 122,
-      "ppr": 65,
-      "ipr": 131,
-      "wr": 38
+      "eta": 3,
+      "vr": 121,
+      "ppr": 67,
+      "ipr": 130,
+      "wr": 39
     },
     "emoji_flag": "🇲🇳",
     "translations": {
@@ -124087,14 +124087,14 @@
     "coastline": 293.5,
     "is_landlocked": false,
     "arton": {
-      "ms": 128,
+      "ms": 129,
       "vf": 75,
       "voa": 50,
-      "eta": 3,
-      "vr": 70,
-      "ppr": 32,
+      "eta": 4,
+      "vr": 69,
+      "ppr": 35,
       "ipr": 81,
-      "wr": 64
+      "wr": 65
     },
     "emoji_flag": "🇲🇪",
     "translations": {
@@ -125372,13 +125372,13 @@
     "coastline": 2945.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 77,
+      "ms": 78,
       "vf": 33,
       "voa": 42,
-      "eta": 2,
-      "vr": 121,
-      "ppr": 64,
-      "ipr": 130,
+      "eta": 3,
+      "vr": 120,
+      "ppr": 66,
+      "ipr": 129,
       "wr": 39
     },
     "emoji_flag": "🇲🇦",
@@ -126426,14 +126426,14 @@
     "coastline": 2470.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 66,
-      "vf": 26,
+      "ms": 67,
+      "vf": 27,
       "voa": 37,
-      "eta": 3,
-      "vr": 132,
-      "ppr": 75,
-      "ipr": 155,
-      "wr": 33
+      "eta": 4,
+      "vr": 131,
+      "ppr": 77,
+      "ipr": 154,
+      "wr": 34
     },
     "emoji_flag": "🇲🇿",
     "translations": {
@@ -127475,14 +127475,14 @@
     "coastline": 1930.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 56,
+      "ms": 57,
       "vf": 12,
       "voa": 41,
-      "eta": 3,
-      "vr": 142,
-      "ppr": 84,
-      "ipr": 181,
-      "wr": 28
+      "eta": 4,
+      "vr": 141,
+      "ppr": 86,
+      "ipr": 179,
+      "wr": 29
     },
     "emoji_flag": "🇲🇲",
     "translations": {
@@ -128444,11 +128444,11 @@
     "is_landlocked": false,
     "arton": {
       "ms": 79,
-      "vf": 42,
+      "vf": 41,
       "voa": 35,
-      "eta": 2,
+      "eta": 3,
       "vr": 119,
-      "ppr": 62,
+      "ppr": 65,
       "ipr": 124,
       "wr": 40
     },
@@ -129201,14 +129201,14 @@
     "coastline": 30.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 90,
+      "ms": 91,
       "vf": 42,
       "voa": 45,
-      "eta": 3,
-      "vr": 108,
-      "ppr": 52,
+      "eta": 4,
+      "vr": 107,
+      "ppr": 56,
       "ipr": 111,
-      "wr": 45
+      "wr": 46
     },
     "emoji_flag": "🇳🇷",
     "translations": {
@@ -130107,12 +130107,12 @@
     "is_landlocked": true,
     "arton": {
       "ms": 55,
-      "vf": 12,
+      "vf": 11,
       "voa": 41,
-      "eta": 2,
+      "eta": 3,
       "vr": 143,
-      "ppr": 85,
-      "ipr": 183,
+      "ppr": 88,
+      "ipr": 184,
       "wr": 28
     },
     "emoji_flag": "🇳🇵",
@@ -131140,14 +131140,14 @@
     "coastline": 451.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 174,
+      "ms": 175,
       "vf": 123,
       "voa": 44,
-      "eta": 7,
-      "vr": 24,
+      "eta": 8,
+      "vr": 23,
       "ppr": 2,
       "ipr": 8,
-      "wr": 87
+      "wr": 88
     },
     "emoji_flag": "🇳🇱",
     "translations": {
@@ -132668,11 +132668,11 @@
     "coastline": 15134.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 173,
+      "ms": 174,
       "vf": 113,
       "voa": 55,
-      "eta": 5,
-      "vr": 25,
+      "eta": 6,
+      "vr": 24,
       "ppr": 3,
       "ipr": 20,
       "wr": 87
@@ -133702,14 +133702,14 @@
     "coastline": 910.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 122,
+      "ms": 123,
       "vf": 73,
       "voa": 46,
-      "eta": 3,
-      "vr": 76,
-      "ppr": 36,
+      "eta": 4,
+      "vr": 75,
+      "ppr": 39,
       "ipr": 89,
-      "wr": 61
+      "wr": 62
     },
     "emoji_flag": "🇳🇮",
     "translations": {
@@ -134764,9 +134764,9 @@
       "ms": 65,
       "vf": 29,
       "voa": 35,
-      "eta": 1,
+      "eta": 2,
       "vr": 133,
-      "ppr": 76,
+      "ppr": 79,
       "ipr": 159,
       "wr": 33
     },
@@ -135754,12 +135754,12 @@
     "is_landlocked": false,
     "arton": {
       "ms": 56,
-      "vf": 24,
+      "vf": 23,
       "voa": 31,
-      "eta": 1,
+      "eta": 2,
       "vr": 142,
-      "ppr": 84,
-      "ipr": 178,
+      "ppr": 87,
+      "ipr": 180,
       "wr": 28
     },
     "emoji_flag": "🇳🇬",
@@ -137338,12 +137338,12 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 129,
+      "ms": 130,
       "vf": 78,
       "voa": 49,
-      "eta": 2,
-      "vr": 69,
-      "ppr": 31,
+      "eta": 3,
+      "vr": 68,
+      "ppr": 34,
       "ipr": 78,
       "wr": 65
     },
@@ -138775,11 +138775,11 @@
     "coastline": 25148.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 173,
+      "ms": 174,
       "vf": 119,
       "voa": 47,
-      "eta": 7,
-      "vr": 25,
+      "eta": 8,
+      "vr": 24,
       "ppr": 3,
       "ipr": 16,
       "wr": 87
@@ -139774,14 +139774,14 @@
     "coastline": 2092.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 96,
+      "ms": 97,
       "vf": 40,
       "voa": 50,
-      "eta": 6,
-      "vr": 102,
-      "ppr": 48,
+      "eta": 7,
+      "vr": 101,
+      "ppr": 52,
       "ipr": 106,
-      "wr": 48
+      "wr": 49
     },
     "emoji_flag": "🇴🇲",
     "translations": {
@@ -140768,12 +140768,12 @@
     "coastline": 1046.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 45,
-      "vf": 9,
-      "voa": 34,
-      "eta": 2,
-      "vr": 153,
-      "ppr": 93,
+      "ms": 46,
+      "vf": 8,
+      "voa": 35,
+      "eta": 3,
+      "vr": 152,
+      "ppr": 94,
       "ipr": 195,
       "wr": 23
     },
@@ -141631,12 +141631,12 @@
     "coastline": 1519.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 121,
+      "ms": 122,
       "vf": 67,
       "voa": 51,
-      "eta": 3,
-      "vr": 77,
-      "ppr": 37,
+      "eta": 4,
+      "vr": 76,
+      "ppr": 40,
       "ipr": 91,
       "wr": 61
     },
@@ -142368,12 +142368,12 @@
     "coastline": 40.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 51,
+      "ms": 52,
       "vf": 10,
       "voa": 39,
-      "eta": 2,
-      "vr": 147,
-      "ppr": 89,
+      "eta": 3,
+      "vr": 146,
+      "ppr": 91,
       "ipr": 191,
       "wr": 26
     },
@@ -143192,14 +143192,14 @@
     "coastline": 2490.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 135,
+      "ms": 137,
       "vf": 85,
-      "voa": 47,
-      "eta": 3,
-      "vr": 63,
+      "voa": 48,
+      "eta": 4,
+      "vr": 61,
       "ppr": 28,
-      "ipr": 70,
-      "wr": 68
+      "ipr": 69,
+      "wr": 69
     },
     "emoji_flag": "🇵🇦",
     "translations": {
@@ -144229,14 +144229,14 @@
     "coastline": 5152.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 84,
+      "ms": 85,
       "vf": 34,
       "voa": 47,
-      "eta": 3,
-      "vr": 114,
-      "ppr": 56,
+      "eta": 4,
+      "vr": 113,
+      "ppr": 60,
       "ipr": 117,
-      "wr": 42
+      "wr": 43
     },
     "emoji_flag": "🇵🇬",
     "translations": {
@@ -145272,13 +145272,13 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 139,
+      "ms": 140,
       "vf": 86,
       "voa": 49,
-      "eta": 4,
-      "vr": 59,
-      "ppr": 25,
-      "ipr": 64,
+      "eta": 5,
+      "vr": 58,
+      "ppr": 26,
+      "ipr": 65,
       "wr": 70
     },
     "emoji_flag": "🇵🇾",
@@ -146333,14 +146333,14 @@
     "coastline": 2414.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 146,
+      "ms": 147,
       "vf": 88,
       "voa": 55,
-      "eta": 3,
-      "vr": 52,
-      "ppr": 19,
+      "eta": 4,
+      "vr": 51,
+      "ppr": 20,
       "ipr": 57,
-      "wr": 73
+      "wr": 74
     },
     "emoji_flag": "🇵🇪",
     "translations": {
@@ -147360,14 +147360,14 @@
     "coastline": 36289.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 78,
+      "ms": 79,
       "vf": 34,
       "voa": 42,
-      "eta": 2,
-      "vr": 120,
-      "ppr": 63,
+      "eta": 3,
+      "vr": 119,
+      "ppr": 65,
       "ipr": 127,
-      "wr": 39
+      "wr": 40
     },
     "emoji_flag": "🇵🇭",
     "translations": {
@@ -148601,11 +148601,11 @@
     "coastline": 440.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 173,
+      "ms": 174,
       "vf": 118,
       "voa": 48,
       "eta": 6,
-      "vr": 25,
+      "vr": 24,
       "ppr": 3,
       "ipr": 17,
       "wr": 87
@@ -149630,11 +149630,11 @@
     "coastline": 1793.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 173,
+      "ms": 174,
       "vf": 122,
       "voa": 44,
-      "eta": 7,
-      "vr": 25,
+      "eta": 8,
+      "vr": 24,
       "ppr": 3,
       "ipr": 15,
       "wr": 87
@@ -151302,12 +151302,12 @@
     "coastline": 563.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 115,
+      "ms": 116,
       "vf": 64,
       "voa": 45,
-      "eta": 6,
-      "vr": 83,
-      "ppr": 40,
+      "eta": 7,
+      "vr": 82,
+      "ppr": 44,
       "ipr": 95,
       "wr": 58
     },
@@ -152510,14 +152510,14 @@
     "coastline": 225.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 168,
+      "ms": 169,
       "vf": 113,
       "voa": 50,
       "eta": 5,
-      "vr": 30,
+      "vr": 29,
       "ppr": 8,
       "ipr": 39,
-      "wr": 84
+      "wr": 85
     },
     "emoji_flag": "🇷🇴",
     "translations": {
@@ -153617,14 +153617,14 @@
     "coastline": 37653.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 124,
-      "vf": 74,
+      "ms": 126,
+      "vf": 75,
       "voa": 45,
-      "eta": 5,
-      "vr": 74,
-      "ppr": 35,
-      "ipr": 85,
-      "wr": 62
+      "eta": 6,
+      "vr": 72,
+      "ppr": 37,
+      "ipr": 83,
+      "wr": 63
     },
     "emoji_flag": "🇷🇺",
     "translations": {
@@ -154653,14 +154653,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 72,
+      "ms": 73,
       "vf": 27,
       "voa": 42,
-      "eta": 3,
-      "vr": 126,
-      "ppr": 69,
+      "eta": 4,
+      "vr": 125,
+      "ppr": 71,
       "ipr": 138,
-      "wr": 36
+      "wr": 37
     },
     "emoji_flag": "🇷🇼",
     "translations": {
@@ -156124,12 +156124,12 @@
     "coastline": 135.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 143,
+      "ms": 144,
       "vf": 100,
       "voa": 39,
-      "eta": 4,
-      "vr": 55,
-      "ppr": 21,
+      "eta": 5,
+      "vr": 54,
+      "ppr": 22,
       "ipr": 59,
       "wr": 72
     },
@@ -157018,14 +157018,14 @@
     "coastline": 158.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 136,
+      "ms": 137,
       "vf": 90,
       "voa": 42,
-      "eta": 4,
-      "vr": 62,
-      "ppr": 27,
+      "eta": 5,
+      "vr": 61,
+      "ppr": 28,
       "ipr": 68,
-      "wr": 68
+      "wr": 69
     },
     "emoji_flag": "🇱🇨",
     "translations": {
@@ -158571,14 +158571,14 @@
     "coastline": 84.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 144,
+      "ms": 145,
       "vf": 99,
       "voa": 42,
-      "eta": 3,
-      "vr": 54,
-      "ppr": 20,
+      "eta": 4,
+      "vr": 53,
+      "ppr": 21,
       "ipr": 58,
-      "wr": 72
+      "wr": 73
     },
     "emoji_flag": "🇻🇨",
     "translations": {
@@ -159470,14 +159470,14 @@
     "coastline": 403.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 128,
+      "ms": 129,
       "vf": 80,
       "voa": 44,
-      "eta": 4,
-      "vr": 70,
-      "ppr": 32,
+      "eta": 5,
+      "vr": 69,
+      "ppr": 35,
       "ipr": 79,
-      "wr": 64
+      "wr": 65
     },
     "emoji_flag": "🇼🇸",
     "translations": {
@@ -160171,14 +160171,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 157,
-      "vf": 100,
+      "ms": 159,
+      "vf": 101,
       "voa": 50,
-      "eta": 7,
-      "vr": 41,
+      "eta": 8,
+      "vr": 39,
       "ppr": 13,
-      "ipr": 48,
-      "wr": 79
+      "ipr": 47,
+      "wr": 80
     },
     "emoji_flag": "🇸🇲",
     "translations": {
@@ -160903,14 +160903,14 @@
     "coastline": 209.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 72,
+      "ms": 73,
       "vf": 24,
       "voa": 46,
-      "eta": 2,
-      "vr": 126,
-      "ppr": 69,
+      "eta": 3,
+      "vr": 125,
+      "ppr": 71,
       "ipr": 139,
-      "wr": 36
+      "wr": 37
     },
     "emoji_flag": "🇸🇹",
     "translations": {
@@ -161962,13 +161962,13 @@
     "coastline": 2640.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 97,
+      "ms": 98,
       "vf": 45,
       "voa": 45,
-      "eta": 6,
-      "vr": 101,
-      "ppr": 48,
-      "ipr": 104,
+      "eta": 7,
+      "vr": 100,
+      "ppr": 51,
+      "ipr": 103,
       "wr": 49
     },
     "emoji_flag": "🇸🇦",
@@ -162961,11 +162961,11 @@
     "arton": {
       "ms": 69,
       "vf": 32,
-      "voa": 36,
-      "eta": 1,
+      "voa": 34,
+      "eta": 2,
       "vr": 129,
-      "ppr": 72,
-      "ipr": 146,
+      "ppr": 76,
+      "ipr": 151,
       "wr": 35
     },
     "emoji_flag": "🇸🇳",
@@ -163894,12 +163894,12 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 135,
+      "ms": 136,
       "vf": 82,
       "voa": 50,
-      "eta": 3,
-      "vr": 63,
-      "ppr": 28,
+      "eta": 4,
+      "vr": 62,
+      "ppr": 29,
       "ipr": 71,
       "wr": 68
     },
@@ -164821,12 +164821,12 @@
     "coastline": 491.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 143,
+      "ms": 144,
       "vf": 100,
-      "voa": 40,
+      "voa": 41,
       "eta": 3,
-      "vr": 55,
-      "ppr": 21,
+      "vr": 54,
+      "ppr": 22,
       "ipr": 60,
       "wr": 72
     },
@@ -165733,9 +165733,9 @@
       "ms": 69,
       "vf": 40,
       "voa": 28,
-      "eta": 1,
+      "eta": 2,
       "vr": 129,
-      "ppr": 72,
+      "ppr": 75,
       "ipr": 145,
       "wr": 35
     },
@@ -166729,11 +166729,11 @@
     "coastline": 193.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 171,
+      "ms": 172,
       "vf": 127,
       "voa": 38,
-      "eta": 6,
-      "vr": 27,
+      "eta": 7,
+      "vr": 26,
       "ppr": 5,
       "ipr": 28,
       "wr": 86
@@ -168143,11 +168143,11 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 171,
+      "ms": 172,
       "vf": 116,
       "voa": 49,
       "eta": 6,
-      "vr": 27,
+      "vr": 26,
       "ppr": 5,
       "ipr": 31,
       "wr": 86
@@ -169123,14 +169123,14 @@
     "coastline": 46.6,
     "is_landlocked": false,
     "arton": {
-      "ms": 170,
+      "ms": 171,
       "vf": 116,
       "voa": 48,
       "eta": 6,
-      "vr": 28,
+      "vr": 27,
       "ppr": 6,
       "ipr": 34,
-      "wr": 85
+      "wr": 86
     },
     "emoji_flag": "🇸🇮",
     "translations": {
@@ -170070,12 +170070,12 @@
     "coastline": 5313.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 133,
+      "ms": 134,
       "vf": 82,
       "voa": 47,
-      "eta": 4,
-      "vr": 65,
-      "ppr": 29,
+      "eta": 5,
+      "vr": 64,
+      "ppr": 31,
       "ipr": 73,
       "wr": 67
     },
@@ -170639,11 +170639,11 @@
     "is_landlocked": false,
     "arton": {
       "ms": 44,
-      "vf": 9,
+      "vf": 8,
       "voa": 33,
-      "eta": 2,
+      "eta": 3,
       "vr": 154,
-      "ppr": 94,
+      "ppr": 95,
       "ipr": 196,
       "wr": 22
     },
@@ -171603,14 +171603,14 @@
     "coastline": 2798.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 108,
-      "vf": 60,
-      "voa": 44,
-      "eta": 4,
-      "vr": 90,
-      "ppr": 42,
+      "ms": 109,
+      "vf": 59,
+      "voa": 45,
+      "eta": 5,
+      "vr": 89,
+      "ppr": 46,
       "ipr": 97,
-      "wr": 54
+      "wr": 55
     },
     "emoji_flag": "🇿🇦",
     "translations": {
@@ -172585,10 +172585,10 @@
       "ms": 53,
       "vf": 17,
       "voa": 34,
-      "eta": 2,
+      "eta": 3,
       "vr": 145,
-      "ppr": 87,
-      "ipr": 186,
+      "ppr": 90,
+      "ipr": 187,
       "wr": 27
     },
     "emoji_flag": "🇸🇸",
@@ -173418,14 +173418,14 @@
     "coastline": 4964.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 174,
+      "ms": 175,
       "vf": 124,
       "voa": 43,
-      "eta": 7,
-      "vr": 24,
+      "eta": 8,
+      "vr": 23,
       "ppr": 2,
       "ipr": 5,
-      "wr": 87
+      "wr": 88
     },
     "emoji_flag": "🇪🇸",
     "translations": {
@@ -174446,11 +174446,11 @@
     "is_landlocked": false,
     "arton": {
       "ms": 55,
-      "vf": 15,
+      "vf": 14,
       "voa": 38,
-      "eta": 2,
+      "eta": 3,
       "vr": 143,
-      "ppr": 85,
+      "ppr": 88,
       "ipr": 182,
       "wr": 28
     },
@@ -175511,9 +175511,9 @@
       "ms": 54,
       "vf": 12,
       "voa": 40,
-      "eta": 2,
+      "eta": 3,
       "vr": 144,
-      "ppr": 86,
+      "ppr": 89,
       "ipr": 185,
       "wr": 27
     },
@@ -176491,14 +176491,14 @@
     "coastline": 386.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 86,
+      "ms": 87,
       "vf": 33,
       "voa": 50,
-      "eta": 3,
-      "vr": 112,
-      "ppr": 55,
+      "eta": 4,
+      "vr": 111,
+      "ppr": 59,
       "ipr": 116,
-      "wr": 43
+      "wr": 44
     },
     "emoji_flag": "🇸🇷",
     "translations": {
@@ -177650,14 +177650,14 @@
     "coastline": 3218.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 174,
+      "ms": 175,
       "vf": 124,
       "voa": 43,
-      "eta": 7,
-      "vr": 24,
+      "eta": 8,
+      "vr": 23,
       "ppr": 2,
       "ipr": 2,
-      "wr": 87
+      "wr": 88
     },
     "emoji_flag": "🇸🇪",
     "translations": {
@@ -178713,14 +178713,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 174,
+      "ms": 175,
       "vf": 118,
       "voa": 48,
-      "eta": 8,
-      "vr": 24,
+      "eta": 9,
+      "vr": 23,
       "ppr": 2,
       "ipr": 11,
-      "wr": 87
+      "wr": 88
     },
     "emoji_flag": "🇨🇭",
     "translations": {
@@ -179739,11 +179739,11 @@
     "is_landlocked": false,
     "arton": {
       "ms": 40,
-      "vf": 7,
+      "vf": 6,
       "voa": 31,
-      "eta": 2,
+      "eta": 3,
       "vr": 158,
-      "ppr": 96,
+      "ppr": 97,
       "ipr": 198,
       "wr": 20
     },
@@ -180419,14 +180419,14 @@
     "coastline": 1566.3,
     "is_landlocked": false,
     "arton": {
-      "ms": 133,
+      "ms": 135,
       "vf": 76,
-      "voa": 51,
-      "eta": 6,
-      "vr": 65,
-      "ppr": 29,
-      "ipr": 74,
-      "wr": 67
+      "voa": 52,
+      "eta": 7,
+      "vr": 63,
+      "ppr": 30,
+      "ipr": 72,
+      "wr": 68
     },
     "emoji_flag": "🇹🇼",
     "translations": {
@@ -180870,12 +180870,12 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 69,
+      "ms": 70,
       "vf": 22,
       "voa": 44,
-      "eta": 3,
-      "vr": 129,
-      "ppr": 72,
+      "eta": 4,
+      "vr": 128,
+      "ppr": 74,
       "ipr": 149,
       "wr": 35
     },
@@ -181938,12 +181938,12 @@
     "coastline": 1424.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 73,
+      "ms": 74,
       "vf": 41,
       "voa": 29,
-      "eta": 3,
-      "vr": 125,
-      "ppr": 68,
+      "eta": 4,
+      "vr": 124,
+      "ppr": 70,
       "ipr": 135,
       "wr": 37
     },
@@ -182985,10 +182985,10 @@
       "ms": 95,
       "vf": 38,
       "voa": 53,
-      "eta": 4,
+      "eta": 5,
       "vr": 103,
-      "ppr": 49,
-      "ipr": 108,
+      "ppr": 54,
+      "ipr": 109,
       "wr": 48
     },
     "emoji_flag": "🇹🇭",
@@ -183824,12 +183824,12 @@
     "is_landlocked": false,
     "arton": {
       "ms": 100,
-      "vf": 54,
+      "vf": 53,
       "voa": 44,
-      "eta": 2,
+      "eta": 3,
       "vr": 98,
-      "ppr": 44,
-      "ipr": 99,
+      "ppr": 49,
+      "ipr": 100,
       "wr": 50
     },
     "emoji_flag": "🇹🇱",
@@ -184809,9 +184809,9 @@
       "ms": 66,
       "vf": 26,
       "voa": 39,
-      "eta": 1,
+      "eta": 2,
       "vr": 132,
-      "ppr": 75,
+      "ppr": 78,
       "ipr": 156,
       "wr": 33
     },
@@ -186015,14 +186015,14 @@
     "coastline": 419.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 124,
+      "ms": 125,
       "vf": 78,
       "voa": 42,
-      "eta": 4,
-      "vr": 74,
-      "ppr": 35,
-      "ipr": 84,
-      "wr": 62
+      "eta": 5,
+      "vr": 73,
+      "ppr": 38,
+      "ipr": 86,
+      "wr": 63
     },
     "emoji_flag": "🇹🇴",
     "translations": {
@@ -187038,14 +187038,14 @@
     "coastline": 362.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 140,
+      "ms": 141,
       "vf": 96,
       "voa": 41,
-      "eta": 3,
-      "vr": 58,
-      "ppr": 24,
+      "eta": 4,
+      "vr": 57,
+      "ppr": 25,
       "ipr": 63,
-      "wr": 70
+      "wr": 71
     },
     "emoji_flag": "🇹🇹",
     "translations": {
@@ -188074,13 +188074,13 @@
     "coastline": 1148.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 79,
-      "vf": 34,
-      "voa": 42,
-      "eta": 3,
-      "vr": 119,
-      "ppr": 62,
-      "ipr": 125,
+      "ms": 80,
+      "vf": 33,
+      "voa": 43,
+      "eta": 4,
+      "vr": 118,
+      "ppr": 64,
+      "ipr": 124,
       "wr": 40
     },
     "emoji_flag": "🇹🇳",
@@ -189139,14 +189139,14 @@
     "coastline": 7200.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 124,
+      "ms": 125,
       "vf": 69,
       "voa": 50,
-      "eta": 5,
-      "vr": 74,
-      "ppr": 35,
-      "ipr": 87,
-      "wr": 62
+      "eta": 6,
+      "vr": 73,
+      "ppr": 38,
+      "ipr": 88,
+      "wr": 63
     },
     "emoji_flag": "🇹🇷",
     "translations": {
@@ -190033,14 +190033,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 62,
+      "ms": 63,
       "vf": 14,
       "voa": 46,
-      "eta": 2,
-      "vr": 136,
-      "ppr": 79,
+      "eta": 3,
+      "vr": 135,
+      "ppr": 81,
       "ipr": 170,
-      "wr": 31
+      "wr": 32
     },
     "emoji_flag": "🇹🇲",
     "translations": {
@@ -191448,12 +191448,12 @@
     "coastline": 24.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 127,
+      "ms": 128,
       "vf": 81,
       "voa": 43,
-      "eta": 3,
-      "vr": 71,
-      "ppr": 33,
+      "eta": 4,
+      "vr": 70,
+      "ppr": 36,
       "ipr": 82,
       "wr": 64
     },
@@ -192372,12 +192372,12 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 71,
+      "ms": 72,
       "vf": 33,
       "voa": 36,
-      "eta": 2,
-      "vr": 127,
-      "ppr": 70,
+      "eta": 3,
+      "vr": 126,
+      "ppr": 72,
       "ipr": 140,
       "wr": 36
     },
@@ -193435,12 +193435,12 @@
     "coastline": 2782.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 147,
+      "ms": 148,
       "vf": 93,
       "voa": 51,
-      "eta": 3,
-      "vr": 51,
-      "ppr": 18,
+      "eta": 4,
+      "vr": 50,
+      "ppr": 19,
       "ipr": 56,
       "wr": 74
     },
@@ -194472,9 +194472,9 @@
     "is_landlocked": false,
     "arton": {
       "ms": 180,
-      "vf": 118,
-      "voa": 55,
-      "eta": 7,
+      "vf": 119,
+      "voa": 53,
+      "eta": 8,
       "vr": 18,
       "ppr": 1,
       "ipr": 1,
@@ -195500,11 +195500,11 @@
     "coastline": 12429.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 173,
+      "ms": 174,
       "vf": 117,
       "voa": 49,
-      "eta": 7,
-      "vr": 25,
+      "eta": 8,
+      "vr": 24,
       "ppr": 3,
       "ipr": 19,
       "wr": 87
@@ -196539,14 +196539,14 @@
     "coastline": 19924.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 172,
+      "ms": 173,
       "vf": 115,
       "voa": 52,
-      "eta": 5,
-      "vr": 26,
+      "eta": 6,
+      "vr": 25,
       "ppr": 4,
       "ipr": 26,
-      "wr": 86
+      "wr": 87
     },
     "emoji_flag": "🇺🇸",
     "translations": {
@@ -197755,14 +197755,14 @@
     "coastline": 660.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 148,
+      "ms": 149,
       "vf": 95,
       "voa": 49,
-      "eta": 4,
-      "vr": 50,
-      "ppr": 17,
+      "eta": 5,
+      "vr": 49,
+      "ppr": 18,
       "ipr": 54,
-      "wr": 74
+      "wr": 75
     },
     "emoji_flag": "🇺🇾",
     "translations": {
@@ -198678,14 +198678,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 70,
+      "ms": 71,
       "vf": 24,
       "voa": 44,
-      "eta": 2,
-      "vr": 128,
-      "ppr": 71,
+      "eta": 3,
+      "vr": 127,
+      "ppr": 73,
       "ipr": 143,
-      "wr": 35
+      "wr": 36
     },
     "emoji_flag": "🇺🇿",
     "translations": {
@@ -199606,12 +199606,12 @@
     "is_landlocked": false,
     "arton": {
       "ms": 99,
-      "vf": 49,
+      "vf": 48,
       "voa": 48,
-      "eta": 2,
+      "eta": 3,
       "vr": 99,
-      "ppr": 45,
-      "ipr": 101,
+      "ppr": 51,
+      "ipr": 104,
       "wr": 50
     },
     "emoji_flag": "🇻🇺",
@@ -200519,14 +200519,14 @@
     "coastline": 2800.0,
     "is_landlocked": false,
     "arton": {
-      "ms": 124,
+      "ms": 126,
       "vf": 69,
-      "voa": 52,
-      "eta": 3,
-      "vr": 74,
-      "ppr": 35,
-      "ipr": 88,
-      "wr": 62
+      "voa": 53,
+      "eta": 4,
+      "vr": 72,
+      "ppr": 37,
+      "ipr": 85,
+      "wr": 63
     },
     "emoji_flag": "🇻🇪",
     "translations": {
@@ -201480,9 +201480,9 @@
       "ms": 69,
       "vf": 20,
       "voa": 46,
-      "eta": 3,
+      "eta": 4,
       "vr": 129,
-      "ppr": 72,
+      "ppr": 75,
       "ipr": 150,
       "wr": 35
     },
@@ -203784,9 +203784,9 @@
       "ms": 46,
       "vf": 9,
       "voa": 35,
-      "eta": 2,
+      "eta": 3,
       "vr": 152,
-      "ppr": 92,
+      "ppr": 94,
       "ipr": 194,
       "wr": 23
     },
@@ -204732,13 +204732,13 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 75,
-      "vf": 38,
-      "voa": 34,
-      "eta": 3,
-      "vr": 123,
-      "ppr": 66,
-      "ipr": 133,
+      "ms": 76,
+      "vf": 37,
+      "voa": 35,
+      "eta": 4,
+      "vr": 122,
+      "ppr": 68,
+      "ipr": 131,
       "wr": 38
     },
     "emoji_flag": "🇿🇲",
@@ -205832,14 +205832,14 @@
     "coastline": 0.0,
     "is_landlocked": true,
     "arton": {
-      "ms": 70,
+      "ms": 71,
       "vf": 36,
       "voa": 32,
-      "eta": 2,
-      "vr": 128,
-      "ppr": 71,
+      "eta": 3,
+      "vr": 127,
+      "ppr": 73,
       "ipr": 142,
-      "wr": 35
+      "wr": 36
     },
     "emoji_flag": "🇿🇼",
     "translations": {

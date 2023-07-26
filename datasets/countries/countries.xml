@@ -443,9 +443,9 @@
     <ms>39</ms>
     <vf>3</vf>
     <voa>34</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>159</vr>
-    <ppr>97</ppr>
+    <ppr>98</ppr>
     <ipr>199</ipr>
     <wr>20</wr>
   </arton>
@@ -1476,12 +1476,12 @@
   <coastline>362</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>119</ms>
+    <ms>120</ms>
     <vf>69</vf>
     <voa>46</voa>
-    <eta>3</eta>
-    <vr>79</vr>
-    <ppr>39</ppr>
+    <eta>4</eta>
+    <vr>78</vr>
+    <ppr>42</ppr>
     <ipr>93</ipr>
     <wr>60</wr>
   </arton>
@@ -2480,9 +2480,9 @@
     <ms>66</ms>
     <vf>18</vf>
     <voa>46</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>132</vr>
-    <ppr>75</ppr>
+    <ppr>78</ppr>
     <ipr>158</ipr>
     <wr>33</wr>
   </arton>
@@ -3475,11 +3475,11 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>159</ms>
+    <ms>160</ms>
     <vf>96</vf>
     <voa>56</voa>
-    <eta>7</eta>
-    <vr>39</vr>
+    <eta>8</eta>
+    <vr>38</vr>
     <ppr>12</ppr>
     <ipr>46</ipr>
     <wr>80</wr>
@@ -4248,14 +4248,14 @@
   <coastline>1600</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>64</ms>
-    <vf>23</vf>
-    <voa>38</voa>
-    <eta>3</eta>
-    <vr>134</vr>
-    <ppr>77</ppr>
-    <ipr>163</ipr>
-    <wr>32</wr>
+    <ms>65</ms>
+    <vf>22</vf>
+    <voa>39</voa>
+    <eta>4</eta>
+    <vr>133</vr>
+    <ppr>79</ppr>
+    <ipr>162</ipr>
+    <wr>33</wr>
   </arton>
   <emoji_flag>🇦🇴</emoji_flag>
   <translations>
@@ -5699,12 +5699,12 @@
   <coastline>153</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>141</ms>
+    <ms>142</ms>
     <vf>96</vf>
     <voa>42</voa>
-    <eta>3</eta>
-    <vr>57</vr>
-    <ppr>23</ppr>
+    <eta>4</eta>
+    <vr>56</vr>
+    <ppr>24</ppr>
     <ipr>62</ipr>
     <wr>71</wr>
   </arton>
@@ -6593,11 +6593,11 @@
   <coastline>4989</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>161</ms>
+    <ms>162</ms>
     <vf>103</vf>
     <voa>53</voa>
-    <eta>5</eta>
-    <vr>37</vr>
+    <eta>6</eta>
+    <vr>36</vr>
     <ppr>11</ppr>
     <ipr>45</ipr>
     <wr>81</wr>
@@ -7520,12 +7520,12 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>81</ms>
+    <ms>82</ms>
     <vf>33</vf>
     <voa>46</voa>
-    <eta>2</eta>
-    <vr>117</vr>
-    <ppr>60</ppr>
+    <eta>3</eta>
+    <vr>116</vr>
+    <ppr>63</ppr>
     <ipr>121</ipr>
     <wr>41</wr>
   </arton>
@@ -9080,14 +9080,14 @@
   <coastline>25760</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>172</ms>
+    <ms>173</ms>
     <vf>110</vf>
     <voa>57</voa>
-    <eta>5</eta>
-    <vr>26</vr>
+    <eta>6</eta>
+    <vr>25</vr>
     <ppr>4</ppr>
     <ipr>27</ipr>
-    <wr>86</wr>
+    <wr>87</wr>
   </arton>
   <emoji_flag>🇦🇺</emoji_flag>
   <translations>
@@ -10118,14 +10118,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>174</ms>
+    <ms>175</ms>
     <vf>122</vf>
     <voa>45</voa>
-    <eta>7</eta>
-    <vr>24</vr>
+    <eta>8</eta>
+    <vr>23</vr>
     <ppr>2</ppr>
     <ipr>10</ipr>
-    <wr>87</wr>
+    <wr>88</wr>
   </arton>
   <emoji_flag>🇦🇹</emoji_flag>
   <translations>
@@ -11038,14 +11038,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>80</ms>
-    <vf>30</vf>
+    <ms>82</ms>
+    <vf>31</vf>
     <voa>47</voa>
-    <eta>3</eta>
-    <vr>118</vr>
-    <ppr>61</ppr>
+    <eta>4</eta>
+    <vr>116</vr>
+    <ppr>63</ppr>
     <ipr>122</ipr>
-    <wr>40</wr>
+    <wr>41</wr>
   </arton>
   <emoji_flag>🇦🇿</emoji_flag>
   <translations>
@@ -12015,14 +12015,14 @@
   <coastline>3542</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>148</ms>
+    <ms>149</ms>
     <vf>98</vf>
     <voa>45</voa>
-    <eta>5</eta>
-    <vr>50</vr>
-    <ppr>17</ppr>
+    <eta>6</eta>
+    <vr>49</vr>
+    <ppr>18</ppr>
     <ipr>53</ipr>
-    <wr>74</wr>
+    <wr>75</wr>
   </arton>
   <emoji_flag>🇧🇸</emoji_flag>
   <translations>
@@ -13013,14 +13013,14 @@
   <coastline>161</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>100</ms>
+    <ms>101</ms>
     <vf>46</vf>
     <voa>48</voa>
-    <eta>6</eta>
-    <vr>98</vr>
-    <ppr>44</ppr>
-    <ipr>100</ipr>
-    <wr>50</wr>
+    <eta>7</eta>
+    <vr>97</vr>
+    <ppr>48</ppr>
+    <ipr>99</ipr>
+    <wr>51</wr>
   </arton>
   <emoji_flag>🇧🇭</emoji_flag>
   <translations>
@@ -13968,14 +13968,14 @@
   <coastline>580</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>48</ms>
+    <ms>49</ms>
     <vf>14</vf>
     <voa>32</voa>
-    <eta>2</eta>
-    <vr>150</vr>
-    <ppr>91</ppr>
+    <eta>3</eta>
+    <vr>149</vr>
+    <ppr>93</ppr>
     <ipr>193</ipr>
-    <wr>24</wr>
+    <wr>25</wr>
   </arton>
   <emoji_flag>🇧🇩</emoji_flag>
   <translations>
@@ -14965,14 +14965,14 @@
   <coastline>97</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>152</ms>
+    <ms>153</ms>
     <vf>105</vf>
     <voa>42</voa>
-    <eta>5</eta>
-    <vr>46</vr>
-    <ppr>15</ppr>
+    <eta>6</eta>
+    <vr>45</vr>
+    <ppr>16</ppr>
     <ipr>50</ipr>
-    <wr>76</wr>
+    <wr>77</wr>
   </arton>
   <emoji_flag>🇧🇧</emoji_flag>
   <translations>
@@ -15972,12 +15972,12 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>91</ms>
+    <ms>92</ms>
     <vf>42</vf>
     <voa>47</voa>
-    <eta>2</eta>
-    <vr>107</vr>
-    <ppr>51</ppr>
+    <eta>3</eta>
+    <vr>106</vr>
+    <ppr>55</ppr>
     <ipr>110</ipr>
     <wr>46</wr>
   </arton>
@@ -16953,11 +16953,11 @@
   <coastline>66.5</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>173</ms>
+    <ms>174</ms>
     <vf>123</vf>
     <voa>44</voa>
-    <eta>6</eta>
-    <vr>25</vr>
+    <eta>7</eta>
+    <vr>24</vr>
     <ppr>3</ppr>
     <ipr>14</ipr>
     <wr>87</wr>
@@ -17960,14 +17960,14 @@
   <coastline>386</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>98</ms>
+    <ms>99</ms>
     <vf>58</vf>
     <voa>38</voa>
-    <eta>2</eta>
-    <vr>100</vr>
-    <ppr>46</ppr>
-    <ipr>102</ipr>
-    <wr>49</wr>
+    <eta>3</eta>
+    <vr>99</vr>
+    <ppr>50</ppr>
+    <ipr>101</ipr>
+    <wr>50</wr>
   </arton>
   <emoji_flag>🇧🇿</emoji_flag>
   <translations>
@@ -18980,9 +18980,9 @@
     <ms>69</ms>
     <vf>30</vf>
     <voa>38</voa>
-    <eta>1</eta>
+    <eta>2</eta>
     <vr>129</vr>
-    <ppr>72</ppr>
+    <ppr>75</ppr>
     <ipr>147</ipr>
     <wr>35</wr>
   </arton>
@@ -20344,10 +20344,10 @@
     <ms>67</ms>
     <vf>16</vf>
     <voa>49</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>131</vr>
-    <ppr>74</ppr>
-    <ipr>154</ipr>
+    <ppr>77</ppr>
+    <ipr>156</ipr>
     <wr>34</wr>
   </arton>
   <emoji_flag>🇧🇹</emoji_flag>
@@ -21419,14 +21419,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>86</ms>
+    <ms>87</ms>
     <vf>35</vf>
     <voa>49</voa>
-    <eta>2</eta>
-    <vr>112</vr>
-    <ppr>55</ppr>
+    <eta>3</eta>
+    <vr>111</vr>
+    <ppr>59</ppr>
     <ipr>115</ipr>
-    <wr>43</wr>
+    <wr>44</wr>
   </arton>
   <emoji_flag>🇧🇴</emoji_flag>
   <translations>
@@ -22507,14 +22507,14 @@
   <coastline>20</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>118</ms>
+    <ms>119</ms>
     <vf>69</vf>
     <voa>46</voa>
-    <eta>3</eta>
-    <vr>80</vr>
-    <ppr>39</ppr>
+    <eta>4</eta>
+    <vr>79</vr>
+    <ppr>43</ppr>
     <ipr>94</ipr>
-    <wr>59</wr>
+    <wr>60</wr>
   </arton>
   <emoji_flag>🇧🇦</emoji_flag>
   <translations>
@@ -23480,12 +23480,12 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>87</ms>
+    <ms>88</ms>
     <vf>49</vf>
     <voa>34</voa>
-    <eta>4</eta>
-    <vr>111</vr>
-    <ppr>54</ppr>
+    <eta>5</eta>
+    <vr>110</vr>
+    <ppr>58</ppr>
     <ipr>114</ipr>
     <wr>44</wr>
   </arton>
@@ -24689,11 +24689,11 @@
   <coastline>7491</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>161</ms>
+    <ms>162</ms>
     <vf>106</vf>
     <voa>51</voa>
-    <eta>4</eta>
-    <vr>37</vr>
+    <eta>5</eta>
+    <vr>36</vr>
     <ppr>11</ppr>
     <ipr>44</ipr>
     <wr>81</wr>
@@ -25854,14 +25854,14 @@
   <coastline>161</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>154</ms>
+    <ms>155</ms>
     <vf>99</vf>
     <voa>47</voa>
-    <eta>8</eta>
-    <vr>44</vr>
-    <ppr>14</ppr>
+    <eta>9</eta>
+    <vr>43</vr>
+    <ppr>15</ppr>
     <ipr>49</ipr>
-    <wr>77</wr>
+    <wr>78</wr>
   </arton>
   <emoji_flag>🇧🇳</emoji_flag>
   <translations>
@@ -26772,14 +26772,14 @@
   <coastline>354</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>168</ms>
+    <ms>169</ms>
     <vf>112</vf>
     <voa>51</voa>
     <eta>5</eta>
-    <vr>30</vr>
+    <vr>29</vr>
     <ppr>8</ppr>
     <ipr>40</ipr>
-    <wr>84</wr>
+    <wr>85</wr>
   </arton>
   <emoji_flag>🇧🇬</emoji_flag>
   <translations>
@@ -27682,9 +27682,9 @@
     <ms>69</ms>
     <vf>29</vf>
     <voa>39</voa>
-    <eta>1</eta>
+    <eta>2</eta>
     <vr>129</vr>
-    <ppr>72</ppr>
+    <ppr>75</ppr>
     <ipr>148</ipr>
     <wr>35</wr>
   </arton>
@@ -28663,14 +28663,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>58</ms>
+    <ms>59</ms>
     <vf>17</vf>
     <voa>39</voa>
-    <eta>2</eta>
-    <vr>140</vr>
-    <ppr>82</ppr>
+    <eta>3</eta>
+    <vr>139</vr>
+    <ppr>84</ppr>
     <ipr>176</ipr>
-    <wr>29</wr>
+    <wr>30</wr>
   </arton>
   <emoji_flag>🇧🇮</emoji_flag>
   <translations>
@@ -29590,11 +29590,11 @@
   <arton>
     <ms>77</ms>
     <vf>36</vf>
-    <voa>40</voa>
-    <eta>1</eta>
+    <voa>38</voa>
+    <eta>2</eta>
     <vr>121</vr>
-    <ppr>64</ppr>
-    <ipr>129</ipr>
+    <ppr>68</ppr>
+    <ipr>132</ipr>
     <wr>39</wr>
   </arton>
   <emoji_flag>🇨🇻</emoji_flag>
@@ -30455,9 +30455,9 @@
     <ms>70</ms>
     <vf>19</vf>
     <voa>48</voa>
-    <eta>3</eta>
+    <eta>4</eta>
     <vr>128</vr>
-    <ppr>71</ppr>
+    <ppr>74</ppr>
     <ipr>144</ipr>
     <wr>35</wr>
   </arton>
@@ -31483,14 +31483,14 @@
   <coastline>402</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>60</ms>
+    <ms>61</ms>
     <vf>19</vf>
-    <voa>39</voa>
-    <eta>2</eta>
-    <vr>138</vr>
-    <ppr>81</ppr>
-    <ipr>175</ipr>
-    <wr>30</wr>
+    <voa>40</voa>
+    <eta>3</eta>
+    <vr>137</vr>
+    <ppr>83</ppr>
+    <ipr>174</ipr>
+    <wr>31</wr>
   </arton>
   <emoji_flag>🇨🇲</emoji_flag>
   <translations>
@@ -32494,14 +32494,14 @@
   <coastline>202080</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>172</ms>
+    <ms>173</ms>
     <vf>115</vf>
     <voa>52</voa>
-    <eta>5</eta>
-    <vr>26</vr>
+    <eta>6</eta>
+    <vr>25</vr>
     <ppr>4</ppr>
     <ipr>25</ipr>
-    <wr>86</wr>
+    <wr>87</wr>
   </arton>
   <emoji_flag>🇨🇦</emoji_flag>
   <translations>
@@ -34082,13 +34082,13 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>61</ms>
+    <ms>62</ms>
     <vf>19</vf>
     <voa>41</voa>
-    <eta>1</eta>
-    <vr>137</vr>
-    <ppr>80</ppr>
-    <ipr>173</ipr>
+    <eta>2</eta>
+    <vr>136</vr>
+    <ppr>82</ppr>
+    <ipr>171</ipr>
     <wr>31</wr>
   </arton>
   <emoji_flag>🇨🇫</emoji_flag>
@@ -35073,14 +35073,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>62</ms>
+    <ms>63</ms>
     <vf>22</vf>
     <voa>39</voa>
-    <eta>1</eta>
-    <vr>136</vr>
-    <ppr>79</ppr>
+    <eta>2</eta>
+    <vr>135</vr>
+    <ppr>81</ppr>
     <ipr>169</ipr>
-    <wr>31</wr>
+    <wr>32</wr>
   </arton>
   <emoji_flag>🇹🇩</emoji_flag>
   <translations>
@@ -36043,11 +36043,11 @@
   <coastline>6435</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>161</ms>
+    <ms>162</ms>
     <vf>104</vf>
     <voa>51</voa>
-    <eta>6</eta>
-    <vr>37</vr>
+    <eta>7</eta>
+    <vr>36</vr>
     <ppr>11</ppr>
     <ipr>43</ipr>
     <wr>81</wr>
@@ -37120,12 +37120,12 @@
   <coastline>14500</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>83</ms>
+    <ms>84</ms>
     <vf>30</vf>
     <voa>50</voa>
-    <eta>3</eta>
-    <vr>115</vr>
-    <ppr>58</ppr>
+    <eta>4</eta>
+    <vr>114</vr>
+    <ppr>61</ppr>
     <ipr>118</ipr>
     <wr>42</wr>
   </arton>
@@ -38441,14 +38441,14 @@
   <coastline>3208</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>138</ms>
+    <ms>139</ms>
     <vf>82</vf>
     <voa>53</voa>
-    <eta>3</eta>
-    <vr>60</vr>
-    <ppr>26</ppr>
+    <eta>4</eta>
+    <vr>59</vr>
+    <ppr>27</ppr>
     <ipr>66</ipr>
-    <wr>69</wr>
+    <wr>70</wr>
   </arton>
   <emoji_flag>🇨🇴</emoji_flag>
   <translations>
@@ -39406,13 +39406,13 @@
   <coastline>340</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>63</ms>
+    <ms>64</ms>
     <vf>17</vf>
     <voa>44</voa>
-    <eta>2</eta>
-    <vr>135</vr>
-    <ppr>78</ppr>
-    <ipr>168</ipr>
+    <eta>3</eta>
+    <vr>134</vr>
+    <ppr>80</ppr>
+    <ipr>167</ipr>
     <wr>32</wr>
   </arton>
   <emoji_flag>🇰🇲</emoji_flag>
@@ -40300,12 +40300,12 @@
   <coastline>169</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>57</ms>
+    <ms>58</ms>
     <vf>18</vf>
     <voa>37</voa>
-    <eta>2</eta>
-    <vr>141</vr>
-    <ppr>83</ppr>
+    <eta>3</eta>
+    <vr>140</vr>
+    <ppr>85</ppr>
     <ipr>177</ipr>
     <wr>29</wr>
   </arton>
@@ -41311,14 +41311,14 @@
   <coastline>37</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>54</ms>
+    <ms>55</ms>
     <vf>14</vf>
     <voa>38</voa>
-    <eta>2</eta>
-    <vr>144</vr>
-    <ppr>86</ppr>
-    <ipr>184</ipr>
-    <wr>27</wr>
+    <eta>3</eta>
+    <vr>143</vr>
+    <ppr>88</ppr>
+    <ipr>183</ipr>
+    <wr>28</wr>
   </arton>
   <emoji_flag>🇨🇩</emoji_flag>
   <translations>
@@ -42715,14 +42715,14 @@
   <coastline>1290</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>142</ms>
+    <ms>143</ms>
     <vf>90</vf>
     <voa>48</voa>
-    <eta>4</eta>
-    <vr>56</vr>
-    <ppr>22</ppr>
+    <eta>5</eta>
+    <vr>55</vr>
+    <ppr>23</ppr>
     <ipr>61</ipr>
-    <wr>71</wr>
+    <wr>72</wr>
   </arton>
   <emoji_flag>🇨🇷</emoji_flag>
   <translations>
@@ -43740,10 +43740,10 @@
     <ms>68</ms>
     <vf>29</vf>
     <voa>38</voa>
-    <eta>1</eta>
+    <eta>2</eta>
     <vr>130</vr>
-    <ppr>73</ppr>
-    <ipr>151</ipr>
+    <ppr>76</ppr>
+    <ipr>152</ipr>
     <wr>34</wr>
   </arton>
   <emoji_flag>🇨🇮</emoji_flag>
@@ -44695,14 +44695,14 @@
   <coastline>5835</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>168</ms>
+    <ms>170</ms>
     <vf>115</vf>
-    <voa>47</voa>
+    <voa>48</voa>
     <eta>6</eta>
-    <vr>30</vr>
-    <ppr>8</ppr>
-    <ipr>38</ipr>
-    <wr>84</wr>
+    <vr>28</vr>
+    <ppr>7</ppr>
+    <ipr>37</ipr>
+    <wr>85</wr>
   </arton>
   <emoji_flag>🇭🇷</emoji_flag>
   <translations>
@@ -45481,12 +45481,12 @@
   <is_landlocked>false</is_landlocked>
   <arton>
     <ms>76</ms>
-    <vf>27</vf>
+    <vf>26</vf>
     <voa>47</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>122</vr>
-    <ppr>65</ppr>
-    <ipr>132</ipr>
+    <ppr>68</ppr>
+    <ipr>133</ipr>
     <wr>38</wr>
   </arton>
   <emoji_flag>🇨🇺</emoji_flag>
@@ -47123,14 +47123,14 @@
   <coastline>648</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>168</ms>
+    <ms>169</ms>
     <vf>117</vf>
     <voa>46</voa>
     <eta>5</eta>
-    <vr>30</vr>
+    <vr>29</vr>
     <ppr>8</ppr>
-    <ipr>37</ipr>
-    <wr>84</wr>
+    <ipr>38</ipr>
+    <wr>85</wr>
   </arton>
   <emoji_flag>🇨🇾</emoji_flag>
   <translations>
@@ -48144,14 +48144,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>172</ms>
+    <ms>173</ms>
     <vf>119</vf>
     <voa>47</voa>
     <eta>6</eta>
-    <vr>26</vr>
+    <vr>25</vr>
     <ppr>4</ppr>
     <ipr>22</ipr>
-    <wr>86</wr>
+    <wr>87</wr>
   </arton>
   <emoji_flag>🇨🇿</emoji_flag>
   <translations>
@@ -49146,11 +49146,11 @@
   <coastline>7314</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>173</ms>
+    <ms>174</ms>
     <vf>124</vf>
     <voa>43</voa>
-    <eta>6</eta>
-    <vr>25</vr>
+    <eta>7</eta>
+    <vr>24</vr>
     <ppr>3</ppr>
     <ipr>13</ipr>
     <wr>87</wr>
@@ -50142,13 +50142,13 @@
   <coastline>314</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>61</ms>
-    <vf>14</vf>
+    <ms>62</ms>
+    <vf>15</vf>
     <voa>45</voa>
-    <eta>2</eta>
-    <vr>137</vr>
-    <ppr>80</ppr>
-    <ipr>174</ipr>
+    <eta>3</eta>
+    <vr>136</vr>
+    <ppr>82</ppr>
+    <ipr>172</ipr>
     <wr>31</wr>
   </arton>
   <emoji_flag>🇩🇯</emoji_flag>
@@ -50972,12 +50972,12 @@
   <is_landlocked>false</is_landlocked>
   <arton>
     <ms>133</ms>
-    <vf>88</vf>
+    <vf>87</vf>
     <voa>42</voa>
-    <eta>3</eta>
+    <eta>4</eta>
     <vr>65</vr>
-    <ppr>29</ppr>
-    <ipr>72</ipr>
+    <ppr>32</ppr>
+    <ipr>74</ipr>
     <wr>67</wr>
   </arton>
   <emoji_flag>🇩🇲</emoji_flag>
@@ -51847,14 +51847,14 @@
   <coastline>1288</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>82</ms>
-    <vf>30</vf>
-    <voa>49</voa>
-    <eta>3</eta>
-    <vr>116</vr>
-    <ppr>59</ppr>
+    <ms>83</ms>
+    <vf>29</vf>
+    <voa>50</voa>
+    <eta>4</eta>
+    <vr>115</vr>
+    <ppr>62</ppr>
     <ipr>120</ipr>
-    <wr>41</wr>
+    <wr>42</wr>
   </arton>
   <emoji_flag>🇩🇴</emoji_flag>
   <translations>
@@ -52860,11 +52860,11 @@
   <is_landlocked>false</is_landlocked>
   <arton>
     <ms>102</ms>
-    <vf>49</vf>
+    <vf>48</vf>
     <voa>50</voa>
-    <eta>3</eta>
+    <eta>4</eta>
     <vr>96</vr>
-    <ppr>43</ppr>
+    <ppr>47</ppr>
     <ipr>98</ipr>
     <wr>51</wr>
   </arton>
@@ -53879,12 +53879,12 @@
   <is_landlocked>false</is_landlocked>
   <arton>
     <ms>65</ms>
-    <vf>17</vf>
+    <vf>16</vf>
     <voa>46</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>133</vr>
-    <ppr>76</ppr>
-    <ipr>161</ipr>
+    <ppr>79</ppr>
+    <ipr>164</ipr>
     <wr>33</wr>
   </arton>
   <emoji_flag>🇪🇬</emoji_flag>
@@ -54889,14 +54889,14 @@
   <coastline>307</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>128</ms>
+    <ms>129</ms>
     <vf>79</vf>
     <voa>46</voa>
-    <eta>3</eta>
-    <vr>70</vr>
-    <ppr>32</ppr>
+    <eta>4</eta>
+    <vr>69</vr>
+    <ppr>35</ppr>
     <ipr>80</ipr>
-    <wr>64</wr>
+    <wr>65</wr>
   </arton>
   <emoji_flag>🇸🇻</emoji_flag>
   <translations>
@@ -55864,14 +55864,14 @@
   <coastline>296</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>66</ms>
+    <ms>67</ms>
     <vf>20</vf>
     <voa>44</voa>
-    <eta>2</eta>
-    <vr>132</vr>
-    <ppr>75</ppr>
-    <ipr>157</ipr>
-    <wr>33</wr>
+    <eta>3</eta>
+    <vr>131</vr>
+    <ppr>77</ppr>
+    <ipr>155</ipr>
+    <wr>34</wr>
   </arton>
   <emoji_flag>🇬🇶</emoji_flag>
   <translations>
@@ -56608,14 +56608,14 @@
   <coastline>2234</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>52</ms>
-    <vf>10</vf>
-    <voa>40</voa>
-    <eta>2</eta>
-    <vr>146</vr>
-    <ppr>88</ppr>
+    <ms>53</ms>
+    <vf>9</vf>
+    <voa>41</voa>
+    <eta>3</eta>
+    <vr>145</vr>
+    <ppr>90</ppr>
     <ipr>189</ipr>
-    <wr>26</wr>
+    <wr>27</wr>
   </arton>
   <emoji_flag>🇪🇷</emoji_flag>
   <translations>
@@ -57323,14 +57323,14 @@
   <coastline>3794</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>170</ms>
+    <ms>171</ms>
     <vf>117</vf>
     <voa>47</voa>
     <eta>6</eta>
-    <vr>28</vr>
+    <vr>27</vr>
     <ppr>6</ppr>
     <ipr>32</ipr>
-    <wr>85</wr>
+    <wr>86</wr>
   </arton>
   <emoji_flag>🇪🇪</emoji_flag>
   <translations>
@@ -58338,12 +58338,12 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>79</ms>
+    <ms>80</ms>
     <vf>42</vf>
     <voa>34</voa>
-    <eta>3</eta>
-    <vr>119</vr>
-    <ppr>62</ppr>
+    <eta>4</eta>
+    <vr>118</vr>
+    <ppr>64</ppr>
     <ipr>123</ipr>
     <wr>40</wr>
   </arton>
@@ -59341,13 +59341,13 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>53</ms>
+    <ms>54</ms>
     <vf>11</vf>
     <voa>40</voa>
-    <eta>2</eta>
-    <vr>145</vr>
-    <ppr>87</ppr>
-    <ipr>187</ipr>
+    <eta>3</eta>
+    <vr>144</vr>
+    <ppr>89</ppr>
+    <ipr>186</ipr>
     <wr>27</wr>
   </arton>
   <emoji_flag>🇪🇹</emoji_flag>
@@ -60910,14 +60910,14 @@
   <coastline>1129</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>96</ms>
+    <ms>97</ms>
     <vf>46</vf>
     <voa>47</voa>
-    <eta>3</eta>
-    <vr>102</vr>
-    <ppr>48</ppr>
+    <eta>4</eta>
+    <vr>101</vr>
+    <ppr>52</ppr>
     <ipr>105</ipr>
-    <wr>48</wr>
+    <wr>49</wr>
   </arton>
   <emoji_flag>🇫🇯</emoji_flag>
   <translations>
@@ -61926,14 +61926,14 @@
   <coastline>1250</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>174</ms>
+    <ms>175</ms>
     <vf>124</vf>
     <voa>43</voa>
-    <eta>7</eta>
-    <vr>24</vr>
+    <eta>8</eta>
+    <vr>23</vr>
     <ppr>2</ppr>
     <ipr>4</ipr>
-    <wr>87</wr>
+    <wr>88</wr>
   </arton>
   <emoji_flag>🇫🇮</emoji_flag>
   <translations>
@@ -62963,14 +62963,14 @@
   <coastline>3427</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>174</ms>
+    <ms>175</ms>
     <vf>124</vf>
     <voa>43</voa>
-    <eta>7</eta>
-    <vr>24</vr>
+    <eta>8</eta>
+    <vr>23</vr>
     <ppr>2</ppr>
     <ipr>6</ipr>
-    <wr>87</wr>
+    <wr>88</wr>
   </arton>
   <emoji_flag>🇫🇷</emoji_flag>
   <translations>
@@ -64714,14 +64714,14 @@
   <coastline>885</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>68</ms>
+    <ms>69</ms>
     <vf>24</vf>
     <voa>42</voa>
-    <eta>2</eta>
-    <vr>130</vr>
-    <ppr>73</ppr>
-    <ipr>152</ipr>
-    <wr>34</wr>
+    <eta>3</eta>
+    <vr>129</vr>
+    <ppr>75</ppr>
+    <ipr>149</ipr>
+    <wr>35</wr>
   </arton>
   <emoji_flag>🇬🇦</emoji_flag>
   <translations>
@@ -65719,9 +65719,9 @@
     <ms>73</ms>
     <vf>42</vf>
     <voa>30</voa>
-    <eta>1</eta>
+    <eta>2</eta>
     <vr>125</vr>
-    <ppr>68</ppr>
+    <ppr>71</ppr>
     <ipr>136</ipr>
     <wr>37</wr>
   </arton>
@@ -66609,14 +66609,14 @@
   <coastline>310</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>130</ms>
+    <ms>131</ms>
     <vf>76</vf>
     <voa>52</voa>
-    <eta>2</eta>
-    <vr>68</vr>
-    <ppr>30</ppr>
-    <ipr>76</ipr>
-    <wr>65</wr>
+    <eta>3</eta>
+    <vr>67</vr>
+    <ppr>33</ppr>
+    <ipr>75</ipr>
+    <wr>66</wr>
   </arton>
   <emoji_flag>🇬🇪</emoji_flag>
   <translations>
@@ -67611,14 +67611,14 @@
   <coastline>2389</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>174</ms>
+    <ms>175</ms>
     <vf>124</vf>
     <voa>43</voa>
-    <eta>7</eta>
-    <vr>24</vr>
+    <eta>8</eta>
+    <vr>23</vr>
     <ppr>2</ppr>
     <ipr>3</ipr>
-    <wr>87</wr>
+    <wr>88</wr>
   </arton>
   <emoji_flag>🇩🇪</emoji_flag>
   <translations>
@@ -68624,11 +68624,11 @@
   <is_landlocked>false</is_landlocked>
   <arton>
     <ms>73</ms>
-    <vf>40</vf>
+    <vf>39</vf>
     <voa>31</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>125</vr>
-    <ppr>68</ppr>
+    <ppr>71</ppr>
     <ipr>137</ipr>
     <wr>37</wr>
   </arton>
@@ -70010,14 +70010,14 @@
   <coastline>13676</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>172</ms>
+    <ms>173</ms>
     <vf>119</vf>
     <voa>46</voa>
-    <eta>7</eta>
-    <vr>26</vr>
+    <eta>8</eta>
+    <vr>25</vr>
     <ppr>4</ppr>
     <ipr>21</ipr>
-    <wr>86</wr>
+    <wr>87</wr>
   </arton>
   <emoji_flag>🇬🇷</emoji_flag>
   <translations>
@@ -71327,13 +71327,13 @@
   <coastline>121</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>135</ms>
+    <ms>136</ms>
     <vf>93</vf>
     <voa>39</voa>
-    <eta>3</eta>
-    <vr>63</vr>
-    <ppr>28</ppr>
-    <ipr>69</ipr>
+    <eta>4</eta>
+    <vr>62</vr>
+    <ppr>29</ppr>
+    <ipr>70</ipr>
     <wr>68</wr>
   </arton>
   <emoji_flag>🇬🇩</emoji_flag>
@@ -72788,12 +72788,12 @@
   <coastline>400</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>129</ms>
+    <ms>130</ms>
     <vf>78</vf>
     <voa>48</voa>
-    <eta>3</eta>
-    <vr>69</vr>
-    <ppr>31</ppr>
+    <eta>4</eta>
+    <vr>68</vr>
+    <ppr>34</ppr>
     <ipr>77</ipr>
     <wr>65</wr>
   </arton>
@@ -74065,9 +74065,9 @@
     <ms>65</ms>
     <vf>27</vf>
     <voa>36</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>133</vr>
-    <ppr>76</ppr>
+    <ppr>79</ppr>
     <ipr>160</ipr>
     <wr>33</wr>
   </arton>
@@ -75012,10 +75012,10 @@
     <ms>63</ms>
     <vf>26</vf>
     <voa>36</voa>
-    <eta>1</eta>
+    <eta>2</eta>
     <vr>135</vr>
-    <ppr>78</ppr>
-    <ipr>166</ipr>
+    <ppr>81</ppr>
+    <ipr>168</ipr>
     <wr>32</wr>
   </arton>
   <emoji_flag>🇬🇼</emoji_flag>
@@ -75961,14 +75961,14 @@
   <coastline>459</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>94</ms>
+    <ms>95</ms>
     <vf>43</vf>
     <voa>48</voa>
-    <eta>3</eta>
-    <vr>104</vr>
-    <ppr>50</ppr>
-    <ipr>109</ipr>
-    <wr>47</wr>
+    <eta>4</eta>
+    <vr>103</vr>
+    <ppr>54</ppr>
+    <ipr>108</ipr>
+    <wr>48</wr>
   </arton>
   <emoji_flag>🇬🇾</emoji_flag>
   <translations>
@@ -76932,12 +76932,12 @@
   <is_landlocked>false</is_landlocked>
   <arton>
     <ms>62</ms>
-    <vf>13</vf>
+    <vf>12</vf>
     <voa>46</voa>
-    <eta>3</eta>
+    <eta>4</eta>
     <vr>136</vr>
-    <ppr>79</ppr>
-    <ipr>171</ipr>
+    <ppr>83</ppr>
+    <ipr>175</ipr>
     <wr>31</wr>
   </arton>
   <emoji_flag>🇭🇹</emoji_flag>
@@ -77708,12 +77708,12 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>147</ms>
+    <ms>148</ms>
     <vf>92</vf>
     <voa>49</voa>
-    <eta>6</eta>
-    <vr>51</vr>
-    <ppr>18</ppr>
+    <eta>7</eta>
+    <vr>50</vr>
+    <ppr>19</ppr>
     <ipr>55</ipr>
     <wr>74</wr>
   </arton>
@@ -78223,12 +78223,12 @@
   <is_landlocked>false</is_landlocked>
   <arton>
     <ms>130</ms>
-    <vf>81</vf>
+    <vf>80</vf>
     <voa>46</voa>
-    <eta>3</eta>
+    <eta>4</eta>
     <vr>68</vr>
-    <ppr>30</ppr>
-    <ipr>75</ipr>
+    <ppr>34</ppr>
+    <ipr>76</ipr>
     <wr>65</wr>
   </arton>
   <emoji_flag>🇭🇳</emoji_flag>
@@ -79156,13 +79156,13 @@
   <coastline>733</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>157</ms>
+    <ms>158</ms>
     <vf>109</vf>
     <voa>43</voa>
-    <eta>5</eta>
-    <vr>41</vr>
-    <ppr>13</ppr>
-    <ipr>47</ipr>
+    <eta>6</eta>
+    <vr>40</vr>
+    <ppr>14</ppr>
+    <ipr>48</ipr>
     <wr>79</wr>
   </arton>
   <emoji_flag>🇭🇰</emoji_flag>
@@ -79976,14 +79976,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>172</ms>
+    <ms>173</ms>
     <vf>118</vf>
     <voa>48</voa>
     <eta>6</eta>
-    <vr>26</vr>
+    <vr>25</vr>
     <ppr>4</ppr>
     <ipr>23</ipr>
-    <wr>86</wr>
+    <wr>87</wr>
   </arton>
   <emoji_flag>🇭🇺</emoji_flag>
   <translations>
@@ -80973,11 +80973,11 @@
   <coastline>4970</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>169</ms>
+    <ms>170</ms>
     <vf>113</vf>
     <voa>48</voa>
-    <eta>8</eta>
-    <vr>29</vr>
+    <eta>9</eta>
+    <vr>28</vr>
     <ppr>7</ppr>
     <ipr>36</ipr>
     <wr>85</wr>
@@ -82004,12 +82004,12 @@
   <coastline>7000</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>71</ms>
+    <ms>72</ms>
     <vf>21</vf>
     <voa>48</voa>
-    <eta>2</eta>
-    <vr>127</vr>
-    <ppr>70</ppr>
+    <eta>3</eta>
+    <vr>126</vr>
+    <ppr>72</ppr>
     <ipr>141</ipr>
     <wr>36</wr>
   </arton>
@@ -83019,14 +83019,14 @@
   <coastline>54716</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>88</ms>
+    <ms>90</ms>
     <vf>41</vf>
     <voa>44</voa>
-    <eta>3</eta>
-    <vr>110</vr>
-    <ppr>53</ppr>
+    <eta>5</eta>
+    <vr>108</vr>
+    <ppr>57</ppr>
     <ipr>113</ipr>
-    <wr>44</wr>
+    <wr>45</wr>
   </arton>
   <emoji_flag>🇮🇩</emoji_flag>
   <translations>
@@ -84051,14 +84051,14 @@
   <coastline>2440</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>52</ms>
+    <ms>53</ms>
     <vf>11</vf>
     <voa>38</voa>
-    <eta>3</eta>
-    <vr>146</vr>
-    <ppr>88</ppr>
+    <eta>4</eta>
+    <vr>145</vr>
+    <ppr>90</ppr>
     <ipr>188</ipr>
-    <wr>26</wr>
+    <wr>27</wr>
   </arton>
   <emoji_flag>🇮🇷</emoji_flag>
   <translations>
@@ -85085,10 +85085,10 @@
   <arton>
     <ms>42</ms>
     <vf>7</vf>
-    <voa>33</voa>
-    <eta>2</eta>
+    <voa>31</voa>
+    <eta>3</eta>
     <vr>156</vr>
-    <ppr>95</ppr>
+    <ppr>96</ppr>
     <ipr>197</ipr>
     <wr>21</wr>
   </arton>
@@ -86090,11 +86090,11 @@
   <coastline>1448</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>173</ms>
+    <ms>174</ms>
     <vf>117</vf>
     <voa>49</voa>
-    <eta>7</eta>
-    <vr>25</vr>
+    <eta>8</eta>
+    <vr>24</vr>
     <ppr>3</ppr>
     <ipr>18</ipr>
     <wr>87</wr>
@@ -87482,12 +87482,12 @@
   <coastline>273</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>151</ms>
+    <ms>152</ms>
     <vf>101</vf>
     <voa>45</voa>
-    <eta>5</eta>
-    <vr>47</vr>
-    <ppr>16</ppr>
+    <eta>6</eta>
+    <vr>46</vr>
+    <ppr>17</ppr>
     <ipr>51</ipr>
     <wr>76</wr>
   </arton>
@@ -88509,14 +88509,14 @@
   <coastline>7600</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>174</ms>
+    <ms>175</ms>
     <vf>124</vf>
     <voa>43</voa>
-    <eta>7</eta>
-    <vr>24</vr>
+    <eta>8</eta>
+    <vr>23</vr>
     <ppr>2</ppr>
     <ipr>7</ipr>
-    <wr>87</wr>
+    <wr>88</wr>
   </arton>
   <emoji_flag>🇮🇹</emoji_flag>
   <translations>
@@ -89506,13 +89506,13 @@
   <coastline>1022</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>97</ms>
+    <ms>98</ms>
     <vf>53</vf>
     <voa>41</voa>
-    <eta>3</eta>
-    <vr>101</vr>
-    <ppr>47</ppr>
-    <ipr>103</ipr>
+    <eta>4</eta>
+    <vr>100</vr>
+    <ppr>51</ppr>
+    <ipr>102</ipr>
     <wr>49</wr>
   </arton>
   <emoji_flag>🇯🇲</emoji_flag>
@@ -90504,14 +90504,14 @@
   <coastline>29751</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>172</ms>
+    <ms>173</ms>
     <vf>116</vf>
     <voa>49</voa>
-    <eta>7</eta>
-    <vr>26</vr>
+    <eta>8</eta>
+    <vr>25</vr>
     <ppr>4</ppr>
     <ipr>24</ipr>
-    <wr>86</wr>
+    <wr>87</wr>
   </arton>
   <emoji_flag>🇯🇵</emoji_flag>
   <translations>
@@ -91775,14 +91775,14 @@
   <coastline>26</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>64</ms>
+    <ms>65</ms>
     <vf>19</vf>
     <voa>42</voa>
-    <eta>3</eta>
-    <vr>134</vr>
-    <ppr>77</ppr>
-    <ipr>165</ipr>
-    <wr>32</wr>
+    <eta>4</eta>
+    <vr>133</vr>
+    <ppr>79</ppr>
+    <ipr>163</ipr>
+    <wr>33</wr>
   </arton>
   <emoji_flag>🇯🇴</emoji_flag>
   <translations>
@@ -92717,14 +92717,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>90</ms>
+    <ms>91</ms>
     <vf>36</vf>
     <voa>51</voa>
-    <eta>3</eta>
-    <vr>108</vr>
-    <ppr>52</ppr>
+    <eta>4</eta>
+    <vr>107</vr>
+    <ppr>56</ppr>
     <ipr>112</ipr>
-    <wr>45</wr>
+    <wr>46</wr>
   </arton>
   <emoji_flag>🇰🇿</emoji_flag>
   <translations>
@@ -93743,12 +93743,12 @@
   <coastline>536</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>77</ms>
-    <vf>40</vf>
-    <voa>35</voa>
-    <eta>2</eta>
-    <vr>121</vr>
-    <ppr>64</ppr>
+    <ms>78</ms>
+    <vf>39</vf>
+    <voa>36</voa>
+    <eta>3</eta>
+    <vr>120</vr>
+    <ppr>66</ppr>
     <ipr>128</ipr>
     <wr>39</wr>
   </arton>
@@ -94662,13 +94662,13 @@
   <coastline>1143</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>125</ms>
+    <ms>126</ms>
     <vf>77</vf>
     <voa>45</voa>
-    <eta>3</eta>
-    <vr>73</vr>
-    <ppr>34</ppr>
-    <ipr>83</ipr>
+    <eta>4</eta>
+    <vr>72</vr>
+    <ppr>37</ppr>
+    <ipr>84</ipr>
     <wr>63</wr>
   </arton>
   <emoji_flag>🇰🇮</emoji_flag>
@@ -95209,9 +95209,9 @@
     <ms>50</ms>
     <vf>9</vf>
     <voa>40</voa>
-    <eta>1</eta>
+    <eta>2</eta>
     <vr>148</vr>
-    <ppr>90</ppr>
+    <ppr>92</ppr>
     <ipr>192</ipr>
     <wr>25</wr>
   </arton>
@@ -95947,14 +95947,14 @@
   <coastline>2413</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>174</ms>
+    <ms>175</ms>
     <vf>116</vf>
     <voa>51</voa>
-    <eta>7</eta>
-    <vr>24</vr>
+    <eta>8</eta>
+    <vr>23</vr>
     <ppr>2</ppr>
     <ipr>12</ipr>
-    <wr>87</wr>
+    <wr>88</wr>
   </arton>
   <emoji_flag>🇰🇷</emoji_flag>
   <translations>
@@ -96955,12 +96955,12 @@
   <coastline>499</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>109</ms>
+    <ms>110</ms>
     <vf>54</vf>
     <voa>49</voa>
-    <eta>6</eta>
-    <vr>89</vr>
-    <ppr>41</ppr>
+    <eta>7</eta>
+    <vr>88</vr>
+    <ppr>45</ppr>
     <ipr>96</ipr>
     <wr>55</wr>
   </arton>
@@ -97889,14 +97889,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>74</ms>
+    <ms>75</ms>
     <vf>26</vf>
     <voa>46</voa>
-    <eta>2</eta>
-    <vr>124</vr>
-    <ppr>67</ppr>
+    <eta>3</eta>
+    <vr>123</vr>
+    <ppr>69</ppr>
     <ipr>134</ipr>
-    <wr>37</wr>
+    <wr>38</wr>
   </arton>
   <emoji_flag>🇰🇬</emoji_flag>
   <translations>
@@ -98911,13 +98911,13 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>63</ms>
+    <ms>64</ms>
     <vf>19</vf>
     <voa>41</voa>
-    <eta>3</eta>
-    <vr>135</vr>
-    <ppr>78</ppr>
-    <ipr>167</ipr>
+    <eta>4</eta>
+    <vr>134</vr>
+    <ppr>80</ppr>
+    <ipr>166</ipr>
     <wr>32</wr>
   </arton>
   <emoji_flag>🇱🇦</emoji_flag>
@@ -99808,14 +99808,14 @@
   <coastline>498</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>170</ms>
+    <ms>171</ms>
     <vf>117</vf>
     <voa>47</voa>
     <eta>6</eta>
-    <vr>28</vr>
+    <vr>27</vr>
     <ppr>6</ppr>
     <ipr>33</ipr>
-    <wr>85</wr>
+    <wr>86</wr>
   </arton>
   <emoji_flag>🇱🇻</emoji_flag>
   <translations>
@@ -100755,14 +100755,14 @@
   <coastline>225</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>56</ms>
+    <ms>57</ms>
     <vf>14</vf>
     <voa>40</voa>
-    <eta>2</eta>
-    <vr>142</vr>
-    <ppr>84</ppr>
-    <ipr>179</ipr>
-    <wr>28</wr>
+    <eta>3</eta>
+    <vr>141</vr>
+    <ppr>86</ppr>
+    <ipr>178</ipr>
+    <wr>29</wr>
   </arton>
   <emoji_flag>🇱🇧</emoji_flag>
   <translations>
@@ -101613,14 +101613,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>82</ms>
+    <ms>83</ms>
     <vf>43</vf>
     <voa>36</voa>
-    <eta>3</eta>
-    <vr>116</vr>
-    <ppr>59</ppr>
+    <eta>4</eta>
+    <vr>115</vr>
+    <ppr>62</ppr>
     <ipr>119</ipr>
-    <wr>41</wr>
+    <wr>42</wr>
   </arton>
   <emoji_flag>🇱🇸</emoji_flag>
   <translations>
@@ -102592,10 +102592,10 @@
     <ms>61</ms>
     <vf>25</vf>
     <voa>35</voa>
-    <eta>1</eta>
+    <eta>2</eta>
     <vr>137</vr>
-    <ppr>80</ppr>
-    <ipr>172</ipr>
+    <ppr>83</ppr>
+    <ipr>173</ipr>
     <wr>31</wr>
   </arton>
   <emoji_flag>🇱🇷</emoji_flag>
@@ -103534,12 +103534,12 @@
   <coastline>1770</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>51</ms>
+    <ms>52</ms>
     <vf>12</vf>
     <voa>37</voa>
-    <eta>2</eta>
-    <vr>147</vr>
-    <ppr>89</ppr>
+    <eta>3</eta>
+    <vr>146</vr>
+    <ppr>91</ppr>
     <ipr>190</ipr>
     <wr>26</wr>
   </arton>
@@ -104189,14 +104189,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>170</ms>
+    <ms>171</ms>
     <vf>114</vf>
     <voa>49</voa>
-    <eta>7</eta>
-    <vr>28</vr>
+    <eta>8</eta>
+    <vr>27</vr>
     <ppr>6</ppr>
     <ipr>35</ipr>
-    <wr>85</wr>
+    <wr>86</wr>
   </arton>
   <emoji_flag>🇱🇮</emoji_flag>
   <translations>
@@ -104870,11 +104870,11 @@
   <coastline>90</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>171</ms>
+    <ms>172</ms>
     <vf>117</vf>
     <voa>47</voa>
     <eta>7</eta>
-    <vr>27</vr>
+    <vr>26</vr>
     <ppr>5</ppr>
     <ipr>30</ipr>
     <wr>86</wr>
@@ -105890,14 +105890,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>174</ms>
+    <ms>175</ms>
     <vf>122</vf>
     <voa>44</voa>
-    <eta>8</eta>
-    <vr>24</vr>
+    <eta>9</eta>
+    <vr>23</vr>
     <ppr>2</ppr>
     <ipr>9</ipr>
-    <wr>87</wr>
+    <wr>88</wr>
   </arton>
   <emoji_flag>🇱🇺</emoji_flag>
   <translations>
@@ -106652,14 +106652,14 @@
   <coastline>41</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>138</ms>
-    <vf>91</vf>
-    <voa>44</voa>
-    <eta>3</eta>
-    <vr>60</vr>
-    <ppr>26</ppr>
-    <ipr>65</ipr>
-    <wr>69</wr>
+    <ms>141</ms>
+    <vf>92</vf>
+    <voa>45</voa>
+    <eta>4</eta>
+    <vr>57</vr>
+    <ppr>25</ppr>
+    <ipr>64</ipr>
+    <wr>71</wr>
   </arton>
   <emoji_flag>🇲🇴</emoji_flag>
   <translations>
@@ -107405,12 +107405,12 @@
   <coastline>4828</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>67</ms>
+    <ms>68</ms>
     <vf>24</vf>
     <voa>41</voa>
-    <eta>2</eta>
-    <vr>131</vr>
-    <ppr>74</ppr>
+    <eta>3</eta>
+    <vr>130</vr>
+    <ppr>76</ppr>
     <ipr>153</ipr>
     <wr>34</wr>
   </arton>
@@ -108401,14 +108401,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>78</ms>
+    <ms>79</ms>
     <vf>40</vf>
     <voa>36</voa>
-    <eta>2</eta>
-    <vr>120</vr>
-    <ppr>63</ppr>
+    <eta>3</eta>
+    <vr>119</vr>
+    <ppr>65</ppr>
     <ipr>126</ipr>
-    <wr>39</wr>
+    <wr>40</wr>
   </arton>
   <emoji_flag>🇲🇼</emoji_flag>
   <translations>
@@ -109413,11 +109413,11 @@
   <coastline>4675</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>167</ms>
+    <ms>168</ms>
     <vf>115</vf>
     <voa>46</voa>
-    <eta>6</eta>
-    <vr>31</vr>
+    <eta>7</eta>
+    <vr>30</vr>
     <ppr>9</ppr>
     <ipr>41</ipr>
     <wr>84</wr>
@@ -110390,12 +110390,12 @@
   <coastline>644</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>95</ms>
+    <ms>96</ms>
     <vf>50</vf>
     <voa>43</voa>
-    <eta>2</eta>
-    <vr>103</vr>
-    <ppr>49</ppr>
+    <eta>3</eta>
+    <vr>102</vr>
+    <ppr>53</ppr>
     <ipr>107</ipr>
     <wr>48</wr>
   </arton>
@@ -111425,10 +111425,10 @@
     <ms>64</ms>
     <vf>29</vf>
     <voa>33</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>134</vr>
-    <ppr>77</ppr>
-    <ipr>162</ipr>
+    <ppr>80</ppr>
+    <ipr>165</ipr>
     <wr>32</wr>
   </arton>
   <emoji_flag>🇲🇱</emoji_flag>
@@ -112424,11 +112424,11 @@
   <coastline>196.8</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>171</ms>
+    <ms>172</ms>
     <vf>118</vf>
     <voa>45</voa>
-    <eta>8</eta>
-    <vr>27</vr>
+    <eta>9</eta>
+    <vr>26</vr>
     <ppr>5</ppr>
     <ipr>29</ipr>
     <wr>86</wr>
@@ -113201,14 +113201,14 @@
   <coastline>370.4</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>124</ms>
+    <ms>125</ms>
     <vf>72</vf>
     <voa>49</voa>
-    <eta>3</eta>
-    <vr>74</vr>
-    <ppr>35</ppr>
+    <eta>4</eta>
+    <vr>73</vr>
+    <ppr>38</ppr>
     <ipr>86</ipr>
-    <wr>62</wr>
+    <wr>63</wr>
   </arton>
   <emoji_flag>🇲🇭</emoji_flag>
   <translations>
@@ -114294,14 +114294,14 @@
   <coastline>754</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>64</ms>
+    <ms>65</ms>
     <vf>25</vf>
     <voa>38</voa>
-    <eta>1</eta>
-    <vr>134</vr>
-    <ppr>77</ppr>
-    <ipr>164</ipr>
-    <wr>32</wr>
+    <eta>2</eta>
+    <vr>133</vr>
+    <ppr>79</ppr>
+    <ipr>161</ipr>
+    <wr>33</wr>
   </arton>
   <emoji_flag>🇲🇷</emoji_flag>
   <translations>
@@ -115295,14 +115295,14 @@
   <coastline>177</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>136</ms>
+    <ms>137</ms>
     <vf>96</vf>
     <voa>36</voa>
-    <eta>4</eta>
-    <vr>62</vr>
-    <ppr>27</ppr>
+    <eta>5</eta>
+    <vr>61</vr>
+    <ppr>28</ppr>
     <ipr>67</ipr>
-    <wr>68</wr>
+    <wr>69</wr>
   </arton>
   <emoji_flag>🇲🇺</emoji_flag>
   <translations>
@@ -116513,12 +116513,12 @@
   <coastline>9330</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>151</ms>
+    <ms>152</ms>
     <vf>95</vf>
     <voa>51</voa>
-    <eta>5</eta>
-    <vr>47</vr>
-    <ppr>16</ppr>
+    <eta>6</eta>
+    <vr>46</vr>
+    <ppr>17</ppr>
     <ipr>52</ipr>
     <wr>76</wr>
   </arton>
@@ -117367,14 +117367,14 @@
   <coastline>6112</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>120</ms>
+    <ms>121</ms>
     <vf>67</vf>
     <voa>50</voa>
-    <eta>3</eta>
-    <vr>78</vr>
-    <ppr>38</ppr>
+    <eta>4</eta>
+    <vr>77</vr>
+    <ppr>41</ppr>
     <ipr>92</ipr>
-    <wr>60</wr>
+    <wr>61</wr>
   </arton>
   <emoji_flag>🇫🇲</emoji_flag>
   <translations>
@@ -118160,14 +118160,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>122</ms>
+    <ms>123</ms>
     <vf>73</vf>
     <voa>47</voa>
-    <eta>2</eta>
-    <vr>76</vr>
-    <ppr>36</ppr>
+    <eta>3</eta>
+    <vr>75</vr>
+    <ppr>39</ppr>
     <ipr>90</ipr>
-    <wr>61</wr>
+    <wr>62</wr>
   </arton>
   <emoji_flag>🇲🇩</emoji_flag>
   <translations>
@@ -118822,14 +118822,14 @@
   <coastline>4.1</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>166</ms>
+    <ms>167</ms>
     <vf>105</vf>
     <voa>53</voa>
-    <eta>8</eta>
-    <vr>32</vr>
+    <eta>9</eta>
+    <vr>31</vr>
     <ppr>10</ppr>
     <ipr>42</ipr>
-    <wr>83</wr>
+    <wr>84</wr>
   </arton>
   <emoji_flag>🇲🇨</emoji_flag>
   <translations>
@@ -119459,14 +119459,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>76</ms>
+    <ms>77</ms>
     <vf>31</vf>
     <voa>43</voa>
-    <eta>2</eta>
-    <vr>122</vr>
-    <ppr>65</ppr>
-    <ipr>131</ipr>
-    <wr>38</wr>
+    <eta>3</eta>
+    <vr>121</vr>
+    <ppr>67</ppr>
+    <ipr>130</ipr>
+    <wr>39</wr>
   </arton>
   <emoji_flag>🇲🇳</emoji_flag>
   <translations>
@@ -120304,14 +120304,14 @@
   <coastline>293.5</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>128</ms>
+    <ms>129</ms>
     <vf>75</vf>
     <voa>50</voa>
-    <eta>3</eta>
-    <vr>70</vr>
-    <ppr>32</ppr>
+    <eta>4</eta>
+    <vr>69</vr>
+    <ppr>35</ppr>
     <ipr>81</ipr>
-    <wr>64</wr>
+    <wr>65</wr>
   </arton>
   <emoji_flag>🇲🇪</emoji_flag>
   <translations>
@@ -121540,13 +121540,13 @@
   <coastline>2945</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>77</ms>
+    <ms>78</ms>
     <vf>33</vf>
     <voa>42</voa>
-    <eta>2</eta>
-    <vr>121</vr>
-    <ppr>64</ppr>
-    <ipr>130</ipr>
+    <eta>3</eta>
+    <vr>120</vr>
+    <ppr>66</ppr>
+    <ipr>129</ipr>
     <wr>39</wr>
   </arton>
   <emoji_flag>🇲🇦</emoji_flag>
@@ -122567,14 +122567,14 @@
   <coastline>2470</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>66</ms>
-    <vf>26</vf>
+    <ms>67</ms>
+    <vf>27</vf>
     <voa>37</voa>
-    <eta>3</eta>
-    <vr>132</vr>
-    <ppr>75</ppr>
-    <ipr>155</ipr>
-    <wr>33</wr>
+    <eta>4</eta>
+    <vr>131</vr>
+    <ppr>77</ppr>
+    <ipr>154</ipr>
+    <wr>34</wr>
   </arton>
   <emoji_flag>🇲🇿</emoji_flag>
   <translations>
@@ -123589,14 +123589,14 @@
   <coastline>1930</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>56</ms>
+    <ms>57</ms>
     <vf>12</vf>
     <voa>41</voa>
-    <eta>3</eta>
-    <vr>142</vr>
-    <ppr>84</ppr>
-    <ipr>181</ipr>
-    <wr>28</wr>
+    <eta>4</eta>
+    <vr>141</vr>
+    <ppr>86</ppr>
+    <ipr>179</ipr>
+    <wr>29</wr>
   </arton>
   <emoji_flag>🇲🇲</emoji_flag>
   <translations>
@@ -124531,11 +124531,11 @@
   <is_landlocked>false</is_landlocked>
   <arton>
     <ms>79</ms>
-    <vf>42</vf>
+    <vf>41</vf>
     <voa>35</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>119</vr>
-    <ppr>62</ppr>
+    <ppr>65</ppr>
     <ipr>124</ipr>
     <wr>40</wr>
   </arton>
@@ -125263,14 +125263,14 @@
   <coastline>30</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>90</ms>
+    <ms>91</ms>
     <vf>42</vf>
     <voa>45</voa>
-    <eta>3</eta>
-    <vr>108</vr>
-    <ppr>52</ppr>
+    <eta>4</eta>
+    <vr>107</vr>
+    <ppr>56</ppr>
     <ipr>111</ipr>
-    <wr>45</wr>
+    <wr>46</wr>
   </arton>
   <emoji_flag>🇳🇷</emoji_flag>
   <translations>
@@ -126143,12 +126143,12 @@
   <is_landlocked>true</is_landlocked>
   <arton>
     <ms>55</ms>
-    <vf>12</vf>
+    <vf>11</vf>
     <voa>41</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>143</vr>
-    <ppr>85</ppr>
-    <ipr>183</ipr>
+    <ppr>88</ppr>
+    <ipr>184</ipr>
     <wr>28</wr>
   </arton>
   <emoji_flag>🇳🇵</emoji_flag>
@@ -127149,14 +127149,14 @@
   <coastline>451</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>174</ms>
+    <ms>175</ms>
     <vf>123</vf>
     <voa>44</voa>
-    <eta>7</eta>
-    <vr>24</vr>
+    <eta>8</eta>
+    <vr>23</vr>
     <ppr>2</ppr>
     <ipr>8</ipr>
-    <wr>87</wr>
+    <wr>88</wr>
   </arton>
   <emoji_flag>🇳🇱</emoji_flag>
   <translations>
@@ -128628,11 +128628,11 @@
   <coastline>15134</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>173</ms>
+    <ms>174</ms>
     <vf>113</vf>
     <voa>55</voa>
-    <eta>5</eta>
-    <vr>25</vr>
+    <eta>6</eta>
+    <vr>24</vr>
     <ppr>3</ppr>
     <ipr>20</ipr>
     <wr>87</wr>
@@ -129635,14 +129635,14 @@
   <coastline>910</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>122</ms>
+    <ms>123</ms>
     <vf>73</vf>
     <voa>46</voa>
-    <eta>3</eta>
-    <vr>76</vr>
-    <ppr>36</ppr>
+    <eta>4</eta>
+    <vr>75</vr>
+    <ppr>39</ppr>
     <ipr>89</ipr>
-    <wr>61</wr>
+    <wr>62</wr>
   </arton>
   <emoji_flag>🇳🇮</emoji_flag>
   <translations>
@@ -130670,9 +130670,9 @@
     <ms>65</ms>
     <vf>29</vf>
     <voa>35</voa>
-    <eta>1</eta>
+    <eta>2</eta>
     <vr>133</vr>
-    <ppr>76</ppr>
+    <ppr>79</ppr>
     <ipr>159</ipr>
     <wr>33</wr>
   </arton>
@@ -131633,12 +131633,12 @@
   <is_landlocked>false</is_landlocked>
   <arton>
     <ms>56</ms>
-    <vf>24</vf>
+    <vf>23</vf>
     <voa>31</voa>
-    <eta>1</eta>
+    <eta>2</eta>
     <vr>142</vr>
-    <ppr>84</ppr>
-    <ipr>178</ipr>
+    <ppr>87</ppr>
+    <ipr>180</ipr>
     <wr>28</wr>
   </arton>
   <emoji_flag>🇳🇬</emoji_flag>
@@ -133149,12 +133149,12 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>129</ms>
+    <ms>130</ms>
     <vf>78</vf>
     <voa>49</voa>
-    <eta>2</eta>
-    <vr>69</vr>
-    <ppr>31</ppr>
+    <eta>3</eta>
+    <vr>68</vr>
+    <ppr>34</ppr>
     <ipr>78</ipr>
     <wr>65</wr>
   </arton>
@@ -134538,11 +134538,11 @@
   <coastline>25148</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>173</ms>
+    <ms>174</ms>
     <vf>119</vf>
     <voa>47</voa>
-    <eta>7</eta>
-    <vr>25</vr>
+    <eta>8</eta>
+    <vr>24</vr>
     <ppr>3</ppr>
     <ipr>16</ipr>
     <wr>87</wr>
@@ -135510,14 +135510,14 @@
   <coastline>2092</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>96</ms>
+    <ms>97</ms>
     <vf>40</vf>
     <voa>50</voa>
-    <eta>6</eta>
-    <vr>102</vr>
-    <ppr>48</ppr>
+    <eta>7</eta>
+    <vr>101</vr>
+    <ppr>52</ppr>
     <ipr>106</ipr>
-    <wr>48</wr>
+    <wr>49</wr>
   </arton>
   <emoji_flag>🇴🇲</emoji_flag>
   <translations>
@@ -136476,12 +136476,12 @@
   <coastline>1046</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>45</ms>
-    <vf>9</vf>
-    <voa>34</voa>
-    <eta>2</eta>
-    <vr>153</vr>
-    <ppr>93</ppr>
+    <ms>46</ms>
+    <vf>8</vf>
+    <voa>35</voa>
+    <eta>3</eta>
+    <vr>152</vr>
+    <ppr>94</ppr>
     <ipr>195</ipr>
     <wr>23</wr>
   </arton>
@@ -137313,12 +137313,12 @@
   <coastline>1519</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>121</ms>
+    <ms>122</ms>
     <vf>67</vf>
     <voa>51</voa>
-    <eta>3</eta>
-    <vr>77</vr>
-    <ppr>37</ppr>
+    <eta>4</eta>
+    <vr>76</vr>
+    <ppr>40</ppr>
     <ipr>91</ipr>
     <wr>61</wr>
   </arton>
@@ -138025,12 +138025,12 @@
   <coastline>40</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>51</ms>
+    <ms>52</ms>
     <vf>10</vf>
     <voa>39</voa>
-    <eta>2</eta>
-    <vr>147</vr>
-    <ppr>89</ppr>
+    <eta>3</eta>
+    <vr>146</vr>
+    <ppr>91</ppr>
     <ipr>191</ipr>
     <wr>26</wr>
   </arton>
@@ -138824,14 +138824,14 @@
   <coastline>2490</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>135</ms>
+    <ms>137</ms>
     <vf>85</vf>
-    <voa>47</voa>
-    <eta>3</eta>
-    <vr>63</vr>
+    <voa>48</voa>
+    <eta>4</eta>
+    <vr>61</vr>
     <ppr>28</ppr>
-    <ipr>70</ipr>
-    <wr>68</wr>
+    <ipr>69</ipr>
+    <wr>69</wr>
   </arton>
   <emoji_flag>🇵🇦</emoji_flag>
   <translations>
@@ -139834,14 +139834,14 @@
   <coastline>5152</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>84</ms>
+    <ms>85</ms>
     <vf>34</vf>
     <voa>47</voa>
-    <eta>3</eta>
-    <vr>114</vr>
-    <ppr>56</ppr>
+    <eta>4</eta>
+    <vr>113</vr>
+    <ppr>60</ppr>
     <ipr>117</ipr>
-    <wr>42</wr>
+    <wr>43</wr>
   </arton>
   <emoji_flag>🇵🇬</emoji_flag>
   <translations>
@@ -140850,13 +140850,13 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>139</ms>
+    <ms>140</ms>
     <vf>86</vf>
     <voa>49</voa>
-    <eta>4</eta>
-    <vr>59</vr>
-    <ppr>25</ppr>
-    <ipr>64</ipr>
+    <eta>5</eta>
+    <vr>58</vr>
+    <ppr>26</ppr>
+    <ipr>65</ipr>
     <wr>70</wr>
   </arton>
   <emoji_flag>🇵🇾</emoji_flag>
@@ -141884,14 +141884,14 @@
   <coastline>2414</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>146</ms>
+    <ms>147</ms>
     <vf>88</vf>
     <voa>55</voa>
-    <eta>3</eta>
-    <vr>52</vr>
-    <ppr>19</ppr>
+    <eta>4</eta>
+    <vr>51</vr>
+    <ppr>20</ppr>
     <ipr>57</ipr>
-    <wr>73</wr>
+    <wr>74</wr>
   </arton>
   <emoji_flag>🇵🇪</emoji_flag>
   <translations>
@@ -142885,14 +142885,14 @@
   <coastline>36289</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>78</ms>
+    <ms>79</ms>
     <vf>34</vf>
     <voa>42</voa>
-    <eta>2</eta>
-    <vr>120</vr>
-    <ppr>63</ppr>
+    <eta>3</eta>
+    <vr>119</vr>
+    <ppr>65</ppr>
     <ipr>127</ipr>
-    <wr>39</wr>
+    <wr>40</wr>
   </arton>
   <emoji_flag>🇵🇭</emoji_flag>
   <translations>
@@ -144080,11 +144080,11 @@
   <coastline>440</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>173</ms>
+    <ms>174</ms>
     <vf>118</vf>
     <voa>48</voa>
     <eta>6</eta>
-    <vr>25</vr>
+    <vr>24</vr>
     <ppr>3</ppr>
     <ipr>17</ipr>
     <wr>87</wr>
@@ -145082,11 +145082,11 @@
   <coastline>1793</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>173</ms>
+    <ms>174</ms>
     <vf>122</vf>
     <voa>44</voa>
-    <eta>7</eta>
-    <vr>25</vr>
+    <eta>8</eta>
+    <vr>24</vr>
     <ppr>3</ppr>
     <ipr>15</ipr>
     <wr>87</wr>
@@ -146703,12 +146703,12 @@
   <coastline>563</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>115</ms>
+    <ms>116</ms>
     <vf>64</vf>
     <voa>45</voa>
-    <eta>6</eta>
-    <vr>83</vr>
-    <ppr>40</ppr>
+    <eta>7</eta>
+    <vr>82</vr>
+    <ppr>44</ppr>
     <ipr>95</ipr>
     <wr>58</wr>
   </arton>
@@ -147864,14 +147864,14 @@
   <coastline>225</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>168</ms>
+    <ms>169</ms>
     <vf>113</vf>
     <voa>50</voa>
     <eta>5</eta>
-    <vr>30</vr>
+    <vr>29</vr>
     <ppr>8</ppr>
     <ipr>39</ipr>
-    <wr>84</wr>
+    <wr>85</wr>
   </arton>
   <emoji_flag>🇷🇴</emoji_flag>
   <translations>
@@ -148943,14 +148943,14 @@
   <coastline>37653</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>124</ms>
-    <vf>74</vf>
+    <ms>126</ms>
+    <vf>75</vf>
     <voa>45</voa>
-    <eta>5</eta>
-    <vr>74</vr>
-    <ppr>35</ppr>
-    <ipr>85</ipr>
-    <wr>62</wr>
+    <eta>6</eta>
+    <vr>72</vr>
+    <ppr>37</ppr>
+    <ipr>83</ipr>
+    <wr>63</wr>
   </arton>
   <emoji_flag>🇷🇺</emoji_flag>
   <translations>
@@ -149952,14 +149952,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>72</ms>
+    <ms>73</ms>
     <vf>27</vf>
     <voa>42</voa>
-    <eta>3</eta>
-    <vr>126</vr>
-    <ppr>69</ppr>
+    <eta>4</eta>
+    <vr>125</vr>
+    <ppr>71</ppr>
     <ipr>138</ipr>
-    <wr>36</wr>
+    <wr>37</wr>
   </arton>
   <emoji_flag>🇷🇼</emoji_flag>
   <translations>
@@ -151357,12 +151357,12 @@
   <coastline>135</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>143</ms>
+    <ms>144</ms>
     <vf>100</vf>
     <voa>39</voa>
-    <eta>4</eta>
-    <vr>55</vr>
-    <ppr>21</ppr>
+    <eta>5</eta>
+    <vr>54</vr>
+    <ppr>22</ppr>
     <ipr>59</ipr>
     <wr>72</wr>
   </arton>
@@ -152226,14 +152226,14 @@
   <coastline>158</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>136</ms>
+    <ms>137</ms>
     <vf>90</vf>
     <voa>42</voa>
-    <eta>4</eta>
-    <vr>62</vr>
-    <ppr>27</ppr>
+    <eta>5</eta>
+    <vr>61</vr>
+    <ppr>28</ppr>
     <ipr>68</ipr>
-    <wr>68</wr>
+    <wr>69</wr>
   </arton>
   <emoji_flag>🇱🇨</emoji_flag>
   <translations>
@@ -153712,14 +153712,14 @@
   <coastline>84</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>144</ms>
+    <ms>145</ms>
     <vf>99</vf>
     <voa>42</voa>
-    <eta>3</eta>
-    <vr>54</vr>
-    <ppr>20</ppr>
+    <eta>4</eta>
+    <vr>53</vr>
+    <ppr>21</ppr>
     <ipr>58</ipr>
-    <wr>72</wr>
+    <wr>73</wr>
   </arton>
   <emoji_flag>🇻🇨</emoji_flag>
   <translations>
@@ -154585,14 +154585,14 @@
   <coastline>403</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>128</ms>
+    <ms>129</ms>
     <vf>80</vf>
     <voa>44</voa>
-    <eta>4</eta>
-    <vr>70</vr>
-    <ppr>32</ppr>
+    <eta>5</eta>
+    <vr>69</vr>
+    <ppr>35</ppr>
     <ipr>79</ipr>
-    <wr>64</wr>
+    <wr>65</wr>
   </arton>
   <emoji_flag>🇼🇸</emoji_flag>
   <translations>
@@ -155259,14 +155259,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>157</ms>
-    <vf>100</vf>
+    <ms>159</ms>
+    <vf>101</vf>
     <voa>50</voa>
-    <eta>7</eta>
-    <vr>41</vr>
+    <eta>8</eta>
+    <vr>39</vr>
     <ppr>13</ppr>
-    <ipr>48</ipr>
-    <wr>79</wr>
+    <ipr>47</ipr>
+    <wr>80</wr>
   </arton>
   <emoji_flag>🇸🇲</emoji_flag>
   <translations>
@@ -155968,14 +155968,14 @@
   <coastline>209</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>72</ms>
+    <ms>73</ms>
     <vf>24</vf>
     <voa>46</voa>
-    <eta>2</eta>
-    <vr>126</vr>
-    <ppr>69</ppr>
+    <eta>3</eta>
+    <vr>125</vr>
+    <ppr>71</ppr>
     <ipr>139</ipr>
-    <wr>36</wr>
+    <wr>37</wr>
   </arton>
   <emoji_flag>🇸🇹</emoji_flag>
   <translations>
@@ -157000,13 +157000,13 @@
   <coastline>2640</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>97</ms>
+    <ms>98</ms>
     <vf>45</vf>
     <voa>45</voa>
-    <eta>6</eta>
-    <vr>101</vr>
-    <ppr>48</ppr>
-    <ipr>104</ipr>
+    <eta>7</eta>
+    <vr>100</vr>
+    <ppr>51</ppr>
+    <ipr>103</ipr>
     <wr>49</wr>
   </arton>
   <emoji_flag>🇸🇦</emoji_flag>
@@ -157972,11 +157972,11 @@
   <arton>
     <ms>69</ms>
     <vf>32</vf>
-    <voa>36</voa>
-    <eta>1</eta>
+    <voa>34</voa>
+    <eta>2</eta>
     <vr>129</vr>
-    <ppr>72</ppr>
-    <ipr>146</ipr>
+    <ppr>76</ppr>
+    <ipr>151</ipr>
     <wr>35</wr>
   </arton>
   <emoji_flag>🇸🇳</emoji_flag>
@@ -158877,12 +158877,12 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>135</ms>
+    <ms>136</ms>
     <vf>82</vf>
     <voa>50</voa>
-    <eta>3</eta>
-    <vr>63</vr>
-    <ppr>28</ppr>
+    <eta>4</eta>
+    <vr>62</vr>
+    <ppr>29</ppr>
     <ipr>71</ipr>
     <wr>68</wr>
   </arton>
@@ -159778,12 +159778,12 @@
   <coastline>491</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>143</ms>
+    <ms>144</ms>
     <vf>100</vf>
-    <voa>40</voa>
+    <voa>41</voa>
     <eta>3</eta>
-    <vr>55</vr>
-    <ppr>21</ppr>
+    <vr>54</vr>
+    <ppr>22</ppr>
     <ipr>60</ipr>
     <wr>72</wr>
   </arton>
@@ -160664,9 +160664,9 @@
     <ms>69</ms>
     <vf>40</vf>
     <voa>28</voa>
-    <eta>1</eta>
+    <eta>2</eta>
     <vr>129</vr>
-    <ppr>72</ppr>
+    <ppr>75</ppr>
     <ipr>145</ipr>
     <wr>35</wr>
   </arton>
@@ -161634,11 +161634,11 @@
   <coastline>193</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>171</ms>
+    <ms>172</ms>
     <vf>127</vf>
     <voa>38</voa>
-    <eta>6</eta>
-    <vr>27</vr>
+    <eta>7</eta>
+    <vr>26</vr>
     <ppr>5</ppr>
     <ipr>28</ipr>
     <wr>86</wr>
@@ -162998,11 +162998,11 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>171</ms>
+    <ms>172</ms>
     <vf>116</vf>
     <voa>49</voa>
     <eta>6</eta>
-    <vr>27</vr>
+    <vr>26</vr>
     <ppr>5</ppr>
     <ipr>31</ipr>
     <wr>86</wr>
@@ -163951,14 +163951,14 @@
   <coastline>46.6</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>170</ms>
+    <ms>171</ms>
     <vf>116</vf>
     <voa>48</voa>
     <eta>6</eta>
-    <vr>28</vr>
+    <vr>27</vr>
     <ppr>6</ppr>
     <ipr>34</ipr>
-    <wr>85</wr>
+    <wr>86</wr>
   </arton>
   <emoji_flag>🇸🇮</emoji_flag>
   <translations>
@@ -164872,12 +164872,12 @@
   <coastline>5313</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>133</ms>
+    <ms>134</ms>
     <vf>82</vf>
     <voa>47</voa>
-    <eta>4</eta>
-    <vr>65</vr>
-    <ppr>29</ppr>
+    <eta>5</eta>
+    <vr>64</vr>
+    <ppr>31</ppr>
     <ipr>73</ipr>
     <wr>67</wr>
   </arton>
@@ -165417,11 +165417,11 @@
   <is_landlocked>false</is_landlocked>
   <arton>
     <ms>44</ms>
-    <vf>9</vf>
+    <vf>8</vf>
     <voa>33</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>154</vr>
-    <ppr>94</ppr>
+    <ppr>95</ppr>
     <ipr>196</ipr>
     <wr>22</wr>
   </arton>
@@ -166355,14 +166355,14 @@
   <coastline>2798</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>108</ms>
-    <vf>60</vf>
-    <voa>44</voa>
-    <eta>4</eta>
-    <vr>90</vr>
-    <ppr>42</ppr>
+    <ms>109</ms>
+    <vf>59</vf>
+    <voa>45</voa>
+    <eta>5</eta>
+    <vr>89</vr>
+    <ppr>46</ppr>
     <ipr>97</ipr>
-    <wr>54</wr>
+    <wr>55</wr>
   </arton>
   <emoji_flag>🇿🇦</emoji_flag>
   <translations>
@@ -167292,10 +167292,10 @@
     <ms>53</ms>
     <vf>17</vf>
     <voa>34</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>145</vr>
-    <ppr>87</ppr>
-    <ipr>186</ipr>
+    <ppr>90</ppr>
+    <ipr>187</ipr>
     <wr>27</wr>
   </arton>
   <emoji_flag>🇸🇸</emoji_flag>
@@ -168099,14 +168099,14 @@
   <coastline>4964</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>174</ms>
+    <ms>175</ms>
     <vf>124</vf>
     <voa>43</voa>
-    <eta>7</eta>
-    <vr>24</vr>
+    <eta>8</eta>
+    <vr>23</vr>
     <ppr>2</ppr>
     <ipr>5</ipr>
-    <wr>87</wr>
+    <wr>88</wr>
   </arton>
   <emoji_flag>🇪🇸</emoji_flag>
   <translations>
@@ -169101,11 +169101,11 @@
   <is_landlocked>false</is_landlocked>
   <arton>
     <ms>55</ms>
-    <vf>15</vf>
+    <vf>14</vf>
     <voa>38</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>143</vr>
-    <ppr>85</ppr>
+    <ppr>88</ppr>
     <ipr>182</ipr>
     <wr>28</wr>
   </arton>
@@ -170139,9 +170139,9 @@
     <ms>54</ms>
     <vf>12</vf>
     <voa>40</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>144</vr>
-    <ppr>86</ppr>
+    <ppr>89</ppr>
     <ipr>185</ipr>
     <wr>27</wr>
   </arton>
@@ -171092,14 +171092,14 @@
   <coastline>386</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>86</ms>
+    <ms>87</ms>
     <vf>33</vf>
     <voa>50</voa>
-    <eta>3</eta>
-    <vr>112</vr>
-    <ppr>55</ppr>
+    <eta>4</eta>
+    <vr>111</vr>
+    <ppr>59</ppr>
     <ipr>116</ipr>
-    <wr>43</wr>
+    <wr>44</wr>
   </arton>
   <emoji_flag>🇸🇷</emoji_flag>
   <translations>
@@ -172204,14 +172204,14 @@
   <coastline>3218</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>174</ms>
+    <ms>175</ms>
     <vf>124</vf>
     <voa>43</voa>
-    <eta>7</eta>
-    <vr>24</vr>
+    <eta>8</eta>
+    <vr>23</vr>
     <ppr>2</ppr>
     <ipr>2</ipr>
-    <wr>87</wr>
+    <wr>88</wr>
   </arton>
   <emoji_flag>🇸🇪</emoji_flag>
   <translations>
@@ -173239,14 +173239,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>174</ms>
+    <ms>175</ms>
     <vf>118</vf>
     <voa>48</voa>
-    <eta>8</eta>
-    <vr>24</vr>
+    <eta>9</eta>
+    <vr>23</vr>
     <ppr>2</ppr>
     <ipr>11</ipr>
-    <wr>87</wr>
+    <wr>88</wr>
   </arton>
   <emoji_flag>🇨🇭</emoji_flag>
   <translations>
@@ -174238,11 +174238,11 @@
   <is_landlocked>false</is_landlocked>
   <arton>
     <ms>40</ms>
-    <vf>7</vf>
+    <vf>6</vf>
     <voa>31</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>158</vr>
-    <ppr>96</ppr>
+    <ppr>97</ppr>
     <ipr>198</ipr>
     <wr>20</wr>
   </arton>
@@ -174894,14 +174894,14 @@
   <coastline>1566.3</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>133</ms>
+    <ms>135</ms>
     <vf>76</vf>
-    <voa>51</voa>
-    <eta>6</eta>
-    <vr>65</vr>
-    <ppr>29</ppr>
-    <ipr>74</ipr>
-    <wr>67</wr>
+    <voa>52</voa>
+    <eta>7</eta>
+    <vr>63</vr>
+    <ppr>30</ppr>
+    <ipr>72</ipr>
+    <wr>68</wr>
   </arton>
   <emoji_flag>🇹🇼</emoji_flag>
   <translations>
@@ -175322,12 +175322,12 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>69</ms>
+    <ms>70</ms>
     <vf>22</vf>
     <voa>44</voa>
-    <eta>3</eta>
-    <vr>129</vr>
-    <ppr>72</ppr>
+    <eta>4</eta>
+    <vr>128</vr>
+    <ppr>74</ppr>
     <ipr>149</ipr>
     <wr>35</wr>
   </arton>
@@ -176363,12 +176363,12 @@
   <coastline>1424</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>73</ms>
+    <ms>74</ms>
     <vf>41</vf>
     <voa>29</voa>
-    <eta>3</eta>
-    <vr>125</vr>
-    <ppr>68</ppr>
+    <eta>4</eta>
+    <vr>124</vr>
+    <ppr>70</ppr>
     <ipr>135</ipr>
     <wr>37</wr>
   </arton>
@@ -177383,10 +177383,10 @@
     <ms>95</ms>
     <vf>38</vf>
     <voa>53</voa>
-    <eta>4</eta>
+    <eta>5</eta>
     <vr>103</vr>
-    <ppr>49</ppr>
-    <ipr>108</ipr>
+    <ppr>54</ppr>
+    <ipr>109</ipr>
     <wr>48</wr>
   </arton>
   <emoji_flag>🇹🇭</emoji_flag>
@@ -178195,12 +178195,12 @@
   <is_landlocked>false</is_landlocked>
   <arton>
     <ms>100</ms>
-    <vf>54</vf>
+    <vf>53</vf>
     <voa>44</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>98</vr>
-    <ppr>44</ppr>
-    <ipr>99</ipr>
+    <ppr>49</ppr>
+    <ipr>100</ipr>
     <wr>50</wr>
   </arton>
   <emoji_flag>🇹🇱</emoji_flag>
@@ -179153,9 +179153,9 @@
     <ms>66</ms>
     <vf>26</vf>
     <voa>39</voa>
-    <eta>1</eta>
+    <eta>2</eta>
     <vr>132</vr>
-    <ppr>75</ppr>
+    <ppr>78</ppr>
     <ipr>156</ipr>
     <wr>33</wr>
   </arton>
@@ -180314,14 +180314,14 @@
   <coastline>419</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>124</ms>
+    <ms>125</ms>
     <vf>78</vf>
     <voa>42</voa>
-    <eta>4</eta>
-    <vr>74</vr>
-    <ppr>35</ppr>
-    <ipr>84</ipr>
-    <wr>62</wr>
+    <eta>5</eta>
+    <vr>73</vr>
+    <ppr>38</ppr>
+    <ipr>86</ipr>
+    <wr>63</wr>
   </arton>
   <emoji_flag>🇹🇴</emoji_flag>
   <translations>
@@ -181311,14 +181311,14 @@
   <coastline>362</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>140</ms>
+    <ms>141</ms>
     <vf>96</vf>
     <voa>41</voa>
-    <eta>3</eta>
-    <vr>58</vr>
-    <ppr>24</ppr>
+    <eta>4</eta>
+    <vr>57</vr>
+    <ppr>25</ppr>
     <ipr>63</ipr>
-    <wr>70</wr>
+    <wr>71</wr>
   </arton>
   <emoji_flag>🇹🇹</emoji_flag>
   <translations>
@@ -182319,13 +182319,13 @@
   <coastline>1148</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>79</ms>
-    <vf>34</vf>
-    <voa>42</voa>
-    <eta>3</eta>
-    <vr>119</vr>
-    <ppr>62</ppr>
-    <ipr>125</ipr>
+    <ms>80</ms>
+    <vf>33</vf>
+    <voa>43</voa>
+    <eta>4</eta>
+    <vr>118</vr>
+    <ppr>64</ppr>
+    <ipr>124</ipr>
     <wr>40</wr>
   </arton>
   <emoji_flag>🇹🇳</emoji_flag>
@@ -183357,14 +183357,14 @@
   <coastline>7200</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>124</ms>
+    <ms>125</ms>
     <vf>69</vf>
     <voa>50</voa>
-    <eta>5</eta>
-    <vr>74</vr>
-    <ppr>35</ppr>
-    <ipr>87</ipr>
-    <wr>62</wr>
+    <eta>6</eta>
+    <vr>73</vr>
+    <ppr>38</ppr>
+    <ipr>88</ipr>
+    <wr>63</wr>
   </arton>
   <emoji_flag>🇹🇷</emoji_flag>
   <translations>
@@ -184223,14 +184223,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>62</ms>
+    <ms>63</ms>
     <vf>14</vf>
     <voa>46</voa>
-    <eta>2</eta>
-    <vr>136</vr>
-    <ppr>79</ppr>
+    <eta>3</eta>
+    <vr>135</vr>
+    <ppr>81</ppr>
     <ipr>170</ipr>
-    <wr>31</wr>
+    <wr>32</wr>
   </arton>
   <emoji_flag>🇹🇲</emoji_flag>
   <translations>
@@ -185589,12 +185589,12 @@
   <coastline>24</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>127</ms>
+    <ms>128</ms>
     <vf>81</vf>
     <voa>43</voa>
-    <eta>3</eta>
-    <vr>71</vr>
-    <ppr>33</ppr>
+    <eta>4</eta>
+    <vr>70</vr>
+    <ppr>36</ppr>
     <ipr>82</ipr>
     <wr>64</wr>
   </arton>
@@ -186487,12 +186487,12 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>71</ms>
+    <ms>72</ms>
     <vf>33</vf>
     <voa>36</voa>
-    <eta>2</eta>
-    <vr>127</vr>
-    <ppr>70</ppr>
+    <eta>3</eta>
+    <vr>126</vr>
+    <ppr>72</ppr>
     <ipr>140</ipr>
     <wr>36</wr>
   </arton>
@@ -187522,12 +187522,12 @@
   <coastline>2782</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>147</ms>
+    <ms>148</ms>
     <vf>93</vf>
     <voa>51</voa>
-    <eta>3</eta>
-    <vr>51</vr>
-    <ppr>18</ppr>
+    <eta>4</eta>
+    <vr>50</vr>
+    <ppr>19</ppr>
     <ipr>56</ipr>
     <wr>74</wr>
   </arton>
@@ -188531,9 +188531,9 @@
   <is_landlocked>false</is_landlocked>
   <arton>
     <ms>180</ms>
-    <vf>118</vf>
-    <voa>55</voa>
-    <eta>7</eta>
+    <vf>119</vf>
+    <voa>53</voa>
+    <eta>8</eta>
     <vr>18</vr>
     <ppr>1</ppr>
     <ipr>1</ipr>
@@ -189532,11 +189532,11 @@
   <coastline>12429</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>173</ms>
+    <ms>174</ms>
     <vf>117</vf>
     <voa>49</voa>
-    <eta>7</eta>
-    <vr>25</vr>
+    <eta>8</eta>
+    <vr>24</vr>
     <ppr>3</ppr>
     <ipr>19</ipr>
     <wr>87</wr>
@@ -190544,14 +190544,14 @@
   <coastline>19924</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>172</ms>
+    <ms>173</ms>
     <vf>115</vf>
     <voa>52</voa>
-    <eta>5</eta>
-    <vr>26</vr>
+    <eta>6</eta>
+    <vr>25</vr>
     <ppr>4</ppr>
     <ipr>26</ipr>
-    <wr>86</wr>
+    <wr>87</wr>
   </arton>
   <emoji_flag>🇺🇸</emoji_flag>
   <translations>
@@ -191714,14 +191714,14 @@
   <coastline>660</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>148</ms>
+    <ms>149</ms>
     <vf>95</vf>
     <voa>49</voa>
-    <eta>4</eta>
-    <vr>50</vr>
-    <ppr>17</ppr>
+    <eta>5</eta>
+    <vr>49</vr>
+    <ppr>18</ppr>
     <ipr>54</ipr>
-    <wr>74</wr>
+    <wr>75</wr>
   </arton>
   <emoji_flag>🇺🇾</emoji_flag>
   <translations>
@@ -192609,14 +192609,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>70</ms>
+    <ms>71</ms>
     <vf>24</vf>
     <voa>44</voa>
-    <eta>2</eta>
-    <vr>128</vr>
-    <ppr>71</ppr>
+    <eta>3</eta>
+    <vr>127</vr>
+    <ppr>73</ppr>
     <ipr>143</ipr>
-    <wr>35</wr>
+    <wr>36</wr>
   </arton>
   <emoji_flag>🇺🇿</emoji_flag>
   <translations>
@@ -193511,12 +193511,12 @@
   <is_landlocked>false</is_landlocked>
   <arton>
     <ms>99</ms>
-    <vf>49</vf>
+    <vf>48</vf>
     <voa>48</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>99</vr>
-    <ppr>45</ppr>
-    <ipr>101</ipr>
+    <ppr>51</ppr>
+    <ipr>104</ipr>
     <wr>50</wr>
   </arton>
   <emoji_flag>🇻🇺</emoji_flag>
@@ -194398,14 +194398,14 @@
   <coastline>2800</coastline>
   <is_landlocked>false</is_landlocked>
   <arton>
-    <ms>124</ms>
+    <ms>126</ms>
     <vf>69</vf>
-    <voa>52</voa>
-    <eta>3</eta>
-    <vr>74</vr>
-    <ppr>35</ppr>
-    <ipr>88</ipr>
-    <wr>62</wr>
+    <voa>53</voa>
+    <eta>4</eta>
+    <vr>72</vr>
+    <ppr>37</ppr>
+    <ipr>85</ipr>
+    <wr>63</wr>
   </arton>
   <emoji_flag>🇻🇪</emoji_flag>
   <translations>
@@ -195333,9 +195333,9 @@
     <ms>69</ms>
     <vf>20</vf>
     <voa>46</voa>
-    <eta>3</eta>
+    <eta>4</eta>
     <vr>129</vr>
-    <ppr>72</ppr>
+    <ppr>75</ppr>
     <ipr>150</ipr>
     <wr>35</wr>
   </arton>
@@ -197527,9 +197527,9 @@
     <ms>46</ms>
     <vf>9</vf>
     <voa>35</voa>
-    <eta>2</eta>
+    <eta>3</eta>
     <vr>152</vr>
-    <ppr>92</ppr>
+    <ppr>94</ppr>
     <ipr>194</ipr>
     <wr>23</wr>
   </arton>
@@ -198449,13 +198449,13 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>75</ms>
-    <vf>38</vf>
-    <voa>34</voa>
-    <eta>3</eta>
-    <vr>123</vr>
-    <ppr>66</ppr>
-    <ipr>133</ipr>
+    <ms>76</ms>
+    <vf>37</vf>
+    <voa>35</voa>
+    <eta>4</eta>
+    <vr>122</vr>
+    <ppr>68</ppr>
+    <ipr>131</ipr>
     <wr>38</wr>
   </arton>
   <emoji_flag>🇿🇲</emoji_flag>
@@ -199522,14 +199522,14 @@
   <coastline>0</coastline>
   <is_landlocked>true</is_landlocked>
   <arton>
-    <ms>70</ms>
+    <ms>71</ms>
     <vf>36</vf>
     <voa>32</voa>
-    <eta>2</eta>
-    <vr>128</vr>
-    <ppr>71</ppr>
+    <eta>3</eta>
+    <vr>127</vr>
+    <ppr>73</ppr>
     <ipr>142</ipr>
-    <wr>35</wr>
+    <wr>36</wr>
   </arton>
   <emoji_flag>🇿🇼</emoji_flag>
   <translations>
